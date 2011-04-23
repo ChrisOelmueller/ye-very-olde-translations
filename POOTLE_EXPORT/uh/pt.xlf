@@ -5,26 +5,44 @@
       <trans-unit xml:space="preserve" approved="yes" id="You have won!">
         <source>You have won!</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Saiu vitorioso!</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You have completed this scenario. ">
         <source>You have completed this scenario. </source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Terminou com êxito este cenário.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="unknown">
         <source>unknown</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>desconhecido</target>
+        </alt-trans>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Unknown Horizons Version %s">
+      <trans-unit xml:space="preserve" approved="no" id="Unknown Horizons Version %s">
         <source>Unknown Horizons Version %s</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Utilização do Unknown Horizons:</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Versão de Unknown Horizons %s</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="System default">
         <source>System default</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Defeito de sistema</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Warning">
         <source>Warning</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Aviso</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The SDL renderer is meant as a fallback solution only and has serious graphical glitches. &#10;&#10;Use at own risk!">
         <source>The SDL renderer is meant as a fallback solution only and has serious graphical glitches. 
@@ -39,10 +57,16 @@ Use at own risk!</source>
       <trans-unit xml:space="preserve" approved="yes" id="Are you sure you want to quit Unknown Horizons?">
         <source>Are you sure you want to quit Unknown Horizons?</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Tem a certeza que deseja terminar Unknown Horizons?</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Quit Game">
         <source>Quit Game</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Sair do Jogo</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Yeah, you made it...&#10;&#10;But this is a placeholder, sorry.">
         <source>Yeah, you made it...
@@ -61,10 +85,16 @@ But this is a placeholder, sorry.</source>
       <trans-unit xml:space="preserve" approved="yes" id="Quit Session">
         <source>Quit Session</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Terminar Sessão</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="No file selected">
         <source>No file selected</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Nenhum ficheiro seleccionado</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You need to select a savegame to delete">
         <source>You need to select a savegame to delete</source>
@@ -73,6 +103,9 @@ But this is a placeholder, sorry.</source>
       <trans-unit xml:space="preserve" approved="yes" id="Do you really want to delete the savegame &quot;%s&quot;?">
         <source>Do you really want to delete the savegame "%s"?</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Quer realmente apagar o jogo gravado "%s"?</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Confirm deletion">
         <source>Confirm deletion</source>
@@ -81,6 +114,9 @@ But this is a placeholder, sorry.</source>
       <trans-unit xml:space="preserve" approved="yes" id="Error!">
         <source>Error!</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Erro!</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Failed to delete savefile!">
         <source>Failed to delete savefile!</source>
@@ -90,25 +126,44 @@ But this is a placeholder, sorry.</source>
         <source>Unknown savedate
 </source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>data guardada desconhecida
+</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Saved at %s&#10;">
         <source>Saved at %s
 </source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Guardado à %s
+</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="%H:%M, %A, %B %d">
         <source>%H:%M, %A, %B %d</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>%H:%M, %A, %B %d</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="no" id="Saved 1 time&#10;">
         <source>Saved 1 time
 </source>
         <target state="needs-translation"> Gravar Jogo</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Gravado uma vez
+</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="no" id="Saved %d times&#10;">
         <source>Saved %d times
 </source>
         <target state="needs-translation"> Gravar Jogo</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Gravado %d vezes
+</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Savegame ver. %d">
         <source>Savegame ver. %d</source>
@@ -123,28 +178,47 @@ Need ver. %(need)d!</source>
         <source>INCOMPATIBLE VERSION
 </source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>VERSÃO INCOMPATÍVEL</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="No saved games">
         <source>No saved games</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Sem jogos gravados</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="There are no saved games to load">
         <source>There are no saved games to load</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Não existem jogos gravados para carregar</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Load game">
         <source>Load game</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Carregar jogo</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Save game">
         <source>Save game</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Guardar jogo</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="A savegame with the name &quot;%s&quot; already exists. &#10;Should i overwrite it?">
         <source>A savegame with the name "%s" already exists. 
 Should i overwrite it?</source>
         <target state="translated"></target>
         <note from="developer">savegamename already exists</note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Um ficheiro com o nome "%s" já existe, 
+Devo sobrescrever-o?</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Confirmation for overwriting">
         <source>Confirmation for overwriting</source>
@@ -153,6 +227,9 @@ Should i overwrite it?</source>
       <trans-unit xml:space="preserve" approved="yes" id="Network Error">
         <source>Network Error</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Erro de rede</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Something went wrong with the network: ">
         <source>Something went wrong with the network: </source>
@@ -161,14 +238,23 @@ Should i overwrite it?</source>
       <trans-unit xml:space="preserve" approved="yes" id="Map: ">
         <source>Map: </source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Mapa:</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Players: ">
         <source>Players: </source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Jogadores:</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Creator: ">
         <source>Creator: </source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Autor:</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The random map feature is still in active development. It is to be considered a pre testing version. Problems are to be expected.">
         <source>The random map feature is still in active development. It is to be considered a pre testing version. Problems are to be expected.</source>
@@ -177,18 +263,30 @@ Should i overwrite it?</source>
       <trans-unit xml:space="preserve" approved="yes" id="Difficulty: ">
         <source>Difficulty: </source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Dificuldade:</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Author: ">
         <source>Author: </source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Autor:</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Description: ">
         <source>Description: </source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Descrição:</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Invalid player name">
         <source>Invalid player name</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Nome de jogador inválido</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You entered an invalid playername">
         <source>You entered an invalid playername</source>
@@ -197,6 +295,9 @@ Should i overwrite it?</source>
       <trans-unit xml:space="preserve" approved="yes" id="Invalid scenario file">
         <source>Invalid scenario file</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Cenário inválido</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The selected file is not a valid scenario file.&#10;Error message: ">
         <source>The selected file is not a valid scenario file.
@@ -924,7 +1025,8 @@ self.button_hover_image = 'content/gui/icons/tabwidget/common/inventory_h.png'</
       <trans-unit xml:space="preserve" approved="no" id="Start game">
         <source>Start game</source>
         <target state="needs-translation">Começar o jogo:</target>
-        <note from="translator">90%</note>
+        <note from="translator">90%
+100%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Player name:">
         <source>Player name:</source>
