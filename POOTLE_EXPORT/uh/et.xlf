@@ -50,9 +50,9 @@ Use at own risk!</source>
 But this is a placeholder, sorry.</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Chime The Bell">
+      <trans-unit xml:space="preserve" approved="yes" id="Chime The Bell">
         <source>Chime The Bell</source>
-        <target state="needs-translation">Löö Kella</target>
+        <target state="translated">Kelluke heliseb</target>
         <note from="translator">häirekell?</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Are you sure you want to abort the running session?">
@@ -106,9 +106,8 @@ But this is a placeholder, sorry.</source>
       <trans-unit xml:space="preserve" approved="no" id="Saved 1 time&#10;">
         <source>Saved 1 time
 </source>
-        <target state="needs-translation">Salvestatud %d korda
+        <target state="needs-translation">Salvestatud %d kord
 </target>
-        <note from="translator">80%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Saved %d times&#10;">
         <source>Saved %d times
@@ -123,13 +122,14 @@ But this is a placeholder, sorry.</source>
       <trans-unit xml:space="preserve" approved="yes" id="WARNING: Incompatible ver. %(ver)d!&#10;Need ver. %(need)d!">
         <source>WARNING: Incompatible ver. %(ver)d!
 Need ver. %(need)d!</source>
-        <target state="translated">HOIATUS: Mitteühilduv versioon%(ver)d!
+        <target state="translated">HOIATUS: Mitteühilduv versioon %(ver)d!
 Vajatav versioon %(need)d!</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="INCOMPATIBLE VERSION&#10;">
+      <trans-unit xml:space="preserve" approved="no" id="INCOMPATIBLE VERSION&#10;">
         <source>INCOMPATIBLE VERSION
 </source>
-        <target state="translated"></target>
+        <target state="needs-translation">MITTEÜHILDUV VERSIOON
+</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="No saved games">
         <source>No saved games</source>
@@ -164,7 +164,7 @@ Kas kirjutada see üle?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Something went wrong with the network: ">
         <source>Something went wrong with the network: </source>
-        <target state="translated">Midagi läks valesti võrguga:</target>
+        <target state="translated">Midagi läks valesti võrguga: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Map: ">
         <source>Map: </source>
@@ -210,7 +210,7 @@ Kas kirjutada see üle?</target>
         <source>The selected file is not a valid scenario file.
 Error message: </source>
         <target state="translated">Valitud fail ei ole korrektne stsenaariumi fail.
-Veateade:</target>
+Veateade: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="&#10;Please report this to the author.">
         <source>
@@ -226,9 +226,11 @@ Palun teavita sellest autorit.</target>
         <source>Resources still needed:</source>
         <target state="translated">Veel vajaminevad ressursid:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Fisher boats">
+      <trans-unit xml:space="preserve" approved="no" id="Fisher boats">
         <source>Fisher boats</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Kalapaat</target>
+        <note from="translator">76%
+100%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Trade boats">
         <source>Trade boats</source>
@@ -258,9 +260,9 @@ Palun teavita sellest autorit.</target>
         <source>Inventory</source>
         <target state="translated">Kauba nimekiri</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Ship inventory">
+      <trans-unit xml:space="preserve" approved="no" id="Ship inventory">
         <source>Ship inventory</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Laeva lasti nimekiri</target>
         <note from="developer">self.button_up_image = 'content/gui/icons/tabwidget/common/inventory_u.png'
 self.button_active_image = 'content/gui/icons/tabwidget/common/inventory_a.png'
 self.button_down_image = 'content/gui/icons/tabwidget/common/inventory_d.png'
@@ -278,37 +280,37 @@ self.button_hover_image = 'content/gui/icons/tabwidget/common/inventory_h.png'</
         <source>Overview</source>
         <target state="translated">Ülevaade</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Branch office overview">
+      <trans-unit xml:space="preserve" approved="no" id="Branch office overview">
         <source>Branch office overview</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Harukontori Ülevaade</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Ship overview">
+      <trans-unit xml:space="preserve" approved="no" id="Ship overview">
         <source>Ship overview</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Laevade Ülevaade</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Production overview">
+      <trans-unit xml:space="preserve" approved="no" id="Production overview">
         <source>Production overview</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Tootmise Ülevaade</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Destroy building">
+      <trans-unit xml:space="preserve" approved="no" id="Destroy building">
         <source>Destroy building</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Hävita Ehitis</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Market place overview">
+      <trans-unit xml:space="preserve" approved="no" id="Market place overview">
         <source>Market place overview</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Turuplatsi Ülevaade</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Limit: %st per slot">
         <source>Limit: %st per slot</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Sailor buildings">
+      <trans-unit xml:space="preserve" approved="no" id="Sailor buildings">
         <source>Sailor buildings</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Meremehe Ehitised</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Residents and infrastructure">
+      <trans-unit xml:space="preserve" approved="no" id="Residents and infrastructure">
         <source>Residents and infrastructure</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Elanikud ja Infrastruktuur</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Services">
         <source>Services</source>
@@ -318,49 +320,70 @@ self.button_hover_image = 'content/gui/icons/tabwidget/common/inventory_h.png'</
         <source>Companies</source>
         <target state="translated">Ettevõtted</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Tent: Houses your inhabitants.">
+      <trans-unit xml:space="preserve" approved="no" id="Tent: Houses your inhabitants.">
         <source>Tent: Houses your inhabitants.</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Telk: 
+Majutab sinu 
+asunikke.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Storage: Extends stock and provides collectors.">
+      <trans-unit xml:space="preserve" approved="no" id="Storage: Extends stock and provides collectors.">
         <source>Storage: Extends stock and provides collectors.</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Ladu: 
+Suurendab kaubavaru 
+ja varustab
+kogujatega.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Trail: Needed for collecting goods.">
+      <trans-unit xml:space="preserve" approved="no" id="Trail: Needed for collecting goods.">
         <source>Trail: Needed for collecting goods.</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Rada: 
+vajalik kaupade 
+kogumiseks.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Main square: Supplies citizens with goods.">
+      <trans-unit xml:space="preserve" approved="no" id="Main square: Supplies citizens with goods.">
         <source>Main square: Supplies citizens with goods.</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Peaväljak: 
+varustab kodanikke 
+kaupadega.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Pavilion: Fulfills religious needs of sailors.">
+      <trans-unit xml:space="preserve" approved="no" id="Pavilion: Fulfills religious needs of sailors.">
         <source>Pavilion: Fulfills religious needs of sailors.</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Paviljon: 
+Rahuldab meremeeste 
+religioosseid vajadusi.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Signal fire: Allows the player to trade with the free trader.">
+      <trans-unit xml:space="preserve" approved="no" id="Signal fire: Allows the player to trade with the free trader.">
         <source>Signal fire: Allows the player to trade with the free trader.</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Signaalituli: 
+Võimaldab mängijal 
+kubelda vaba 
+kaupmehega.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Lumberjack: Chops down trees and turns them into boards.">
+      <trans-unit xml:space="preserve" approved="no" id="Lumberjack: Chops down trees and turns them into boards.">
         <source>Lumberjack: Chops down trees and turns them into boards.</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Puuraidur: 
+Langetab puid 
+ja teeb neist laudu.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tree">
         <source>Tree</source>
         <target state="translated">Puu</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Hunter: Hunts wild forest animals, produces food.">
+      <trans-unit xml:space="preserve" approved="no" id="Hunter: Hunts wild forest animals, produces food.">
         <source>Hunter: Hunts wild forest animals, produces food.</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Jahimees: 
+Jahib metsikuid 
+metsloomi, 
+toodab sööki.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Fisherman: Fishes the sea, produces food.">
+      <trans-unit xml:space="preserve" approved="no" id="Fisherman: Fishes the sea, produces food.">
         <source>Fisherman: Fishes the sea, produces food.</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Kalur: 
+Kalastab merel, 
+toodab sööki.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Pioneer buildings">
+      <trans-unit xml:space="preserve" approved="no" id="Pioneer buildings">
         <source>Pioneer buildings</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Pioneeride Ehitised</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Fields">
         <source>Fields</source>
@@ -370,49 +393,67 @@ self.button_hover_image = 'content/gui/icons/tabwidget/common/inventory_h.png'</
         <source>Military</source>
         <target state="translated">Sõjandus</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Farm: Grows field crops and raises livestock.">
+      <trans-unit xml:space="preserve" approved="no" id="Farm: Grows field crops and raises livestock.">
         <source>Farm: Grows field crops and raises livestock.</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Talu: 
+Kasvatab 
+põllukultuure 
+ja kariloomi.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Weaver: Turns lamb wool into cloth.">
+      <trans-unit xml:space="preserve" approved="no" id="Weaver: Turns lamb wool into cloth.">
         <source>Weaver: Turns lamb wool into cloth.</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Kuduja: 
+Teeb lambavillast 
+riideid.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Clay pit: Gets clay from deposit.">
+      <trans-unit xml:space="preserve" approved="no" id="Clay pit: Gets clay from deposit.">
         <source>Clay pit: Gets clay from deposit.</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Saviauk: 
+Kaevandab savi 
+lasundist.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Brickyard: Turns clay into bricks.">
+      <trans-unit xml:space="preserve" approved="no" id="Brickyard: Turns clay into bricks.">
         <source>Brickyard: Turns clay into bricks.</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Tellisetehas: 
+Valmistab savist 
+telliseid.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Potato field: Yields food. Needs a farm.">
+      <trans-unit xml:space="preserve" approved="no" id="Potato field: Yields food. Needs a farm.">
         <source>Potato field: Yields food. Needs a farm.</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Kartulipõld: 
+Toodab sööki 
+Vajab talu.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Pasture: Raises sheep. Produces wool. Needs a farm.">
+      <trans-unit xml:space="preserve" approved="no" id="Pasture: Raises sheep. Produces wool. Needs a farm.">
         <source>Pasture: Raises sheep. Produces wool. Needs a farm.</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Karjamaa: 
+Kasvatab lambaid. 
+Toodab villa. 
+Vajab talu.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sugarcane field: Used in liquor production. Needs a farm.">
         <source>Sugarcane field: Used in liquor production. Needs a farm.</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Village school: Provides education.">
+      <trans-unit xml:space="preserve" approved="no" id="Village school: Provides education.">
         <source>Village school: Provides education.</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Külakool: 
+Annab haridust.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Boat builder: Builds boats and small ships. Built on coast.">
+      <trans-unit xml:space="preserve" approved="no" id="Boat builder: Builds boats and small ships. Built on coast.">
         <source>Boat builder: Builds boats and small ships. Built on coast.</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Paadi ehitaja: 
+Ehitab paate ja
+väikseid laevu. 
+Ehitatakse rannikule.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Distillery: Turns sugar into liquor.">
         <source>Distillery: Turns sugar into liquor.</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Settler buildings">
+      <trans-unit xml:space="preserve" approved="no" id="Settler buildings">
         <source>Settler buildings</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Asunike Ehitised</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Iron mine: Gets iron ore from deposit.">
         <source>Iron mine: Gets iron ore from deposit.</source>
@@ -441,7 +482,6 @@ self.button_hover_image = 'content/gui/icons/tabwidget/common/inventory_h.png'</
       <trans-unit xml:space="preserve" approved="no" id="Running costs:">
         <source>Running costs:</source>
         <target state="needs-translation">Jooksvad kulud</target>
-        <note from="translator">92%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Inhabitants">
         <source>Inhabitants</source>
@@ -515,9 +555,9 @@ self.button_hover_image = 'content/gui/icons/tabwidget/common/inventory_h.png'</
         <source>Game paused</source>
         <target state="translated">Mäng peatatud</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Hit P to continue the game or click below!">
+      <trans-unit xml:space="preserve" approved="yes" id="Hit P to continue the game or click below!">
         <source>Hit P to continue the game or click below!</source>
-        <target state="needs-translation">Vajuta P mängu jätkamiseks või vajuta alla!</target>
+        <target state="translated">Vajuta P mängida palju või klõpsa allpool!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Buy or sell resources">
         <source>Buy or sell resources</source>
@@ -543,9 +583,9 @@ self.button_hover_image = 'content/gui/icons/tabwidget/common/inventory_h.png'</
         <source>Start production</source>
         <target state="translated">Jätka tootmist</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Leave Captain's log">
+      <trans-unit xml:space="preserve" approved="no" id="Leave Captain's log">
         <source>Leave Captain's log</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Lahku Kapteni Logist</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Read prev. entries">
         <source>Read prev. entries</source>
@@ -595,31 +635,30 @@ self.button_hover_image = 'content/gui/icons/tabwidget/common/inventory_h.png'</
         <source>The whole FIFE team (www.fifengine.de)</source>
         <target state="translated">Terve FIFE meeskond (www.fifengine.de)</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Return to game">
+      <trans-unit xml:space="preserve" approved="no" id="Return to game">
         <source>Return to game</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Tagasi mängu</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Settings">
         <source>Settings</source>
         <target state="translated">Seaded</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Cancel game">
+      <trans-unit xml:space="preserve" approved="no" id="Cancel game">
         <source>Cancel game</source>
-        <target state="translated"></target>
+        <target state="needs-translation"> Katkesta mäng </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="no" id="Chime the bell">
         <source>Chime the bell</source>
-        <target state="needs-translation">Löö Kella</target>
-        <note from="translator">häirekell?
-85%</note>
+        <target state="needs-translation">Kelluke heliseb</target>
+        <note from="translator">häirekell?</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Credits">
+      <trans-unit xml:space="preserve" approved="no" id="Credits">
         <source>Credits</source>
-        <target state="translated"></target>
+        <target state="needs-translation"> Autorid </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Key bindings">
+      <trans-unit xml:space="preserve" approved="no" id="Key bindings">
         <source>Key bindings</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Kiirklahvid</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{LEFT} = Scroll left">
         <source>{LEFT} = Scroll left</source>
@@ -719,7 +758,7 @@ self.button_hover_image = 'content/gui/icons/tabwidget/common/inventory_h.png'</
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Loading ...">
         <source>Loading ...</source>
-        <target state="translated">Laadimine...</target>
+        <target state="translated">Laadimine…</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Singleplayer">
         <source>Singleplayer</source>
@@ -757,9 +796,9 @@ self.button_hover_image = 'content/gui/icons/tabwidget/common/inventory_h.png'</
         <source>Exit to multiplayer menu</source>
         <target state="translated">Välju mitmemängu menüüsse</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Create this new game">
+      <trans-unit xml:space="preserve" approved="yes" id="Create this new game">
         <source>Create this new game</source>
-        <target state="needs-translation">Loo see uus mäng</target>
+        <target state="translated">Loo uus mäng</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Gamelobby">
         <source>Gamelobby</source>
@@ -825,9 +864,9 @@ self.button_hover_image = 'content/gui/icons/tabwidget/common/inventory_h.png'</
         <source>Join the selected game</source>
         <target state="translated">Liitu valitud mänguga</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Restart required">
+      <trans-unit xml:space="preserve" approved="no" id="Restart required">
         <source>Restart required</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Vaja on Taaskäivitust</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Some of your changes require a restart of Unknown Horizons.">
         <source>Some of your changes require a restart of Unknown Horizons.</source>
@@ -853,9 +892,9 @@ self.button_hover_image = 'content/gui/icons/tabwidget/common/inventory_h.png'</
         <source>Used renderer:</source>
         <target state="translated">Kasutatav renderdaja:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Full screen:">
+      <trans-unit xml:space="preserve" approved="no" id="Full screen:">
         <source>Full screen:</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Täisekraan</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sound">
         <source>Sound</source>
@@ -869,9 +908,9 @@ self.button_hover_image = 'content/gui/icons/tabwidget/common/inventory_h.png'</
         <source>Effects volume:</source>
         <target state="translated">Effektide helitugevus:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Enable sound:">
+      <trans-unit xml:space="preserve" approved="no" id="Enable sound:">
         <source>Enable sound:</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Luba heli</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Saving">
         <source>Saving</source>
@@ -936,7 +975,8 @@ self.button_hover_image = 'content/gui/icons/tabwidget/common/inventory_h.png'</
       <trans-unit xml:space="preserve" approved="no" id="Start game">
         <source>Start game</source>
         <target state="needs-translation">Alusta mängu:</target>
-        <note from="translator">90%</note>
+        <note from="translator">90%
+100%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Player name:">
         <source>Player name:</source>
@@ -978,9 +1018,10 @@ self.button_hover_image = 'content/gui/icons/tabwidget/common/inventory_h.png'</
         <source>Resume</source>
         <target state="translated">Jätka</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Cancel all building progress">
+      <trans-unit xml:space="preserve" approved="no" id="Cancel all building progress">
         <source>Cancel all building progress</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Katkesta kõik 
+ehitusprotsessid</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Running costs">
         <source>Running costs</source>
@@ -989,7 +1030,6 @@ self.button_hover_image = 'content/gui/icons/tabwidget/common/inventory_h.png'</
       <trans-unit xml:space="preserve" approved="no" id="Fishing boats">
         <source>Fishing boats</source>
         <target state="needs-translation">Kalapaat</target>
-        <note from="translator">92%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Fishing boat">
         <source>Fishing boat</source>
@@ -1037,7 +1077,7 @@ self.button_hover_image = 'content/gui/icons/tabwidget/common/inventory_h.png'</
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Balance:">
         <source>Balance:</source>
-        <target state="translated">Kontoseis:</target>
+        <target state="translated">Bilanss:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Name:">
         <source>Name:</source>
@@ -1055,21 +1095,21 @@ self.button_hover_image = 'content/gui/icons/tabwidget/common/inventory_h.png'</
         <source>Taxes:</source>
         <target state="translated">Maksud:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Resource deposit">
+      <trans-unit xml:space="preserve" approved="no" id="Resource deposit">
         <source>Resource deposit</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Ressursi Lasund</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="This is a resource deposit where you can build a mine to dig up resources.">
+      <trans-unit xml:space="preserve" approved="no" id="This is a resource deposit where you can build a mine to dig up resources.">
         <source>This is a resource deposit where you can build a mine to dig up resources.</source>
-        <target state="translated"></target>
+        <target state="needs-translation">See on ressursi lasund, kuhu saad ehitada kaevanduse ressursi kaevandamiseks.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="It contains these resources:">
         <source>It contains these resources:</source>
         <target state="translated">See sisaldab neid ressursse:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Needed resources:">
+      <trans-unit xml:space="preserve" approved="no" id="Needed resources:">
         <source>Needed resources:</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Vajatavad ressursid:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Happiness">
         <source>Happiness</source>
@@ -1087,13 +1127,15 @@ self.button_hover_image = 'content/gui/icons/tabwidget/common/inventory_h.png'</
         <source>Health:</source>
         <target state="translated">Tervis:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Click to change the name of this ship.">
+      <trans-unit xml:space="preserve" approved="no" id="Click to change the name of this ship.">
         <source>Click to change the name of this ship.</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Klõpsa selle 
+laeva nime 
+muutmiseks.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Build settlement">
+      <trans-unit xml:space="preserve" approved="no" id="Build settlement">
         <source>Build settlement</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Ehita Koloonia</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The signal fire shows the free trader how to reach your settlement in case you want to buy or sell goods.">
         <source>The signal fire shows the free trader how to reach your settlement in case you want to buy or sell goods.</source>
@@ -1244,13 +1286,13 @@ self.button_hover_image = 'content/gui/icons/tabwidget/common/inventory_h.png'</
         <source>Write debug output only to logfile, not to console. Implies -d.</source>
         <target state="translated">Kirjuta silumise väljund ainult logifaili, mitte konsooli. Sisaldab -d.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Enable logging for a certain logging module (for developing only).">
+      <trans-unit xml:space="preserve" approved="yes" id="Enable logging for a certain logging module (for developing only).">
         <source>Enable logging for a certain logging module (for developing only).</source>
-        <target state="needs-translation">Luba logimine kindlale logi moodulile (ainult arenduse jaoks).</target>
+        <target state="translated">Logimine on teatud raie moodul (ainult arendamine).</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Writes log to &lt;filename&gt; instead of to the uh-userdir">
+      <trans-unit xml:space="preserve" approved="yes" id="Writes log to &lt;filename&gt; instead of to the uh-userdir">
         <source>Writes log to &lt;filename&gt; instead of to the uh-userdir</source>
-        <target state="needs-translation">Kirjutab logi mitte uh kasutaja kausta vaid &lt;filename&gt;</target>
+        <target state="translated">Kirjutab logi &lt;failinimi&gt; asemel UH-userdir</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="For internal use only.">
         <source>For internal use only.</source>
@@ -1276,9 +1318,9 @@ self.button_hover_image = 'content/gui/icons/tabwidget/common/inventory_h.png'</
         <source>Please give it to us via IRC or our forum, for both see unknown-horizons.org .</source>
         <target state="translated">Palun anna see meile läbi  IRC'i või meie foorumi. Mõlemad leiad lehelt unknown-horizons.org .</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Thank you for using Unknown Horizons!">
+      <trans-unit xml:space="preserve" approved="yes" id="Thank you for using Unknown Horizons!">
         <source>Thank you for using Unknown Horizons!</source>
-        <target state="needs-translation">Tänud, et kasutasid Unknown Horizons'it !</target>
+        <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Failed to load fife:">
         <source>Failed to load fife:</source>
@@ -1557,9 +1599,9 @@ self.button_hover_image = 'content/gui/icons/tabwidget/common/inventory_h.png'</
         <source>potatoes</source>
         <target state="translated">kartulid</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="raw clay">
+      <trans-unit xml:space="preserve" approved="yes" id="raw clay">
         <source>raw clay</source>
-        <target state="needs-translation">savi</target>
+        <target state="translated">savi</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="raw fish">
         <source>raw fish</source>
@@ -1579,15 +1621,15 @@ self.button_hover_image = 'content/gui/icons/tabwidget/common/inventory_h.png'</
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="textile">
         <source>textile</source>
-        <target state="translated">tekstiil</target>
+        <target state="translated">tekstiili</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tools">
         <source>tools</source>
-        <target state="translated">tööriistad</target>
+        <target state="translated">tööriistu</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="wild animal food 1">
         <source>wild animal food 1</source>
-        <target state="translated"></target>
+        <target state="translated">metsloom toit 1</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="wild animal meat">
         <source>wild animal meat</source>
@@ -1603,7 +1645,7 @@ self.button_hover_image = 'content/gui/icons/tabwidget/common/inventory_h.png'</
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pioneer">
         <source>pioneer</source>
-        <target state="translated">pioneer</target>
+        <target state="translated">pioneeri</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="sailor">
         <source>sailor</source>
