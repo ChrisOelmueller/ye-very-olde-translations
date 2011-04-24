@@ -263,7 +263,11 @@ Prego segnalarlo all'autore.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Ship inventory">
         <source>Ship inventory</source>
-        <target state="translated">Inventario navi</target>
+        <target state="translated">Inventario Nave</target>
+        <note from="developer">self.button_up_image = 'content/gui/icons/tabwidget/common/inventory_u.png'
+self.button_active_image = 'content/gui/icons/tabwidget/common/inventory_a.png'
+self.button_down_image = 'content/gui/icons/tabwidget/common/inventory_d.png'
+self.button_hover_image = 'content/gui/icons/tabwidget/common/inventory_h.png'</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Account">
         <source>Account</source>
@@ -271,7 +275,10 @@ Prego segnalarlo all'autore.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Settler overview">
         <source>Settler overview</source>
-        <target state="translated">Panoramica colone</target>
+        <target state="translated">Panoramica colone:</target>
+        <alt-trans xml:space="preserve" origin="Fabio">
+          <target>Panoramica colone</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Overview">
         <source>Overview</source>
@@ -279,7 +286,7 @@ Prego segnalarlo all'autore.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Branch office overview">
         <source>Branch office overview</source>
-        <target state="translated">Panoramica Filiale</target>
+        <target state="translated">Panoramica filiale</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Ship overview">
         <source>Ship overview</source>
@@ -295,7 +302,7 @@ Prego segnalarlo all'autore.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Market place overview">
         <source>Market place overview</source>
-        <target state="translated">Panoramica Piazza del Mercato</target>
+        <target state="translated">Panoramica piazza del mercato</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Limit: %st per slot">
         <source>Limit: %st per slot</source>
@@ -317,70 +324,49 @@ Prego segnalarlo all'autore.</target>
         <source>Companies</source>
         <target state="translated">Compagnie</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Tent: Houses your inhabitants.">
+      <trans-unit xml:space="preserve" approved="yes" id="Tent: Houses your inhabitants.">
         <source>Tent: Houses your inhabitants.</source>
-        <target state="needs-translation">Tenda: 
-Alloggia i tuoi 
-abitanti.</target>
+        <target state="translated">Tenda: Alloggia gli abitanti.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Storage: Extends stock and provides collectors.">
+      <trans-unit xml:space="preserve" approved="yes" id="Storage: Extends stock and provides collectors.">
         <source>Storage: Extends stock and provides collectors.</source>
-        <target state="needs-translation">Magazzino: 
-Amplia le scorte 
-e fornisce 
-esattori.</target>
+        <target state="translated">Magazzino: Amplia le scorte e fornisce esattori.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Trail: Needed for collecting goods.">
+      <trans-unit xml:space="preserve" approved="yes" id="Trail: Needed for collecting goods.">
         <source>Trail: Needed for collecting goods.</source>
-        <target state="needs-translation">Sentiero: 
-Necessario per 
-raccogliere prodotti.</target>
+        <target state="translated">Sentiero: Necessario per raccogliere prodotti.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Main square: Supplies citizens with goods.">
+      <trans-unit xml:space="preserve" approved="yes" id="Main square: Supplies citizens with goods.">
         <source>Main square: Supplies citizens with goods.</source>
-        <target state="needs-translation">Piazza principale: 
-Rifornisce i 
-cittadini con beni.</target>
+        <target state="translated">Piazza principale: Rifornisce i cittadini con beni.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Pavilion: Fulfills religious needs of sailors.">
+      <trans-unit xml:space="preserve" approved="yes" id="Pavilion: Fulfills religious needs of sailors.">
         <source>Pavilion: Fulfills religious needs of sailors.</source>
-        <target state="needs-translation">Padiglione: 
-Soddisfa le esigenze religiose dei cittadini.</target>
+        <target state="translated">Padiglione: Soddisfa le esigenze religiose dei cittadini.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Signal fire: Allows the player to trade with the free trader.">
+      <trans-unit xml:space="preserve" approved="yes" id="Signal fire: Allows the player to trade with the free trader.">
         <source>Signal fire: Allows the player to trade with the free trader.</source>
-        <target state="needs-translation">Segnale di fuoco: 
-Permette al giocatore 
-di commerciare con 
-i commercianti liberi.</target>
+        <target state="translated">Segnale di fuoco: Permette di commerciare con il libero commerciante.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Lumberjack: Chops down trees and turns them into boards.">
+      <trans-unit xml:space="preserve" approved="yes" id="Lumberjack: Chops down trees and turns them into boards.">
         <source>Lumberjack: Chops down trees and turns them into boards.</source>
-        <target state="needs-translation">Tagliaboschi: 
-Raccoglie legna 
-e la trasforma 
-in assi.</target>
+        <target state="translated">Tagliaboschi: Raccoglie legna e la trasforma in assi.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tree">
         <source>Tree</source>
         <target state="translated">Albero</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Hunter: Hunts wild forest animals, produces food.">
+      <trans-unit xml:space="preserve" approved="yes" id="Hunter: Hunts wild forest animals, produces food.">
         <source>Hunter: Hunts wild forest animals, produces food.</source>
-        <target state="needs-translation">Cacciatore: 
-Caccia animali 
-selvaggi, 
-raccoglie cibo.</target>
+        <target state="translated">Cacciatore: Caccia animali selvaggi, produce cibo.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Fisherman: Fishes the sea, produces food.">
+      <trans-unit xml:space="preserve" approved="yes" id="Fisherman: Fishes the sea, produces food.">
         <source>Fisherman: Fishes the sea, produces food.</source>
-        <target state="needs-translation">Pescatore: 
-Pesca nel mare, 
-raccoglie cibo.</target>
+        <target state="translated">Pescatore: Pesca nel mare, produce cibo.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Pioneer buildings">
+      <trans-unit xml:space="preserve" approved="yes" id="Pioneer buildings">
         <source>Pioneer buildings</source>
-        <target state="needs-translation">Edifici del pioniere</target>
+        <target state="translated">Edifici del pioniere</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Fields">
         <source>Fields</source>
@@ -390,62 +376,49 @@ raccoglie cibo.</target>
         <source>Military</source>
         <target state="translated">Militare</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Farm: Grows field crops and raises livestock.">
+      <trans-unit xml:space="preserve" approved="yes" id="Farm: Grows field crops and raises livestock.">
         <source>Farm: Grows field crops and raises livestock.</source>
-        <target state="needs-translation">Fattoria: 
-Coltiva campi 
-raccoglie e cresce 
-il bestiame.</target>
+        <target state="translated">Fattoria: Coltiva campi, raccoglie ed alleva il bestiame.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Weaver: Turns lamb wool into cloth.">
+      <trans-unit xml:space="preserve" approved="yes" id="Weaver: Turns lamb wool into cloth.">
         <source>Weaver: Turns lamb wool into cloth.</source>
-        <target state="needs-translation">Tessitore: 
-Trasforma la lana di agnelli 
-in abiti.</target>
+        <target state="translated">Tessitore: Trasforma la lana di agnelli in abiti.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Clay pit: Gets clay from deposit.">
+      <trans-unit xml:space="preserve" approved="yes" id="Clay pit: Gets clay from deposit.">
         <source>Clay pit: Gets clay from deposit.</source>
-        <target state="needs-translation">Cava di Argilla: 
-Ottiene argilla 
-dal deposito.</target>
+        <target state="translated">Cava di argilla: Ottiene argilla dal deposito.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Brickyard: Turns clay into bricks.">
+      <trans-unit xml:space="preserve" approved="yes" id="Brickyard: Turns clay into bricks.">
         <source>Brickyard: Turns clay into bricks.</source>
-        <target state="needs-translation">Deposito di mattoni: 
-converte l'argilla in mattoni.</target>
+        <target state="translated">Deposito di mattoni: Converte l'argilla in mattoni.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Potato field: Yields food. Needs a farm.">
+      <trans-unit xml:space="preserve" approved="yes" id="Potato field: Yields food. Needs a farm.">
         <source>Potato field: Yields food. Needs a farm.</source>
-        <target state="needs-translation">Campo di patate: 
-Fornisce cibo. 
-Necessita di una fattoria.</target>
+        <target state="translated">Campo di patate: Produce cibo. Necessita di una fattoria.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Pasture: Raises sheep. Produces wool. Needs a farm.">
+      <trans-unit xml:space="preserve" approved="yes" id="Pasture: Raises sheep. Produces wool. Needs a farm.">
         <source>Pasture: Raises sheep. Produces wool. Needs a farm.</source>
-        <target state="needs-translation">Pascolo: 
-Alleva pecore. Produce lana. Necessita di una fattoria.</target>
+        <target state="translated">Pascolo: Alleva pecore. Produce lana. Necessita di una fattoria.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sugarcane field: Used in liquor production. Needs a farm.">
         <source>Sugarcane field: Used in liquor production. Needs a farm.</source>
         <target state="translated">Campo di canna da zucchero: Usato per la produzione di liquori. Richiede una fattoria.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Village school: Provides education.">
+      <trans-unit xml:space="preserve" approved="yes" id="Village school: Provides education.">
         <source>Village school: Provides education.</source>
-        <target state="needs-translation">Villaggio scuola: 
-Fornisce educazione.</target>
+        <target state="translated">Villaggio scuola: Fornisce educazione.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Boat builder: Builds boats and small ships. Built on coast.">
+      <trans-unit xml:space="preserve" approved="yes" id="Boat builder: Builds boats and small ships. Built on coast.">
         <source>Boat builder: Builds boats and small ships. Built on coast.</source>
-        <target state="needs-translation">Costruttore di barche: 
-Costruisce barche e piccole navi. Da costruire sulla costa.</target>
+        <target state="translated">Costruttore di barche: Costruisce barche e piccole navi. Da costruire sulla costa.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Distillery: Turns sugar into liquor.">
         <source>Distillery: Turns sugar into liquor.</source>
         <target state="translated">Distilleria: Converte lo zucchero in liquore.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Settler buildings">
+      <trans-unit xml:space="preserve" approved="yes" id="Settler buildings">
         <source>Settler buildings</source>
-        <target state="needs-translation">Edifici dei Coloni</target>
+        <target state="translated">Edifici dei Coloni</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Iron mine: Gets iron ore from deposit.">
         <source>Iron mine: Gets iron ore from deposit.</source>
@@ -471,9 +444,9 @@ Costruisce barche e piccole navi. Da costruire sulla costa.</target>
         <source>Build</source>
         <target state="translated">Edificio</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Running costs:">
+      <trans-unit xml:space="preserve" approved="yes" id="Running costs:">
         <source>Running costs:</source>
-        <target state="needs-translation">Costi ricorrenti</target>
+        <target state="translated">Costi ricorrenti:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Inhabitants">
         <source>Inhabitants</source>
@@ -575,9 +548,9 @@ Costruisce barche e piccole navi. Da costruire sulla costa.</target>
         <source>Start production</source>
         <target state="translated">Avvia la produzione</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Leave Captain's log">
+      <trans-unit xml:space="preserve" approved="yes" id="Leave Captain's log">
         <source>Leave Captain's log</source>
-        <target state="needs-translation">Abbandona il Diario del Capitano</target>
+        <target state="translated">Abbandona il diario del Capitano</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Read prev. entries">
         <source>Read prev. entries</source>
@@ -627,29 +600,29 @@ Costruisce barche e piccole navi. Da costruire sulla costa.</target>
         <source>The whole FIFE team (www.fifengine.de)</source>
         <target state="translated">Tutta la squadra FIFE (www.fifengine.de)</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Return to game">
+      <trans-unit xml:space="preserve" approved="yes" id="Return to game">
         <source>Return to game</source>
-        <target state="needs-translation">Ritorna al Gioco</target>
+        <target state="translated">Ritorna al gioco</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Settings">
         <source>Settings</source>
         <target state="translated">Impostazioni</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Cancel game">
+      <trans-unit xml:space="preserve" approved="yes" id="Cancel game">
         <source>Cancel game</source>
-        <target state="needs-translation"> Abbandona la Partita </target>
+        <target state="translated"> Abbandona la partita </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Chime the bell">
+      <trans-unit xml:space="preserve" approved="yes" id="Chime the bell">
         <source>Chime the bell</source>
-        <target state="needs-translation">Suona La Campana</target>
+        <target state="translated">Suona la campana</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Credits">
+      <trans-unit xml:space="preserve" approved="yes" id="Credits">
         <source>Credits</source>
-        <target state="needs-translation"> Riconoscimenti </target>
+        <target state="translated"> Riconoscimenti</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Key bindings">
+      <trans-unit xml:space="preserve" approved="yes" id="Key bindings">
         <source>Key bindings</source>
-        <target state="needs-translation">Legenda Tasti</target>
+        <target state="translated">Associazione tasti</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{LEFT} = Scroll left">
         <source>{LEFT} = Scroll left</source>
@@ -855,9 +828,9 @@ Costruisce barche e piccole navi. Da costruire sulla costa.</target>
         <source>Join the selected game</source>
         <target state="translated">Unisciti alla partita selezionata</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Restart required">
+      <trans-unit xml:space="preserve" approved="yes" id="Restart required">
         <source>Restart required</source>
-        <target state="needs-translation">Riavvio Richiesto</target>
+        <target state="translated">Riavvio necessario</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Some of your changes require a restart of Unknown Horizons.">
         <source>Some of your changes require a restart of Unknown Horizons.</source>
@@ -883,9 +856,9 @@ Costruisce barche e piccole navi. Da costruire sulla costa.</target>
         <source>Used renderer:</source>
         <target state="translated">Visualizzatore usato:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Full screen:">
+      <trans-unit xml:space="preserve" approved="yes" id="Full screen:">
         <source>Full screen:</source>
-        <target state="needs-translation">Schermo intero</target>
+        <target state="translated">Schermo intero:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sound">
         <source>Sound</source>
@@ -899,9 +872,9 @@ Costruisce barche e piccole navi. Da costruire sulla costa.</target>
         <source>Effects volume:</source>
         <target state="translated">Volume effetti:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Enable sound:">
+      <trans-unit xml:space="preserve" approved="yes" id="Enable sound:">
         <source>Enable sound:</source>
-        <target state="needs-translation">Abilita sonoro</target>
+        <target state="translated">Abilita sonoro:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Saving">
         <source>Saving</source>
@@ -966,9 +939,9 @@ Costruisce barche e piccole navi. Da costruire sulla costa.</target>
         <source>Free play</source>
         <target state="translated">Gioco libero</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Start game">
+      <trans-unit xml:space="preserve" approved="yes" id="Start game">
         <source>Start game</source>
-        <target state="needs-translation">Inizia gioco:</target>
+        <target state="translated">Inizia gioco</target>
         <note from="translator">90%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Player name:">
@@ -1011,18 +984,17 @@ Costruisce barche e piccole navi. Da costruire sulla costa.</target>
         <source>Resume</source>
         <target state="translated">Riprendi</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Cancel all building progress">
+      <trans-unit xml:space="preserve" approved="yes" id="Cancel all building progress">
         <source>Cancel all building progress</source>
-        <target state="needs-translation">Annulla la 
-costruzione in corso</target>
+        <target state="translated">Annulla la costruzione in corso</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Running costs">
         <source>Running costs</source>
         <target state="translated">Costi ricorrenti</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Fishing boats">
+      <trans-unit xml:space="preserve" approved="yes" id="Fishing boats">
         <source>Fishing boats</source>
-        <target state="needs-translation">Barca da pesca</target>
+        <target state="translated">Barche da pesca</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Fishing boat">
         <source>Fishing boat</source>
@@ -1088,21 +1060,21 @@ costruzione in corso</target>
         <source>Taxes:</source>
         <target state="translated">Tasse:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Resource deposit">
+      <trans-unit xml:space="preserve" approved="yes" id="Resource deposit">
         <source>Resource deposit</source>
-        <target state="needs-translation">Deposito Risorse</target>
+        <target state="translated">Deposito risorse</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="This is a resource deposit where you can build a mine to dig up resources.">
+      <trans-unit xml:space="preserve" approved="yes" id="This is a resource deposit where you can build a mine to dig up resources.">
         <source>This is a resource deposit where you can build a mine to dig up resources.</source>
-        <target state="needs-translation">Questo è un deposito risorse, vi puoi costruire una miniera per estrarre risorse.</target>
+        <target state="translated">Questo è un deposito risorse, vi puoi costruire una miniera per estrarre risorse.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="It contains these resources:">
         <source>It contains these resources:</source>
         <target state="translated">Contiene queste risorse:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Needed resources:">
+      <trans-unit xml:space="preserve" approved="yes" id="Needed resources:">
         <source>Needed resources:</source>
-        <target state="needs-translation">Risorse Necessarie:</target>
+        <target state="translated">Risorse necessarie:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Happiness">
         <source>Happiness</source>
@@ -1120,15 +1092,13 @@ costruzione in corso</target>
         <source>Health:</source>
         <target state="translated">Salute:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Click to change the name of this ship.">
+      <trans-unit xml:space="preserve" approved="yes" id="Click to change the name of this ship.">
         <source>Click to change the name of this ship.</source>
-        <target state="needs-translation">Clicca per 
-cambiare il nome 
-di questa Nave.</target>
+        <target state="translated">Clicca per cambiare il nome di questa nave.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Build settlement">
+      <trans-unit xml:space="preserve" approved="yes" id="Build settlement">
         <source>Build settlement</source>
-        <target state="needs-translation">Costruisci Insediamento</target>
+        <target state="translated">Costruisci insediamento</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The signal fire shows the free trader how to reach your settlement in case you want to buy or sell goods.">
         <source>The signal fire shows the free trader how to reach your settlement in case you want to buy or sell goods.</source>
