@@ -144,10 +144,10 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tab">
         <source>tab</source>
-        <target state="translated"></target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (13)
-
-(poterminology) uh/unknownhorizons.pot (1)
+        <target state="translated">tab</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (13)&#13;
+&#13;
+(poterminology) uh/unknownhorizons.pot (1)&#13;
 </note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="field">
@@ -174,10 +174,10 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="increment">
         <source>increment</source>
-        <target state="translated"></target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (10)
-
-(poterminology) uh/unknownhorizons.pot (1)
+        <target state="translated">vermeerderen</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (10)&#13;
+&#13;
+(poterminology) uh/unknownhorizons.pot (1)&#13;
 </note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="minimap">
@@ -189,7 +189,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="running costs">
         <source>running costs</source>
-        <target state="translated"></target>
+        <target state="translated">operationele kosten</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="menu">
         <source>menu</source>
@@ -247,10 +247,10 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="main square">
         <source>main square</source>
-        <target state="translated"></target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (10)
-
-(poterminology) uh/unknownhorizons.pot (2)
+        <target state="translated">dorpsplein</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (10)&#13;
+&#13;
+(poterminology) uh/unknownhorizons.pot (2)&#13;
 </note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="settler">
@@ -412,9 +412,9 @@
           <target>gratis</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="left">
+      <trans-unit xml:space="preserve" approved="yes" id="left">
         <source>left</source>
-        <target state="needs-translation">links</target>
+        <target state="translated">links</target>
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (5)&#13;
 &#13;
 (poterminology) uh/unknownhorizons.pot (2)&#13;
@@ -430,10 +430,10 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="reach">
         <source>reach</source>
-        <target state="translated"></target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (7)
-
-(poterminology) uh/unknownhorizons.pot (1)
+        <target state="translated">bereik</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (7)&#13;
+&#13;
+(poterminology) uh/unknownhorizons.pot (1)&#13;
 </note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="select">
@@ -552,7 +552,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="slider">
         <source>slider</source>
-        <target state="translated"></target>
+        <target state="translated">schuifbalk</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tools">
         <source>tools</source>
@@ -607,18 +607,18 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="level">
         <source>level</source>
-        <target state="translated"></target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (4)
-
-(poterminology) uh/unknownhorizons.pot (2)
+        <target state="translated">niveau</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (4)&#13;
+&#13;
+(poterminology) uh/unknownhorizons.pot (2)&#13;
 </note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="pasture">
+      <trans-unit xml:space="preserve" approved="no" id="pasture">
         <source>pasture</source>
-        <target state="translated"></target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (6)
-
-(poterminology) uh/unknownhorizons.pot (2)
+        <target state="needs-translation">weide</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (6)&#13;
+&#13;
+(poterminology) uh/unknownhorizons.pot (2)&#13;
 </note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pioneer">
@@ -639,10 +639,10 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="range">
         <source>range</source>
-        <target state="translated"></target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (4)
-
-(poterminology) uh/unknownhorizons.pot (1)
+        <target state="translated">bereik</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (4)&#13;
+&#13;
+(poterminology) uh/unknownhorizons.pot (1)&#13;
 </note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="running">
@@ -653,9 +653,9 @@
 (poterminology) uh/unknownhorizons.pot (3)
 </note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="setting">
+      <trans-unit xml:space="preserve" approved="yes" id="setting">
         <source>setting</source>
-        <target state="needs-translation">koloniseren</target>
+        <target state="translated">koloniseren</target>
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (3)&#13;
 &#13;
 (poterminology) uh/unknownhorizons.pot (2)&#13;
@@ -717,25 +717,25 @@
 (poterminology) uh/unknownhorizons.pot (3)&#13;
 </note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="construction">
+      <trans-unit xml:space="preserve" approved="yes" id="construction">
         <source>construction</source>
-        <target state="needs-translation">bouwen</target>
+        <target state="translated">bouwen</target>
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (3)&#13;
 &#13;
 (poterminology) uh/unknownhorizons.pot (1)&#13;
 </note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="decrease">
+      <trans-unit xml:space="preserve" approved="yes" id="decrease">
         <source>decrease</source>
-        <target state="needs-translation">verminderen</target>
+        <target state="translated">verminderen</target>
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (2)&#13;
 &#13;
 (poterminology) uh/unknownhorizons.pot (2)&#13;
 </note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="free trader">
+      <trans-unit xml:space="preserve" approved="yes" id="free trader">
         <source>free trader</source>
-        <target state="needs-translation">vrije handelaar</target>
+        <target state="translated">vrije handelaar</target>
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (4)&#13;
 &#13;
 (poterminology) uh/unknownhorizons.pot (1)&#13;
@@ -743,10 +743,10 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="happiness">
         <source>happiness</source>
-        <target state="translated"></target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (3)
-
-(poterminology) uh/unknownhorizons.pot (3)
+        <target state="translated">vreugde</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (3)&#13;
+&#13;
+(poterminology) uh/unknownhorizons.pot (3)&#13;
 </note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hunter">
@@ -759,10 +759,10 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="inventory">
         <source>inventory</source>
-        <target state="translated"></target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (2)
-
-(poterminology) uh/unknownhorizons.pot (2)
+        <target state="translated">inventaris</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (2)&#13;
+&#13;
+(poterminology) uh/unknownhorizons.pot (2)&#13;
 </note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="lamb">
@@ -781,9 +781,9 @@
 (poterminology) uh/unknownhorizons.pot (3)&#13;
 </note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="raw">
+      <trans-unit xml:space="preserve" approved="yes" id="raw">
         <source>raw</source>
-        <target state="needs-translation">ruw</target>
+        <target state="translated">ruw</target>
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)&#13;
 &#13;
 (poterminology) uh/unknownhorizons.pot (3)&#13;
@@ -871,10 +871,10 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="feature">
         <source>feature</source>
-        <target state="translated"></target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (2)
-
-(poterminology) uh/unknownhorizons.pot (1)
+        <target state="translated">functie</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (2)&#13;
+&#13;
+(poterminology) uh/unknownhorizons.pot (1)&#13;
 </note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="fish">
@@ -1079,18 +1079,18 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="continue">
         <source>continue</source>
-        <target state="translated"></target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)
-
-(poterminology) uh/unknownhorizons.pot (1)
+        <target state="translated">verdergaan</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)&#13;
+&#13;
+(poterminology) uh/unknownhorizons.pot (1)&#13;
 </note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="description">
         <source>description</source>
-        <target state="translated"></target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)
-
-(poterminology) uh/unknownhorizons.pot (1)
+        <target state="translated">beschrijving</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)&#13;
+&#13;
+(poterminology) uh/unknownhorizons.pot (1)&#13;
 </note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="faith">
@@ -1127,15 +1127,15 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="fulfill">
         <source>fulfill</source>
-        <target state="translated"></target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)
-
-(poterminology) uh/unknownhorizons.pot (1)
+        <target state="translated">voldoen</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)&#13;
+&#13;
+(poterminology) uh/unknownhorizons.pot (1)&#13;
 </note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="graphics">
+      <trans-unit xml:space="preserve" approved="yes" id="graphics">
         <source>graphics</source>
-        <target state="needs-translation">beeld</target>
+        <target state="translated">beeld</target>
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)&#13;
 &#13;
 (poterminology) uh/unknownhorizons.pot (1)&#13;
@@ -1157,12 +1157,12 @@
 (poterminology) uh/unknownhorizons.pot (1)&#13;
 </note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="hold">
+      <trans-unit xml:space="preserve" approved="no" id="hold">
         <source>hold</source>
-        <target state="translated"></target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (2)
-
-(poterminology) uh/unknownhorizons.pot (1)
+        <target state="needs-translation">houden</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (2)&#13;
+&#13;
+(poterminology) uh/unknownhorizons.pot (1)&#13;
 </note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hunts">
@@ -1247,26 +1247,26 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="return">
         <source>return</source>
-        <target state="translated"></target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)
-
-(poterminology) uh/unknownhorizons.pot (1)
+        <target state="translated">terugkeren</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)&#13;
+&#13;
+(poterminology) uh/unknownhorizons.pot (1)&#13;
 </note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="run">
         <source>run</source>
-        <target state="translated"></target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)
-
-(poterminology) uh/unknownhorizons.pot (1)
+        <target state="translated">rennen</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)&#13;
+&#13;
+(poterminology) uh/unknownhorizons.pot (1)&#13;
 </note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="service">
         <source>service</source>
-        <target state="translated"></target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)
-
-(poterminology) uh/unknownhorizons.pot (1)
+        <target state="translated">service</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)&#13;
+&#13;
+(poterminology) uh/unknownhorizons.pot (1)&#13;
 </note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="sheep">
@@ -1287,18 +1287,18 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="ship inventory">
         <source>ship inventory</source>
-        <target state="translated"></target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)
-
-(poterminology) uh/unknownhorizons.pot (1)
+        <target state="translated">scheepslading</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)&#13;
+&#13;
+(poterminology) uh/unknownhorizons.pot (1)&#13;
 </note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="starting">
         <source>starting</source>
-        <target state="translated"></target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)
-
-(poterminology) uh/unknownhorizons.pot (1)
+        <target state="translated">startende</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)&#13;
+&#13;
+(poterminology) uh/unknownhorizons.pot (1)&#13;
 </note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="sugar field">
@@ -1319,10 +1319,10 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="yields">
         <source>yields</source>
-        <target state="translated"></target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)
-
-(poterminology) uh/unknownhorizons.pot (1)
+        <target state="translated">opbrengsten</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)&#13;
+&#13;
+(poterminology) uh/unknownhorizons.pot (1)&#13;
 </note>
       </trans-unit>
     </body>
