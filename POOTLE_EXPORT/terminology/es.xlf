@@ -10,10 +10,13 @@
 
 (poterminology) uh/unknownhorizons.pot (10)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>construir</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="game">
         <source>game</source>
-        <target state="translated"></target>
+        <target state="translated">juego</target>
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)
 
 (poterminology) uh/unknownhorizons.pot (37)
@@ -21,15 +24,18 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="building">
         <source>building</source>
-        <target state="translated"></target>
+        <target state="translated">edificio</target>
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (26)
 
 (poterminology) uh/unknownhorizons.pot (12)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>construcción</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tent">
         <source>tent</source>
-        <target state="translated"></target>
+        <target state="translated">tienda</target>
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (24)
 
 (poterminology) uh/unknownhorizons.pot (6)
@@ -37,7 +43,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="resource">
         <source>resource</source>
-        <target state="translated"></target>
+        <target state="translated">recurso</target>
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (8)
 
 (poterminology) uh/unknownhorizons.pot (14)
@@ -66,10 +72,16 @@
 
 (poterminology) uh/unknownhorizons.pot (9)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>navío</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>barco</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="main">
         <source>main</source>
-        <target state="translated"></target>
+        <target state="translated">principal</target>
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (11)
 
 (poterminology) uh/unknownhorizons.pot (5)
@@ -77,7 +89,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="unknown">
         <source>unknown</source>
-        <target state="translated"></target>
+        <target state="translated">desconocido</target>
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (3)
 
 (poterminology) uh/unknownhorizons.pot (10)
@@ -85,7 +97,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="farm">
         <source>farm</source>
-        <target state="translated"></target>
+        <target state="translated">granja</target>
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (19)
 
 (poterminology) uh/unknownhorizons.pot (5)
@@ -93,7 +105,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="sailor">
         <source>sailor</source>
-        <target state="translated"></target>
+        <target state="translated">marinero</target>
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (12)
 
 (poterminology) uh/unknownhorizons.pot (3)
@@ -101,7 +113,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="inhabitants">
         <source>inhabitants</source>
-        <target state="translated"></target>
+        <target state="translated">habitantes</target>
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (12)
 
 (poterminology) uh/unknownhorizons.pot (2)
@@ -109,7 +121,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="map">
         <source>map</source>
-        <target state="translated"></target>
+        <target state="translated">mapa</target>
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)
 
 (poterminology) uh/unknownhorizons.pot (10)
@@ -122,10 +134,16 @@
 
 (poterminology) uh/unknownhorizons.pot (5)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>asentamiento</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>campamento</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="start">
         <source>start</source>
-        <target state="translated"></target>
+        <target state="translated">inicio</target>
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (3)
 
 (poterminology) uh/unknownhorizons.pot (9)
@@ -138,6 +156,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>pestaña</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="field">
         <source>field</source>
@@ -146,14 +167,20 @@
 
 (poterminology) uh/unknownhorizons.pot (6)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>campo</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="food">
         <source>food</source>
-        <target state="translated"></target>
+        <target state="translated">comida</target>
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (5)
 
 (poterminology) uh/unknownhorizons.pot (6)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>alimento</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="increment">
         <source>increment</source>
@@ -162,6 +189,23 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>incremento</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="minimap">
+        <source>minimap</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>mini mapa</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="running costs">
+        <source>running costs</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>costos de mantenimiento</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="menu">
         <source>menu</source>
@@ -170,6 +214,9 @@
 
 (poterminology) uh/unknownhorizons.pot (8)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>menú</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="produce">
         <source>produce</source>
@@ -178,6 +225,12 @@
 
 (poterminology) uh/unknownhorizons.pot (4)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>producir</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>producto</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="production">
         <source>production</source>
@@ -186,6 +239,9 @@
 
 (poterminology) uh/unknownhorizons.pot (4)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>producción</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="boards">
         <source>boards</source>
@@ -194,6 +250,12 @@
 
 (poterminology) uh/unknownhorizons.pot (4)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>tablones</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>tablas</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change">
         <source>change</source>
@@ -202,6 +264,12 @@
 
 (poterminology) uh/unknownhorizons.pot (4)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>cambiar</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>cambio</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="click">
         <source>click</source>
@@ -210,6 +278,9 @@
 
 (poterminology) uh/unknownhorizons.pot (4)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>click</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="main square">
         <source>main square</source>
@@ -218,6 +289,9 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>plaza principal</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="settler">
         <source>settler</source>
@@ -226,6 +300,9 @@
 
 (poterminology) uh/unknownhorizons.pot (6)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>colono</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="time">
         <source>time</source>
@@ -234,6 +311,9 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>tiempo</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="trade">
         <source>trade</source>
@@ -242,6 +322,9 @@
 
 (poterminology) uh/unknownhorizons.pot (4)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>comercio</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="trail">
         <source>trail</source>
@@ -250,6 +333,9 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>rastro</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="version">
         <source>version</source>
@@ -258,6 +344,9 @@
 
 (poterminology) uh/unknownhorizons.pot (11)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>versión</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="buy">
         <source>buy</source>
@@ -266,6 +355,9 @@
 
 (poterminology) uh/unknownhorizons.pot (4)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>comprar</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="connect">
         <source>connect</source>
@@ -274,6 +366,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>conectar</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="lumberjack">
         <source>lumberjack</source>
@@ -282,6 +377,9 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>leñador</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="sell">
         <source>sell</source>
@@ -290,6 +388,9 @@
 
 (poterminology) uh/unknownhorizons.pot (4)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>vender</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="taxes">
         <source>taxes</source>
@@ -298,6 +399,9 @@
 
 (poterminology) uh/unknownhorizons.pot (3)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>impuestos</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="wool">
         <source>wool</source>
@@ -306,6 +410,9 @@
 
 (poterminology) uh/unknownhorizons.pot (4)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>lana</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="coast">
         <source>coast</source>
@@ -314,6 +421,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>costa</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="companies">
         <source>companies</source>
@@ -322,6 +432,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>compañías</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="cost">
         <source>cost</source>
@@ -330,6 +443,9 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>costo</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="free">
         <source>free</source>
@@ -338,6 +454,12 @@
 
 (poterminology) uh/unknownhorizons.pot (4)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>libre</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>gratis</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="left">
         <source>left</source>
@@ -346,6 +468,9 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>izquierda</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="log">
         <source>log</source>
@@ -370,6 +495,9 @@
 
 (poterminology) uh/unknownhorizons.pot (4)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>escoger</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="stock">
         <source>stock</source>
@@ -386,6 +514,12 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>almacenamiento</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>almacén</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="trader">
         <source>trader</source>
@@ -394,6 +528,9 @@
 
 (poterminology) uh/unknownhorizons.pot (3)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>comerciante</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="balance">
         <source>balance</source>
@@ -402,6 +539,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>balance</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="fire">
         <source>fire</source>
@@ -410,6 +550,9 @@
 
 (poterminology) uh/unknownhorizons.pot (3)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>fuego</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="fisher">
         <source>fisher</source>
@@ -418,6 +561,9 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>pescador</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="found">
         <source>found</source>
@@ -426,6 +572,9 @@
 
 (poterminology) uh/unknownhorizons.pot (4)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>encontrado</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pavilion">
         <source>pavilion</source>
@@ -434,6 +583,9 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>pabellón</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="signal">
         <source>signal</source>
@@ -442,6 +594,17 @@
 
 (poterminology) uh/unknownhorizons.pot (3)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>señal</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="signal fire">
+        <source>signal fire</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="slider">
+        <source>slider</source>
+        <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tools">
         <source>tools</source>
@@ -450,6 +613,9 @@
 
 (poterminology) uh/unknownhorizons.pot (3)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>herramientas</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="active">
         <source>active</source>
@@ -458,6 +624,9 @@
 
 (poterminology) uh/unknownhorizons.pot (3)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>activo</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="choose">
         <source>choose</source>
@@ -466,6 +635,9 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>escoger</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="collector">
         <source>collector</source>
@@ -482,6 +654,9 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>ayuda</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="house">
         <source>house</source>
@@ -490,6 +665,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>casa</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="level">
         <source>level</source>
@@ -498,6 +676,9 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>nivel</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pasture">
         <source>pasture</source>
@@ -506,6 +687,9 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>prado</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pioneer">
         <source>pioneer</source>
@@ -514,6 +698,9 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>pionero</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="potato">
         <source>potato</source>
@@ -522,6 +709,12 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>papa</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>patata</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="range">
         <source>range</source>
@@ -530,6 +723,12 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>rango</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>alcance</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="running">
         <source>running</source>
@@ -546,6 +745,12 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>ajustando</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>ajuste</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="storage tent">
         <source>storage tent</source>
@@ -562,6 +767,9 @@
 
 (poterminology) uh/unknownhorizons.pot (4)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>azucar</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tree">
         <source>tree</source>
@@ -570,6 +778,9 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>árbol</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="add">
         <source>add</source>
@@ -578,6 +789,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>añadir</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="animal">
         <source>animal</source>
@@ -586,6 +800,9 @@
 
 (poterminology) uh/unknownhorizons.pot (3)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>animal</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="build menu">
         <source>build menu</source>
@@ -594,6 +811,9 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>menú de construcción</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Captain's log">
         <source>Captain's log</source>
@@ -602,6 +822,9 @@
 
 (poterminology) uh/unknownhorizons.pot (3)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Bitácora del capitán</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="construction">
         <source>construction</source>
@@ -610,6 +833,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>construcción</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="decrease">
         <source>decrease</source>
@@ -618,6 +844,12 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>disminución</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>reducción</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="free trader">
         <source>free trader</source>
@@ -626,6 +858,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>comerciante libre</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="happiness">
         <source>happiness</source>
@@ -634,6 +869,9 @@
 
 (poterminology) uh/unknownhorizons.pot (3)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>felicidad</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hunter">
         <source>hunter</source>
@@ -642,6 +880,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>cazador</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="inventory">
         <source>inventory</source>
@@ -650,6 +891,9 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>inventario</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="lamb">
         <source>lamb</source>
@@ -658,6 +902,9 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>cordero</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="liquor">
         <source>liquor</source>
@@ -666,6 +913,9 @@
 
 (poterminology) uh/unknownhorizons.pot (3)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>licor</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="raw">
         <source>raw</source>
@@ -674,6 +924,9 @@
 
 (poterminology) uh/unknownhorizons.pot (3)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>crudo</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="residents">
         <source>residents</source>
@@ -682,6 +935,9 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>residentes</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="slot">
         <source>slot</source>
@@ -690,6 +946,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>casilla</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="stop">
         <source>stop</source>
@@ -698,6 +957,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>detener</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="village">
         <source>village</source>
@@ -706,6 +968,9 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>villa</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="your">
         <source>your</source>
@@ -714,6 +979,12 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>sus</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>tus</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="account">
         <source>account</source>
@@ -722,6 +993,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>cuenta</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="back">
         <source>back</source>
@@ -730,6 +1004,12 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>volver</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>de vuelta</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="build settlement">
         <source>build settlement</source>
@@ -738,6 +1018,9 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>construir asentamiento</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="built">
         <source>built</source>
@@ -746,6 +1029,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>construido</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="cloth">
         <source>cloth</source>
@@ -754,6 +1040,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>ropa</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="feature">
         <source>feature</source>
@@ -762,6 +1051,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>característica</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="fish">
         <source>fish</source>
@@ -770,6 +1062,9 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>peces</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="increase">
         <source>increase</source>
@@ -778,6 +1073,9 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>aumento</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="lamb wool">
         <source>lamb wool</source>
@@ -802,6 +1100,9 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>mercado</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="market place">
         <source>market place</source>
@@ -810,6 +1111,9 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>mercado</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="mode">
         <source>mode</source>
@@ -818,6 +1122,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>moda</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="multiple">
         <source>multiple</source>
@@ -826,6 +1133,9 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>multiples</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="output">
         <source>output</source>
@@ -834,6 +1144,9 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>resultado</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="partner">
         <source>partner</source>
@@ -850,6 +1163,9 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>jugar</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="potato field">
         <source>potato field</source>
@@ -858,14 +1174,9 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="reached">
-        <source>reached</source>
-        <target state="translated"></target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (2)
-
-(poterminology) uh/unknownhorizons.pot (1)
-</note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>campo de patatas</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="refresh">
         <source>refresh</source>
@@ -874,6 +1185,9 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>actualizar</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="sale">
         <source>sale</source>
@@ -882,6 +1196,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>venta</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="save">
         <source>save</source>
@@ -890,6 +1207,9 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>guardar</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="school">
         <source>school</source>
@@ -898,6 +1218,9 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>escuela</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="screen">
         <source>screen</source>
@@ -906,6 +1229,9 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>pantalla</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="solution">
         <source>solution</source>
@@ -914,6 +1240,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>solución</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="sound">
         <source>sound</source>
@@ -922,6 +1251,9 @@
 
 (poterminology) uh/unknownhorizons.pot (2)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>sonido</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="team">
         <source>team</source>
@@ -930,6 +1262,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>equipo</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="from time to time">
         <source>from time to time</source>
@@ -938,6 +1273,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>de vez en cuando</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="trading">
         <source>trading</source>
@@ -946,6 +1284,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>comercio</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="visit">
         <source>visit</source>
@@ -954,6 +1295,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>visitar</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="weaver">
         <source>weaver</source>
@@ -962,14 +1306,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="buying">
-        <source>buying</source>
-        <target state="translated"></target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)
-
-(poterminology) uh/unknownhorizons.pot (1)
-</note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>tejedor</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="continue">
         <source>continue</source>
@@ -978,6 +1317,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>continuar</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="description">
         <source>description</source>
@@ -986,6 +1328,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>descripción</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="faith">
         <source>faith</source>
@@ -994,6 +1339,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>fe</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="fisherman">
         <source>fisherman</source>
@@ -1002,6 +1350,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>pescador</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="forest">
         <source>forest</source>
@@ -1010,6 +1361,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>bosque</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="forum">
         <source>forum</source>
@@ -1018,6 +1372,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>foro</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="fulfill">
         <source>fulfill</source>
@@ -1026,6 +1383,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>completar</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="graphics">
         <source>graphics</source>
@@ -1034,6 +1394,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>gráficos</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="green">
         <source>green</source>
@@ -1042,9 +1405,12 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>verde</target>
+        </alt-trans>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="grows">
-        <source>grows</source>
+      <trans-unit xml:space="preserve" approved="yes" id="grow">
+        <source>grow</source>
         <target state="translated"></target>
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (2)
 
@@ -1058,6 +1424,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>interrumpir</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hunts">
         <source>hunts</source>
@@ -1066,6 +1435,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>caza</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="income">
         <source>income</source>
@@ -1074,6 +1446,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>ingresos</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="information">
         <source>information</source>
@@ -1082,6 +1457,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>información</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="IRC">
         <source>IRC</source>
@@ -1090,6 +1468,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>IRC</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="key">
         <source>key</source>
@@ -1098,14 +1479,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="LEFT">
-        <source>LEFT</source>
-        <target state="translated"></target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)
-
-(poterminology) uh/unknownhorizons.pot (1)
-</note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>llave</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="load/unload">
         <source>load/unload</source>
@@ -1114,6 +1490,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>cargar/descargar</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="moved">
         <source>moved</source>
@@ -1122,6 +1501,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>mudado</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="potatoes">
         <source>potatoes</source>
@@ -1130,6 +1512,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>patatas</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="red">
         <source>red</source>
@@ -1138,6 +1523,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>rojo</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="return">
         <source>return</source>
@@ -1146,6 +1534,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>volver</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="run">
         <source>run</source>
@@ -1154,6 +1545,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>correr</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="service">
         <source>service</source>
@@ -1170,6 +1564,12 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>ovejas</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>oveja</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="SHIFT">
         <source>SHIFT</source>
@@ -1178,6 +1578,12 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>MAYÚSCULAS</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>MAYUS</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="ship inventory">
         <source>ship inventory</source>
@@ -1194,6 +1600,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>iniciando</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="sugar field">
         <source>sugar field</source>
@@ -1202,6 +1611,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>campo de caña de azucar</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="trade partner">
         <source>trade partner</source>
@@ -1210,6 +1622,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>socio comercial</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="yields">
         <source>yields</source>
@@ -1218,6 +1633,9 @@
 
 (poterminology) uh/unknownhorizons.pot (1)
 </note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>produce</target>
+        </alt-trans>
       </trans-unit>
     </body>
   </file>
