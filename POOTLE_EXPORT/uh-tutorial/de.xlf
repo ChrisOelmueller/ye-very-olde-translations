@@ -4,7 +4,7 @@
     <body>
       <trans-unit xml:space="preserve" approved="yes" id="Tutorial">
         <source>Tutorial</source>
-        <target state="translated">Tutorial</target>
+        <target state="translated">Einführung</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The UH team">
         <source>The UH team</source>
@@ -14,7 +14,7 @@
         <source>The tutorial:
 Build your first settlement and learn how to play!
 </source>
-        <target state="translated">Das Tutorial:
+        <target state="translated">Das Einführungsspiel:
 Errichtet Eure erste Siedlung und lernt das Spiel kennen!
 </target>
       </trans-unit>
@@ -42,11 +42,11 @@ And now, let's start the actual game.</source>
 
 Falls Ihr das Logbuch geschlossen habt, könnt Ihr es per Taste L oder über das Logbuchsymbol in der Ecke oben rechts (unter der Weltkarte mit einem versiegelten Dokument und einer Feder) wieder öffnen.
 
-Solltet Ihr Verbesserungsvorschläge für Erklärungen im Tutorial haben, möchtet bestimmte Bereiche näher erklärt haben oder Ihr habt einen Fehler gefunden: Teilt das dem Team mit! Nur so können wir das Tutorial verbessern.
-
+Solltet Ihr Verbesserungsvorschläge für Erklärungen in der Anleitung haben, möchtet bestimmte Bereiche näher erklärt haben oder Ihr habt einen Fehler gefunden: Teilt das dem Team mit! Nur so können wir diese Anleitung verbessern.
 Unter www.unknown-horizons.org könnt Ihr das Team kontaktieren oder Hilfe erhalten.
 
 Und nun lasst uns das eigentliche Spiel beginnen.</target>
+        <note from="translator">Etwas zu lang, letzter Absatz wird im Spiel abgeschnitten.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: SETTLE ON AN ISLAND">
         <source>NEW TASK: SETTLE ON AN ISLAND</source>
@@ -104,7 +104,7 @@ Dieser Button wird aktiv, wenn Euer Schiff in Reichweite eines möglichen Handel
 
 Klickt auf den Button. Wenn er nicht aktiv ist, muss das Schiff näher an das Kontor gelangen.
 
-AUFGABE: Öffne den Handelsdialog.</target>
+AUFGABE: Öffnet den Handelsdialog.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The tab you will see is split into 'Ship' and 'Settlement' as trade partners.&#10;&#10;To move goods from one stock to the other, simply click on them.&#10;&#10;Try clicking on the boards currently on your ship first and then try moving them back.&#10;&#10;You can customize the quantity moved by using the self-explanatory radio buttons in the middle.&#10;&#10;Did you get used to the trade tab?&#10;You need some construction material in your settlement now!&#10;&#10;TASK: Unload at least 10 tons of each resource your ship sailed around with.">
         <source>The tab you will see is split into 'Ship' and 'Settlement' as trade partners.
@@ -164,6 +164,7 @@ Um ein Holzfällerlager zu errichten, benötigt Ihr das Baumenü. Klickt dazu au
 
 Das Baumenü ist nach Siedlerstufen sortiert.
 Das bedeutet, dass in der Stufe Seefahrer (mit der Ihr startet) nur grundlegende Gebäude verfügbar sind.</target>
+        <note from="translator">weil Bretter in diesem Stadium die einzigen Stützen sind... evtl bessere Formulierung möglich?</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="As your civilization advances, you also gain more and more complex buildings.&#10;&#10;For now, select the lumberjack under 'Companies' and build it in an area with some trees around.&#10;&#10;You can also plant trees later - but that costs money. Use what nature provided you with!&#10;&#10;A company always needs a trail connection to a storage or branch office, otherwise goods will remain at the company and not be collected.&#10;&#10;This means that you have to build a trail connecting your branch office (or storage) and lumberjack.&#10;&#10;TASK: Build a lumberjack in a wooded area and connect it to a road.&#10;&#10;Watch how a collector will fetch your first self-produced boards.">
         <source>As your civilization advances, you also gain more and more complex buildings.
@@ -280,6 +281,7 @@ Beachtet, dass Ihr Eure Einwohner am besten in einem Gebiet ansiedelt, welches m
 Im Allgemeinen sollten Zelte beispielsweise nicht zu nah an die Holzfällerlager gebaut werden, da sonst wertvolle Bäume gefällt werden.
 
 AUFGABE: Errichtet einen Marktplatz.</target>
+        <note from="translator">FIXME: abgerissen &lt;-&gt; teared</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Now let's have a closer look at the main square.&#10;&#10;In the overview tab you can quickly adjust taxes.&#10;&#10;In the second tab 'Account' you get a balance sheet of this island, featuring all costs you pay and all taxes you earn.&#10;&#10;The items 'Sale' and 'Buy' refer to your trading balance and will be explained later on.&#10;&#10;If your balance is positive, you all-in-all make a profit.&#10;&#10;In the 'Settler' tab you can see how happy your inhabitants are and what resource most of them want to be supplied with.">
         <source>Now let's have a closer look at the main square.
@@ -330,6 +332,7 @@ Einwohner mögen vielleicht auf den ersten Blick nicht sehr nützlich erscheinen
 Und das ist der einzige Weg, wie Ihr momentan an Geld gelangen könnt.
 
 AUFGABE: Errichtet ein Zelt und verbindet es mit dem Marktplatz.</target>
+        <note from="translator">FIXME: Sailors --&gt; Seeleute/Einwohner/Bevölkerung?</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a tent and connect it to the main square.">
         <source>Build a tent and connect it to the main square.</source>
@@ -418,6 +421,7 @@ In der Stufe 'Seefahrer' stehen Euch drei Handelsslots zur Verfügung. Klickt au
 Um das Handelsgut auszuwählen, klickt in einen Slot. Wir werden das Vorgehen weiter betrachten, wenn Ihr alle Voraussetzungen erfüllt, um Handel zu treiben.
 
 AUFGABE: Errichtet ein Leuchtfeuer an der Küste in der Nähe des Kontors.</target>
+        <note from="translator">FIXME: slots</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a signal fire at the coast close to your branch office.">
         <source>Build a signal fire at the coast close to your branch office.</source>
@@ -444,6 +448,10 @@ Nach dem Auswählen eines Guts zeigt der grüne Balken, wie viel davon momentan 
 Das Bewegen des Schiebereglers auf der rechten Seite des Slots verändert die maximale Lagermenge. Dieser Wert hat unterschiedliche Bedeutungen beim Ver- und Einkauf.
 
 Beim Einkauf legt er fest, wie viel dieser Ware Ihr insgesamt bevorraten möchtet, beim Verkauf wird jeder Überschuss über diesem Wert verkauft.</target>
+        <note from="translator">Sinnzusammenhang: Der Grüne Balken ist im TAB "Lager" und der "Regler" im Tab "Handel" (zumindest in SVN version)
+PS: slider -&gt; Schieber/Regler?
+~
+Schieberegler, kurz Regler. In git sollte der Balken auch im Trade-Tab sichtbar sein. ~eoc</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="For example: &#10;Having a 'Buy' slot and 5 tons in stock, a slider positioned at 9 tons will cause you to buy 4 additional tons at most.&#10;Selling works similarly. A 'Sell' slot with 18 tons in stock and the slider positioned at 13 will sell up to 5 tons.&#10;&#10;If the free trader however only wants to buy or sell less than your settings would allow him, you need to live with that and wait for him to return.&#10;&#10;Unknown Horizons features smart pricing, so the value of one unit can vary.&#10;It is NOT possible to change prices manually!&#10;&#10;You can see your trade balance in the 'Account' tab comparing the 'Sale' and 'Buy' values there.&#10;&#10;TASK: Buy as many tools as you need to have 30 tools in stock!&#10;If you still have some in your ship's inventory, this seems like a good point to unload them.">
         <source>For example: 
@@ -468,6 +476,9 @@ Der Wert einer Ware kann NICHT manuell beeinflusst werden! Er setzt sich zusamme
 AUFGABE: Kauft so viel Werkzeuge ein, dass Ihr 30 Einheiten auf Lager habt.
 
 Wenn Ihr immer noch Werkzeuge auf Eurem Schiff lagert, wäre nun eine günstige Gelegenheit zum Entladen.</target>
+        <note from="translator">smart pricing? -&gt; Preisregulierung?
+Letzter Absatz abgeschnitten!
+"Als Übung sollst du jetzt folgendes machen: \n" "\n" entfernt damit letzter Absatz nicht abgeschnitten wird</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Reach an island stock of at least 30 tools.">
         <source>Reach an island stock of at least 30 tools.</source>
@@ -701,6 +712,8 @@ Diese Situation kann mit zwei Maßnahmen verbessern, die wir uns nun anschauen w
 Alle Betriebe bieten die Möglichkeit, gar nicht zu arbeiten.
 Das hört sich vielleicht merkwürdig an, aber klickt einmal auf das Zahnrad, welches sich zum Beispiel in der Übersicht des Holzfällerlagers findet.
 Wenn dieser 'Stillgelegt'-Modus aktiviert ist, werden die laufenden Kosten für dieses Gebäude sinken. Sie werden vielleicht nicht immer auf null sinken, aber sie sind dennoch geringer, als wenn der Betrieb weiterarbeitete.</target>
+        <note from="translator">Letzter Absatz teilweise abgeschnitten.
+zwei "\n" entfernt, letzter Absatz hoffentlich nicht mehr abgeschnitten.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="This means that you can save money when you temporarily do not need a company and do not want to tear it down, either.&#10;&#10;Another solution is to build the last increment-I building which has not been mentioned so far: the storage tent.&#10;&#10;This building has two purposes. It:&#10;* Offers more storage for your goods, and &#10;* sends its own collectors to fetch goods, just like the branch office does.&#10;&#10;Note that companies can also be connected to a storage in order to get their products collected, and if the branch office is overwhelmed with collector tasks, you can place a storage tent to help out there.&#10;&#10;TASK: Build a storage tent, preferably where you need collectors.">
         <source>This means that you can save money when you temporarily do not need a company and do not want to tear it down, either.
