@@ -63,6 +63,9 @@ I added 'installer' cause in my opinion, you cannot build a weaver...french will
         <target state="translated">inconnue</target>
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (3)
 (poterminology) uh/unknownhorizons.pot (10)</note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>inconnu</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="farm">
         <source>farm</source>
