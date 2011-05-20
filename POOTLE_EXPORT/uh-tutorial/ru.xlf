@@ -4,25 +4,27 @@
     <body>
       <trans-unit xml:space="preserve" approved="yes" id="Tutorial">
         <source>Tutorial</source>
-        <target state="translated"></target>
+        <target state="translated">Руководство</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The UH team">
         <source>The UH team</source>
-        <target state="translated"></target>
+        <target state="translated">Команда UH</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The tutorial:&#10;Build your first settlement and learn how to play!&#10;">
         <source>The tutorial:
 Build your first settlement and learn how to play!
 </source>
-        <target state="translated"></target>
+        <target state="translated">Руководство:
+Постройте своё первое поселение и научитесь играть!
+</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a branch office at the coast.">
         <source>Build a branch office at the coast.</source>
-        <target state="translated"></target>
+        <target state="translated">Постройте контору на побережье.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Welcome to Unknown Horizons!">
         <source>Welcome to Unknown Horizons!</source>
-        <target state="translated"></target>
+        <target state="translated">Добро пожаловать в Неизведанные Горизонты!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="This is your Captain's log where all important information is stored. A short notification of each task will be provided on the left of the screen.&#10;&#10;If you are interested in longer descriptions, your log will hopefully provide all the help you need.&#10;&#10;After you close this log, it can be re-opened with the 'Captain's Log' icon in the top-right corner (below the mini-map, with a sealed document and a feather).&#10;&#10;For any suggestions on better wording, topics you would like to have explained or even buggy conditions: Please tell us and we will try to improve the tutorial!&#10;&#10;Visit www.unknown-horizons.org for help on how to contact the team!&#10;&#10;And now, let's start the actual game.">
         <source>This is your Captain's log where all important information is stored. A short notification of each task will be provided on the left of the screen.
@@ -36,11 +38,19 @@ For any suggestions on better wording, topics you would like to have explained o
 Visit www.unknown-horizons.org for help on how to contact the team!
 
 And now, let's start the actual game.</source>
-        <target state="translated"></target>
+        <target state="translated">Это ваш судовой журнал, в котором хранится вся важная информация. Короткое уведомление о каждой задаче отображается в левой части экрана.
+
+Если вы заинтересованы в более подробном описании, надеемся, ваш журнал сможет предоставить всю необходимую информацию.
+Когда вы закроете журнал, он может быть снова открыт при помощи кнопки "Судовой журнал" в верхнем правом углу (ниже миникарты, с изображение документа с печатью и пера) или клавиши L.
+
+Пожалуйста, сообщайте нам о любых предложениях о лучших формулировках, темах, которые нуждаются в разъяснении или ошибках, и мы постараемся улучшить руководство!
+Посетите www.unknown-horizons.org , чтобы узнать, как связаться с командой!
+
+А сейчас давайте начнём игру.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: SETTLE ON AN ISLAND">
         <source>NEW TASK: SETTLE ON AN ISLAND</source>
-        <target state="translated"></target>
+        <target state="translated">НОВАЯ ЗАДАЧА: КОЛОНИЗИРОВАТЬ ОСТРОВ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="To move your ship, select it with a left click and right click on the location you want it to go to.&#10;&#10;Once you are near the coast, the anchor-like button you see in the overview tab will become active.&#10;&#10;This indicates that you are able to build a branch office there by pressing that button (called 'Build Settlement').&#10;&#10;Now a preview of your building is dragged around when you move the cursor.&#10;&#10;You can build on any spot where this preview is not shaded red.&#10;Click where you want to place your first building.&#10;&#10;TASK: Build a branch office at the coast.">
         <source>To move your ship, select it with a left click and right click on the location you want it to go to.
@@ -55,11 +65,21 @@ You can build on any spot where this preview is not shaded red.
 Click where you want to place your first building.
 
 TASK: Build a branch office at the coast.</source>
-        <target state="translated"></target>
+        <target state="translated">Чтобы переместить ваш корабль, выделите его при помощи левого клика и укажите правым кликом точку назначения.
+
+Как только вы окажетесь около побережья, кнопка с изображением якоря на вкладке обзора станет активной.
+
+Это означает, что вы можете построить там контору, нажав на эту кнопку (с подписью "Основать поселение").
+
+Теперь при движении курсора вместе с ним двигается предварительный просмотр здания.
+
+Вы можете строить в любой точке, где этот предварительный просмотр не затенён красным.
+
+ЗАДАЧА: Построить контору на побережье.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: UNLOAD YOUR GOODS">
         <source>NEW TASK: UNLOAD YOUR GOODS</source>
-        <target state="translated"></target>
+        <target state="translated">НОВАЯ ЗАДАЧА: РАЗГРУЗИТЬ ТОВАРЫ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Now that you have built the Branch Office, you need to move some of your resources to its stock.&#10;&#10;To do so, select your ship and go into the tab with the wooden box icon called 'Ship Inventory'.&#10;&#10;Here you get an overview of what this ship's cargo looks like and have the button 'Load/Unload'.&#10;&#10;This button becomes active if your ship is in range of a possible trade partner like a branch office.&#10;&#10;Click on the button. If it is not active, move your ship towards the branch office and then try again.&#10;&#10;TASK: Open the trade dialogue.">
         <source>Now that you have built the Branch Office, you need to move some of your resources to its stock.
@@ -88,15 +108,26 @@ Did you get used to the trade tab?
 You need some construction material in your settlement now!
 
 TASK: Unload at least 10 tons of each resource your ship sailed around with.</source>
-        <target state="translated"></target>
+        <target state="translated">Вкладка, которую вы увидите, разбита на "Корабль" и "Поселение" в качестве торговых партнёров.
+
+Чтобы переместить товары из одного хранилища в другое, просто кликните по ним.
+
+Попробуйте сначала кликнуть по доскам, которые сейчас на вашем корабле, а потом переместить их назад.
+
+Вы можете регулировать количество перемещаемых товаров, используя переключатели, находящиеся на середине панели.
+
+Вы привыкли к вкладке торговли?
+Теперь вам нужны некоторые строительные материалы в вашем поселении!
+
+ЗАДАЧА: Выгрузите по крайней мере 10 тон каждого ресурса с вашего корабля.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Unload at least 10 tons of each resource on your ship.">
         <source>Unload at least 10 tons of each resource on your ship.</source>
-        <target state="translated"></target>
+        <target state="translated">Разгрузите по крайней мере 10 тон каждого ресурса с вашего корабля.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A LUMBERJACK">
         <source>NEW TASK: BUILD A LUMBERJACK</source>
-        <target state="translated"></target>
+        <target state="translated">НОВАЯ ЗАДАЧА: СТРОИТЕЛЬСТВО ЛЕСОПИЛКИ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="With your new construction material in the branch office, you can start to construct some basic buildings.&#10;&#10;We will start with building a lumberjack.&#10;&#10;This is essential because, at this stage, boards are the only poles your sailors can afford to hang their tents over.&#10;&#10;The fisherman needs some boards to build his vessel as well.&#10;&#10;In order to construct lumberjacks; open the build menu by either clicking the big icon below the mini map or pressing B key.&#10;&#10;The build menu is sorted by increments.&#10;You are currently in the first increment (the Sailors level) so are offered only the basic buildings.">
         <source>With your new construction material in the branch office, you can start to construct some basic buildings.
@@ -111,7 +142,18 @@ In order to construct lumberjacks; open the build menu by either clicking the bi
 
 The build menu is sorted by increments.
 You are currently in the first increment (the Sailors level) so are offered only the basic buildings.</source>
-        <target state="translated"></target>
+        <target state="translated">С вашими новыми строительными материалами в конторе, вы можете начать строить базовые сооружения.
+
+Начнём с создания лесопилки.
+
+Это важно потому, что на данной стадии ваши моряки могут позволить себе использовать только деревянные жерди, чтобы установить свои палатки.
+
+Рыбак также нуждается в досках, чтобы пострить своё судно.
+
+Чтобы построить лесопилку, откройте меню строительства либо нажав на большой значок под миникартой, либо нажав клавишу B.
+
+Меню строительства отсортировано по уровням.
+Сейчас вы на первом уровне (уровень Моряков), потому доступны только базовые структуры.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="As your civilization advances, you also gain more and more complex buildings.&#10;&#10;For now, select the lumberjack under 'Companies' and build it in an area with some trees around.&#10;&#10;You can also plant trees later - but that costs money. Use what nature provided you with!&#10;&#10;A company always needs a trail connection to a storage or branch office, otherwise goods will remain at the company and not be collected.&#10;&#10;This means that you have to build a trail connecting your branch office (or storage) and lumberjack.&#10;&#10;TASK: Build a lumberjack in a wooded area and connect it to a road.&#10;&#10;Watch how a collector will fetch your first self-produced boards.">
         <source>As your civilization advances, you also gain more and more complex buildings.
@@ -127,15 +169,27 @@ This means that you have to build a trail connecting your branch office (or stor
 TASK: Build a lumberjack in a wooded area and connect it to a road.
 
 Watch how a collector will fetch your first self-produced boards.</source>
-        <target state="translated"></target>
+        <target state="translated">По мере продвижения цивилизации, вы будете получать всё более и более сложные здания.
+
+Теперь выберите лесопилку среди "Предприятий" и постройте в области, где есть деревья.
+
+Позже вы сможете сами выращивать деревья, но это стоит денег. Так что используйте то, что даёт вам природа!
+
+Производства всегда должны быть соединены дорогой со складом или конторой, иначе товары останутся на производстве и не будут собраны.
+
+Это значит, что вам нужно построить тропу, соединяющую вашу контору (или хранилище) и лесопилку.
+
+ЗАДАЧА: Построить лесопилку в лесу и соединить её дорогой.
+
+Смотрите, как сборщик будет носить первые произведённые вами доски.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a lumberjack and connect it to the branch office using a trail.">
         <source>Build a lumberjack and connect it to the branch office using a trail.</source>
-        <target state="translated"></target>
+        <target state="translated">Постройте лесопилку и соедините её с конторой при помощи тропы.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: FOOD SUPPLY">
         <source>NEW TASK: FOOD SUPPLY</source>
-        <target state="translated"></target>
+        <target state="translated">НОВАЯ ЗАДАЧА: ОБЕСПЕЧЕНИЕ ПРОДОВОЛЬСТВИЕМ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You will need to have some food-producing companies, too, because people in general (and especially sailors) are very hungry.&#10;&#10;Available companies in the first increment are the Hunter and Fisher.&#10;&#10;The Hunter, surprisingly, hunts animals in the forest, so he needs trees around.&#10;&#10;Note that you can place your Hunter close to the lumberjack's forest.&#10;&#10;It can happen that the animals don't reproduce fast enough or simply hide well.&#10;&#10;Conclusion: the hunter is not too reliable if you need continuous supply.">
         <source>You will need to have some food-producing companies, too, because people in general (and especially sailors) are very hungry.
@@ -149,7 +203,17 @@ Note that you can place your Hunter close to the lumberjack's forest.
 It can happen that the animals don't reproduce fast enough or simply hide well.
 
 Conclusion: the hunter is not too reliable if you need continuous supply.</source>
-        <target state="translated"></target>
+        <target state="translated">Вам также понадобится производство пищи, поскольку люди в целом (и моряки особенно) очень голодны.
+
+Доступные производства на первом уровне: охота и рыбная ловля.
+
+Охотник, как ни странно, охотится на животных в лесу, потому ему нужны деревья неподалёку.
+
+Заметьте, что вы можете расположить палатку охотника недалеко от лесопилки.
+
+Может случиться, что животные недостаточно быстро восстанавливают популяцию или просто хорошо скрываются.
+
+Вывод: охотник недостаточно надёжен, если вам нужны непрерывные поставки.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The Fisher needs a coastal building site like the branch office and a fish school in range.&#10;&#10;He will build a small rowing vessel and catch some fish.&#10;&#10;This is a very constant supply at the cost of a slightly longer production time per unit of food.&#10;&#10;A small settlement like yours can use both companies, and you can better balance pros and cons if you see the direct comparison.&#10;&#10;TASK: Build a hunter and a fisher.&#10;&#10;Don't forget to connect them to your branch office with trails!">
         <source>The Fisher needs a coastal building site like the branch office and a fish school in range.
