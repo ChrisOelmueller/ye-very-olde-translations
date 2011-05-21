@@ -24,9 +24,9 @@ Plaats uw eerste kolonie en leer het spelverloop!
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Welcome to Unknown Horizons!">
         <source>Welcome to Unknown Horizons!</source>
-        <target state="translated">Welcom by Unknown Horizons!</target>
+        <target state="translated">Welkom bij Unknown Horizons!</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="This is your Captain's log where all important information is stored. A short notification of each task will be provided on the left of the screen.&#10;&#10;If you are interested in longer descriptions, your log will hopefully provide all the help you need.&#10;&#10;After you close this log, it can be re-opened with the 'Captain's Log' icon in the top-right corner (below the mini-map, with a sealed document and a feather).&#10;&#10;For any suggestions on better wording, topics you would like to have explained or even buggy conditions: Please tell us and we will try to improve the tutorial!&#10;&#10;Visit www.unknown-horizons.org for help on how to contact the team!&#10;&#10;And now, let's start the actual game.">
+      <trans-unit xml:space="preserve" approved="yes" id="This is your Captain's log where all important information is stored. A short notification of each task will be provided on the left of the screen.&#10;&#10;If you are interested in longer descriptions, your log will hopefully provide all the help you need.&#10;&#10;After you close this log, it can be re-opened with the 'Captain's Log' icon in the top-right corner (below the mini-map, with a sealed document and a feather).&#10;&#10;For any suggestions on better wording, topics you would like to have explained or even buggy conditions: Please tell us and we will try to improve the tutorial!&#10;&#10;Visit www.unknown-horizons.org for help on how to contact the team!&#10;&#10;And now, let's start the actual game.">
         <source>This is your Captain's log where all important information is stored. A short notification of each task will be provided on the left of the screen.
 
 If you are interested in longer descriptions, your log will hopefully provide all the help you need.
@@ -38,17 +38,17 @@ For any suggestions on better wording, topics you would like to have explained o
 Visit www.unknown-horizons.org for help on how to contact the team!
 
 And now, let's start the actual game.</source>
-        <target state="needs-translation">This is your Captain's log where all important information is stored. A short notification of each task will be provided on the left of the screen.
+        <target state="translated">Dit is uw logboek waar alle belangrijke informatie staat opgeslagen. Een korte notificatie van elke taak zal zichtbaar worden aan de linkerkant van het scherm.
 
-If you are interested in longer descriptions, your log will hopefully provide all the help you need.
+Als u geïnteresseerd bent in langere omschrijvingen, dan kan je log je hopelijk meer hulp bieden.
 
-After you close this log, it can be re-opened with the 'Captain's Log' icon in the top-right corner (below the mini-map, with a sealed document and a feather).
+Na het sluiten van het log, kan je het weer openen met het 'Logboek' icoontje rechts bovenin (onder de minikaart, met een geseald document en een veer).
+ 
+Voor suggesties voor verbetering, onderwerpen waar je meer over zou willen weten en misschien bugs: Laat het ons weten en we zullen proberen de tutorial te verbeteren!
 
-For any suggestions on better wording, topics you would like to have explained or even buggy conditions: Please tell us and we will try to improve the tutorial!
+Bezoek www.unknow-horizons.org voor hulp en om het team te kunnen contacten!
 
-Visit www.unknown-horizons.org for help on how to contact the team!
-
-And now, let's start the actual game.</target>
+En dan nu, laten we met het echte spel beginnen.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: SETTLE ON AN ISLAND">
         <source>NEW TASK: SETTLE ON AN ISLAND</source>
@@ -67,16 +67,16 @@ You can build on any spot where this preview is not shaded red.
 Click where you want to place your first building.
 
 TASK: Build a branch office at the coast.</source>
-        <target state="translated">Om Uw schip te bewegen, selecteer het met een linker muisklik en klik rechts op de locatie waar het schip naar toe moet varen.
+        <target state="translated">Om uw schip te verplaatsen, selecteer het met een linker muisklik en klik rechts op de locatie waar het schip naar toe moet varen.
 
 Zodra het schip bij de kust is, wordt de knop met het anker in het overzicht scherm actief.
 
-Dit betekend dat U een kantoor kunt plaatsen door op deze knop te klikken (genaamd 'Plaats Kolonie').
+Dit betekend dat u een kantoor kunt plaatsen door op deze knop te klikken (genaamd 'Plaats kolonie').
 
-Een voorbeeld van het gebouw wordt getoond wanneer U de cursor beweegt.
+Een voorbeeld van het gebouw wordt getoond wanneer u de cursor beweegt.
 
 U kunt het gebouw plaatsen op iedere locatie waar het voorbeeld niet rood is.
-Klik waar U Uw eerste gebouw wilt plaatsen.
+Klik waar u uw eerste gebouw wilt plaatsen.
 
 OPDRACHT: Plaats een kantoor aan de kust.</target>
       </trans-unit>
@@ -96,17 +96,17 @@ This button becomes active if your ship is in range of a possible trade partner 
 Click on the button. If it is not active, move your ship towards the branch office and then try again.
 
 TASK: Open the trade dialogue.</source>
-        <target state="translated">Nu het kantoor geplaatst is, moeten grondstoffen worden verplaatst naar zijn voorraad.
+        <target state="translated">Nu het hoofdkantoor geplaatst is, moeten grondstoffen worden verplaatst naar de opslag.
 
-Selecteer het schip en open het scherm 'Scheepsvoorraad' door op de knop met de houten krat te klikken.
+Selecteer het schip en open het scherm 'Scheepsinventaris' door op de knop met het houten krat te klikken.
 
-Hier is een overzicht van de voorraad van het schip en een knop 'Laden/uitladen'.
+Hier is een overzicht van de inventaris van het schip en een knop 'Laden/Uitladen'.
 
-Deze knop wordt actief zodra Uw schip in de buurt is van een mogelijke handelspartner, zoals het kantoor
+Deze knop wordt actief zodra uw schip in de buurt is van een mogelijke handelspartner, zoals het hoofdkantoor
 
-Klik op de knop. Verplaats U schip dichterbij het kantoor als de knop niet actief is en probeer opnieuw.
+Klik op de knop. Verplaats uw schip dichterbij het hoofdkantoor als de knop niet actief is en probeer opnieuw.
 
-OPDRACHT: Open het handels scherm.</target>
+OPDRACHT: Open het handelsscherm.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The tab you will see is split into 'Ship' and 'Settlement' as trade partners.&#10;&#10;To move goods from one stock to the other, simply click on them.&#10;&#10;Try clicking on the boards currently on your ship first and then try moving them back.&#10;&#10;You can customize the quantity moved by using the self-explanatory radio buttons in the middle.&#10;&#10;Did you get used to the trade tab?&#10;You need some construction material in your settlement now!&#10;&#10;TASK: Unload at least 10 tons of each resource your ship sailed around with.">
         <source>The tab you will see is split into 'Ship' and 'Settlement' as trade partners.
@@ -121,26 +121,26 @@ Did you get used to the trade tab?
 You need some construction material in your settlement now!
 
 TASK: Unload at least 10 tons of each resource your ship sailed around with.</source>
-        <target state="translated">Het scherm wat U ziet is verdeeld in 'Schip' en 'Kolonie' als handelspartners.
+        <target state="translated">Het scherm wat u ziet is verdeeld in 'Schip' en 'Kolonie' als handelspartners.
 
-Om goederen van een voorraad naar de andere voorraad te verplaatsen, kunt U simpelweg er op klikken
+Om goederen van een voorraad naar de andere voorraad te verplaatsen, kunt u er simpelweg op klikken.
 
 Probeer eerst op de planken op het schip te klikken en probeer vervolgens deze terug te plaatsen.
 
-U kunt de verplaatste hoeveelheid aanpassen met de radio buttons in het midden
+U kunt de verplaatste hoeveelheid aanpassen met de knoppen in het midden.
 
-Heeft U zichzelf bekend gemaakt met het handelsscherm?
+Heeft u zichzelf bekend gemaakt met het handelsscherm?
 U heeft nu constructie materiaal nodig in uw kolonie!
 
-OPDRACHT: Laad tenminste 10 ton van iedere groundstof op het schip uit.</target>
+OPDRACHT: Laad tenminste 10 ton van iedere grondstof op het schip uit.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Unload at least 10 tons of each resource on your ship.">
         <source>Unload at least 10 tons of each resource on your ship.</source>
-        <target state="translated">Laad tenminste 10 ton van iedere grondstof op het schip.</target>
+        <target state="translated">Laad tenminste 10 ton van iedere grondstof op het schip uit.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A LUMBERJACK">
         <source>NEW TASK: BUILD A LUMBERJACK</source>
-        <target state="translated">OPDRACHT: EEN HOUTHAKKER</target>
+        <target state="translated">OPDRACHT: BOUW EEN HOUTHAKKER</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="With your new construction material in the branch office, you can start to construct some basic buildings.&#10;&#10;We will start with building a lumberjack.&#10;&#10;This is essential because, at this stage, boards are the only poles your sailors can afford to hang their tents over.&#10;&#10;The fisherman needs some boards to build his vessel as well.&#10;&#10;In order to construct lumberjacks; open the build menu by either clicking the big icon below the mini map or pressing B key.&#10;&#10;The build menu is sorted by increments.&#10;You are currently in the first increment (the Sailors level) so are offered only the basic buildings.">
         <source>With your new construction material in the branch office, you can start to construct some basic buildings.
@@ -163,10 +163,10 @@ De houthakker is belangrijk aangezien planken in deze fase de enige middelen zij
 
 De visser heeft ook hout nodig om zijn schip te maken.
 
-Om een houthakker te plaatsen, op het constructie menu door op de grote knop onder de kleine kaart te klikken of druk de B toets.
+Om een houthakker te plaatsen, ga naar het constructie menu door op de grote knop onder de kleine kaart te klikken of druk de B toets.
 
 Het constructie menu is gesorteerd op niveau's.
-Dat betekent dat alleen standaard gebouwen beschikbaar zijn op het zeelui niveau (waarop U zich nu bevindt).</target>
+Dat betekent dat alleen standaard gebouwen beschikbaar zijn op het zeelui niveau (waarop u zich nu bevindt).</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="As your civilization advances, you also gain more and more complex buildings.&#10;&#10;For now, select the lumberjack under 'Companies' and build it in an area with some trees around.&#10;&#10;You can also plant trees later - but that costs money. Use what nature provided you with!&#10;&#10;A company always needs a trail connection to a storage or branch office, otherwise goods will remain at the company and not be collected.&#10;&#10;This means that you have to build a trail connecting your branch office (or storage) and lumberjack.&#10;&#10;TASK: Build a lumberjack in a wooded area and connect it to a road.&#10;&#10;Watch how a collector will fetch your first self-produced boards.">
         <source>As your civilization advances, you also gain more and more complex buildings.
@@ -182,7 +182,7 @@ This means that you have to build a trail connecting your branch office (or stor
 TASK: Build a lumberjack in a wooded area and connect it to a road.
 
 Watch how a collector will fetch your first self-produced boards.</source>
-        <target state="translated">Met het uitbreiden van Uw kolonie kunnen ook complexe gebouwen geplaatst worden.
+        <target state="translated">Met het uitbreiden van uw kolonie kunnen ook complexere gebouwen geplaatst worden.
 
 Selecteer de houthakker onder 'Bedrijven' en plaats het in een regio met veel bomen.
 
@@ -190,19 +190,19 @@ U kunt ook bomen planten - maar dat kost geld. Gebruik wat wordt aangeboden door
 
 Een bedrijf heeft altijd een wegverbinding nodig tussen een opslagruimte of kantoor, anders worden goederen niet opgehaald.
 
-Dat betekent dat U een weg moet plaatsen die het kantoor en de houthakker verbindt.
+Dat betekent dat u een pad moet plaatsen die het kantoor (of een opslag) en de houthakker verbindt.
 
 OPDRACHT: Plaats een houthakker in bebost gebied en verbind het met een weg.
 
-Let op hoe een verzamelaar Uw eerste zelf geproduceerde planken ophaalt.</target>
+Let op hoe een verzamelaar uw eerste zelf geproduceerde planken ophaalt.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a lumberjack and connect it to the branch office using a trail.">
         <source>Build a lumberjack and connect it to the branch office using a trail.</source>
-        <target state="translated">Plaats een houthakker en verbind deze met het kantoor met een weg.</target>
+        <target state="translated">Plaats een houthakker en verbind deze met het kantoor met een pad.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: FOOD SUPPLY">
         <source>NEW TASK: FOOD SUPPLY</source>
-        <target state="translated">OPDRACHT: VOEDSEL AANBOD</target>
+        <target state="translated">OPDRACHT: AANVOER VAN VOEDSEL</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You will need to have some food-producing companies, too, because people in general (and especially sailors) are very hungry.&#10;&#10;Available companies in the first increment are the Hunter and Fisher.&#10;&#10;The Hunter, surprisingly, hunts animals in the forest, so he needs trees around.&#10;&#10;Note that you can place your Hunter close to the lumberjack's forest.&#10;&#10;It can happen that the animals don't reproduce fast enough or simply hide well.&#10;&#10;Conclusion: the hunter is not too reliable if you need continuous supply.">
         <source>You will need to have some food-producing companies, too, because people in general (and especially sailors) are very hungry.
@@ -216,20 +216,20 @@ Note that you can place your Hunter close to the lumberjack's forest.
 It can happen that the animals don't reproduce fast enough or simply hide well.
 
 Conclusion: the hunter is not too reliable if you need continuous supply.</source>
-        <target state="translated">Er zijn voedsel producerende bedrijven nodig. Kolonisten, en in het bijzonder zeelui, zijn erg hongerig.
+        <target state="translated">Er zijn voedsel producerende bedrijven nodig. Kolonisten (in het bijzonder zeelui) zijn erg hongerig.
 
-Beschikbare bedrijven in het eerste niveau zijn de Jager en de Visser.
+Beschikbare bedrijven in het eerste niveau zijn de jager en de visser.
 
-De Jager jaagt op dieren in het bos, hiervoor moeten er bomen nabij zijn.
+De jager jaagt op dieren in het bos, hiervoor moeten er bomen nabij zijn.
 
-Merk op dat U het dichtbij het bos van de houthakker kunt plaatsen.
+Merk op dat u de jager dichtbij het bos van de houthakker kunt plaatsen.
 
 Het kan gebeuren dat dieren niet snel genoeg voortplanten of zich goed verstoppen.
 
 Conclusie: de jager is niet betrouwbaar genoeg voor een gelijkmatig aanbod van voedsel.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="The Fisher needs a coastal building site like the branch office - and nothing more.&#10;&#10;He will build a small rowing vessel and catch some fish.&#10;&#10;This is a very constant supply at the cost of a slightly longer production time per unit of food.&#10;&#10;A small settlement like yours can use both companies, and you can better balance pros and cons if you see the direct comparison.&#10;&#10;TASK: Build a hunter and a fisher.&#10;&#10;Don't forget to connect them to your branch office with trails!">
-        <source>The Fisher needs a coastal building site like the branch office - and nothing more.
+      <trans-unit xml:space="preserve" approved="yes" id="The Fisher needs a coastal building site like the branch office and a fish school in range.&#10;&#10;He will build a small rowing vessel and catch some fish.&#10;&#10;This is a very constant supply at the cost of a slightly longer production time per unit of food.&#10;&#10;A small settlement like yours can use both companies, and you can better balance pros and cons if you see the direct comparison.&#10;&#10;TASK: Build a hunter and a fisher.&#10;&#10;Don't forget to connect them to your branch office with trails!">
+        <source>The Fisher needs a coastal building site like the branch office and a fish school in range.
 
 He will build a small rowing vessel and catch some fish.
 
@@ -240,17 +240,17 @@ A small settlement like yours can use both companies, and you can better balance
 TASK: Build a hunter and a fisher.
 
 Don't forget to connect them to your branch office with trails!</source>
-        <target state="translated">De visser heeft een gebouw nodig op een plaats aan de kust, zoals het kantoor, en niets meer.
+        <target state="translated">De visser heeft een bouwplaats aan het water en een school vissen in de buurt nodig.
 
-Hij zal een kleine roeiboot maken en vis vangen.
+Hij zal dan een klein roeibootje maken en gaan vissen.
 
-Dit is een zeer constante aanvoer van voedsel. Nadeel is dat het relatief lang duurt om een eenheid voedsel te produceren.
+Dit is een constante aanvoer wat alleen maar een klein beetje meer productietijd nodig heeft per voedsel eenheid.
 
-Een kleine nederzetting zoals Uw nederzetting kan beide bedrijven goed gebruiken. U kunt de voor- en nadelen afwegen welke het meeste geschikt is.
+Een kleine kolonie als die van u kan beide bedrijven gebruiken en u kan de voor- en nadelen beter uitbalanceren als u de vergelijking bekijkt.
 
-OPDRACHT: Plaats een jager en een visser.
+OPDRACHT: Bouw een jager en een visser.
 
-Vergeet geen wegen aan te leggen naar het kantoor!</target>
+En vergeet de paden naar het hoofdkantoor niet!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a hunter and a fisher. Connect them to the branch office.">
         <source>Build a hunter and a fisher. Connect them to the branch office.</source>
@@ -258,7 +258,7 @@ Vergeet geen wegen aan te leggen naar het kantoor!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: MAIN SQUARE">
         <source>NEW TASK: MAIN SQUARE</source>
-        <target state="translated">OPDRACHT: PLEIN</target>
+        <target state="translated">OPDRACHT: MARKTPLAATS</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Your residents need a main square where they can fetch their goods from.&#10;&#10;This means that they need a trail connection from their home to the main square.&#10;&#10;All goods in your branch office are available at this 'market place', so your residents do not need to walk to the fisher or even to the branch office.&#10;&#10;You should consider founding your actual house settlement in an area where you can easily expand it and build some trails, too.&#10;&#10;You should avoid placing tents too close to your lumberjacks for example because building tents will clear away the trees that your lumberjack needs to produce boards.&#10;&#10;TASK: Build a main square.">
         <source>Your residents need a main square where they can fetch their goods from.
@@ -272,13 +272,13 @@ You should consider founding your actual house settlement in an area where you c
 You should avoid placing tents too close to your lumberjacks for example because building tents will clear away the trees that your lumberjack needs to produce boards.
 
 TASK: Build a main square.</source>
-        <target state="translated">Uw inwoners hebben een plein nodig waar ze goederen kunnen ophalen.
+        <target state="translated">Uw inwoners hebben een marktplaats nodig waar ze de goederen kunnen ophalen.
 
-Dit betekent dat het plein en hun huis met een weg verbonden moeten zijn.
+Dit betekent dat de marktplaats en hun huis met een pad verbonden moeten zijn.
 
 Alle goederen in het kantoor zijn beschikbaar op deze 'marktplaats', zeelui hoeven dus niet naar de visser of het kantoor te lopen.
 
-Overweeg goed waar U de huizen in de nederzetting plaatst: Een gebied dat eenvoudig kan worden uitgebreid en eenvoudig wegen geplaatst kunnen worden.
+Overweeg goed waar u de huizen in de nederzetting plaatst: Een gebied dat eenvoudig kan worden uitgebreid en eenvoudig wegen geplaatst kunnen worden.
 
 Plaats geen tenten dichtbij de houthakker. De houthakker heeft ruimte nodig voor bomen.
 
@@ -298,15 +298,15 @@ If your balance is positive, you all-in-all make a profit.
 In the 'Settler' tab you can see how happy your inhabitants are and what resource most of them want to be supplied with.</source>
         <target state="translated">Laten we het plein nader bekijken.
 
-In het overzicht scherm kunt U belastingen eenvoudig aanpassen.
+In het overzicht scherm kunt u belastingen eenvoudig aanpassen.
 
-Het tweede scherm 'Rekening' toont een balans, hierop staan alle kosten die U betaald heeft en alle belastingen die U ontvangen heeft.
+Het tweede scherm 'Rekening' toont een balans, hierop staan alle kosten die u betaald heeft en alle belastingen die u ontvangen heeft.
 
 De opties 'Verkoop' en 'Inkoop' verwijzen naar de handels balans en zal later uitgelegd worden.
 
-Als de balans positief is betekent dit dat U winst maakt.
+Als de balans positief is betekent dit dat u winst maakt.
 
-In het scherm 'Kolonisten' kunt U zien hoe blij de inwoners zijn en welke goederen ze het meest nodig hebben.</target>
+In het scherm 'Kolonisten' kunt u zien hoe blij de inwoners zijn en welke goederen ze het meest nodig hebben.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a main square. Choose an area without many economy buildings.">
         <source>Build a main square. Choose an area without many economy buildings.</source>
@@ -324,15 +324,11 @@ Tents are the basic residential buildings. Your inhabitants will want to upgrade
 Settlers may not look very useful since they will try to consume all goods you produce - but they at least pay taxes, and that's the only way you can make money for now!
 
 TASK: Build a tent and connect it to the main square.</source>
-        <target state="translated">Kolonisten willen graag een dak boven hun hoofd, anders zullen ze zich niet vestigen. U dient tenten te plaatsen!
+        <target state="translated">Kolonisten willen graag een dak boven hun hoofd, anders zullen ze zich niet vestigen! U dient tenten te plaatsen!
 
-Tenten zijn de eenvoudigste gebouwen voor inwoners.
+Tenten zijn de eenvoudigste gebouwen voor inwoners. Uw inwoners zullen deze verbeteren zodra ze hogere niveau's bereiken.
 
-Uw inwoners zullen deze verbeteren zodra ze hogere niveau's bereiken.
-
-Zeelui lijken niet nuttig aangezien ze proberen alles te gebruiken wat je produceert - maar ze betalen wel belastingen.
-
-Dat is voorlopig de enige manier om geld te verdienen.
+Zeelui lijken niet nuttig aangezien ze proberen alles te gebruiken wat je produceert - maar ze betalen wel belastingen. Dat is voorlopig de enige manier om geld te verdienen.
 
 OPDRACHT: Plaats een tent en verbind deze met het plein.</target>
       </trans-unit>
@@ -358,13 +354,13 @@ TASK: Build at least three additional tents.
 TIP: Holding down SHIFT eases constructing multiple buildings of the same kind.</source>
         <target state="translated">Laten we naar het tent overzicht scherm kijken.
 U kunt zien
-* de gelukkigheid van de bewoners
+* hoe gelukkig de inwoners zijn,
 * de belastingen die ze betalen en
 * de grondstoffen die ze vereisen.
 
-Wanneer hun wensen worden voldaan, zullen hun gelukkigheid en Uw belastinginkomsten toenemen.
+Wanneer hun wensen worden voldaan, zal hun geluk en uw belastinginkomsten toenemen.
 
-Zo niet, zullen gelukkigheid en inkomsten afnemen. Wanneer de bewoners niet gelukkig meer zijn zullen ze de nederzetting verlaten en een ruïne achterlaten.
+Zo niet, zal het geluk en de inkomsten afnemen. Wanneer de bewoners niet gelukkig meer zijn zullen ze de nederzetting verlaten en een ruïne achterlaten.
 
 Merk op dat u hier ook de belasting instellingen kunt wijzigen.
 
@@ -378,7 +374,7 @@ TIP: Om meerdere gebouwen van het zelfde soort te plaatsen kunt u SHIFT indrukke
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD SIGNAL FIRE">
         <source>NEW TASK: BUILD SIGNAL FIRE</source>
-        <target state="translated">OPDRACHT: SIGNAAL VUUR</target>
+        <target state="translated">OPDRACHT: SIGNAALVUUR</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Can you see the ship passing your island from time to time?&#10;&#10;This is the ship of the Free Trader, one of the first settlers in this archipelago.&#10;&#10;This trader will supply your settlement with necessary goods which you can't produce yet.&#10;&#10;You can also sell surpluses of your production, but in general consuming them (by building more tents) instead of selling to the Free Trader yields more profit.&#10;&#10;Normally the ships just sail around and look for deals, but small settlements like yours first need some promotion, otherwise you won't be found.&#10;&#10;For this purpose, you can build a signal fire at the coast near your branch office to show ships the way to your settlement.">
         <source>Can you see the ship passing your island from time to time?
@@ -392,17 +388,17 @@ You can also sell surpluses of your production, but in general consuming them (b
 Normally the ships just sail around and look for deals, but small settlements like yours first need some promotion, otherwise you won't be found.
 
 For this purpose, you can build a signal fire at the coast near your branch office to show ships the way to your settlement.</source>
-        <target state="translated">Can you see the ship passing your island from time to time?
+        <target state="translated">Heeft u het schip gezien wat van tijd tot tijd bij uw eiland langsgaat?
 
-This is the ship of the Free Trader, one of the first settlers in this archipelago.
+Dit is het schip van de vrije handelaar, een van de eerste kolonisten in de archipel.
 
-This trader will supply your settlement with necessary goods which you can't produce yet.
+Deze handelaar zal uw kolonie bevoorraden met goederen die u zelf nog niet kan produceren.
 
-You can also sell surpluses of your production, but in general consuming them (by building more tents) instead of selling to the Free Trader yields more profit.
+U kan ook goederen verkopen waarvan u teveel heeft, maar over het algemeen kunt u deze het beste laten consumeren door uw inwoners (door middel van het bouwen van extra tenten), dat levert vaak meer op dan het verkopen aan de vrije handelaar.
 
-Normally the ships just sail around and look for deals, but small settlements like yours first need some promotion, otherwise you won't be found.
+Normaal zeilt het schip rond zoekend naar goede handel, maar kleine kolonies als die van u hebben wat meer aandacht nodig, anders worden ze nooit gevonden.
 
-For this purpose, you can build a signal fire at the coast near your branch office to show ships the way to your settlement.</target>
+Hiervoor kan u een signaalvuur bouwen aan de kust bij uw hoofdkantoor om de schepen de weg naar uw kolonie te wijzen.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="After this little advertisment, the trader will stop by from time to time and look into your branch office.&#10;&#10;You can propose deals via the tab 'Buy/Sell'. (This feature is currently quite fiddly to use, but a re-design is in the pipeline. If you have found a nice way of doing it, please share your thoughts! We need your help here!)&#10;&#10;At the 'sailors' increment, you are equipped with three trading slots.&#10;&#10;Click on the small icon to change the slot mode from 'Buy' to 'Sell' and vice versa.&#10;&#10;If you click in the slot, you can choose the good you want to trade with. We will further explain this once you are ready to trade.&#10;&#10;TASK: Build a signal fire at the coast close to your branch office.">
         <source>After this little advertisment, the trader will stop by from time to time and look into your branch office.
@@ -416,25 +412,25 @@ Click on the small icon to change the slot mode from 'Buy' to 'Sell' and vice ve
 If you click in the slot, you can choose the good you want to trade with. We will further explain this once you are ready to trade.
 
 TASK: Build a signal fire at the coast close to your branch office.</source>
-        <target state="translated">After this little advertisment, the trader will stop by from time to time and look into your branch office.
+        <target state="translated">Na dit beetje hulp, zal de vrije handelaar van tijd tot tijd even bij uw kolonie langskomen.
 
-You can propose deals via the tab 'Buy/Sell'. (This feature is currently quite fiddly to use, but a re-design is in the pipeline. If you have found a nice way of doing it, please share your thoughts! We need your help here!)
+U kan handel voorstellen via de tab 'Koop/Verkoop'. (Deze optie is momenteel nog wat lastig te bedienen, maar er wordt aan gewerkt. Mocht je nog ideen hierover hebben, laat ons dat dan weten)
 
-At the 'sailors' increment, you are equipped with three trading slots.
+Bij de 'zeelui' optie staan drie handelslots tot je beschikking.
 
-Click on the small icon to change the slot mode from 'Buy' to 'Sell' and vice versa.
+Klik op de het kleine icoontje om de modus van 'Koop' naar 'Verkoop' en andersom te wijzigen.
 
-If you click in the slot, you can choose the good you want to trade with. We will further explain this once you are ready to trade.
+Als je op het slot zelf klikt, dan kun je kiezen met welk goed je zou willen handelen. We zullen dit verder uitleggen als je klaar bent om te handelen.
 
-TASK: Build a signal fire at the coast close to your branch office.</target>
+OPDRACHT: Bouw een signaalvuur bij de kust in de buurt van uw hoofdkantoor.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a signal fire at the coast close to your branch office.">
         <source>Build a signal fire at the coast close to your branch office.</source>
-        <target state="translated">Plaats een signaal vuur bij de kost nabij het kantoor.</target>
+        <target state="translated">Plaats een signaal vuur bij de kust nabij het kantoor.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: LEARN TO TRADE">
         <source>NEW TASK: LEARN TO TRADE</source>
-        <target state="translated">OPDRACHT: LEER TE HANDELEN</target>
+        <target state="translated">OPDRACHT: LEER HANDELEN</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Excellent! The Free Trader will now stop by at your branch office from time to time.&#10;&#10;Let's continue our tutorial on how to trade.&#10;&#10;After selecting a particular type of good, the green bar across the bottom of the slot (if visible) shows you how much you have in stock of this good.&#10;&#10;Dragging the slider on the right of each slot determines your 'target value' which has a different meaning on 'Buy' and 'Sell'. &#10;When buying, you will buy sufficient to hold your 'target value' in stock. &#10;When selling the 'target value' is the number which you hold in reserve to not sell">
         <source>Excellent! The Free Trader will now stop by at your branch office from time to time.
@@ -446,7 +442,15 @@ After selecting a particular type of good, the green bar across the bottom of th
 Dragging the slider on the right of each slot determines your 'target value' which has a different meaning on 'Buy' and 'Sell'. 
 When buying, you will buy sufficient to hold your 'target value' in stock. 
 When selling the 'target value' is the number which you hold in reserve to not sell</source>
-        <target state="translated"></target>
+        <target state="translated">Perfect! De Vrije Handelaarzal nu van tijd tot tijd bij uw hoofdkantoor langskomen.
+
+Laten we verder gaan met de uitleg over handelen.
+
+Nadat er een specifiek goed is geselecteerd, geeft de groene balk weer (als deze zichtbaar is) hoeveel je er van in voorraad hebt.
+
+Door de schuifbalk aan de rechterkant van elk slot te bewegen, kies je de 'streefwaarde', welke een verschillende betekenis heeft voor 'kopen en verkopen'. 
+Bij kopen, zal je aankopen doen maar je 'streefwaarde' in voorraad houden. 
+Bij verkoop is de 'streefwaarde' het aantal dat je reserve houdt en niet verkoopt</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="For example: &#10;Having a 'Buy' slot and 5 tons in stock, a slider positioned at 9 tons will cause you to buy 4 additional tons at most.&#10;Selling works similarly. A 'Sell' slot with 18 tons in stock and the slider positioned at 13 will sell up to 5 tons.&#10;&#10;If the free trader however only wants to buy or sell less than your settings would allow him, you need to live with that and wait for him to return.&#10;&#10;Unknown Horizons features smart pricing, so the value of one unit can vary.&#10;It is NOT possible to change prices manually!&#10;&#10;You can see your trade balance in the 'Account' tab comparing the 'Sale' and 'Buy' values there.&#10;&#10;TASK: Buy as many tools as you need to have 30 tools in stock!&#10;If you still have some in your ship's inventory, this seems like a good point to unload them.">
         <source>For example: 
@@ -462,29 +466,65 @@ You can see your trade balance in the 'Account' tab comparing the 'Sale' and 'Bu
 
 TASK: Buy as many tools as you need to have 30 tools in stock!
 If you still have some in your ship's inventory, this seems like a good point to unload them.</source>
-        <target state="translated"></target>
+        <target state="translated">Als voorbeeld: 
+Wanneer uw slot op 'kopen' staat en u 5 ton in voorraad hebt en u de schuifbalk op 9 ton heeft staan. Dat zorgt ervoor dat u maximaal 4 ton extra zal inkopen. Verkopen werkt ongeveer hetzelfde. Een 'verkoop' slot met 18 ton in voorraad en de schuifbalk op 13 zal maximaal 5 ton verkopen.
+
+Als de handelaar minder dan u hebt aangegeven wil kopen of verkopen, dan zult u gewoon moeten wachten tot tot hij terug is.
+
+UH werkt met slimme prijzen, dus de waarde van een eenheid kan verschillen. Dit kan NIET handmatig worden aangepast.
+
+U kunt uw handels balans nakijkenbij de tab 'Account', waar je de 'koop' en 'verkoop' waardes kan bekijken.
+
+OPDRACHT: Koop zoveel werktuigen als nodig om er 30 op voorraad te hebben!
+Als u er nog een aantal in de scheeps inventaris heeft, dan is dit een prima tijd om die ook nog uit te laden.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Reach an island stock of at least 30 tools.">
         <source>Reach an island stock of at least 30 tools.</source>
-        <target state="translated">Bereik een voorraad van tenminste 30 stuks gereedschap.</target>
+        <target state="translated">Bereik een voorraad van tenminste 30 stuks gereedschap op het eiland.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A PAVILION">
         <source>NEW TASK: BUILD A PAVILION</source>
         <target state="translated">OPDRACHT: PLAATS EEN PAVILIOEN</target>
+        <alt-trans xml:space="preserve" origin="Shadow23">
+          <target>OPDRACHT: PLAATS EEN PAVILJOEN</target>
+        </alt-trans>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Those tools will be enough for the moment. Well done!&#10;&#10;You now provide housing, a main square and food to your inhabitants.&#10;&#10;Still there is one demand which we have not satisfied so far, you may check that in the maketplace or tent tab - your sailors want a basic building where they can pray.&#10;&#10;The solution is a pavilion which the village parson quickly puts up as shelter from the sun.&#10;&#10;Service buildings like this also need to be connected to the tents with a trail, else your inhabitants feel unable to reach them.&#10;&#10;In later increments, upgraded versions of buildings may become available.">
+      <trans-unit xml:space="preserve" approved="yes" id="Those tools will be enough for the moment. Well done!&#10;&#10;You now provide housing, a main square and food to your inhabitants.&#10;&#10;Still there is one demand which we have not satisfied so far, you may check that in the marketplace or tent tab - your sailors want a basic building where they can pray.&#10;&#10;The solution is a pavilion which the village parson quickly puts up as shelter from the sun.&#10;&#10;Service buildings like this also need to be connected to the tents with a trail, else your inhabitants feel unable to reach them.&#10;&#10;In later increments, upgraded versions of buildings may become available.">
         <source>Those tools will be enough for the moment. Well done!
 
 You now provide housing, a main square and food to your inhabitants.
 
-Still there is one demand which we have not satisfied so far, you may check that in the maketplace or tent tab - your sailors want a basic building where they can pray.
+Still there is one demand which we have not satisfied so far, you may check that in the marketplace or tent tab - your sailors want a basic building where they can pray.
 
 The solution is a pavilion which the village parson quickly puts up as shelter from the sun.
 
 Service buildings like this also need to be connected to the tents with a trail, else your inhabitants feel unable to reach them.
 
 In later increments, upgraded versions of buildings may become available.</source>
-        <target state="translated"></target>
+        <target state="translated">Deze gereedschappen zullen eerst wel genoeg zijn. Goed gedaan!
+
+U heeft nu huizen, een marktplaats en voedsel vor uw inwonders.
+
+Er is alleen nog een vraag waar we nog niet aan hebben voldaan. U kunt dat controleren in de marktplaats of tent tab. Uw zeemannen willen een een gebouw om te bidden.
+
+De oplossing is een paviljoen, welke de dorps pastoor snel opgezet heeft als bescherming tegen de zon.
+
+Service gebouwen zoals deze moeten ook een pad naar de tent hebben, anders kunnen de inwoners er niet komen.
+
+Veel later in het spel zullen er ook upgrades voor de gebouwen komen.</target>
+        <alt-trans xml:space="preserve" origin="Shadow23">
+          <target>Deze gereedschappen zullen eerst wel genoeg zijn. Goed gedaan!
+
+U heeft nu huizen, een marktplaats en voedsel voor uw inwonders.
+
+Er is alleen nog een vraag waar we nog niet aan hebben voldaan. U kunt dat controleren in de marktplaats of tent tab. Uw zeemannen willen een een gebouw om te bidden.
+
+De oplossing is een paviljoen, welke de dorps pastoor snel opgezet heeft als bescherming tegen de zon.
+
+Service gebouwen zoals deze moeten ook een pad naar de tent hebben, anders kunnen de inwoners er niet komen.
+
+Veel later in het spel zullen er ook upgrades voor de gebouwen komen.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="In that case the 'small' version is not needed anymore since the 'big' one will also provide what your inhabitants are looking for in early increments.&#10;&#10;Take care when planning your city because most of those advanced buildings are bigger than the basic ones.&#10;&#10;Note that faith is treated like a physical resource, so units need to refresh there after some time.&#10;&#10;Important:&#10;It is NOT enough that the building is merely within a certain range of the tents.&#10;&#10;TASK: Build a pavilion with a trail to the tents in order to fulfill your sailors' demand for faith.">
         <source>In that case the 'small' version is not needed anymore since the 'big' one will also provide what your inhabitants are looking for in early increments.
@@ -497,19 +537,35 @@ Important:
 It is NOT enough that the building is merely within a certain range of the tents.
 
 TASK: Build a pavilion with a trail to the tents in order to fulfill your sailors' demand for faith.</source>
-        <target state="translated">In dat geval is de 'kleine' versie is niet meer nodig omdat de 'grote' ook biedt wat Uw inwoners met een laag niveau zoeken.
+        <target state="translated">In het geval dat de 'kleine' versie niet meer nodig is omdat de 'grote' ook biedt wat uw inwoners kleine versie zoeken.
 
-Houd bij het ontwikkelen van Uw stad er rekening mee dat geavanceerde gebouwen groter zijn dan de basis gebouwen.
+Houdt bij het ontwikkelen van uw stad er rekening mee dat geavanceerde gebouwen groter zijn dan de basis gebouwen.
 
-Let erop dat geloof wordt behandeld als een physieke grondstof, eenheden moeten zich na bepaalde tijd verfrissen.&#13;
+Let erop dat geloof wordt behandeld als een fysieke grondstof, eenheden moeten zich na bepaalde tijd verfrissen.
 
-Het is in het bijzonder NIET voldoende dat het gebouw binnen een bepaalde afstand staat.
+Belangrijk:
+Het is NIET voldoende dat het gebouw alleen maar binnen een bepaalde afstand van de tent staat.
 
-OPDRACHT: Plaats een pavilioen met een verbinden naar de tenten om te voldoen aan de vraag naar geloof van de zeelui.</target>
+OPDRACHT: Plaats een pavilioen met een pad naar de tenten om te voldoen aan de vraag naar geloof van de zeelui.</target>
+        <alt-trans xml:space="preserve" origin="Shadow23">
+          <target>In het geval dat de 'kleine' versie niet meer nodig is omdat de 'grote' ook biedt wat uw inwoners kleine versie zoeken.
+
+Probeer rekening te houden bij het ontwikkelen van uw stad dat de geavanceerde gebouwen groter zijn dan de basis gebouwen.
+
+Let erop dat geloof wordt behandeld als een fysieke grondstof, eenheden moeten zich na bepaalde tijd verfrissen.
+
+Belangrijk:
+Het is NIET voldoende dat het gebouw alleen maar binnen een bepaalde afstand van de tent staat.
+
+OPDRACHT: Plaats een paviljoen met een pad naar de tenten om te voldoen aan de vraag naar geloof van de zeelui.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a pavilion with connection to the tents.">
         <source>Build a pavilion with connection to the tents.</source>
         <target state="translated">Plaats een pavilioen met verbinding naar de tenten.</target>
+        <alt-trans xml:space="preserve" origin="Shadow23">
+          <target>Plaats een paviljoen met verbinding naar de tenten.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: NEXT INCREMENT">
         <source>NEW TASK: NEXT INCREMENT</source>
@@ -525,7 +581,15 @@ To make them happy, there is nothing else for you to do but setting taxes to a l
 You should try to not always run on low taxes since this will probably lead to bankruptcy sooner or later. For a period of time and if you know what you are doing, it is fine though.
 
 After some time, the first unit should walk to the main square and have a look for new construction material there to build a log house. This house will replace the old tent.</source>
-        <target state="translated"></target>
+        <target state="translated">Aan alle eisen is voldaan als uw inwoners regelmatig de marktplaats en het paviljoen kunnen bezoeken en als uw voedsel aanvoer voldoende is.
+
+Als de zeelui gelukkig genoeg zijn, dan zullen ze naar het volgende niveau gaan en Pioniers worden.
+
+Om ze gelukkig te maken, hoeft u niets meer te doen dan de belasting te verlagen, aangezien u aan alle andere voorwaarden heeft voldaan.
+
+U moet proberen niet aldoor op een laag belastingniveau te blijven, want dit zal op den duur waarschijnlijk uw faillisement betekenen. Voor een kortere periode en als je weet wat je doet, zal het prima gaan.
+
+Na een tijdje zal de eerste inwoner naar de marktplaats gaan om te kijken of er nog bouwmaterialen zijn om een blokhut te bouwen. Deze blokhut zal de oude tent vervangen.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Such residential upgrades are the only ones which cost resources and can not be restricted by you.&#10;&#10;There are manual upgrades to some buildings where you use resources to construct a better version on the same spot, and there are upgrades without costs for example as you will see with the lumberjack (In this case, only the graphics change).&#10;&#10;Upgraded housing accomodates more inhabitants, and pioneers pay more taxes than sailors, too.&#10;&#10;As you may have figured out already, the downside is that pioneers demand additional goods which sailors do not need - so you will need to spend this extra money to make them happy as well.&#10;&#10;TASK: Set the tax level to Low (left end) and wait for sailors to upgrade.">
         <source>Such residential upgrades are the only ones which cost resources and can not be restricted by you.
@@ -537,7 +601,15 @@ Upgraded housing accomodates more inhabitants, and pioneers pay more taxes than 
 As you may have figured out already, the downside is that pioneers demand additional goods which sailors do not need - so you will need to spend this extra money to make them happy as well.
 
 TASK: Set the tax level to Low (left end) and wait for sailors to upgrade.</source>
-        <target state="translated"></target>
+        <target state="translated">Zulke woning verbeteringen zijn de enigen die u bouwmaterialen kosten en die niet door u beperkt kunnen worden.
+
+Er zijn handmatige verbeteringen voor sommige gebouwen waar u bouwmaterialen gebruikt om een verbeterde versie op dezelfde locatie neerzet. Verder zijn er verbeteringen zonder kosten zoals bijvoorbeeld bij de houthakker (alleen een grafische verandering).
+
+Verbeterde woningen herbergen meer inwoners en pioniers betalen meer belasting dan zeelui.
+
+Zoals u misschien ondertussen al doorheeft is er een nadeel. De pioniers vragen meer extra goederen welke zeelui niet nodig hebben. U zult dus wat extra geld moeten uitgeven om ze tevreden te houden.
+
+OPDRACHT: Zet het belastingniveau op laag (links op het eind) en wacht tot de zeelui de woningen verbeteren.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Set the tax level to Low (left end) and wait for your sailors to upgrade.">
         <source>Set the tax level to Low (left end) and wait for your sailors to upgrade.</source>
@@ -545,12 +617,12 @@ TASK: Set the tax level to Low (left end) and wait for sailors to upgrade.</sour
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A FARM">
         <source>NEW TASK: BUILD A FARM</source>
-        <target state="translated">OPDRACHT: EEN BOERDERIJ</target>
+        <target state="translated">OPDRACHT: BOUW EEN BOERDERIJ</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Congratulations! Some of your inhabitants have reached increment II!&#10;&#10;Now you have access to some new buildings, have a look at the Build menu again.&#10;&#10;A shiny new tab appeared there.&#10;&#10;Pioneers will demand cloth, so you need to set up a production line for cloth starting with lambs wool (which is one of the goods produced at the farm).&#10;&#10;The farm is a very special production building since it can produce not only one, but very many (and different) goods if you choose.&#10;&#10;The output of farms depends on what kind of fields you build around it.">
+      <trans-unit xml:space="preserve" approved="yes" id="Congratulations! Some of your inhabitants have reached increment II!&#10;&#10;Now you have access to new buildings, take a look at the Build menu again.&#10;&#10;A shiny new tab appeared there.&#10;&#10;Pioneers will demand cloth, so you need to set up a production line for cloth starting with lambs wool (which is one of the goods produced at the farm).&#10;&#10;The farm is a very special production building since it can produce not only one, but very many (and different) goods if you choose.&#10;&#10;The output of farms depends on what kind of fields you build around it.">
         <source>Congratulations! Some of your inhabitants have reached increment II!
 
-Now you have access to some new buildings, have a look at the Build menu again.
+Now you have access to new buildings, take a look at the Build menu again.
 
 A shiny new tab appeared there.
 
@@ -559,7 +631,17 @@ Pioneers will demand cloth, so you need to set up a production line for cloth st
 The farm is a very special production building since it can produce not only one, but very many (and different) goods if you choose.
 
 The output of farms depends on what kind of fields you build around it.</source>
-        <target state="translated"></target>
+        <target state="translated">Gefeliciteerd! Sommige inwoners hebben niveau II bereikt!!
+
+Je hebt nu toegang tot nieuwe gebouwen, kijk maar eens in het Bouw menu.
+
+Er is een nieuw tabje bijgekomen.
+
+Pioniers hebben kleren nodig, daarom zul je moeten beginnen aan een produktielijn lamswol (een van de goederen die in de boerderij worden geproduceerd).
+
+De boerderij is een speciaal productie gebouw, omdat deze meerdere (verschillende) goederen kan produceren als je dat zou willen.
+
+De uitvoer van de boerderij hangt af van het type velden wat je rond de boerderij aanlegt.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="We will have a closer look at this later.&#10;&#10;Farms, like all companies producing raw materials, do not necessarily need to be connected to storage or a Branch Office.&#10;&#10;As long as units of the final production company can reach the farm, and collectors from the branch office or storage tent can reach the final company everything's fine.&#10;&#10;If you, however, plan to do some processing on different parts of the island (which can make sense) or even on different islands, you will need a connection to collectors.&#10;&#10;Try to build the farm not too close to the coast or your existing buildings since it will need some space around it to work well.&#10;&#10;TASK: Build a farm.">
         <source>We will have a closer look at this later.
@@ -573,7 +655,17 @@ If you, however, plan to do some processing on different parts of the island (wh
 Try to build the farm not too close to the coast or your existing buildings since it will need some space around it to work well.
 
 TASK: Build a farm.</source>
-        <target state="translated"></target>
+        <target state="translated">We zullen hier later wat dieper op ingaan.
+
+Boerderijen, zoals alle bedrijven die ruwe materialen produceren, hebben geen pad naar een opslag of kantoor nodig.
+
+Zolang de inwoners van de eindproducenten de boerderij kunnen bereiken is alles in orde.
+
+Mocht je van plan zijn het verwerken op een ander deel van het eiland te doen (wat opzich wel logisch is) of misschien zelfs op een ander eiland, dan heb je wel een connectie naar de verzamelaars nodig.
+
+Probeer de boerderij niet te dicht bij de kust of andere gebouwen te plaatsen, omdat het ruimte in de buurt nodig heeft om te kunnen werken.
+
+OPDRACHT: Bouw een boerderij.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a farm and keep some empty space around it.">
         <source>Build a farm and keep some empty space around it.</source>
@@ -583,7 +675,7 @@ TASK: Build a farm.</source>
         <source>NEW TASK: BUILD FIELDS</source>
         <target state="translated">OPDRACHT: PLAATS VELDEN</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="The farm itself is not going to produce anything without some fields.&#10;&#10;You currently have the choice between pastures, potato and sugar fields.&#10;&#10;Let's have a short overview:&#10;* Pasture: Sheep live here, producing lamb wool.&#10;* Potato field: Grows potatoes which are currently treated as food.&#10;* Sugar field: Grows sugar which is used to make alcohol and (later) produce confectionery.&#10;&#10;We now only need pastures, but in case your food supply chain is too small (maybe many residential buildings) you can also produce some potatoes.&#10;&#10;Note that for potatoes you will need a road connection to the farm (not to the field!) as it will be the only company to work on the goods.">
+      <trans-unit xml:space="preserve" approved="yes" id="The farm itself is not going to produce anything without some fields.&#10;&#10;You currently have the choice between pastures, potato and sugar fields.&#10;&#10;Let's have a short overview:&#10;* Pasture: Sheep live here, producing lamb wool.&#10;* Potato field: Grows potatoes which are currently treated as food.&#10;* Sugar field: Grows sugar which is used to distill liquor and (later) produce confectionery.&#10;&#10;We now only need pastures, but in case your food supply chain is too small (maybe many residential buildings) you can also produce some potatoes.&#10;&#10;Note that for potatoes you will need a road connection to the farm (not to the field!) as it will be the only company to work on the goods.">
         <source>The farm itself is not going to produce anything without some fields.
 
 You currently have the choice between pastures, potato and sugar fields.
@@ -591,22 +683,23 @@ You currently have the choice between pastures, potato and sugar fields.
 Let's have a short overview:
 * Pasture: Sheep live here, producing lamb wool.
 * Potato field: Grows potatoes which are currently treated as food.
-* Sugar field: Grows sugar which is used to make alcohol and (later) produce confectionery.
+* Sugar field: Grows sugar which is used to distill liquor and (later) produce confectionery.
 
 We now only need pastures, but in case your food supply chain is too small (maybe many residential buildings) you can also produce some potatoes.
 
 Note that for potatoes you will need a road connection to the farm (not to the field!) as it will be the only company to work on the goods.</source>
-        <target state="translated">De boerderij produceert niets zonder velden.
+        <target state="translated">De boerderij zal niks produceren zonder velden.
 
-Er is keuze tussen weilanden, aardappel- en suikervelden.
-Een kort overzicht:
-* Weiland: Ruimte voor schapen. Produceert wol
-* Aarappelveld: Aardappels worden hier verbouwd. Produceert voedsel.
-* Suikerveld: Suiker wordt gebruikt om alcohol te maken en (later) drank te produceren
+Momenteel heb je de keus tussen weide, aardappel en suiker velden.
 
-Nu hebben we alleen weiland nodig. Als het voedsel aanbod te klein is (mogelijk door veel residentiele gebouwen)kunt U ook aardappelvelden plaatsen.
+Even een kort overzicht:
+* Weide: Schapen leven hier en produceren wol.
+* Aardappel veld: Hier groeien aarappelen die als voedsel worden gebruikt.
+* Suikerveld: Hier groeit suikerriet, wat kan worden gebruikt om drank van te distilleren en (later) in de banketbakkerij.
 
-Let op: voor aardappels heeft U een verbinding nodig met de boerderij - niet met het aardappelveld.</target>
+We hebben nu alleen weide nodig, maar als je voedsel aanvoer nog niet goed genoeg is (als je veel woningen hebt) kan je ook wat aardappels gaan produceren.
+
+Let op dat je voor aardappels een pad moet hebben naar de boerderij (niet het veld), omdat het het enige bedrijf is wat aan dat product werkt.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Make sure that all fields you build are in the area covered by the farm.&#10;&#10;You can have combined production - one pasture will not lead to 100 percent efficiency of the farm - but you need to check how many fields one farm can serve.&#10;&#10;Different classes of fields require the farm units to spend more or less time there (to seed, harvest, herd, etc…) and because of that, the farm may be unable to serve all of the fields you built for it in time.&#10;&#10;For now, you do not need to care about these issues a lot since you haven't built any fields. Let's change that!&#10;&#10;TASK: Build at least one pasture in the farm's range and add potato fields if you like.">
         <source>Make sure that all fields you build are in the area covered by the farm.
@@ -618,15 +711,15 @@ Different classes of fields require the farm units to spend more or less time th
 For now, you do not need to care about these issues a lot since you haven't built any fields. Let's change that!
 
 TASK: Build at least one pasture in the farm's range and add potato fields if you like.</source>
-        <target state="translated">Make sure that all fields you build are in the area covered by the farm.
+        <target state="translated">Zorg ervoor dat alle velden die je plaatst in het gebied liggen wat de boederij kan gebruiken.
 
-You can have combined production - one pasture will not lead to 100 percent efficiency of the farm - but you need to check how many fields one farm can serve.
+Je kunt bij je boerderij meerdere soorten productie hebben - een weide zal niet 100 procent efficient zijn - maar je moet wel kijken hoeveel velden een boerderij zou kunnen verwerken kan.
 
-Different classes of fields require the farm units to spend more or less time there (to seed, harvest, herd, etc…) and because of that, the farm may be unable to serve all of the fields you built for it in time.
+Verschillende soorten velden vragen de boeren om meer of minder tijd per veld te spenderen (om te zaaien, oogsten, hoeden etc....)  en daarom zou het kunnen dat de boerderij niet alle velden kan bijhouden.
 
-For now, you do not need to care about these issues a lot since you haven't built any fields. Let's change that!
+Voor nu hoef je je daar geen zorgen over te maken, aangezien je nog geen velden hebt geplaatst. Laten we dat gaan veranderen!
 
-TASK: Build at least one pasture in the farm's range and add potato fields if you like.</target>
+OPDRACHT: Plaats in ieder geval een weide bij de boerderij en plaats aardappelvelden als je dat zou willen.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build at least one pasture and add potato fields if you like.">
         <source>Build at least one pasture and add potato fields if you like.</source>
@@ -636,7 +729,7 @@ TASK: Build at least one pasture in the farm's range and add potato fields if yo
         <source>NEW TASK: BUILD STORAGE</source>
         <target state="translated">OPDRACHT: OPSLAGRUIMTE</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Did you watch your lumberjack recently?&#10;&#10;Since your branch office does not have unlimited space to store goods, collectors will stop fetching goods from companies when stock is full.&#10;So if no sailor recently wanted to upgrade his tent, you probably have a lot of boards and in that case, the lumberjack may idle.&#10;We can improve this situation with two different approaches, and below we will have a look at both of them.&#10;&#10;All companies offer the possibility of doing no work at all.&#10;This may sound strange, but try to click on the gear wheel you see in, for example, a lumberjack's overview.&#10;&#10;If this 'break' mode is enabled (we call it 'Decommissioning'), the running costs you pay for the building will decrease. They won't be zero, but still lower than if you keep the company producing.">
+      <trans-unit xml:space="preserve" approved="yes" id="Did you watch your lumberjack recently?&#10;&#10;Since your branch office does not have unlimited space to store goods, collectors will stop fetching goods from companies when stock is full.&#10;So if no sailor recently wanted to upgrade his tent, you probably have a lot of boards and in that case, the lumberjack may idle.&#10;We can improve this situation with two different approaches, and below we will have a look at both of them.&#10;&#10;All companies offer the possibility of doing no work at all.&#10;This may sound strange, but try to click on the gear wheel you see in, for example, a lumberjack's overview.&#10;&#10;If this 'break' mode is enabled (we call it 'Decommissioning'), the running costs you pay for the building will decrease. They won't be zero, but still lower than if you keep the company producing.">
         <source>Did you watch your lumberjack recently?
 
 Since your branch office does not have unlimited space to store goods, collectors will stop fetching goods from companies when stock is full.
@@ -647,10 +740,10 @@ All companies offer the possibility of doing no work at all.
 This may sound strange, but try to click on the gear wheel you see in, for example, a lumberjack's overview.
 
 If this 'break' mode is enabled (we call it 'Decommissioning'), the running costs you pay for the building will decrease. They won't be zero, but still lower than if you keep the company producing.</source>
-        <target state="needs-translation">Heeft U onlangs de houthakker gezien?
+        <target state="translated">Heeft u onlangs de houthakker gezien?
 
 Aangezien het kantoor beperkte ruimte heeft om goederen op te slaan, zullen verzamelaar stoppen goederen op te halen van bedrijven wanneer de opslagruimte vol is.
-Als er recentelijk geen zeelui hun tenten hebben verbeterd, heeft U waarschijnlijk veel planken. In dat geval zal de houthakker rusten.
+Als er recentelijk geen zeelui hun tenten hebben verbeterd, heeft u waarschijnlijk veel planken. In dat geval zal de houthakker rusten.
 We kunnen deze situatie oplossen met twee verschillende aanpakken.
 
 Alle bedrijven hebben de optie om buiten bedrijf gezet te worden.
@@ -670,7 +763,7 @@ This building has two purposes. It:
 Note that companies can also be connected to a storage in order to get their products collected, and if the branch office is overwhelmed with collector tasks, you can place a storage tent to help out there.
 
 TASK: Build a storage tent, preferably where you need collectors.</source>
-        <target state="translated">Dit betekent dat U geld kan besparen wanneer U tijdelijk geen bepaald bedrijf nodig heeft en het ook niet wilt slopen.
+        <target state="translated">Dit betekent dat u geld kan besparen wanneer u tijdelijk geen bepaald bedrijf nodig heeft en het ook niet wilt slopen.
 
 Een andere oplossing is het plaatsen van het laatste niveau I gebouw, dat nog niet besproken is: De opslag tent.
 
@@ -678,9 +771,9 @@ Dit gebouw heeft twee doeleinden:
 * Het biedt meer ruimte voor goederen 
 * Het stuurt eigen verzamelaars om goederen te halen, zoals het kantoor doet.
 
-Merk op dat bedrijven kunnen ook met een opslag tent verbonden worden om hun goederen op te laten halen, en als het alle verzamelaars van het kantoor bezet zijn, kan een opslag tent de oplossing bieden.
+Merk op dat bedrijven ook met een opslag tent verbonden kunnen worden om hun goederen op te laten halen, en als alle verzamelaars van het kantoor bezet zijn, kan een opslag tent de oplossing bieden.
 
-OPDRACHT: Plaats een opslag tent, bij voorkeur waar U verzamelaars nodig heeft.</target>
+OPDRACHT: Plaats een opslag tent, bij voorkeur waar u verzamelaars nodig heeft.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a storage tent (increment I tab) where it makes sense.">
         <source>Build a storage tent (increment I tab) where it makes sense.</source>
@@ -700,9 +793,9 @@ In both cases you should ensure the connection to a trail as well.
 You can place the weaver close to the farm and tear down any trail to the farm to see that it will still fetch the wool and produce.
 
 TASK: Build a weaver positioned so it can get wool.</source>
-        <target state="translated">Nu de wol productie gereed is heeft U nog een kleermaker nodig om kleren te fabriceren van de wol.
+        <target state="translated">Nu de wol productie gereed is heeft u nog een kleermaker nodig om kleren te fabriceren van de wol.
 
-Er zijn twee plaatsen waar U de kleermaker kunt plaatsen - ofwel dichtbij de boerderij of dicht bij een opslag tent danwel het kantoor.
+Er zijn twee plaatsen waar u de kleermaker kunt plaatsen - ofwel dichtbij de boerderij of dicht bij een opslag tent danwel het kantoor.
 
 In beide gevallen dient er een verbinding met de weg te zijn.
 
@@ -728,9 +821,9 @@ OPDRACHT: Plaats een kleermaker waar het wol kan ophalen.</target>
 Once you are able to keep an economy running which can satisfy this amount of consumers, you are ready to discover new Unknown Horizons!
 
 TASK: Reach a total number of 50 inhabitants and a positive balance to complete this tutorial.</source>
-        <target state="translated">Breidt Uw stad uit naar 50 of meer inwoners door meer residentiele gebouwen te plaatsen.
+        <target state="translated">Breidt uw stad uit naar 50 of meer inwoners door meer residentiele gebouwen te plaatsen.
 
-Zodra U de economie draaiend kunt houden met deze hoeveelheid inwoners, bent U klaar om Unknown Horizons te verkennen!
+Zodra u de economie draaiend kunt houden met deze hoeveelheid inwoners, bent u klaar om Unknown Horizons te verkennen!
 OPDRACHT: Bereik een totaal van 50 inwoners en een positieve balans om deze tutorial te voltooien.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NO TASKS LEFT">
@@ -753,7 +846,7 @@ Our forums are open to you as well!
 The best results until now were achieved by joining our IRC channel, so you could try that out first (-;</source>
         <target state="translated">Er zijn geen resterende taken.
 
-Mocht U suggesties hebben wat er verbeterd, toegevoegd of verwijderd kan worden:
+Mocht u suggesties hebben wat er verbeterd, toegevoegd of verwijderd kan worden:
 www.unknown-horizons.org
 
 #unknown-horizons @ irc.freenode.net
@@ -766,7 +859,7 @@ De beste resultaten tot nu toe zijn behaald via het IRC kanaal, wij raden aan di
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Thanks!">
         <source>Thanks!</source>
-        <target state="translated">Dank U wel!</target>
+        <target state="translated">Dank u wel!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="&#10;&#10;&#10;&#10;&#10;&#10;&#10;Thanks for playing the tutorial!&#10;&#10;Your UH-Team">
         <source>
