@@ -133,20 +133,6 @@ Did you get used to the trade tab?
 You need some construction material in your settlement now!
 
 TASK: Unload at least 10 tons of each resource your ship sailed around with.</target>
-        <alt-trans xml:space="preserve" origin="Catharsius">
-          <target>La ficha que verá está dividida en 'Barco' y 'Asentamiento', los socios comerciales.
-
-Para mover bienes de un almacén a otro, simplemente clica en ellos.
-
-Try clicking on the boards currently on your ship first and then try moving them back.
-
-You can customize the quantity moved by using the self-explanatory radio buttons in the middle.
-
-Did you get used to the trade tab?
-You need some construction material in your settlement now!
-
-TASK: Unload at least 10 tons of each resource your ship sailed around with.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Unload at least 10 tons of each resource on your ship.">
         <source>Unload at least 10 tons of each resource on your ship.</source>
@@ -209,8 +195,8 @@ It can happen that the animals don't reproduce fast enough or simply hide well.
 Conclusion: the hunter is not too reliable if you need continuous supply.</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="The Fisher needs a coastal building site like the branch office - and nothing more.&#10;&#10;He will build a small rowing vessel and catch some fish.&#10;&#10;This is a very constant supply at the cost of a slightly longer production time per unit of food.&#10;&#10;A small settlement like yours can use both companies, and you can better balance pros and cons if you see the direct comparison.&#10;&#10;TASK: Build a hunter and a fisher.&#10;&#10;Don't forget to connect them to your branch office with trails!">
-        <source>The Fisher needs a coastal building site like the branch office - and nothing more.
+      <trans-unit xml:space="preserve" approved="yes" id="The Fisher needs a coastal building site like the branch office and a fish school in range.&#10;&#10;He will build a small rowing vessel and catch some fish.&#10;&#10;This is a very constant supply at the cost of a slightly longer production time per unit of food.&#10;&#10;A small settlement like yours can use both companies, and you can better balance pros and cons if you see the direct comparison.&#10;&#10;TASK: Build a hunter and a fisher.&#10;&#10;Don't forget to connect them to your branch office with trails!">
+        <source>The Fisher needs a coastal building site like the branch office and a fish school in range.
 
 He will build a small rowing vessel and catch some fish.
 
@@ -306,6 +292,7 @@ TIP: Holding down SHIFT eases constructing multiple buildings of the same kind.<
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD SIGNAL FIRE">
         <source>NEW TASK: BUILD SIGNAL FIRE</source>
         <target state="translated">NUEVA TAREA: CONSTRUIR UNA SEÑAL DE HUMO</target>
+        <note from="translator">sin contexto (construye/haz)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Can you see the ship passing your island from time to time?&#10;&#10;This is the ship of the Free Trader, one of the first settlers in this archipelago.&#10;&#10;This trader will supply your settlement with necessary goods which you can't produce yet.&#10;&#10;You can also sell surpluses of your production, but in general consuming them (by building more tents) instead of selling to the Free Trader yields more profit.&#10;&#10;Normally the ships just sail around and look for deals, but small settlements like yours first need some promotion, otherwise you won't be found.&#10;&#10;For this purpose, you can build a signal fire at the coast near your branch office to show ships the way to your settlement.">
         <source>Can you see the ship passing your island from time to time?
@@ -379,12 +366,12 @@ If you still have some in your ship's inventory, this seems like a good point to
         <source>NEW TASK: BUILD A PAVILION</source>
         <target state="translated">NUEVA TAREA: CONSTRUIR UN CONVENTO</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Those tools will be enough for the moment. Well done!&#10;&#10;You now provide housing, a main square and food to your inhabitants.&#10;&#10;Still there is one demand which we have not satisfied so far, you may check that in the maketplace or tent tab - your sailors want a basic building where they can pray.&#10;&#10;The solution is a pavilion which the village parson quickly puts up as shelter from the sun.&#10;&#10;Service buildings like this also need to be connected to the tents with a trail, else your inhabitants feel unable to reach them.&#10;&#10;In later increments, upgraded versions of buildings may become available.">
+      <trans-unit xml:space="preserve" approved="yes" id="Those tools will be enough for the moment. Well done!&#10;&#10;You now provide housing, a main square and food to your inhabitants.&#10;&#10;Still there is one demand which we have not satisfied so far, you may check that in the marketplace or tent tab - your sailors want a basic building where they can pray.&#10;&#10;The solution is a pavilion which the village parson quickly puts up as shelter from the sun.&#10;&#10;Service buildings like this also need to be connected to the tents with a trail, else your inhabitants feel unable to reach them.&#10;&#10;In later increments, upgraded versions of buildings may become available.">
         <source>Those tools will be enough for the moment. Well done!
 
 You now provide housing, a main square and food to your inhabitants.
 
-Still there is one demand which we have not satisfied so far, you may check that in the maketplace or tent tab - your sailors want a basic building where they can pray.
+Still there is one demand which we have not satisfied so far, you may check that in the marketplace or tent tab - your sailors want a basic building where they can pray.
 
 The solution is a pavilion which the village parson quickly puts up as shelter from the sun.
 
@@ -446,10 +433,10 @@ TASK: Set the tax level to Low (left end) and wait for sailors to upgrade.</sour
         <source>NEW TASK: BUILD A FARM</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Congratulations! Some of your inhabitants have reached increment II!&#10;&#10;Now you have access to some new buildings, have a look at the Build menu again.&#10;&#10;A shiny new tab appeared there.&#10;&#10;Pioneers will demand cloth, so you need to set up a production line for cloth starting with lambs wool (which is one of the goods produced at the farm).&#10;&#10;The farm is a very special production building since it can produce not only one, but very many (and different) goods if you choose.&#10;&#10;The output of farms depends on what kind of fields you build around it.">
+      <trans-unit xml:space="preserve" approved="yes" id="Congratulations! Some of your inhabitants have reached increment II!&#10;&#10;Now you have access to new buildings, take a look at the Build menu again.&#10;&#10;A shiny new tab appeared there.&#10;&#10;Pioneers will demand cloth, so you need to set up a production line for cloth starting with lambs wool (which is one of the goods produced at the farm).&#10;&#10;The farm is a very special production building since it can produce not only one, but very many (and different) goods if you choose.&#10;&#10;The output of farms depends on what kind of fields you build around it.">
         <source>Congratulations! Some of your inhabitants have reached increment II!
 
-Now you have access to some new buildings, have a look at the Build menu again.
+Now you have access to new buildings, take a look at the Build menu again.
 
 A shiny new tab appeared there.
 
@@ -482,7 +469,7 @@ TASK: Build a farm.</source>
         <source>NEW TASK: BUILD FIELDS</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="The farm itself is not going to produce anything without some fields.&#10;&#10;You currently have the choice between pastures, potato and sugar fields.&#10;&#10;Let's have a short overview:&#10;* Pasture: Sheep live here, producing lamb wool.&#10;* Potato field: Grows potatoes which are currently treated as food.&#10;* Sugar field: Grows sugar which is used to make alcohol and (later) produce confectionery.&#10;&#10;We now only need pastures, but in case your food supply chain is too small (maybe many residential buildings) you can also produce some potatoes.&#10;&#10;Note that for potatoes you will need a road connection to the farm (not to the field!) as it will be the only company to work on the goods.">
+      <trans-unit xml:space="preserve" approved="yes" id="The farm itself is not going to produce anything without some fields.&#10;&#10;You currently have the choice between pastures, potato and sugar fields.&#10;&#10;Let's have a short overview:&#10;* Pasture: Sheep live here, producing lamb wool.&#10;* Potato field: Grows potatoes which are currently treated as food.&#10;* Sugar field: Grows sugar which is used to distill liquor and (later) produce confectionery.&#10;&#10;We now only need pastures, but in case your food supply chain is too small (maybe many residential buildings) you can also produce some potatoes.&#10;&#10;Note that for potatoes you will need a road connection to the farm (not to the field!) as it will be the only company to work on the goods.">
         <source>The farm itself is not going to produce anything without some fields.
 
 You currently have the choice between pastures, potato and sugar fields.
@@ -490,7 +477,7 @@ You currently have the choice between pastures, potato and sugar fields.
 Let's have a short overview:
 * Pasture: Sheep live here, producing lamb wool.
 * Potato field: Grows potatoes which are currently treated as food.
-* Sugar field: Grows sugar which is used to make alcohol and (later) produce confectionery.
+* Sugar field: Grows sugar which is used to distill liquor and (later) produce confectionery.
 
 We now only need pastures, but in case your food supply chain is too small (maybe many residential buildings) you can also produce some potatoes.
 
