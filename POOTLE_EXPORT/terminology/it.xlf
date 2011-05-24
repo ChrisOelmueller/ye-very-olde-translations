@@ -338,6 +338,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="storage tent">
         <source>storage tent</source>
         <target state="translated">tenda di stoggaggio</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>tenda di stoccaggio</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="sugar">
         <source>sugar</source>
