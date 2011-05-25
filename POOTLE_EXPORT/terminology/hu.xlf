@@ -29,10 +29,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="overview">
         <source>overview</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>áttekintés</target>
-        </alt-trans>
+        <target state="translated">áttekintés</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="ship">
         <source>ship</source>
@@ -48,10 +45,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="farm">
         <source>farm</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>tanya</target>
-        </alt-trans>
+        <target state="translated">tanya</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="sailor">
         <source>sailor</source>
@@ -67,10 +61,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="settlement">
         <source>settlement</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>gyarmat</target>
-        </alt-trans>
+        <target state="translated">gyarmat</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="start">
         <source>start</source>
@@ -86,24 +77,15 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="food">
         <source>food</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>étel</target>
-        </alt-trans>
+        <target state="translated">étel</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="increment">
         <source>increment</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>növekmény</target>
-        </alt-trans>
+        <target state="translated">növekmény</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="minimap">
         <source>minimap</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>kistérkép</target>
-        </alt-trans>
+        <target state="translated">kistérkép</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="running costs">
         <source>running costs</source>
