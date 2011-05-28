@@ -5,8 +5,7 @@
       <trans-unit xml:space="preserve" approved="yes" id="build">
         <source>build</source>
         <target state="translated">bauen / Bau-</target>
-        <note from="developer">set translated building name in gui</note>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (43)
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (43)&#13;
 (poterminology) uh/unknownhorizons.pot (10)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="game">
@@ -29,7 +28,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="resource">
         <source>resource</source>
-        <target state="translated">Ware</target>
+        <target state="translated">Ware/Rohstoff</target>
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (8)
 (poterminology) uh/unknownhorizons.pot (14)</note>
       </trans-unit>
@@ -196,7 +195,7 @@ Bezeichnet *nur* die dritte Einwohner-Ausbaustufe. Generelle Einwohner = inhabit
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="trail">
         <source>trail</source>
-        <target state="translated">Trampelpfad</target>
+        <target state="translated">Pfad / Weg</target>
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (10)
 (poterminology) uh/unknownhorizons.pot (2)</note>
       </trans-unit>
@@ -336,6 +335,9 @@ Bezeichnet *nur* die dritte Einwohner-Ausbaustufe. Generelle Einwohner = inhabit
         <target state="translated">Pavillon</target>
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (4)
 (poterminology) uh/unknownhorizons.pot (2)</note>
+        <alt-trans xml:space="preserve" origin="nimini">
+          <target>Kapelle</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="signal">
         <source>signal</source>
@@ -879,13 +881,9 @@ Gemeint ist Beschriftung / Tooltip des zugehörigen Buttons.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="return">
         <source>return</source>
-        <target state="translated">zurück / Rückkehr</target>
-        <note from="translator">
-(poterminology) uh-tutorial/tutorial.pot (1)
+        <target state="translated">zurück / Rückkehr / Enter-Taste</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)&#13;
 (poterminology) uh/unknownhorizons.pot (1)</note>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>zurück / Rückkehr / Enter</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="run">
         <source>run</source>
@@ -945,13 +943,10 @@ Gemeint ist Beschriftung / Tooltip des zugehörigen Buttons.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="yields">
         <source>yields</source>
-        <target state="translated">wirft ab / bringt ein / Gewinne / Erträge</target>
+        <target state="translated">wirft ab / bringt ein</target>
         <note from="translator">
 (poterminology) uh-tutorial/tutorial.pot (1)
 (poterminology) uh/unknownhorizons.pot (1)</note>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>wirft ab / bringt ein</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
