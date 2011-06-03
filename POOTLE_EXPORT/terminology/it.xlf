@@ -12,10 +12,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="building">
         <source>building</source>
-        <target state="translated">costruire</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>costruzione</target>
-        </alt-trans>
+        <target state="translated">costruzione / costruire</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tent">
         <source>tent</source>
@@ -24,9 +21,6 @@
       <trans-unit xml:space="preserve" approved="yes" id="resource">
         <source>resource</source>
         <target state="translated">risorsa</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>risorse</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="branch office">
         <source>branch office</source>
@@ -70,10 +64,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="start">
         <source>start</source>
-        <target state="translated">inizio</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>avvio</target>
-        </alt-trans>
+        <target state="translated">avvio / inizio</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tab">
         <source>tab</source>
@@ -117,10 +108,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change">
         <source>change</source>
-        <target state="translated">cambia</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>cambiamento</target>
-        </alt-trans>
+        <target state="translated">cambia / -mento</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="click">
         <source>click</source>
@@ -152,24 +140,15 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="buy">
         <source>buy</source>
-        <target state="translated">compra</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>comprare</target>
-        </alt-trans>
+        <target state="translated">comprare</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="connect">
         <source>connect</source>
-        <target state="translated">connetti</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>collegare</target>
-        </alt-trans>
+        <target state="translated">connetti / collegare</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="lumberjack">
         <source>lumberjack</source>
-        <target state="translated">taglialegna</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>tagliaboschi</target>
-        </alt-trans>
+        <target state="translated">taglialegna / tagliaboschi</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="sell">
         <source>sell</source>
@@ -189,10 +168,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="companies">
         <source>companies</source>
-        <target state="translated">compagnie</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>aziende</target>
-        </alt-trans>
+        <target state="translated">compagnie / aziende</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="cost">
         <source>cost</source>
@@ -200,10 +176,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="free">
         <source>free</source>
-        <target state="translated">gratis</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>libero</target>
-        </alt-trans>
+        <target state="translated">libero</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="left">
         <source>left</source>
@@ -211,10 +184,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="log">
         <source>log</source>
-        <target state="translated">diario</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>registro</target>
-        </alt-trans>
+        <target state="translated">diario / registro</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="reach">
         <source>reach</source>
@@ -222,10 +192,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="select">
         <source>select</source>
-        <target state="translated">seleziona</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>selezione</target>
-        </alt-trans>
+        <target state="translated">selezione</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="stock">
         <source>stock</source>
@@ -277,10 +244,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="active">
         <source>active</source>
-        <target state="translated">attiva</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>attivo</target>
-        </alt-trans>
+        <target state="translated">attivo</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="choose">
         <source>choose</source>
