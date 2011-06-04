@@ -272,6 +272,19 @@ Sinun tulisi harkita perustavasi varsinaisen taloasutuskeskuksesi alueelle, jolt
 Sinun tulee välttää sijoittamasta telttojasi esimerkiksi liian lähelle puunhakkaajiasi, koska telttojen rakentaminen raivaa puut, joita puunhakkaajasi tarvitsee rakentaakseen lautoja.
 
 TEHTÄVÄ: Rakenna keskustori.</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Asukkaasi tarvitsevat keskustorin, jolta he voivat hankkia elintarvikkeensa.
+
+Tämä tarkoittaa, että he tarvitsevat kulkuyhteyden kodeistaan keskustorille.
+
+Kaikki elintarvikkeet sivutoimistollasi ovat saatavilla tältä 'kauppapaikalta', joten asukkaidesi ei tarvitse kävellä kalastajalle tai jopa sivutoimistolle.
+
+Sinun tulisi harkita perustavasi varsinaisen taloasutuskeskuksesi alueelle, jolta voit helposti laajentaa sitä ja myös rakentaa polkuja.
+
+Sinun tulee välttää sijoittamasta telttojasi esimerkiksi liian lähelle puunhakkaajiasi, koska telttojen rakentaminen raivaa puut, joita puunhakkaajasi tarvitsee rakentaakseen lautoja.
+
+TEHTÄVÄ: Rakenna keskustori.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Now let's have a closer look at the main square.&#10;&#10;In the overview tab you can quickly adjust taxes.&#10;&#10;In the second tab 'Account' you get a balance sheet of this island, featuring all costs you pay and all taxes you earn.&#10;&#10;The items 'Sale' and 'Buy' refer to your trading balance and will be explained later on.&#10;&#10;If your balance is positive, you all-in-all make a profit.&#10;&#10;In the 'Settler' tab you can see how happy your inhabitants are and what resource most of them want to be supplied with.">
         <source>Now let's have a closer look at the main square.
@@ -666,6 +679,17 @@ Eri tyyppiset pellot tarvitsevat maatilayksiköiltä enemmän tai vähemmän aik
 Mutta nyt sinun ei tarvitse huolehtia paljoa, sillä et ole vielä rakentanut yhtäkään peltoa. Tehdään siis asialle jotakin!
 
 TEHTÄVÄ: Rakenna vähintään yksi laidun maatilan ulottuville ja lisää perunamaita, jos tykkäät.</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Varmista, että kaikki rakentamasi pellot ovat maatilan alueella.
+
+Voit harrastaa sekatuotantoa - yksi laidun ei johda 100 prosentin tehokkuuteen, mutta sinun täytyy tarkistaa, montako peltoa yksi maatila voi hoitaa.
+
+Eri tyyppiset pellot tarvitsevat maatilayksiköiltä enemmän tai vähemmän aikaa (kylvämiseen, korjuuseen, paimennukseen, jne.) ja sen vuoksi maatila ei välttämättä pysty huolehtimaan kaikista rakentamistasi pelloista ajoissa.
+
+Mutta nyt sinun ei tarvitse huolehtia paljoa, sillä et ole vielä rakentanut yhtäkään peltoa. Tehdään siis asialle jotakin!
+
+TEHTÄVÄ: Rakenna vähintään yksi laidun maatilan ulottuville ja lisää perunamaita, jos tykkäät.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build at least one pasture and add potato fields if you like.">
         <source>Build at least one pasture and add potato fields if you like.</source>
