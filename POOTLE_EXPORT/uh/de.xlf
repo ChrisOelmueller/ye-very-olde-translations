@@ -4,7 +4,8 @@
     <body>
       <trans-unit xml:space="preserve" approved="yes" id="Unknown Horizons Version %s">
         <source>Unknown Horizons Version %s</source>
-        <target state="translated">Unbekannte Horizons Version %s</target>
+        <target state="translated">Unknown Horizons Version %s</target>
+        <note from="translator">or: Unbekannte Horizonte Version %s</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Restart required">
         <source>Restart required</source>
@@ -40,7 +41,7 @@ Verwendet ihn nur, wenn Ihr wisst, was Ihr tut!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The port you specified is not valid. It must be a number between 1 and 65535.">
         <source>The port you specified is not valid. It must be a number between 1 and 65535.</source>
-        <target state="translated">Der angegebene Port ist ungültig. Er muss eine Zahl zwischen 1 und 65535 sein.</target>
+        <target state="translated">Der angegebene Port ist ungültig. Er muss eine Nummer zwischen 1 und 65535 besitzen.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Please check the port you entered and make sure it's in the specified range.">
         <source>Please check the port you entered and make sure it's in the specified range.</source>
@@ -121,6 +122,7 @@ Soll dieser überschrieben werden?</target>
       <trans-unit xml:space="preserve" approved="yes" id="Select a savegame">
         <source>Select a savegame</source>
         <target state="translated">Wählt einen Speicherstand</target>
+        <note from="developer">ok button has been pressed, but no savegame was selected</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Details:">
         <source>Details:</source>
@@ -205,11 +207,8 @@ Vers. %(need)d benötigt!</target>
       <trans-unit xml:space="preserve" approved="yes" id="Could not connect to master server. Please check your Internet connection. If it is fine, it means our master server is temporarily down.&#10;Details: %s">
         <source>Could not connect to master server. Please check your Internet connection. If it is fine, it means our master server is temporarily down.
 Details: %s</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="eoc">
-          <target>Konnte keine Verbindung zum Masterserver aufbauen. Bitte überprüft Eure Internetverbindung. Wenn sie funktioniert, liegt das Problem bei unserem Server.
+        <target state="translated">Konnte keine Verbindung zum Masterserver aufbauen. Bitte überprüft Eure Internetverbindung. Wenn sie funktioniert, liegt das Problem bei unserem Server.
 Details: %s</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Network Error">
         <source>Network Error</source>
@@ -561,7 +560,7 @@ Bitte meldet dies dem Autor.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Rotate map counterclockwise">
         <source>Rotate map counterclockwise</source>
-        <target state="translated">Karte im Gegenuhrzeigersinn drehen</target>
+        <target state="translated">Karte gegen den Uhrzeigersinn drehen</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Rotate map clockwise">
         <source>Rotate map clockwise</source>
@@ -1145,7 +1144,7 @@ Bitte meldet dies dem Autor.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Average happiness:">
         <source>Average happiness:</source>
-        <target state="translated">Mittlere Zufriedenheit:</target>
+        <target state="translated">Durchschnittliche Zufriedenheit:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Most needed resource:">
         <source>Most needed resource:</source>
@@ -1296,10 +1295,7 @@ Bitte meldet dies dem Autor.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Error: don't know how to handle %(type)s condition type">
         <source>Error: don't know how to handle %(type)s condition type</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="eoc">
-          <target>Fehler: Verwendungsweise einer Bedingung vom Typ %(type)s unbekannt.</target>
-        </alt-trans>
+        <target state="translated">Fehler: Verwendungsweise einer Bedingung vom Typ %(type)s unbekannt</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Error: Cannot find campaign &quot;%s&quot;.">
         <source>Error: Cannot find campaign "%s".</source>
@@ -1344,6 +1340,7 @@ Bitte meldet dies dem Autor.</target>
       <trans-unit xml:space="preserve" approved="yes" id="Failed to create savegame file">
         <source>Failed to create savegame file</source>
         <target state="translated">Speicherstand konnte nicht angelegt werden</target>
+        <note from="developer">usually invalid filename</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="There has been an error while creating your savegame file.">
         <source>There has been an error while creating your savegame file.</source>
@@ -1451,10 +1448,7 @@ Bitte meldet dies dem Autor.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enable the string previewer tool for scenario writers">
         <source>Enable the string previewer tool for scenario writers</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="eoc">
-          <target>Starte die Vorschau von Logbucheinträgen in Szenarios</target>
-        </alt-trans>
+        <target state="translated">Starte die Vorschau von Logbucheinträgen in Szenarios</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Unknown Horizons crashed.">
         <source>Unknown Horizons crashed.</source>
@@ -1550,7 +1544,8 @@ Bitte meldet dies dem Autor.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Main Square">
         <source>Main Square</source>
-        <target state="translated">Hauptplatz</target>
+        <target state="translated">Marktplatz</target>
+        <note from="translator">*nicht* Hauptplatz!</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Mountain">
         <source>Mountain</source>
@@ -1563,6 +1558,7 @@ Bitte meldet dies dem Autor.</target>
       <trans-unit xml:space="preserve" approved="yes" id="Pavilion">
         <source>Pavilion</source>
         <target state="translated">Pavillon</target>
+        <note from="translator">*NICHT* Kapelle</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Potato Field">
         <source>Potato Field</source>
@@ -1627,7 +1623,7 @@ Bitte meldet dies dem Autor.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="cyan">
         <source>cyan</source>
-        <target state="translated">cyan</target>
+        <target state="translated">türkis</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="green">
         <source>green</source>
