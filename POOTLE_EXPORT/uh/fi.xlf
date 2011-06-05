@@ -4,49 +4,100 @@
     <body>
       <trans-unit xml:space="preserve" approved="yes" id="Unknown Horizons Version %s">
         <source>Unknown Horizons Version %s</source>
-        <target state="translated"></target>
+        <target state="translated">Unknown Horizons Versio %s</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Restart required">
         <source>Restart required</source>
-        <target state="translated"></target>
+        <target state="translated">Uudelleenkäynnistys tarpeen</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Some of your changes require a restart of Unknown Horizons.">
         <source>Some of your changes require a restart of Unknown Horizons.</source>
-        <target state="translated"></target>
+        <target state="translated">Jotkin tekemistäsi muutoksista vaativat, että Unknown Horizons uudelleenkäynnistetään.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="System default">
         <source>System default</source>
-        <target state="translated"></target>
+        <target state="translated">Järjestelmän oletus</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Warning">
         <source>Warning</source>
-        <target state="translated"></target>
+        <target state="translated">Varoitus</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The SDL renderer is meant as a fallback solution only and has serious graphical glitches. &#10;&#10;Use at own risk!">
         <source>The SDL renderer is meant as a fallback solution only and has serious graphical glitches. 
 
 Use at own risk!</source>
-        <target state="translated"></target>
+        <target state="translated">SDL renderöijä on tarkoitettu vain vararatkaisuksi ja sisältää vakavia piirtovirheitä. 
+
+Käyttö omalla vastuulla!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Configured language %(lang)s at %(place)s could not be loaded">
         <source>Configured language %(lang)s at %(place)s could not be loaded</source>
+        <target state="translated">Asetettu kieli, %(lang)s, kohdassa %(place)s ei onnistunut latautumaan</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Invalid network port">
+        <source>Invalid network port</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Virheellinen verkkoportti</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The port you specified is not valid. It must be a number between 1 and 65535.">
+        <source>The port you specified is not valid. It must be a number between 1 and 65535.</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Määrittelemäsi portti on virheellinen. Sen tulisi olla numero väliltä 1 - 65535.</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Please check the port you entered and make sure it's in the specified range.">
+        <source>Please check the port you entered and make sure it's in the specified range.</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Tarkista valitsemasi portti ja varmista, että se kuuluu määritellylle välille.</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Failed to apply new network data.">
+        <source>Failed to apply new network data.</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Virhe yritettäessä ottaa käyttöön verkkotietoja.</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Networking couldn't be initialised with the current configuration.">
+        <source>Networking couldn't be initialised with the current configuration.</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Verkkoa ei saatu otettua käyttöön näillä asetuksilla.</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Check the data you entered in the Network section.">
+        <source>Check the data you entered in the Network section.</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Tarkista verkko-osioon kirjoittamasi tiedot.</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Low port numbers sometimes require special privileges, try one greater than 1024 or 0.">
+        <source>Low port numbers sometimes require special privileges, try one greater than 1024 or 0.</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Matalat porttinumerot tarvitsevat joskus erityisoikeuksia, yritäpä jotain suurempaa kuin 1024 tai 0.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Error">
         <source>Error</source>
-        <target state="translated"></target>
+        <target state="translated">Virhe</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Failed to save.">
         <source>Failed to save.</source>
-        <target state="translated"></target>
+        <target state="translated">Tallennus epäonnistui.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Are you sure you want to quit Unknown Horizons?">
         <source>Are you sure you want to quit Unknown Horizons?</source>
-        <target state="translated"></target>
+        <target state="translated">Oletko varma, että haluat poistua pelistä Unknown Horizons?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Quit Game">
         <source>Quit Game</source>
-        <target state="translated"></target>
+        <target state="translated">Poistu pelistä</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Are you sure you want to abort the running session?">
         <source>Are you sure you want to abort the running session?</source>
@@ -58,39 +109,68 @@ Use at own risk!</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="No saved games">
         <source>No saved games</source>
-        <target state="translated"></target>
+        <target state="translated">Ei tallennettuja pelejä</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="There are no saved games to load">
         <source>There are no saved games to load</source>
-        <target state="translated"></target>
+        <target state="translated">Ei ole tallennettuja pelejä ladattavaksi</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Load game">
         <source>Load game</source>
-        <target state="translated"></target>
+        <target state="translated">Lataa peli</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Save game">
         <source>Save game</source>
-        <target state="translated"></target>
+        <target state="translated">Tallenna peli</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="A savegame with the name &quot;%s&quot; already exists. &#10;Should i overwrite it?">
         <source>A savegame with the name "%s" already exists. 
 Should i overwrite it?</source>
-        <target state="translated"></target>
+        <target state="translated">Tallennus nimellä "%s" on jo olemassa. 
+Tallennetaanko sen päälle?</target>
         <note from="developer">savegamename already exists</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Confirmation for overwriting">
         <source>Confirmation for overwriting</source>
+        <target state="translated">Vahvistus ylikirjoittamiselle</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Please select a savegame or click on cancel.">
+        <source>Please select a savegame or click on cancel.</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Valitse tallennus tai paina 'peruuta'.</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Select a savegame">
+        <source>Select a savegame</source>
+        <target state="translated"></target>
+        <note from="developer">ok button has been pressed, but no savegame was selected</note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Valitse tallennus</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Details:">
+        <source>Details:</source>
+        <target state="translated">Yksityiskohdat:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Error:">
+        <source>Error:</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Virhe:</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Unknown savedate&#10;">
         <source>Unknown savedate
 </source>
-        <target state="translated"></target>
+        <target state="translated">Tuntematon tallennuspäivä
+</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Saved at %s&#10;">
         <source>Saved at %s
 </source>
-        <target state="translated"></target>
+        <target state="translated">Tallennettu %s
+</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="%H:%M, %A, %B %d">
         <source>%H:%M, %A, %B %d</source>
@@ -98,224 +178,289 @@ Should i overwrite it?</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Savegame ver. %d">
         <source>Savegame ver. %d</source>
-        <target state="translated"></target>
+        <target state="translated">Tallennusversio %d</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="WARNING: Incompatible ver. %(ver)d!&#10;Need ver. %(need)d!">
         <source>WARNING: Incompatible ver. %(ver)d!
 Need ver. %(need)d!</source>
-        <target state="translated"></target>
+        <target state="translated">VAROITUS: Epäyhteensopiva versio %(ver)d!
+Tarvittu versio %(need)d!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="INCOMPATIBLE VERSION&#10;">
         <source>INCOMPATIBLE VERSION
 </source>
-        <target state="translated"></target>
+        <target state="translated">EPÄYHTEENSOPIVA VERSIO
+</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="No file selected">
         <source>No file selected</source>
-        <target state="translated"></target>
+        <target state="translated">Ei tiedostoa valittuna</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You need to select a savegame to delete">
         <source>You need to select a savegame to delete</source>
-        <target state="translated"></target>
+        <target state="translated">Sinun tulee valita tallennus voidaksesi poistaa</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Do you really want to delete the savegame &quot;%s&quot;?">
         <source>Do you really want to delete the savegame "%s"?</source>
-        <target state="translated"></target>
+        <target state="translated">Haluatko varmasti poistaa tallennuksen "%s"?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Confirm deletion">
         <source>Confirm deletion</source>
-        <target state="translated"></target>
+        <target state="translated">Vahvista poistaminen</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Error!">
         <source>Error!</source>
-        <target state="translated"></target>
+        <target state="translated">Virhe!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Failed to delete savefile!">
         <source>Failed to delete savefile!</source>
-        <target state="translated"></target>
+        <target state="translated">Tallennusta ei voitu poistaa!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Hit P to continue the game or click below!">
         <source>Hit P to continue the game or click below!</source>
-        <target state="translated"></target>
+        <target state="translated">Paina P:tä jatkaaksesi peliä tai paina alta!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Game paused">
         <source>Game paused</source>
-        <target state="translated"></target>
+        <target state="translated">Peli pysäytetty</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Could not connect to master server. Details: %s">
-        <source>Could not connect to master server. Details: %s</source>
+      <trans-unit xml:space="preserve" approved="yes" id="Networking isn't initialised">
+        <source>Networking isn't initialised</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Verkkoa ei ole alustettu</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Networking isn't initialised, probably because of configuration issues. Check your settings!">
+        <source>Networking isn't initialised, probably because of configuration issues. Check your settings!</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Verkkoa ei ole alustettu johtuen todennäköisesti asetuksista. Tarkista asetuksesi!</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Could not connect to master server. Please check your Internet connection. If it is fine, it means our master server is temporarily down.&#10;Details: %s">
+        <source>Could not connect to master server. Please check your Internet connection. If it is fine, it means our master server is temporarily down.
+Details: %s</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Pääpalvelimeen ei voitu yhdistää. Ole hyvä ja tarkista Internet-yhteytesi. Jos se on kunnossa, niin siinä tapauksessa pääpalvelimemme on väliaikaisesti alhaalla.
+Yksityiskohdat: %s</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Network Error">
         <source>Network Error</source>
-        <target state="translated"></target>
+        <target state="translated">Verkkovirhe</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Something went wrong with the network: ">
         <source>Something went wrong with the network: </source>
-        <target state="translated"></target>
+        <target state="translated">Jotakin meni pieleen verkon kanssa: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Version differs!">
         <source>Version differs!</source>
-        <target state="translated"></target>
+        <target state="translated">Versio eroaa!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Map: ">
         <source>Map: </source>
-        <target state="translated"></target>
+        <target state="translated">Kenttä: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Players: ">
         <source>Players: </source>
-        <target state="translated"></target>
+        <target state="translated">Pelaajat: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Creator: ">
         <source>Creator: </source>
-        <target state="translated"></target>
+        <target state="translated">Tekijä: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The game's version differs from your version. Every player in a multiplayer game must use the same version. This can be fixed by every player updating to the latest version. Game version: %(gameversion)s Your version: %(ownversion)s">
         <source>The game's version differs from your version. Every player in a multiplayer game must use the same version. This can be fixed by every player updating to the latest version. Game version: %(gameversion)s Your version: %(ownversion)s</source>
-        <target state="translated"></target>
+        <target state="translated">Pelin versio eroaa sinun versiostasi. Moninpelissä jokaisella pitää olla sama versio. Tämä korjautuu jos jokainen pelaaja päivittää viimeisimpään versioon. Pelin versio: %(gameversion)s Sinun versiosi: %(ownversion)s</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Wrong version">
         <source>Wrong version</source>
-        <target state="translated"></target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="The random map feature is still in active development. It is to be considered a pre testing version. Problems are to be expected.">
-        <source>The random map feature is still in active development. It is to be considered a pre testing version. Problems are to be expected.</source>
-        <target state="translated"></target>
+        <target state="translated">Väärä versio</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Difficulty: ">
         <source>Difficulty: </source>
-        <target state="translated"></target>
+        <target state="translated">Vaikeustaso: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Author: ">
         <source>Author: </source>
-        <target state="translated"></target>
+        <target state="translated">Tekijä: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Description: ">
         <source>Description: </source>
-        <target state="translated"></target>
+        <target state="translated">Kuvaus: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Invalid player name">
         <source>Invalid player name</source>
-        <target state="translated"></target>
+        <target state="translated">Virheellinen pelaajanimi</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You entered an invalid playername">
         <source>You entered an invalid playername</source>
-        <target state="translated"></target>
+        <target state="translated">Annoit virheellisen pelaajanimen</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Invalid scenario file">
         <source>Invalid scenario file</source>
-        <target state="translated"></target>
+        <target state="translated">Virheellinen kenttätiedosto</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The selected file is not a valid scenario file.&#10;Error message: ">
         <source>The selected file is not a valid scenario file.
 Error message: </source>
-        <target state="translated"></target>
+        <target state="translated">Valittu tiedosto ei ole käypä kenttätiedosto.
+Virhesanoma: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="&#10;Please report this to the author.">
         <source>
 Please report this to the author.</source>
-        <target state="translated"></target>
+        <target state="translated">
+Ole hyvä ja ilmoita tästä tekijälle.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build">
         <source>Build</source>
-        <target state="translated"></target>
+        <target state="translated">Rakenna</target>
         <note from="developer">set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Boat builder overview">
         <source>Boat builder overview</source>
-        <target state="translated"></target>
+        <target state="translated">Laivanrakennuksen yleiskatsaus</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Resources still needed:">
         <source>Resources still needed:</source>
-        <target state="translated"></target>
+        <target state="translated">Puuttuvat luonnovarat:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Fisher boats">
         <source>Fisher boats</source>
-        <target state="translated"></target>
+        <target state="translated">Kalastusveneet</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Trade boats">
         <source>Trade boats</source>
-        <target state="translated"></target>
+        <target state="translated">Kauppalaivat</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="War boats">
         <source>War boats</source>
-        <target state="translated"></target>
+        <target state="translated">Sotalaivat</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="War ships">
         <source>War ships</source>
-        <target state="translated"></target>
+        <target state="translated">Sota-alukset</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Confirm order">
         <source>Confirm order</source>
-        <target state="translated"></target>
+        <target state="translated">Vahvista järjestys</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Increment">
         <source>Increment</source>
-        <target state="translated"></target>
+        <target state="translated">Kasvata</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Trade">
         <source>Trade</source>
-        <target state="translated"></target>
+        <target state="translated">Kaupankäynti</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Inventory">
         <source>Inventory</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Tavaravalikko</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Tavaranäkymä</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Ship inventory">
         <source>Ship inventory</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Aluksen tavaranäkymä</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Account">
         <source>Account</source>
-        <target state="translated"></target>
+        <target state="translated">Käyttäjätili</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Settler overview">
         <source>Settler overview</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Asukaskatsaus</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Overview">
         <source>Overview</source>
-        <target state="translated"></target>
+        <target state="translated">Yleiskatsaus</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Branch office overview">
         <source>Branch office overview</source>
-        <target state="translated"></target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Ship overview">
-        <source>Ship overview</source>
-        <target state="translated"></target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Production overview">
-        <source>Production overview</source>
-        <target state="translated"></target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Destroy building">
-        <source>Destroy building</source>
-        <target state="translated"></target>
+        <target state="translated">Sivutoimiston yleiskatsaus</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Market place overview">
         <source>Market place overview</source>
-        <target state="translated"></target>
+        <target state="translated">Kauppatorin yleiskatsaus</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Ship overview">
+        <source>Ship overview</source>
+        <target state="translated">Aluksen yleiskatsaus</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Production overview">
+        <source>Production overview</source>
+        <target state="translated">Tuotannon yleiskatsaus</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Destroy building">
+        <source>Destroy building</source>
+        <target state="translated">Tuhoa rakennus</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Limit: %st per slot">
         <source>Limit: %st per slot</source>
+        <target state="translated">Raja: %st per paikka</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Emptiness">
+        <source>Emptiness</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Tyhjyys</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="There is nothing written in your logbook yet!">
+        <source>There is nothing written in your logbook yet!</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Sinun lokikirjaasi ei ole vielä kirjoitettu mitään!</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Start route">
+        <source>Start route</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Aloita reitti</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Stop route">
+        <source>Stop route</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Lopeta reitti</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Companies">
         <source>Companies</source>
-        <target state="translated"></target>
+        <target state="translated">Yritykset</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sailor buildings">
         <source>Sailor buildings</source>
-        <target state="translated"></target>
+        <target state="translated">Merenkäyntirakennukset</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Merenkulkurakennukset</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Residents and infrastructure">
         <source>Residents and infrastructure</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Asukkaat ja infrastruktuuri</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Services">
         <source>Services</source>
-        <target state="translated"></target>
+        <target state="translated">Palvelut</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Pavilion: Fulfills religious needs of sailors.">
         <source>Pavilion: Fulfills religious needs of sailors.</source>
@@ -323,43 +468,46 @@ Please report this to the author.</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Fisherman: Fishes the sea, produces food.">
         <source>Fisherman: Fishes the sea, produces food.</source>
-        <target state="translated"></target>
+        <target state="translated">Kalastaja: Kalastaa merta, tuottaa ruokaa.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Hunter: Hunts wild forest animals, produces food.">
         <source>Hunter: Hunts wild forest animals, produces food.</source>
-        <target state="translated"></target>
+        <target state="translated">Metsästäjä: Metsästää metsän villieläimiä, tuottaa ruokaa.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Signal fire: Allows the player to trade with the free trader.">
         <source>Signal fire: Allows the player to trade with the free trader.</source>
-        <target state="translated"></target>
+        <target state="translated">Merkkituli: Päästää pelaajan käymään kauppaa vapaakauppiaan kanssa.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Lumberjack: Chops down trees and turns them into boards.">
         <source>Lumberjack: Chops down trees and turns them into boards.</source>
-        <target state="translated"></target>
+        <target state="translated">Puunhakkaaja: Kaataa puita ja tekee niistä lautoja.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Main square: Supplies citizens with goods.">
         <source>Main square: Supplies citizens with goods.</source>
-        <target state="translated"></target>
+        <target state="translated">Keskustori: Tarjoaa asukkaille tuotteita.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tent: Houses your inhabitants.">
         <source>Tent: Houses your inhabitants.</source>
-        <target state="translated"></target>
+        <target state="translated">Teltta: Asuttaa asukkaasi.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Storage: Extends stock and provides collectors.">
         <source>Storage: Extends stock and provides collectors.</source>
-        <target state="translated"></target>
+        <target state="translated">Varasto: laajentaa valikoimaa ja tarjoaa kerääjiä.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Trail: Needed for collecting goods.">
         <source>Trail: Needed for collecting goods.</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Polku: Tarpeen tavaroiden keräämiselle.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tree">
         <source>Tree</source>
-        <target state="translated"></target>
+        <target state="translated">Puu</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Fields">
         <source>Fields</source>
-        <target state="translated"></target>
+        <target state="translated">Pellot</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Pioneer buildings">
         <source>Pioneer buildings</source>
@@ -367,175 +515,208 @@ Please report this to the author.</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Military">
         <source>Military</source>
-        <target state="translated"></target>
+        <target state="translated">Armeija</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Boat builder: Builds boats and small ships. Built on coast.">
         <source>Boat builder: Builds boats and small ships. Built on coast.</source>
-        <target state="translated"></target>
+        <target state="translated">Veneenveistämö: Rakentaa veneitä ja pieniä laivoja. Rakennetaan rannikolle.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Brickyard: Turns clay into bricks.">
         <source>Brickyard: Turns clay into bricks.</source>
-        <target state="translated"></target>
+        <target state="translated">Savivalamo: Muuttaa savea tiiliksi.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Clay pit: Gets clay from deposit.">
         <source>Clay pit: Gets clay from deposit.</source>
-        <target state="translated"></target>
+        <target state="translated">Savikuoppa: Kaivaa savea savisesta maasta.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Distillery: Turns sugar into liquor.">
         <source>Distillery: Turns sugar into liquor.</source>
-        <target state="translated"></target>
+        <target state="translated">Tislaamo: Käyttää sokeria viinanpolttoon.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Farm: Grows field crops and raises livestock.">
         <source>Farm: Grows field crops and raises livestock.</source>
-        <target state="translated"></target>
+        <target state="translated">Maatila: Kasvattaa peltojen satoa ja karjaa.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Pasture: Raises sheep. Produces wool. Needs a farm.">
         <source>Pasture: Raises sheep. Produces wool. Needs a farm.</source>
-        <target state="translated"></target>
+        <target state="translated">Laidun: Kasvattaa lampaita. Tuottaa villaa. Tarvitsee maatilan.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Potato field: Yields food. Needs a farm.">
         <source>Potato field: Yields food. Needs a farm.</source>
-        <target state="translated"></target>
+        <target state="translated">Perunamaa: Tuottaa ruokaa. Tarvitsee maatilan.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sugarcane field: Used in liquor production. Needs a farm.">
         <source>Sugarcane field: Used in liquor production. Needs a farm.</source>
-        <target state="translated"></target>
+        <target state="translated">Sokeriruokopelto: Tuottaa sokeria sokeripitoisia juomia varten. Tarvitsee maatilan.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Village school: Provides education.">
         <source>Village school: Provides education.</source>
-        <target state="translated"></target>
+        <target state="translated">Kyläkoulu: Tarjoaa opetusta.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Weaver: Turns lamb wool into cloth.">
         <source>Weaver: Turns lamb wool into cloth.</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Kutomo: Tekee lampaanvillasta vaatteita.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Settler buildings">
         <source>Settler buildings</source>
-        <target state="translated"></target>
+        <target state="translated">Uudisasutusrakennukset</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Charcoal burning: Burns a lot of boards.">
         <source>Charcoal burning: Burns a lot of boards.</source>
-        <target state="translated"></target>
+        <target state="translated">Puuhiilen polttopaikka: Polttaa paljon lautoja.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Iron mine: Gets iron ore from deposit.">
         <source>Iron mine: Gets iron ore from deposit.</source>
-        <target state="translated"></target>
+        <target state="translated">Rautakaivos: Kaivaa rautaa rautaesiintymästä.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Smeltery: Refines all kind of ores.">
         <source>Smeltery: Refines all kind of ores.</source>
-        <target state="translated"></target>
+        <target state="translated">Sulattamo: Jalostaa kaikenlaisia malmeja.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tavern: Provides get-together.">
         <source>Tavern: Provides get-together.</source>
-        <target state="translated"></target>
+        <target state="translated">Majatalo: Järjestää pitoja.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Toolmaker: Produces tools out of iron.">
         <source>Toolmaker: Produces tools out of iron.</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Työkalujen tekijä: Valmistaa työkaluja raudasta.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Running costs:">
         <source>Running costs:</source>
+        <target state="translated">Juoksevat kustannukset:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="String Previewer Tool for Scenario files">
+        <source>String Previewer Tool for Scenario files</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Merkkijonojen esikatselutyökalu kenttätiedostoille</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="select a scenario and click on load/reload to update the messages in the captain's log">
+        <source>select a scenario and click on load/reload to update the messages in the captain's log</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Valitse kenttä ja paina lataa/uudelleenlataa päivittääksesi viestit Kapteenin päiväkirjassa</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="load/reload">
+        <source>load/reload</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>lataa/uudelleenlataa</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Inhabitants">
         <source>Inhabitants</source>
-        <target state="translated"></target>
+        <target state="translated">Asukkaat</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Click to change the name of your settlement.">
         <source>Click to change the name of your settlement.</source>
-        <target state="translated"></target>
+        <target state="translated">Paina vaihtaaksesi asutuskeskuksesi nimeä.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Destroy">
         <source>Destroy</source>
-        <target state="translated"></target>
+        <target state="translated">Tuhoa</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build menu">
         <source>Build menu</source>
-        <target state="translated"></target>
+        <target state="translated">Rakennusvalikko</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Game menu">
         <source>Game menu</source>
-        <target state="translated"></target>
+        <target state="translated">Pelivalikko</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Help">
         <source>Help</source>
-        <target state="translated"></target>
+        <target state="translated">Ohje</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Captain's log">
         <source>Captain's log</source>
-        <target state="translated"></target>
+        <target state="translated">Kapteenin lokikirja</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Rotate map counterclockwise">
         <source>Rotate map counterclockwise</source>
-        <target state="translated"></target>
+        <target state="translated">Käännä karttaa vastapäivään</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Rotate map clockwise">
         <source>Rotate map clockwise</source>
-        <target state="translated"></target>
+        <target state="translated">Käännä karttaa myötäpäivään</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Decrease game speed">
         <source>Decrease game speed</source>
-        <target state="translated"></target>
+        <target state="translated">Hidasta pelin nopeutta</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Increase game speed">
         <source>Increase game speed</source>
-        <target state="translated"></target>
+        <target state="translated">Kiihdytä pelin nopeutta</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Zoom in">
         <source>Zoom in</source>
-        <target state="translated"></target>
+        <target state="translated">Lähennä kuvaa</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Zoom out">
         <source>Zoom out</source>
-        <target state="translated"></target>
+        <target state="translated">Loitonna kuvaa</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Boards">
         <source>Boards</source>
-        <target state="translated"></target>
+        <target state="translated">Lautoja</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Bricks">
         <source>Bricks</source>
-        <target state="translated"></target>
+        <target state="translated">Tiilet</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Tiiliä</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Food">
         <source>Food</source>
-        <target state="translated"></target>
+        <target state="translated">Ruokaa</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Textiles">
         <source>Textiles</source>
-        <target state="translated"></target>
+        <target state="translated">Tekstiilit</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Kankaita</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tools">
         <source>Tools</source>
-        <target state="translated"></target>
+        <target state="translated">Työkaluja</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Gold">
         <source>Gold</source>
-        <target state="translated"></target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Change name">
-        <source>Change name</source>
-        <target state="translated"></target>
+        <target state="translated">Kultaa</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enter new name:">
         <source>Enter new name:</source>
-        <target state="translated"></target>
+        <target state="translated">Anna uusi nimi:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Change name">
+        <source>Change name</source>
+        <target state="translated">Vaihda nimi</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enter your message:">
         <source>Enter your message:</source>
-        <target state="translated"></target>
+        <target state="translated">Kirjoita viesti:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Chat">
         <source>Chat</source>
-        <target state="translated"></target>
+        <target state="translated">Keskustelu</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Buy resources">
         <source>Buy resources</source>
-        <target state="translated"></target>
+        <target state="translated">Osta resursseja</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Buy or sell resources">
         <source>Buy or sell resources</source>
-        <target state="translated"></target>
+        <target state="translated">Osta tai myy tavaroita</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Legend:">
         <source>Legend:</source>
@@ -543,91 +724,119 @@ Please report this to the author.</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sell resources">
         <source>Sell resources</source>
-        <target state="translated"></target>
+        <target state="translated">Myy resursseja</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Pause production">
         <source>Pause production</source>
-        <target state="translated"></target>
+        <target state="translated">Pysäytä tuotanto</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Start production">
         <source>Start production</source>
-        <target state="translated"></target>
+        <target state="translated">Käynnistä tuotanto</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Leave Captain's log">
         <source>Leave Captain's log</source>
-        <target state="translated"></target>
+        <target state="translated">Poistu kapteenin lokikirjasta</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Read prev. entries">
         <source>Read prev. entries</source>
-        <target state="translated"></target>
+        <target state="translated">Lue edelliset merkinnät</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Read next entries">
         <source>Read next entries</source>
-        <target state="translated"></target>
+        <target state="translated">Lue seuraavat merkinnät</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Exit">
         <source>Exit</source>
-        <target state="translated"></target>
+        <target state="translated">Poistu</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Add to list">
         <source>Add to list</source>
-        <target state="translated"></target>
+        <target state="translated">Lisää listaan</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Start / Stop route">
-        <source>Start / Stop route</source>
+      <trans-unit xml:space="preserve" approved="yes" id="Delete entry">
+        <source>Delete entry</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Poista merkintä</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Move down">
+        <source>Move down</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Siirrä alas</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Move up">
+        <source>Move up</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Siirrä ylös</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Attention please!">
         <source>Attention please!</source>
-        <target state="translated"></target>
+        <target state="translated">Huomio!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Credits">
         <source>Credits</source>
-        <target state="translated"></target>
+        <target state="translated">Tekijät</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Cancel game">
         <source>Cancel game</source>
-        <target state="translated"></target>
+        <target state="translated">Peruuta peli</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Settings">
         <source>Settings</source>
-        <target state="translated"></target>
+        <target state="translated">Asetukset</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Return to game">
         <source>Return to game</source>
-        <target state="translated"></target>
+        <target state="translated">Palaa peliin</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="The FIFE and Unknown Horizons">
-        <source>The FIFE and Unknown Horizons</source>
+      <trans-unit xml:space="preserve" approved="yes" id="The FIFE and Unknown Horizons development teams">
+        <source>The FIFE and Unknown Horizons development teams</source>
         <target state="translated"></target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="development teams">
-        <source>development teams</source>
-        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>FIFE ja Unknown Horizons kehitysryhmät</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Have fun.">
         <source>Have fun.</source>
-        <target state="translated"></target>
+        <target state="translated">Pidä hauskaa.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Key bindings">
         <source>Key bindings</source>
-        <target state="translated"></target>
+        <target state="translated">Näppämistöasetukset</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{LEFT} = Scroll left">
         <source>{LEFT} = Scroll left</source>
-        <target state="translated"></target>
+        <target state="translated">{VASEN} = Rullaa vasemmalle</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>{VASEN} = Vieritä vasemmalle</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{RIGHT} = Scroll right">
         <source>{RIGHT} = Scroll right</source>
-        <target state="translated"></target>
+        <target state="translated">{RIGHT} = Rullaa oikealle</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>{RIGHT} = Vieritä oikealle</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{UP} = Scroll up">
         <source>{UP} = Scroll up</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>{YLÖS} = Vieritä ylös</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{DOWN} = Scroll down">
         <source>{DOWN} = Scroll down</source>
-        <target state="translated"></target>
+        <target state="translated">{ALAS} = Rullaa alas</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>{ALAS} = Vieritä alas</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{ , } = Rotate building left">
         <source>{ , } = Rotate building left</source>
@@ -640,110 +849,125 @@ Please report this to the author.</source>
       <trans-unit xml:space="preserve" approved="yes" id="{B} = Show build menu">
         <source>{B} = Show build menu</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>{B} = Näytä rakennusvalikko</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{F1} = Display help">
         <source>{F1} = Display help</source>
-        <target state="translated"></target>
+        <target state="translated">{F1} = Näytä ohje</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{F5} = Quicksave">
         <source>{F5} = Quicksave</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>{F5} = Pikatallennus</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{F9} = Quickload">
         <source>{F9} = Quickload</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>{F9} = Pikalataus</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{F10} = Toggle console on/off">
         <source>{F10} = Toggle console on/off</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>{F10} = Konsoli näkyviin/pois</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{ESC} = Show pause menu">
         <source>{ESC} = Show pause menu</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>{ESC} = Näytä pysäytysvalikko</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{G} = Toggle grid on/off">
         <source>{G} = Toggle grid on/off</source>
-        <target state="translated"></target>
+        <target state="translated">{G} = Ruudukko päälle/pois</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{X} = Enable destruct mode">
         <source>{X} = Enable destruct mode</source>
-        <target state="translated"></target>
+        <target state="translated">{X} = Mahdollista tuhoaminen</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{P} = Pause game">
         <source>{P} = Pause game</source>
-        <target state="translated"></target>
+        <target state="translated">{P} = Pysäytä peli</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{ + } = Increase game speed">
         <source>{ + } = Increase game speed</source>
-        <target state="translated"></target>
+        <target state="translated">{ + } = Kiihdytä pelin nopeutta</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{ - } = Decrease game speed">
         <source>{ - } = Decrease game speed</source>
-        <target state="translated"></target>
+        <target state="translated">{ - } = Hidasta pelin nopeutta</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{S} = Screenshot">
         <source>{S} = Screenshot</source>
-        <target state="translated"></target>
+        <target state="translated">{S} = Ota kuvakaappaus</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{SHIFT} = Hold to place multiple buildings">
         <source>{SHIFT} = Hold to place multiple buildings</source>
-        <target state="translated"></target>
+        <target state="translated">{SHIFT} = Pidä pohjassa sijoittaaksesi useita rakennuksia</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{C} = Chat">
         <source>{C} = Chat</source>
-        <target state="translated"></target>
+        <target state="translated">{C} = Keskustelu</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{L} = Toggle Captain's log">
         <source>{L} = Toggle Captain's log</source>
-        <target state="translated"></target>
+        <target state="translated">{L} = Kapteenin lokikirja näkyviin/pois</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Exit to main menu">
         <source>Exit to main menu</source>
-        <target state="translated"></target>
+        <target state="translated">Poistu päävalikkoon</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Loading ...">
         <source>Loading ...</source>
-        <target state="translated"></target>
+        <target state="translated">Ladataan ...</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Quit">
         <source>Quit</source>
-        <target state="translated"></target>
+        <target state="translated">Lopeta</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Singleplayer">
         <source>Singleplayer</source>
-        <target state="translated"></target>
+        <target state="translated">Yksinpeli</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Multiplayer">
         <source>Multiplayer</source>
-        <target state="translated"></target>
+        <target state="translated">Moninpeli</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Create game:">
         <source>Create game:</source>
-        <target state="translated"></target>
+        <target state="translated">Luo peli:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Back:">
         <source>Back:</source>
-        <target state="translated"></target>
+        <target state="translated">Takaisin:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Choose a map:">
         <source>Choose a map:</source>
-        <target state="translated"></target>
+        <target state="translated">Valitse kenttä:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Create game - Multiplayer">
         <source>Create game - Multiplayer</source>
-        <target state="translated"></target>
+        <target state="translated">Luo peli - Moninpeli</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Player limit:">
         <source>Player limit:</source>
-        <target state="translated"></target>
+        <target state="translated">Pelaajaraja:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Create this new game">
         <source>Create this new game</source>
-        <target state="translated"></target>
+        <target state="translated">Luo tämä uusi peli</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Exit to multiplayer menu">
         <source>Exit to multiplayer menu</source>
-        <target state="translated"></target>
+        <target state="translated">Poistu moninpelivalikkoon</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Leave:">
         <source>Leave:</source>
@@ -751,103 +975,113 @@ Please report this to the author.</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The game will start as soon as enough players have joined.">
         <source>The game will start as soon as enough players have joined.</source>
-        <target state="translated"></target>
+        <target state="translated">Peli alkaa, kun riittävän monta pelaajaa on liittynyt.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Chat:">
         <source>Chat:</source>
-        <target state="translated"></target>
+        <target state="translated">Keskustelu:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Gamelobby">
         <source>Gamelobby</source>
-        <target state="translated"></target>
+        <target state="translated">Pelihuone</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Game details:">
         <source>Game details:</source>
-        <target state="translated"></target>
+        <target state="translated">Pelin yksityiskohdat:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Exit gamelobby">
         <source>Exit gamelobby</source>
-        <target state="translated"></target>
+        <target state="translated">Poistu pelihuoneesta</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Active games:">
         <source>Active games:</source>
-        <target state="translated"></target>
+        <target state="translated">Aktiivisia pelejä:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Main menu:">
         <source>Main menu:</source>
-        <target state="translated"></target>
+        <target state="translated">Päävalikko:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Show only games with the same version:">
         <source>Show only games with the same version:</source>
-        <target state="translated"></target>
+        <target state="translated">Näytä vain saman version pelit:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="New game - Multiplayer">
         <source>New game - Multiplayer</source>
-        <target state="translated"></target>
+        <target state="translated">Uusi peli - Moninpeli</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Join game">
         <source>Join game</source>
-        <target state="translated"></target>
+        <target state="translated">Liity peliin</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Apply:">
         <source>Apply:</source>
-        <target state="translated"></target>
+        <target state="translated">Hyväksy:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Refresh list:">
         <source>Refresh list:</source>
-        <target state="translated"></target>
+        <target state="translated">Päivitä listaa:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Apply the new name">
         <source>Apply the new name</source>
-        <target state="translated"></target>
+        <target state="translated">Ota uusi nimi käyttöön</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Create a new game">
         <source>Create a new game</source>
-        <target state="translated"></target>
+        <target state="translated">Luo uusi peli</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Join the selected game">
         <source>Join the selected game</source>
-        <target state="translated"></target>
+        <target state="translated">Liity valitsemaasi peliin</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Refresh list of active games">
         <source>Refresh list of active games</source>
-        <target state="translated"></target>
+        <target state="translated">Päivitä lista aktiivisista peleistä</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Autosave interval in minutes:">
         <source>Autosave interval in minutes:</source>
-        <target state="translated"></target>
+        <target state="translated">Automaattisten tallennusten tekoväli minuuteissa:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Color depth:">
         <source>Color depth:</source>
-        <target state="translated"></target>
+        <target state="translated">Värisyvyys:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enable edge scrolling:">
         <source>Enable edge scrolling:</source>
-        <target state="translated"></target>
+        <target state="translated">Ota käyttöön reunavieritys:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Effects volume:">
         <source>Effects volume:</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Tehosteiden määrä:</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Graphics">
         <source>Graphics</source>
-        <target state="translated"></target>
+        <target state="translated">Grafiikka</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Language">
         <source>Language</source>
+        <target state="translated">Kieli</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Network">
+        <source>Network</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Verkko</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Saving">
         <source>Saving</source>
-        <target state="translated"></target>
+        <target state="translated">Tallennetaan</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sound">
         <source>Sound</source>
-        <target state="translated"></target>
+        <target state="translated">Ääni</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Select language:">
         <source>Select language:</source>
-        <target state="translated"></target>
+        <target state="translated">Valitse kieli:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enable minimap rotation:">
         <source>Enable minimap rotation:</source>
@@ -855,131 +1089,158 @@ Please report this to the author.</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Music volume:">
         <source>Music volume:</source>
+        <target state="translated">Musiikin äänenvoimakkuus:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="(0 means default)">
+        <source>(0 means default)</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>(0 tarkoittaa oletusta)</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Network port:">
+        <source>Network port:</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Verkkoportti:</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Number of autosaves:">
         <source>Number of autosaves:</source>
-        <target state="translated"></target>
+        <target state="translated">Automaattisten tallennusten määrä:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Number of quicksaves:">
         <source>Number of quicksaves:</source>
-        <target state="translated"></target>
+        <target state="translated">Pikatallennusten määrä:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Full screen:">
         <source>Full screen:</source>
-        <target state="translated"></target>
+        <target state="translated">Kokonäyttö:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Screen resolution:">
         <source>Screen resolution:</source>
-        <target state="translated"></target>
+        <target state="translated">Näytön koko:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enable sound:">
         <source>Enable sound:</source>
-        <target state="translated"></target>
+        <target state="translated">Ota äänet käyttöön:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Used renderer:">
         <source>Used renderer:</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Käytä näyttösovitinta:</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Please make sure that you know what you do.">
         <source>Please make sure that you know what you do.</source>
-        <target state="translated"></target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Details:">
-        <source>Details:</source>
-        <target state="translated"></target>
+        <target state="translated">Varmista, että tiedät mitä teet.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enter filename:">
         <source>Enter filename:</source>
-        <target state="translated"></target>
+        <target state="translated">Kirjoita tiedostonimi:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Your saved games:">
         <source>Your saved games:</source>
-        <target state="translated"></target>
+        <target state="translated">Tallentamasi pelit:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Choose a map to play:">
         <source>Choose a map to play:</source>
-        <target state="translated"></target>
+        <target state="translated">Valitse kartta pelattavaksi:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="New game - Singleplayer">
         <source>New game - Singleplayer</source>
-        <target state="translated"></target>
+        <target state="translated">Uusi peli - Yksinpeli</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Start game:">
         <source>Start game:</source>
+        <target state="translated">Aloita peli:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Campaign">
+        <source>Campaign</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Päätehtävä</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Free play">
         <source>Free play</source>
-        <target state="translated"></target>
+        <target state="translated">Vapaamuotoinen peli</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Random map">
         <source>Random map</source>
-        <target state="translated"></target>
+        <target state="translated">Satunnainen kartta</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Scenario">
         <source>Scenario</source>
-        <target state="translated"></target>
+        <target state="translated">Valmis kenttä</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Start game">
         <source>Start game</source>
-        <target state="translated"></target>
+        <target state="translated">Aloita peli</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Color:">
         <source>Color:</source>
-        <target state="translated"></target>
+        <target state="translated">Väri:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Player name:">
         <source>Player name:</source>
-        <target state="translated"></target>
+        <target state="translated">Pelaajan nimi:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Cancel building:">
         <source>Cancel building:</source>
-        <target state="translated"></target>
+        <target state="translated">Peruuta rakennus:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="(lose all resources)">
         <source>(lose all resources)</source>
-        <target state="translated"></target>
+        <target state="translated">(menetät kaikki resurssisi)</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Currently building:">
         <source>Currently building:</source>
-        <target state="translated"></target>
+        <target state="translated">Parhaillaan rakennuksessa:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="To build a boat, click on one of the class tabs, select the desired ship and confirm the order.">
         <source>To build a boat, click on one of the class tabs, select the desired ship and confirm the order.</source>
-        <target state="translated"></target>
+        <target state="translated">Rakentaaksesi veneen, paina yhtä luokkavälilehdistä, valitse haluttu alus ja vahvista päätös.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Construction progress:">
         <source>Construction progress:</source>
-        <target state="translated"></target>
+        <target state="translated">Rakentamisen eteneminen:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Building overview">
         <source>Building overview</source>
-        <target state="translated"></target>
+        <target state="translated">Rakentamisen yleiskatsaus</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Cancel all building progress">
         <source>Cancel all building progress</source>
-        <target state="translated"></target>
+        <target state="translated">Peruuta kaikki rakentaminen</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Pause">
         <source>Pause</source>
-        <target state="translated"></target>
+        <target state="translated">Pysäytä</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Resume">
         <source>Resume</source>
-        <target state="translated"></target>
+        <target state="translated">Jatka</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Running costs">
         <source>Running costs</source>
-        <target state="translated"></target>
+        <target state="translated">Juoksevat kustannukset</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fishing boats">
+        <source>Fishing boats</source>
+        <target state="translated">Kalastusveneet</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Fishing boat">
         <source>Fishing boat</source>
-        <target state="translated"></target>
+        <target state="translated">Kalastusveneet</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Kalastusvene</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Cutter">
         <source>Cutter</source>
-        <target state="translated"></target>
+        <target state="translated">Leikkaaja</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Herring fisher">
         <source>Herring fisher</source>
@@ -987,360 +1248,475 @@ Please report this to the author.</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Whaler">
         <source>Whaler</source>
-        <target state="translated"></target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Fishing boats">
-        <source>Fishing boats</source>
-        <target state="translated"></target>
+        <target state="translated">Valaanpyyntäjä</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build this ship!">
         <source>Build this ship!</source>
-        <target state="translated"></target>
+        <target state="translated">Rakenna tämä alus!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Not yet implemented!">
         <source>Not yet implemented!</source>
-        <target state="translated"></target>
+        <target state="translated">Ei vielä toteutettu!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Select resources:">
         <source>Select resources:</source>
-        <target state="translated"></target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Balance:">
-        <source>Balance:</source>
-        <target state="translated"></target>
+        <target state="translated">Valitse raaka-aineet:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Buying">
         <source>Buying</source>
-        <target state="translated"></target>
+        <target state="translated">Ostamassa</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Balance:">
+        <source>Balance:</source>
+        <target state="translated">Tasapaino:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Expenses:">
         <source>Expenses:</source>
-        <target state="translated"></target>
+        <target state="translated">Kulut:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Income:">
         <source>Income:</source>
-        <target state="translated"></target>
+        <target state="translated">Tulot:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sale">
         <source>Sale</source>
-        <target state="translated"></target>
+        <target state="translated">Myynti</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Taxes">
         <source>Taxes</source>
-        <target state="translated"></target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Name:">
-        <source>Name:</source>
-        <target state="translated"></target>
+        <target state="translated">Verot</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Average happiness:">
         <source>Average happiness:</source>
-        <target state="translated"></target>
+        <target state="translated">Keskimääräinen onnellisuus:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Most needed resource:">
         <source>Most needed resource:</source>
-        <target state="translated"></target>
+        <target state="translated">Eniten kaivattu resurssi:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Name:">
+        <source>Name:</source>
+        <target state="translated">Nimi:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Taxes:">
         <source>Taxes:</source>
+        <target state="translated">Verot:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tax Rate">
+        <source>Tax Rate</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Veroprosentti</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="capacity utilization">
         <source>capacity utilization</source>
-        <target state="translated"></target>
+        <target state="translated">käyttöosuus</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Resource deposit">
         <source>Resource deposit</source>
-        <target state="translated"></target>
+        <target state="translated">Luonnonvara</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="This is a resource deposit where you can build a mine to dig up resources.">
         <source>This is a resource deposit where you can build a mine to dig up resources.</source>
-        <target state="translated"></target>
+        <target state="translated">Tämä on luonnonvaralöydös, johon voit rakentaa louhoksen kaivaaksesi ylös resursseja.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="It contains these resources:">
         <source>It contains these resources:</source>
-        <target state="translated"></target>
+        <target state="translated">Sisältää näitä luonnonvaroja:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Needed resources:">
         <source>Needed resources:</source>
-        <target state="translated"></target>
+        <target state="translated">Tarvittavat resurssit:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Happiness">
         <source>Happiness</source>
-        <target state="translated"></target>
+        <target state="translated">Onnellisuus</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Paid taxes">
         <source>Paid taxes</source>
-        <target state="translated"></target>
+        <target state="translated">Maksetut verot</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Residents">
         <source>Residents</source>
-        <target state="translated"></target>
+        <target state="translated">Asukkaat</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build settlement:">
         <source>Build settlement:</source>
-        <target state="translated"></target>
+        <target state="translated">Rakenna asutuskeskus:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Click to change the name of this ship.">
         <source>Click to change the name of this ship.</source>
-        <target state="translated"></target>
+        <target state="translated">Paina vaihtaaksesi tämän aluksen nimen.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build settlement">
         <source>Build settlement</source>
-        <target state="translated"></target>
+        <target state="translated">Rakenna asutuskeskus</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The signal fire shows the free trader how to reach your settlement in case you want to buy or sell goods.">
         <source>The signal fire shows the free trader how to reach your settlement in case you want to buy or sell goods.</source>
-        <target state="translated"></target>
+        <target state="translated">Merkkituli näyttää vapaakauppiaalle, kuinka löytää asutuskeskuksesi, kun haluat ostaa tai myydä tavaraa.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="This is the free trader's ship. It will visit you from time to time to buy or sell goods.">
         <source>This is the free trader's ship. It will visit you from time to time to buy or sell goods.</source>
-        <target state="translated"></target>
+        <target state="translated">Tämä on vapaakauppiaan alus. Se vierailee silloin tällöin ostamaan ja myymään tavaraa.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Exchange:">
         <source>Exchange:</source>
-        <target state="translated"></target>
+        <target state="translated">Vaihto:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Ship:">
         <source>Ship:</source>
-        <target state="translated"></target>
+        <target state="translated">Alus:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Trade partner:">
         <source>Trade partner:</source>
-        <target state="translated"></target>
+        <target state="translated">Kaupankäyntikumppani:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Configure trading route:">
         <source>Configure trading route:</source>
-        <target state="translated"></target>
+        <target state="translated">Säädä kauppareittiä:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Load/Unload:">
         <source>Load/Unload:</source>
+        <target state="translated">Ota kyytiin/pois:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Error: Invalid syntax in --mp-master commandline option. Port must be a number between 1 and 65535.">
+        <source>Error: Invalid syntax in --mp-master commandline option. Port must be a number between 1 and 65535.</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Error: Invalid syntax in --mp-master commandline option. Port must be a number between 0 and 65535.">
-        <source>Error: Invalid syntax in --mp-master commandline option. Port must be a number between 0 and 65535.</source>
+      <trans-unit xml:space="preserve" approved="yes" id="Error: Invalid syntax in --mp-bind commandline option. Port must be a number between 1 and 65535.">
+        <source>Error: Invalid syntax in --mp-bind commandline option. Port must be a number between 1 and 65535.</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Error: Invalid syntax in --mp-bind commandline option. Port must be a number between 0 and 65535.">
-        <source>Error: Invalid syntax in --mp-bind commandline option. Port must be a number between 0 and 65535.</source>
+      <trans-unit xml:space="preserve" approved="yes" id="Failed to initialize networking.">
+        <source>Failed to initialize networking.</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Virhe yritettäessä ottaa verkkoa käyttöön.</target>
+        </alt-trans>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Load failed. Please try another savefile!">
-        <source>Load failed. Please try another savefile!</source>
+      <trans-unit xml:space="preserve" approved="yes" id="Check the data you entered in the Network section in the settings dialogue.">
+        <source>Check the data you entered in the Network section in the settings dialogue.</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Tarkista asetusten ikkunassa Verkko-osioon  kirjoittamasi tiedot.</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Failed to start/load the game">
+        <source>Failed to start/load the game</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Pelin aloittaminen/avaaminen epäonnistui</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The game you selected couldn't be started.">
+        <source>The game you selected couldn't be started.</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Valitsemaasi peliä ei pystytty aloittamaan.</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The savegame might be broken or has been saved with an earlier version.">
+        <source>The savegame might be broken or has been saved with an earlier version.</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Kyseinen tallennus saattaa olla rikki tai tehty pelin vanhemmalla versiolla.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Error: Cannot find map &quot;%s&quot;.">
         <source>Error: Cannot find map "%s".</source>
-        <target state="translated"></target>
+        <target state="translated">Virhe: Kenttää "%s" ei löytynyt.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Error: Found multiple matches: ">
         <source>Error: Found multiple matches: </source>
-        <target state="translated"></target>
+        <target state="translated">Virhe: Löydettiin useita: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Error: Cannot find savegame &quot;%s&quot;.">
         <source>Error: Cannot find savegame "%s".</source>
-        <target state="translated"></target>
+        <target state="translated">Virhe: Ei löydetty tallennusta "%s".</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Error: No quicksave found.">
         <source>Error: No quicksave found.</source>
-        <target state="translated"></target>
+        <target state="translated">Virhe: Yhtäkään pikatallennusta ei löytynyt.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Not possible">
         <source>Not possible</source>
-        <target state="translated"></target>
+        <target state="translated">Ei mahdollista</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You cannot change the speed of a multiplayer game">
         <source>You cannot change the speed of a multiplayer game</source>
-        <target state="translated"></target>
+        <target state="translated">Et voi muuttaa moninpelin nopeutta</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Save/load for multiplayer games is not possible yet">
         <source>Save/load for multiplayer games is not possible yet</source>
+        <target state="translated">Tallentaminen/lataaminen ei ole vielä mahdollista moninpeleissä</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Error: don't know how to handle %(type)s condition type">
+        <source>Error: don't know how to handle %(type)s condition type</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Error: Cannot find campaign &quot;%s&quot;.">
+        <source>Error: Cannot find campaign "%s".</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Error: Cannot find campaign with file &quot;%s&quot;.">
+        <source>Error: Cannot find campaign with file "%s".</source>
         <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You have won!">
         <source>You have won!</source>
-        <target state="translated"></target>
+        <target state="translated">Voitit pelin!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You have completed this scenario. ">
         <source>You have completed this scenario. </source>
-        <target state="translated"></target>
+        <target state="translated">Olet läpikäynyt tämän kentän. </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="unknown">
         <source>unknown</source>
-        <target state="translated"></target>
+        <target state="translated">tuntematon</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Failed to quicksave.">
         <source>Failed to quicksave.</source>
+        <target state="translated">Pikatallennus epäonnistui.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="An error happened during quicksave. Your game has not been saved.">
+        <source>An error happened during quicksave. Your game has not been saved.</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Virhe tapahtui yritetettäessä pikatallennusta. Peliäsi ei tallennettu.</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="If this error happens again, please contact the development team: unknown-horizons.org/support">
+        <source>If this error happens again, please contact the development team: unknown-horizons.org/support</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Jos tämä virhe toistuu, pyydämme ottamaan yhteyttä kehitysryhmään: unknown-horizons.org/support</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="No quicksaves found">
         <source>No quicksaves found</source>
-        <target state="translated"></target>
+        <target state="translated">Yhtäkään pikatallennusta ei löytynyt</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You need to quicksave before you can quickload.">
         <source>You need to quicksave before you can quickload.</source>
-        <target state="translated"></target>
+        <target state="translated">Tarvitset pikatallennuksen ennen kuin voit pikaladata.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Invalid filename">
-        <source>Invalid filename</source>
+      <trans-unit xml:space="preserve" approved="yes" id="Failed to create savegame file">
+        <source>Failed to create savegame file</source>
         <target state="translated"></target>
         <note from="developer">usually invalid filename</note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Tallennustiedoston luominen epäonnistui</target>
+        </alt-trans>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="You entered an invalid filename.">
-        <source>You entered an invalid filename.</source>
+      <trans-unit xml:space="preserve" approved="yes" id="There has been an error while creating your savegame file.">
+        <source>There has been an error while creating your savegame file.</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Yritettäessä luoda tallennustiedostoa virhe tapahtui.</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="This usually means that the savegame name contains unsupported special characters.">
+        <source>This usually means that the savegame name contains unsupported special characters.</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Tämä johtuu yleensä siitä, että tallennuksen nimi sisältää erikoismerkkejä, joita ei tueta.</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="File used by another process">
+        <source>File used by another process</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Tiedosto on toisen prosessin käytössä</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The savegame file is currently used by another program.">
+        <source>The savegame file is currently used by another program.</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Tallennustiedosto on tällä hetkellä toisen ohjelman käytössä.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Trader">
         <source>Trader</source>
-        <target state="translated"></target>
+        <target state="translated">Kauppias</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enable debug output to stderr and a logfile.">
         <source>Enable debug output to stderr and a logfile.</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Ota käyttöön debug-tulosteet virheulostuloon ja lokitiedostoon.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Specify the path to FIFE root directory.">
         <source>Specify the path to FIFE root directory.</source>
-        <target state="translated"></target>
+        <target state="translated">Määrittele polku FIFE-moottorin juurihakemistoon.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Restores the default settings. Useful if Unknown Horizons crashes on startup due to misconfiguration.">
         <source>Restores the default settings. Useful if Unknown Horizons crashes on startup due to misconfiguration.</source>
-        <target state="translated"></target>
+        <target state="translated">Palauta oletusasetukset. Hyödyllinen jos Unknown Horizons kaatuu virheellisen asetuksen vuoksi käynnistyksessä.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Specify alternative multiplayer master server.">
         <source>Specify alternative multiplayer master server.</source>
-        <target state="translated"></target>
+        <target state="translated">Määrittele vaihtoehtoinen moninpelien pääpalvelin.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Specify network address to bind local network client to. This is useful if NAT holepunching is not working but you can forward a static port.">
         <source>Specify network address to bind local network client to. This is useful if NAT holepunching is not working but you can forward a static port.</source>
-        <target state="translated"></target>
+        <target state="translated">Määrittele verkko-osoite, johon liitetään paikallinen verkkoasiakas. Tämä on hyödyllistä, jos NAT reikienhakkaus ei ole käytössä, mutta voit ohjata pysyvän portin.Alkuperäisellä kielellä.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Starting unknown horizons">
-        <source>Starting unknown horizons</source>
+      <trans-unit xml:space="preserve" approved="yes" id="Starting Unknown Horizons">
+        <source>Starting Unknown Horizons</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Käynnistetään Unknown Horizons</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Starts &lt;map&gt;. &lt;map&gt; is the mapname.">
         <source>Starts &lt;map&gt;. &lt;map&gt; is the mapname.</source>
-        <target state="translated"></target>
+        <target state="translated">Käynnistää &lt;map&gt;. &lt;map&gt; on karttanimi.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Starts a random map.">
         <source>Starts a random map.</source>
+        <target state="translated">Aloittaa satunnaisen kentän.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Starts a random map with seed &lt;seed&gt;.">
+        <source>Starts a random map with seed &lt;seed&gt;.</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Käynnistää satunnaisen kentän käyttäen satunnaisgeneraattorin siemenlukuna lukua &lt;seed&gt;.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Starts &lt;scenario&gt;. &lt;scenario&gt; is the scenarioname.">
         <source>Starts &lt;scenario&gt;. &lt;scenario&gt; is the scenarioname.</source>
-        <target state="translated"></target>
+        <target state="translated">Aloittaa &lt;scenario&gt;. &lt;scenario&gt; on kenttänimi.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Starts &lt;campaign&gt;. &lt;campaign&gt; is the campaign name.">
+        <source>Starts &lt;campaign&gt;. &lt;campaign&gt; is the campaign name.</source>
+        <target state="translated">Aloittaa &lt;campaign&gt;. &lt;campaign&gt; on nimi.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Starts the development map without displaying the main menu.">
         <source>Starts the development map without displaying the main menu.</source>
-        <target state="translated"></target>
+        <target state="translated">Aloittaa kehityskartan näyttämättä päävalikkoa.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Loads a saved game. &lt;save&gt; is the savegamename.">
         <source>Loads a saved game. &lt;save&gt; is the savegamename.</source>
-        <target state="translated"></target>
+        <target state="translated">Lataa tallennetun pelin. &lt;save&gt; on tallennusnimi.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Loads the last quicksave.">
         <source>Loads the last quicksave.</source>
-        <target state="translated"></target>
+        <target state="translated">Lataa viimeisimmän pikatallennuksen.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Development options">
         <source>Development options</source>
-        <target state="translated"></target>
+        <target state="translated">Kehitysasetukset</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Write debug output only to logfile, not to console. Implies -d.">
         <source>Write debug output only to logfile, not to console. Implies -d.</source>
-        <target state="translated"></target>
+        <target state="translated">Kirjoita debug-ulostulo vain lokitiedostoon, älä konsoliin. Olettaa parametrin -d.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enable logging for a certain logging module (for developing only).">
         <source>Enable logging for a certain logging module (for developing only).</source>
-        <target state="translated"></target>
+        <target state="translated">Ota käyttöön lokinkirjoittaminen tietylle lokimoduulille (vain kehityskäyttöön).</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Writes log to &lt;filename&gt; instead of to the uh-userdir">
         <source>Writes log to &lt;filename&gt; instead of to the uh-userdir</source>
-        <target state="translated"></target>
+        <target state="translated">Kirjoittaa lokia tiedostoon &lt;filename&gt; osoitteen uh-userdir sijasta</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="For internal use only.">
         <source>For internal use only.</source>
-        <target state="translated"></target>
+        <target state="translated">Vain sisäiseen käyttöön.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enable profiling (for developing only).">
         <source>Enable profiling (for developing only).</source>
+        <target state="translated">Ota käyttöön profilointi (vain kehityskäyttöön).</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Enable the string previewer tool for scenario writers">
+        <source>Enable the string previewer tool for scenario writers</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Ota käyttöön kenttien kirjoittajille suunnattu merkkijonojen esikatselutyökalu</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Unknown Horizons crashed.">
         <source>Unknown Horizons crashed.</source>
-        <target state="translated"></target>
+        <target state="translated">Unknown Horizons kaatui.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="We are very sorry for this, and want to fix this error.">
         <source>We are very sorry for this, and want to fix this error.</source>
-        <target state="translated"></target>
+        <target state="translated">Olemme tästä pahoillamme, ja haluamme korjata tämän virheen.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="In order to do this, we need the information from the logfile:">
         <source>In order to do this, we need the information from the logfile:</source>
-        <target state="translated"></target>
+        <target state="translated">Tehdäksemme tämän tarvitsemme tietoja lokitiedostosta:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Please give it to us via IRC or our forum, for both see unknown-horizons.org .">
         <source>Please give it to us via IRC or our forum, for both see unknown-horizons.org .</source>
-        <target state="translated"></target>
+        <target state="translated">Pyydämme antamaan sen meille IRC-kanavallamme tai keskustelufoorumillamme, katso sivustolta unknown-horizons.org .</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Thank you for using Unknown Horizons!">
         <source>Thank you for using Unknown Horizons!</source>
-        <target state="translated"></target>
+        <target state="translated">Kiitos, että käytitte peliä Unknown Horizons!</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Failed to load fife:">
-        <source>Failed to load fife:</source>
+      <trans-unit xml:space="preserve" approved="yes" id="Failed to load FIFE:">
+        <source>Failed to load FIFE:</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>FIFE-moottorin lataaminen ei onnistunut:</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="FIFE was not found.">
         <source>FIFE was not found.</source>
-        <target state="translated"></target>
+        <target state="translated">FIFE: tä ei löytynyt.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Boat Builder">
         <source>Boat Builder</source>
-        <target state="translated"></target>
+        <target state="translated">Veneenveistämö</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Branch Office">
         <source>Branch Office</source>
-        <target state="translated"></target>
+        <target state="translated">Sivutoimisto</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Brickyard">
         <source>Brickyard</source>
-        <target state="translated"></target>
+        <target state="translated">Savenvalamo</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Charcoal Burning">
         <source>Charcoal Burning</source>
-        <target state="translated"></target>
+        <target state="translated">Puuhiilen polttamo</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Clay Deposit">
         <source>Clay Deposit</source>
-        <target state="translated"></target>
+        <target state="translated">Savimaa</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Clay Pit">
         <source>Clay Pit</source>
-        <target state="translated"></target>
+        <target state="translated">Savikaivo</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Distillery">
         <source>Distillery</source>
-        <target state="translated"></target>
+        <target state="translated">Tislaamo</target>
+        <note from="translator">Simatehdas</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Farm">
         <source>Farm</source>
-        <target state="translated"></target>
+        <target state="translated">Maatila</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Fish Deposit">
         <source>Fish Deposit</source>
-        <target state="translated"></target>
+        <target state="translated">Kalaparvi</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Fisherman's Tent">
         <source>Fisherman's Tent</source>
-        <target state="translated"></target>
+        <target state="translated">Kalastajan teltta</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Hunter's Tent">
         <source>Hunter's Tent</source>
-        <target state="translated"></target>
+        <target state="translated">Metsästäjän teltta</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Iron Mine">
         <source>Iron Mine</source>
-        <target state="translated"></target>
+        <target state="translated">Rautakaivos</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Log">
         <source>Log</source>
@@ -1348,275 +1724,308 @@ Please report this to the author.</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Lookout">
         <source>Lookout</source>
-        <target state="translated"></target>
+        <target state="translated">Vartiopaikka</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Lumberjack Camp">
         <source>Lumberjack Camp</source>
-        <target state="translated"></target>
+        <target state="translated">Puunhakkaajan leiri</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Main Square">
         <source>Main Square</source>
-        <target state="translated"></target>
+        <target state="translated">Keskustori</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Mountain">
         <source>Mountain</source>
-        <target state="translated"></target>
+        <target state="translated">Vuori</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Pasture">
         <source>Pasture</source>
-        <target state="translated"></target>
+        <target state="translated">Laidun</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Pavilion">
         <source>Pavilion</source>
-        <target state="translated"></target>
+        <target state="translated">Paviljonki</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Potato Field">
         <source>Potato Field</source>
-        <target state="translated"></target>
+        <target state="translated">Perunamaa</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Rampart">
         <source>Rampart</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Valli</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Signal Fire">
         <source>Signal Fire</source>
-        <target state="translated"></target>
+        <target state="translated">Merkkituli</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Smeltery">
         <source>Smeltery</source>
-        <target state="translated"></target>
+        <target state="translated">Sulattamo</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Storage Tent">
         <source>Storage Tent</source>
-        <target state="translated"></target>
+        <target state="translated">Varastoteltta</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sugar Field">
         <source>Sugar Field</source>
-        <target state="translated"></target>
+        <target state="translated">Sokeripelto</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tavern">
         <source>Tavern</source>
-        <target state="translated"></target>
+        <target state="translated">Taverna</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tent">
         <source>Tent</source>
-        <target state="translated"></target>
+        <target state="translated">Teltta</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tent_ruin">
         <source>Tent_ruin</source>
-        <target state="translated"></target>
+        <target state="translated">Teltan_riekaleet</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Toolmaker">
         <source>Toolmaker</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Työkalujen tekijä</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Trail">
         <source>Trail</source>
-        <target state="translated"></target>
+        <target state="translated">Polku</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Village school">
         <source>Village school</source>
-        <target state="translated"></target>
+        <target state="translated">Kyläkoulu</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Weaver's Tent">
         <source>Weaver's Tent</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Kutojan teltta</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="black">
         <source>black</source>
-        <target state="translated"></target>
+        <target state="translated">musta</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="blue">
         <source>blue</source>
-        <target state="translated"></target>
+        <target state="translated">sininen</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="cyan">
         <source>cyan</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>sinivihreä</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="green">
         <source>green</source>
-        <target state="translated"></target>
+        <target state="translated">vihreä</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pink">
         <source>pink</source>
-        <target state="translated"></target>
+        <target state="translated">vaaleanpunainen</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="red">
         <source>red</source>
-        <target state="translated"></target>
+        <target state="translated">punainen</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="white">
         <source>white</source>
-        <target state="translated"></target>
+        <target state="translated">valkoinen</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="yellow">
         <source>yellow</source>
-        <target state="translated"></target>
+        <target state="translated">keltainen</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="A new settlement has been created by ${player}.">
         <source>A new settlement has been created by ${player}.</source>
-        <target state="translated"></target>
+        <target state="translated">Pelaaja ${player} loi uuden asutuskeskuksen.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="A new world has been created.">
         <source>A new world has been created.</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Luotiin uusi maailma.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="One of your settler has no market place in it's range.">
         <source>One of your settler has no market place in it's range.</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Yksi uudisasukkaistasi ei ole kauppapaikan kantamassa.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Screenshot has been saved to ${file}.">
         <source>Screenshot has been saved to ${file}.</source>
-        <target state="translated"></target>
+        <target state="translated">Kuvakaappaus tallennettu tiedostoon ${file}.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Some of your settlers just moved out.">
         <source>Some of your settlers just moved out.</source>
-        <target state="translated"></target>
+        <target state="translated">Jotkin uudisasukkaistasi muuttivat juuri pois.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="YOU HAVE WON!!!">
         <source>YOU HAVE WON!!!</source>
-        <target state="translated"></target>
+        <target state="translated">OLET VOITTANUT!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You need more ${resource} to build this building.">
         <source>You need more ${resource} to build this building.</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Tarvitset enemmän resurssia ${resource} rakentaaksesi tämän rakennuksen.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Your game has been quicksaved.">
         <source>Your game has been quicksaved.</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Pelillesi suoritettiin pikatallennus.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Your mine has run out of resources.">
         <source>Your mine has run out of resources.</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Kaivoksestasi ovat loppuneet resurssit. </target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Your settlers reached level ${level}.">
         <source>Your settlers reached level ${level}.</source>
-        <target state="translated"></target>
+        <target state="translated">Uudisasukkaasi saavuttivat tason ${level}.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="boards">
         <source>boards</source>
-        <target state="translated"></target>
+        <target state="translated">lautoja</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="bricks">
         <source>bricks</source>
-        <target state="translated"></target>
+        <target state="translated">tiiliä</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="charcoal">
         <source>charcoal</source>
-        <target state="translated"></target>
+        <target state="translated">puuhiiltä</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="clay">
         <source>clay</source>
-        <target state="translated"></target>
+        <target state="translated">savea</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="coins">
         <source>coins</source>
-        <target state="translated"></target>
+        <target state="translated">kolikoita</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="community">
         <source>community</source>
-        <target state="translated"></target>
+        <target state="translated">yhteisöä</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="education">
         <source>education</source>
-        <target state="translated"></target>
+        <target state="translated">sivistystä</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="faith">
         <source>faith</source>
-        <target state="translated"></target>
+        <target state="translated">uskoa</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="fish">
         <source>fish</source>
-        <target state="translated"></target>
+        <target state="translated">kalaa</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="food">
         <source>food</source>
-        <target state="translated"></target>
+        <target state="translated">ruokaa</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="get-together">
         <source>get-together</source>
-        <target state="translated"></target>
+        <target state="translated">pitoja</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="grass">
         <source>grass</source>
-        <target state="translated"></target>
+        <target state="translated">ruohoa</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="happiness">
         <source>happiness</source>
-        <target state="translated"></target>
+        <target state="translated">onnellisuutta</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="iron ingots">
         <source>iron ingots</source>
-        <target state="translated"></target>
+        <target state="translated">rautamöhkäleitä</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="iron ore">
         <source>iron ore</source>
-        <target state="translated"></target>
+        <target state="translated">rautamalmia</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="lamb wool">
         <source>lamb wool</source>
-        <target state="translated"></target>
+        <target state="translated">lampaan villaa</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="liquor">
         <source>liquor</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>viina</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="potatoes">
         <source>potatoes</source>
-        <target state="translated"></target>
+        <target state="translated">perunoita</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="raw clay">
         <source>raw clay</source>
-        <target state="translated"></target>
+        <target state="translated">raakasavea</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="raw iron">
         <source>raw iron</source>
-        <target state="translated"></target>
+        <target state="translated">raakarautaa</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="raw sugar">
         <source>raw sugar</source>
-        <target state="translated"></target>
+        <target state="translated">raakasokeria</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="sugar">
         <source>sugar</source>
-        <target state="translated"></target>
+        <target state="translated">sokeria</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="textile">
         <source>textile</source>
-        <target state="translated"></target>
+        <target state="translated">kankaita</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tools">
         <source>tools</source>
-        <target state="translated"></target>
+        <target state="translated">työkaluja</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="wild animal food 1">
         <source>wild animal food 1</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>villieläinruoka 1</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="wild animal meat">
         <source>wild animal meat</source>
-        <target state="translated"></target>
+        <target state="translated">villieläinten lihaa</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="wood">
         <source>wood</source>
-        <target state="translated"></target>
+        <target state="translated">puuta</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="wool">
         <source>wool</source>
-        <target state="translated"></target>
+        <target state="translated">villaa</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pioneer">
         <source>pioneer</source>
-        <target state="translated"></target>
+        <target state="translated">edelläkävijä</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="sailor">
         <source>sailor</source>
-        <target state="translated"></target>
+        <target state="translated">merenkävijä</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="settler">
         <source>settler</source>
-        <target state="translated"></target>
+        <target state="translated">uudisasukas</target>
       </trans-unit>
     </body>
   </file>

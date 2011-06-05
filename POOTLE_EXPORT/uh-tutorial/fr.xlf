@@ -45,7 +45,7 @@ Si vous aimez les descriptions détaillées, votre journal de bord vous fournira
 
 Si vous l'avez fermé, un clic sur son icône se trouvant dans le coin Nord-Est (sous la mini-carte, avec un document cacheté et une plume) l'ouvrira à nouveau.
 
-Pour toute suggestion sur une meilleure rédaction, une incompréhension, ou pour nous rapporter un bug : N'hésitez pas à nous contacter et nous essaierons d'améliorer ce didacticiel!
+Pour toutes suggestions sur une meilleure rédaction, une incompréhension, ou pour nous rapporter un bug: N'hésitez pas à nous contacter et nous essaierons d'améliorer ce didacticiel!
 
 Visitez www.unknown-horizons.org pour savoir comment contacter l'équipe!
 
@@ -70,9 +70,9 @@ Click where you want to place your first building.
 TASK: Build a branch office at the coast.</source>
         <target state="translated">Pour déplacer votre bateau, sélectionnez le par un clic gauche et faites un clic droit sur la destination de votre choix.
 
-Une fois que vous êtes près de la côte, le bouton en forme d'ancre du panneau deviendra actif .
+Une fois que vous êtes près de la côte, le bouton en forme d'ancre du panneau deviendra actif.
 
-Cela signifie que vous êtes alors capable de construire un comptoir ici en cliquant sur ce bouton (nommé «Construire un comptoir»).
+Cela signifie que vous êtes alors capable de construire un comptoir ici en cliquant sur ce bouton (nommé «Construire la colonie»).
 
 Maintenant, un aperçu de votre comptoir devrait suivre votre curseur.
 
@@ -99,7 +99,7 @@ Click on the button. If it is not active, move your ship towards the branch offi
 TASK: Open the trade dialogue.</source>
         <target state="translated">Maintenant que vous avez établi un comptoir, vous devez alimenter son stock.
 
-Pour ce faire, sélectionnez votre navire et rendez-vous dans le panneau signalé par une caisse en bois appelé «Inventaire du navire».
+Pour ce faire, sélectionnez votre navire et rendez-vous dans le panneau signalé par une caisse en bois appelé «Cargaison du navire».
 
 Vous avez ici un aperçu de la cargaison de votre navire et vous y trouverez le bouton «Chargez/Déchargez».
 
@@ -107,7 +107,7 @@ Ce bouton devient actif lorsque votre vaisseau se trouve à portée d'un partena
 
 Cliquez sur le bouton. S'il n'est pas actif, déplacez votre vaisseau à proximité du comptoir, et réessayez.
 
-MISSION : Débutez les échanges commerciaux</target>
+MISSION : Débutez les échanges commerciaux.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The tab you will see is split into 'Ship' and 'Settlement' as trade partners.&#10;&#10;To move goods from one stock to the other, simply click on them.&#10;&#10;Try clicking on the boards currently on your ship first and then try moving them back.&#10;&#10;You can customize the quantity moved by using the self-explanatory radio buttons in the middle.&#10;&#10;Did you get used to the trade tab?&#10;You need some construction material in your settlement now!&#10;&#10;TASK: Unload at least 10 tons of each resource your ship sailed around with.">
         <source>The tab you will see is split into 'Ship' and 'Settlement' as trade partners.
@@ -122,7 +122,7 @@ Did you get used to the trade tab?
 You need some construction material in your settlement now!
 
 TASK: Unload at least 10 tons of each resource your ship sailed around with.</source>
-        <target state="translated">Le panneau que vous avez sous les yeux est scindé entre les partenaires commerciaux 'Vaisseau' et 'Comptoir'.
+        <target state="translated">Le panneau que vous avez sous les yeux est scindé entre les partenaires commerciaux «Vaisseau» et «Comptoir».
 
 Pour déplacer les marchandises d'un stock à l'autre, cliquez simplement dessus.
 
@@ -141,7 +141,8 @@ MISSION : Déchargez au moins 10 tonnes de chaque ressource disponible à bord d
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A LUMBERJACK">
         <source>NEW TASK: BUILD A LUMBERJACK</source>
-        <target state="translated">NOUVELLE MISSION : CONSTRUIRE UN CAMP DE BUCHERON</target>
+        <target state="translated">MISSION : LE BUCHERON</target>
+        <note from="translator">I change this until we will have a system to make the longer sentences fitting properly (seb)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="With your new construction material in the branch office, you can start to construct some basic buildings.&#10;&#10;We will start with building a lumberjack.&#10;&#10;This is essential because, at this stage, boards are the only poles your sailors can afford to hang their tents over.&#10;&#10;The fisherman needs some boards to build his vessel as well.&#10;&#10;In order to construct lumberjacks; open the build menu by either clicking the big icon below the mini map or pressing B key.&#10;&#10;The build menu is sorted by increments.&#10;You are currently in the first increment (the Sailors level) so are offered only the basic buildings.">
         <source>With your new construction material in the branch office, you can start to construct some basic buildings.
@@ -193,7 +194,7 @@ Une entreprise nécessite une route menant à un dépôt ou un comptoir, autreme
 
 Vous devez donc construire un sentier entre votre comptoir (ou votre dépôt) et votre bucheron.
 
-MISSION: Construisez un bucheron dans une zone boisée et connectez le à une route.
+MISSION: Installez un bucheron dans une zone boisée et connectez le à une route.
 
 Regardez-le produire vos premières planches.</target>
       </trans-unit>
@@ -203,7 +204,8 @@ Regardez-le produire vos premières planches.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: FOOD SUPPLY">
         <source>NEW TASK: FOOD SUPPLY</source>
-        <target state="translated">NOUVELLE MISSION: APPROVISIONNEMENT EN NOURRITURE</target>
+        <target state="translated">MISSION: LA NOURRITURE</target>
+        <note from="translator">as upper, i put a smaller sentence here for the moment (too long)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You will need to have some food-producing companies, too, because people in general (and especially sailors) are very hungry.&#10;&#10;Available companies in the first increment are the Hunter and Fisher.&#10;&#10;The Hunter, surprisingly, hunts animals in the forest, so he needs trees around.&#10;&#10;Note that you can place your Hunter close to the lumberjack's forest.&#10;&#10;It can happen that the animals don't reproduce fast enough or simply hide well.&#10;&#10;Conclusion: the hunter is not too reliable if you need continuous supply.">
         <source>You will need to have some food-producing companies, too, because people in general (and especially sailors) are very hungry.
@@ -261,7 +263,7 @@ fish school means 'banc de poisson'</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: MAIN SQUARE">
         <source>NEW TASK: MAIN SQUARE</source>
-        <target state="translated">NOUVELLE MISSION: LA PLACE CENTRALE</target>
+        <target state="translated">MISSION: LA PLACE CENTRALE</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Your residents need a main square where they can fetch their goods from.&#10;&#10;This means that they need a trail connection from their home to the main square.&#10;&#10;All goods in your branch office are available at this 'market place', so your residents do not need to walk to the fisher or even to the branch office.&#10;&#10;You should consider founding your actual house settlement in an area where you can easily expand it and build some trails, too.&#10;&#10;You should avoid placing tents too close to your lumberjacks for example because building tents will clear away the trees that your lumberjack needs to produce boards.&#10;&#10;TASK: Build a main square.">
         <source>Your residents need a main square where they can fetch their goods from.
@@ -279,13 +281,13 @@ TASK: Build a main square.</source>
 
 Cela signifie qu'il leur faudra un sentier menant des habitations à la place centrale.
 
-Toutes les marchandises de votre comptoir sont disponibles dans cette 'place du marché', donc vos habitants n'ont pas besoin d'aller chez le pêcheur ou même jusqu'au comptoir.
+Toutes les marchandises de votre comptoir sont disponibles dans cette «place du marché», donc vos habitants n'ont pas besoin d'aller chez le pêcheur ou même jusqu'au comptoir.
 
 Vous devriez fonder votre campement de tentes dans un endroit où vous pourrez facilement l'étendre et y construire des routes.
 
 Par exemple, nous conseillons de ne pas placer vos tentes trop près de vos bucherons, cela détruirais leurs précieux arbres.
 
-MISSION: Construire une place centrale</target>
+MISSION: Construire une place centrale.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Now let's have a closer look at the main square.&#10;&#10;In the overview tab you can quickly adjust taxes.&#10;&#10;In the second tab 'Account' you get a balance sheet of this island, featuring all costs you pay and all taxes you earn.&#10;&#10;The items 'Sale' and 'Buy' refer to your trading balance and will be explained later on.&#10;&#10;If your balance is positive, you all-in-all make a profit.&#10;&#10;In the 'Settler' tab you can see how happy your inhabitants are and what resource most of them want to be supplied with.">
         <source>Now let's have a closer look at the main square.
@@ -309,7 +311,7 @@ Les parties «Vente» et «Achat» renvoient à votre balance commerciale et ser
 
 Si votre bilan est positif, vous faites du profit.
 
-Dans l'onglet «Colons» vous pouvez voir le niveau de satisfaction des habitants et quelles ressources manquent à la majorité d'entre eux.</target>
+Dans l'onglet «Colons» vous pouvez voir le niveau de satisfaction des habitants et les ressources qui manquent à la majorité d'entre eux.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a main square. Choose an area without many economy buildings.">
         <source>Build a main square. Choose an area without many economy buildings.</source>
@@ -377,7 +379,8 @@ Astuce: Il est plus simple de construire plusieurs bâtiments du même type en g
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD SIGNAL FIRE">
         <source>NEW TASK: BUILD SIGNAL FIRE</source>
-        <target state="translated">NOUVELLE MISSION : FEU DE SIGNALISATION</target>
+        <target state="translated">MISSION : LA SIGNALISATION</target>
+        <note from="translator">The translation is bad, but it fits. for the moment, this is the solution</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Can you see the ship passing your island from time to time?&#10;&#10;This is the ship of the Free Trader, one of the first settlers in this archipelago.&#10;&#10;This trader will supply your settlement with necessary goods which you can't produce yet.&#10;&#10;You can also sell surpluses of your production, but in general consuming them (by building more tents) instead of selling to the Free Trader yields more profit.&#10;&#10;Normally the ships just sail around and look for deals, but small settlements like yours first need some promotion, otherwise you won't be found.&#10;&#10;For this purpose, you can build a signal fire at the coast near your branch office to show ships the way to your settlement.">
         <source>Can you see the ship passing your island from time to time?
@@ -393,7 +396,7 @@ Normally the ships just sail around and look for deals, but small settlements li
 For this purpose, you can build a signal fire at the coast near your branch office to show ships the way to your settlement.</source>
         <target state="translated">Voyez-vous le navire passer devant vos côtes de temps en temps ?
 
-C'est celui du "Free Trader" (le marchand libre), l'un des premiers colons de l'archipel.
+C'est celui du Marchand Libre, l'un des premiers colons de l'archipel.
 
 Ce marchand vous fournira en biens nécessaires que vous ne pouvez produire pour l'instant.
 
@@ -417,11 +420,11 @@ If you click in the slot, you can choose the good you want to trade with. We wil
 TASK: Build a signal fire at the coast close to your branch office.</source>
         <target state="translated">Avec cette petite aide, le bateau-marchand passera de temps en temps à votre comptoir.
 
-Vous pouvez proposer des offres via l'onglet 'Achat / Vente'. (qui est encore un peu difficile à utiliser, si vous avez une idée d'amélioration, n'hésitez pas, nous avons besoin d'aide !)
+Vous pouvez proposer des offres via l'onglet «Achat/Vente». (qui est encore un peu difficile à utiliser, si vous avez une idée d'amélioration, n'hésitez pas, nous avons besoin d'aide!)
 
-Au niveau 'marin', vous disposez de trois emplacements commerciaux.
+Au niveau «marin», vous disposez de trois emplacements commerciaux.
 
-Cliquez sur la petite icône pour changer le mode de l'emplacement en 'Achat' ou 'Vente' et vice versa.
+Cliquez sur la petite icône pour changer le mode de l'emplacement en «Achat» ou «Vente» et vice versa.
 
 Si vous cliquez dans l'emplacement, vous pouvez choisir le bien dont vous voulez faire le commerce. Nous expliquerons cela dès que vous serez prêt.
 
@@ -433,7 +436,8 @@ MISSION: Construisez un feu de signalisation près de votre comptoir.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: LEARN TO TRADE">
         <source>NEW TASK: LEARN TO TRADE</source>
-        <target state="translated">NOUVELLE MISSION: APPRENDRE À COMMERCER</target>
+        <target state="translated">MISSION: COMMERCER</target>
+        <note from="translator">The translation is bad, but it fits. for the moment, this is the solution</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Excellent! The Free Trader will now stop by at your branch office from time to time.&#10;&#10;Let's continue our tutorial on how to trade.&#10;&#10;After selecting a particular type of good, the green bar across the bottom of the slot (if visible) shows you how much you have in stock of this good.&#10;&#10;Dragging the slider on the right of each slot determines your 'target value' which has a different meaning on 'Buy' and 'Sell'. &#10;When buying, you will buy sufficient to hold your 'target value' in stock. &#10;When selling the 'target value' is the number which you hold in reserve to not sell">
         <source>Excellent! The Free Trader will now stop by at your branch office from time to time.
@@ -453,7 +457,7 @@ Après avoir sélectionné un type de produit, la barre verte le long de l'empla
 
 Bouger le curseur d'un emplacement (à droite) détermine sa «valeur cible» qui a un sens différent pour «acheter» ou «vendre».
 Quand vous achetez, vous allez acheter suffisamment pour atteindre votre «valeur cible» de stock.
-Quand vous vendez, la «valeur cible» est la quantité de produit que vous voulez garder en réserve et ne pas vendre.</target>
+Quand vous vendez, la «valeur cible» est la quantité de produit que vous voulez garder en réserve et ne pas vendre</target>
         <note from="translator"> « ... » uses a lot of space, i replaced it by «...»</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="For example: &#10;Having a 'Buy' slot and 5 tons in stock, a slider positioned at 9 tons will cause you to buy 4 additional tons at most.&#10;Selling works similarly. A 'Sell' slot with 18 tons in stock and the slider positioned at 13 will sell up to 5 tons.&#10;&#10;If the free trader however only wants to buy or sell less than your settings would allow him, you need to live with that and wait for him to return.&#10;&#10;Unknown Horizons features smart pricing, so the value of one unit can vary.&#10;It is NOT possible to change prices manually!&#10;&#10;You can see your trade balance in the 'Account' tab comparing the 'Sale' and 'Buy' values there.&#10;&#10;TASK: Buy as many tools as you need to have 30 tools in stock!&#10;If you still have some in your ship's inventory, this seems like a good point to unload them.">
@@ -474,7 +478,7 @@ If you still have some in your ship's inventory, this seems like a good point to
 Un emplacement «achat» avec 5 tonnes en stock et un curseur à 9 achètera jusqu'à 4 tonnes.
 Un emplacement «vente» avec 18 tonnes en stock et un curseur à 13 vendra jusqu'à 5 tonnes.
 
-Cependant si le bateau-marchand n'en veut pas ou n'en a pas autant, vous devrez être patient et attendre son retour.  ;-)
+Cependant si le bateau-marchand n'en veut pas ou n'en a pas autant, vous devrez être patient et attendre son prochain passage
 
 Unknown Horizons propose un système de prix intelligent, la valeur d'une unité peut donc varier.
 Il n'est pas possible de changer les prix!
@@ -491,7 +495,8 @@ Si vous en avez encore dans votre vaisseau, ce serait le bon moment pour les dé
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A PAVILION">
         <source>NEW TASK: BUILD A PAVILION</source>
-        <target state="translated">NOUVELLE MISSION: CONSTRUISEZ UN PAVILLON</target>
+        <target state="translated">MISSION: LE PAVILLON</target>
+        <note from="translator">The translation is bad, but it fits. for the moment, this is the solution</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Those tools will be enough for the moment. Well done!&#10;&#10;You now provide housing, a main square and food to your inhabitants.&#10;&#10;Still there is one demand which we have not satisfied so far, you may check that in the marketplace or tent tab - your sailors want a basic building where they can pray.&#10;&#10;The solution is a pavilion which the village parson quickly puts up as shelter from the sun.&#10;&#10;Service buildings like this also need to be connected to the tents with a trail, else your inhabitants feel unable to reach them.&#10;&#10;In later increments, upgraded versions of buildings may become available.">
         <source>Those tools will be enough for the moment. Well done!
@@ -541,11 +546,11 @@ MISSION: Construire un pavillon connecté aux tentes pour assouvir la demande re
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a pavilion with connection to the tents.">
         <source>Build a pavilion with connection to the tents.</source>
-        <target state="translated">Construisez un pavillon connecté aux tentes. </target>
+        <target state="translated">Construisez un pavillon connecté aux tentes.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: NEXT INCREMENT">
         <source>NEW TASK: NEXT INCREMENT</source>
-        <target state="translated">NOUVELLE MISSION: NIVEAU SUIVANT</target>
+        <target state="translated">MISSION: NIVEAU SUIVANT</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="All demands are fulfilled now if your inhabitants can regularly visit the main square &amp; pavilion and your food supply is adequate.&#10;&#10;If the sailors are happy enough, they want to advance to the next increment called Pioneers.&#10;&#10;To make them happy, there is nothing else for you to do but setting taxes to a lower level since you have fulfilled all the demands of your inhabitants.&#10;&#10;You should try to not always run on low taxes since this will probably lead to bankruptcy sooner or later. For a period of time and if you know what you are doing, it is fine though.&#10;&#10;After some time, the first unit should walk to the main square and have a look for new construction material there to build a log house. This house will replace the old tent.">
         <source>All demands are fulfilled now if your inhabitants can regularly visit the main square &amp; pavilion and your food supply is adequate.
@@ -593,7 +598,7 @@ MISSION: Baissez les taxes (côté gauche du régleur) et attendez que les marin
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A FARM">
         <source>NEW TASK: BUILD A FARM</source>
-        <target state="translated">NOUVELLE MISSION: CONSTRUIRE UNE FERME</target>
+        <target state="translated">MISSION: CONSTRUIRE UNE FERME</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Congratulations! Some of your inhabitants have reached increment II!&#10;&#10;Now you have access to new buildings, take a look at the Build menu again.&#10;&#10;A shiny new tab appeared there.&#10;&#10;Pioneers will demand cloth, so you need to set up a production line for cloth starting with lambs wool (which is one of the goods produced at the farm).&#10;&#10;The farm is a very special production building since it can produce not only one, but very many (and different) goods if you choose.&#10;&#10;The output of farms depends on what kind of fields you build around it.">
         <source>Congratulations! Some of your inhabitants have reached increment II!
@@ -649,7 +654,8 @@ MISSION: Construisez une ferme.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD FIELDS">
         <source>NEW TASK: BUILD FIELDS</source>
-        <target state="translated">NOUVELLE MISSION: CONSTRUISEZ DES CHAMPS</target>
+        <target state="translated">MISSION: CHAMPS</target>
+        <note from="translator">The translation is bad, but it fits. for the moment, this is the solution</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The farm itself is not going to produce anything without some fields.&#10;&#10;You currently have the choice between pastures, potato and sugar fields.&#10;&#10;Let's have a short overview:&#10;* Pasture: Sheep live here, producing lamb wool.&#10;* Potato field: Grows potatoes which are currently treated as food.&#10;* Sugar field: Grows sugar which is used to distill liquor and (later) produce confectionery.&#10;&#10;We now only need pastures, but in case your food supply chain is too small (maybe many residential buildings) you can also produce some potatoes.&#10;&#10;Note that for potatoes you will need a road connection to the farm (not to the field!) as it will be the only company to work on the goods.">
         <source>The farm itself is not going to produce anything without some fields.
@@ -703,7 +709,7 @@ MISSION: Construisez au moins un pré dans le rayon d'action de la ferme et ajou
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD STORAGE">
         <source>NEW TASK: BUILD STORAGE</source>
-        <target state="translated">NOUVELLE MISSION : CONSTRUIRE UN ENTREPÔT</target>
+        <target state="translated">MISSION : L'ENTREPÔT</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Did you watch your lumberjack recently?&#10;&#10;Since your branch office does not have unlimited space to store goods, collectors will stop fetching goods from companies when stock is full.&#10;So if no sailor recently wanted to upgrade his tent, you probably have a lot of boards and in that case, the lumberjack may idle.&#10;We can improve this situation with two different approaches, and below we will have a look at both of them.&#10;&#10;All companies offer the possibility of doing no work at all.&#10;This may sound strange, but try to click on the gear wheel you see in, for example, a lumberjack's overview.&#10;&#10;If this 'break' mode is enabled (we call it 'Decommissioning'), the running costs you pay for the building will decrease. They won't be zero, but still lower than if you keep the company producing.">
         <source>Did you watch your lumberjack recently?
@@ -719,13 +725,13 @@ If this 'break' mode is enabled (we call it 'Decommissioning'), the running cost
         <target state="translated">Avez vous observé le bucheron récemment?
 
 Puisque votre comptoir n'a qu'une capacité limité, les collecteurs arrêterons d'aller chercher les biens dans les entreprises lorsqu'il sera plein.
-Donc si aucun marin n'a amélioré sa tente, vous avez probablement beaucoup de planches et dans ce cas le bucheron fait peut-être une pause.
+Donc si aucun marin n'a amélioré sa tente, vous avez probablement beaucoup de planches et dans ce cas le bucheron est peut-être inactif.
 Nous pouvons corriger cette situation par deux approches différentes que nous allons présenter plus bas.
 
 Toutes les entreprises offrent la possibilité de stopper le travail.
 Cela peut paraitre étrange mais essayez de cliquer sur les engrenages que vous voyez par exemple dans le sommaire du bucheron.
 
-Si ce mode «pause» est disponible (nous l'appelons «désaffection») les couts de fonctionnements que vous payez pour le bâtiment baisseront. Il ne baisseront pas à zéro, mais ils seront déjà plus bas que si le bâtiment fonctionnait.</target>
+Si ce mode «pause» est disponible (nous l'appelons «désaffection»), les couts de fonctionnements que vous payez pour le bâtiment baisseront. Il ne baisseront pas à zéro, mais ils seront déjà plus bas que si le bâtiment fonctionnait.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="This means that you can save money when you temporarily do not need a company and do not want to tear it down, either.&#10;&#10;Another solution is to build the last increment-I building which has not been mentioned so far: the storage tent.&#10;&#10;This building has two purposes. It:&#10;* Offers more storage for your goods, and &#10;* sends its own collectors to fetch goods, just like the branch office does.&#10;&#10;Note that companies can also be connected to a storage in order to get their products collected, and if the branch office is overwhelmed with collector tasks, you can place a storage tent to help out there.&#10;&#10;TASK: Build a storage tent, preferably where you need collectors.">
         <source>This means that you can save money when you temporarily do not need a company and do not want to tear it down, either.
@@ -741,7 +747,7 @@ Note that companies can also be connected to a storage in order to get their pro
 TASK: Build a storage tent, preferably where you need collectors.</source>
         <target state="translated">Cela veut dire que vous pouvez économiser de l'argent en désactivant des bâtiments que vous ne voulez pas détruire mais dont vous n'avez pas besoin pour l'instant.
 
-Une autre solution est de construire le dernier bâtiment de «Niveau I» qui n'a pas encore été mentionné : l'entrepôt.
+Une autre solution est de construire le dernier bâtiment de niveau 1 qui n'a pas encore été mentionné : l'entrepôt.
 
 Ce bâtiment a deux fonctions. Il:
 * Offre plus d'espace de stockage pour vos biens et
@@ -753,11 +759,11 @@ MISSION: Construisez un entrepôt, de préférence quelque part où vous avez be
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a storage tent (increment I tab) where it makes sense.">
         <source>Build a storage tent (increment I tab) where it makes sense.</source>
-        <target state="translated">Construisez un entrepôt (dans l'onglet «Niveau I») à un emplacement utile.</target>
+        <target state="translated">Construisez un entrepôt (dans l'onglet niveau I) à un emplacement utile.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A WEAVER">
         <source>NEW TASK: BUILD A WEAVER</source>
-        <target state="translated">NOUVELLE MISSION: CONSTRUISEZ UN TISSERAND</target>
+        <target state="translated">MISSION: LE TISSERAND</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Now the wool production is set up, you still need a weaver to produce cloth out of this wool.&#10;&#10;There are two spots where you can build it - either close to the farm or close to a Storage Tent (or the Branch Office).&#10;&#10;In both cases you should ensure the connection to a trail as well.&#10;&#10;You can place the weaver close to the farm and tear down any trail to the farm to see that it will still fetch the wool and produce.&#10;&#10;TASK: Build a weaver positioned so it can get wool.">
         <source>Now the wool production is set up, you still need a weaver to produce cloth out of this wool.
@@ -789,7 +795,7 @@ MISSION: Construisez un tisserand à un emplacement à partir duquel il pourra a
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: COMPLETE TUTORIAL">
         <source>NEW TASK: COMPLETE TUTORIAL</source>
-        <target state="translated">NOUVELLE MISSION : TERMINER LE DIDACTICIEL</target>
+        <target state="translated">MISSION : FINIR LE DIDACTICIEL</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Try to house a total of 50 or more inhabitants in your city by providing more residential buildings.&#10;&#10;Once you are able to keep an economy running which can satisfy this amount of consumers, you are ready to discover new Unknown Horizons!&#10;&#10;TASK: Reach a total number of 50 inhabitants and a positive balance to complete this tutorial.">
         <source>Try to house a total of 50 or more inhabitants in your city by providing more residential buildings.
@@ -865,7 +871,7 @@ L'équipe d'UH</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Congratulations! You have reached the end of this tutorial and are ready to meet new challenges!">
         <source>Congratulations! You have reached the end of this tutorial and are ready to meet new challenges!</source>
-        <target state="translated">Félicitations! Vous avez atteint la fin de ce didacticiel. Vous êtes maintenant prêt à relever de nouveaux défis!</target>
+        <target state="translated">Félicitations! Vous avez atteint la fin de ce didacticiel, vous êtes maintenant prêt à relever de nouveaux défis!</target>
       </trans-unit>
     </body>
   </file>
