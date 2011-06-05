@@ -68,8 +68,7 @@ Use at own risk!</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Failed to save.">
         <source>Failed to save.</source>
-        <target state="translated">El guardado rápido ha fallado</target>
-        <note from="translator">75%</note>
+        <target state="translated">El guardado ha fallado.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Are you sure you want to quit Unknown Horizons?">
         <source>Are you sure you want to quit Unknown Horizons?</source>
@@ -127,10 +126,9 @@ Should i overwrite it?</source>
         <source>Details:</source>
         <target state="translated">Detalles:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Error:">
+      <trans-unit xml:space="preserve" approved="yes" id="Error:">
         <source>Error:</source>
-        <target state="needs-translation">Error</target>
-        <note from="translator">83%</note>
+        <target state="translated">Error:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Unknown savedate&#10;">
         <source>Unknown savedate
@@ -497,7 +495,7 @@ Reporta esto al autor, por favor.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Iron mine: Gets iron ore from deposit.">
         <source>Iron mine: Gets iron ore from deposit.</source>
-        <target state="translated">minas de hierro: Obtiene mineral de hierro del depósito.</target>
+        <target state="translated">Minas de hierro: Obtiene mineral de hierro del depósito.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="no" id="Smeltery: Refines all kind of ores.">
         <source>Smeltery: Refines all kind of ores.</source>
@@ -573,11 +571,11 @@ Reporta esto al autor, por favor.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Zoom in">
         <source>Zoom in</source>
-        <target state="translated">Acercar Zoom</target>
+        <target state="translated">Acercar zoom</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Zoom out">
         <source>Zoom out</source>
-        <target state="translated">Alejar Zoom</target>
+        <target state="translated">Alejar zoom</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Boards">
         <source>Boards</source>
@@ -1294,9 +1292,11 @@ Reporta esto al autor, por favor.</target>
         <target state="needs-translation">Error: No se puede cargar el mapa "%s".</target>
         <note from="translator">81%</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Error: Cannot find campaign with file &quot;%s&quot;.">
+      <trans-unit xml:space="preserve" approved="no" id="Error: Cannot find campaign with file &quot;%s&quot;.">
         <source>Error: Cannot find campaign with file "%s".</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Error: No se puede cargar el mapa "%s".</target>
+        <note from="translator">81%
+76%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You have won!">
         <source>You have won!</source>
