@@ -127,10 +127,9 @@ Na pewno chcesz go nadpisać?</target>
         <source>Details:</source>
         <target state="translated">Szczegóły:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Error:">
+      <trans-unit xml:space="preserve" approved="yes" id="Error:">
         <source>Error:</source>
-        <target state="needs-translation">Błąd</target>
-        <note from="translator">83%</note>
+        <target state="translated">Błąd:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Unknown savedate&#10;">
         <source>Unknown savedate

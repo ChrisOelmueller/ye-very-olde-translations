@@ -484,10 +484,7 @@ Als u er nog een aantal in de scheeps inventaris heeft, dan is dit een prima tij
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A PAVILION">
         <source>NEW TASK: BUILD A PAVILION</source>
-        <target state="translated">OPDRACHT: PLAATS EEN PAVILIOEN</target>
-        <alt-trans xml:space="preserve" origin="Shadow23">
-          <target>OPDRACHT: PLAATS EEN PAVILJOEN</target>
-        </alt-trans>
+        <target state="translated">OPDRACHT: PLAATS EEN PAVILJOEN</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Those tools will be enough for the moment. Well done!&#10;&#10;You now provide housing, a main square and food to your inhabitants.&#10;&#10;Still there is one demand which we have not satisfied so far, you may check that in the marketplace or tent tab - your sailors want a basic building where they can pray.&#10;&#10;The solution is a pavilion which the village parson quickly puts up as shelter from the sun.&#10;&#10;Service buildings like this also need to be connected to the tents with a trail, else your inhabitants feel unable to reach them.&#10;&#10;In later increments, upgraded versions of buildings may become available.">
         <source>Those tools will be enough for the moment. Well done!
