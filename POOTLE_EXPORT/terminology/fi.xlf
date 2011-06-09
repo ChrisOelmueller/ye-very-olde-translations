@@ -483,10 +483,10 @@
         <source>mode</source>
         <target state="translated"></target>
         <alt-trans xml:space="preserve" origin="nobody">
-          <target>moodi/tila</target>
+          <target>tila</target>
         </alt-trans>
         <alt-trans xml:space="preserve" origin="nobody">
-          <target>tila</target>
+          <target>moodi/tila</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="multiple">
