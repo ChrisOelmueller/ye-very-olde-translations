@@ -28,21 +28,15 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="resource">
         <source>resource</source>
-        <target state="translated">Ware/Rohstoff</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (8)
-(poterminology) uh/unknownhorizons.pot (14)</note>
+        <target state="translated">Ware / Rohstoff</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="branch office">
         <source>branch office</source>
         <target state="translated">Kontor</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (21)
-(poterminology) uh/unknownhorizons.pot (2)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="overview">
         <source>overview</source>
         <target state="translated">Übersicht</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (6)
-(poterminology) uh/unknownhorizons.pot (8)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="ship">
         <source>ship</source>
@@ -309,8 +303,6 @@ Bezeichnet *nur* die dritte Einwohner-Ausbaustufe. Generelle Einwohner = inhabit
       <trans-unit xml:space="preserve" approved="yes" id="balance">
         <source>balance</source>
         <target state="translated">Bilanz</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (7)
-(poterminology) uh/unknownhorizons.pot (1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="fire">
         <source>fire</source>
@@ -335,9 +327,6 @@ Bezeichnet *nur* die dritte Einwohner-Ausbaustufe. Generelle Einwohner = inhabit
         <target state="translated">Pavillon</target>
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (4)
 (poterminology) uh/unknownhorizons.pot (2)</note>
-        <alt-trans xml:space="preserve" origin="nimini">
-          <target>Kapelle</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="signal">
         <source>signal</source>
@@ -392,9 +381,7 @@ Bezeichnet *nur* die dritte Einwohner-Ausbaustufe. Generelle Einwohner = inhabit
       <trans-unit xml:space="preserve" approved="yes" id="level">
         <source>level</source>
         <target state="translated">Niveau / Stufe</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (4)
-(poterminology) uh/unknownhorizons.pot (2)
-Bitte auf Verwendung achten, bedeutet hoffentlich nirgends Einwohnerstufe!</note>
+        <note from="translator">Bitte auf Verwendung achten, bedeutet hoffentlich nirgends Einwohnerstufe!</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pasture">
         <source>pasture</source>
@@ -490,8 +477,6 @@ Bitte auf Verwendung achten, bedeutet hoffentlich nirgends Einwohnerstufe!</note
       <trans-unit xml:space="preserve" approved="yes" id="free trader">
         <source>free trader</source>
         <target state="translated">Freier Händler</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (4)
-(poterminology) uh/unknownhorizons.pot (1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="happiness">
         <source>happiness</source>
