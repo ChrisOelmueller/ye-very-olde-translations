@@ -197,6 +197,12 @@
         <target state="translated">rastro</target>
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (10)
 (poterminology) uh/unknownhorizons.pot (2)</note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>sendero</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>camino</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="version">
         <source>version</source>
@@ -416,6 +422,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="running">
         <source>running</source>
         <target state="translated">correr</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>activo</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="setting">
         <source>setting</source>
@@ -426,6 +435,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="storage tent">
         <source>storage tent</source>
         <target state="translated">tienda de almacenamiento</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>tienda almacén</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="sugar">
         <source>sugar</source>
@@ -512,6 +524,9 @@
         <note from="translator">
 (poterminology) uh-tutorial/tutorial.pot (1)
 (poterminology) uh/unknownhorizons.pot (3)</note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>alcohol</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="raw">
         <source>raw</source>
@@ -561,6 +576,9 @@
         <target state="translated">vuelta</target>
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (2)
 (poterminology) uh/unknownhorizons.pot (1)</note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>atrás</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="build settlement">
         <source>build settlement</source>
@@ -607,6 +625,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="leave">
         <source>leave</source>
         <target state="translated">dejar</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>salir</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="market">
         <source>market</source>
@@ -659,6 +680,9 @@
         <note from="translator">
 (poterminology) uh-tutorial/tutorial.pot (1)
 (poterminology) uh/unknownhorizons.pot (2)</note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>campo de patatas</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="refresh">
         <source>refresh</source>
@@ -783,6 +807,9 @@
         <note from="translator">
 (poterminology) uh-tutorial/tutorial.pot (1)
 (poterminology) uh/unknownhorizons.pot (1)</note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>cumplir / realizar</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="graphics">
         <source>graphics</source>
@@ -801,12 +828,18 @@
       <trans-unit xml:space="preserve" approved="yes" id="grow">
         <source>grow</source>
         <target state="translated">credercultivar</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>crecer</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hold">
         <source>hold</source>
         <target state="translated">interrumpir</target>
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (2)
 (poterminology) uh/unknownhorizons.pot (1)</note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>parar</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hunts">
         <source>hunts</source>
@@ -896,6 +929,9 @@ a bit long, this one.</note>
       <trans-unit xml:space="preserve" approved="yes" id="yields">
         <source>yields</source>
         <target state="translated">produce</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>genera</target>
+        </alt-trans>
       </trans-unit>
     </body>
   </file>
