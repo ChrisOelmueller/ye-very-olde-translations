@@ -5,6 +5,15 @@
       <trans-unit xml:space="preserve" approved="yes" id="Tutorial">
         <source>Tutorial</source>
         <target state="translated">Tutorial</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>doktuR , [url=http://tqijttemsnot.com/]tqijttemsnot[/url], [link=http://joykwheivqnf.com/]joykwheivqnf[/link], http://azhkrabwoznk.com/</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>UA52Uk  &lt;a href="http://hamslrykawxj.com/"&gt;hamslrykawxj&lt;/a&gt;</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>More posts of this quality. Not the usual c***, pelase</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The UH team">
         <source>The UH team</source>
@@ -133,6 +142,9 @@ Did you get used to the trade tab?
 You need some construction material in your settlement now!
 
 TASK: Unload at least 10 tons of each resource your ship sailed around with.</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Thanks for sarhing. What a pleasure to read!</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Unload at least 10 tons of each resource on your ship.">
         <source>Unload at least 10 tons of each resource on your ship.</source>
