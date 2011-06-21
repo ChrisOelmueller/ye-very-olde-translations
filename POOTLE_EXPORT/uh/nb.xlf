@@ -32,7 +32,7 @@ På eget ansvar!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Configured language %(lang)s at %(place)s could not be loaded">
         <source>Configured language %(lang)s at %(place)s could not be loaded</source>
-        <target state="translated">Ønsket språk %(lang) i %(place) kunne ikke lastes</target>
+        <target state="translated">Ønsket språk %(lang)s i %(place)s kunne ikke lastes</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Invalid network port">
         <source>Invalid network port</source>

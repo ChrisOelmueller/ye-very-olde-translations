@@ -5,16 +5,10 @@
       <trans-unit xml:space="preserve" approved="yes" id="build">
         <source>build</source>
         <target state="translated">construir</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>construir</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="game">
         <source>game</source>
         <target state="translated">joc</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>joc</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="no" id="building">
         <source>building</source>

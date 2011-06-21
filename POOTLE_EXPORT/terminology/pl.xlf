@@ -67,9 +67,9 @@
         <source>settlement</source>
         <target state="translated">osada</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="start">
+      <trans-unit xml:space="preserve" approved="yes" id="start">
         <source>start</source>
-        <target state="needs-translation">start</target>
+        <target state="translated">start</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tab">
         <source>tab</source>
@@ -83,9 +83,9 @@
         <source>food</source>
         <target state="translated">jedzenie</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="increment">
+      <trans-unit xml:space="preserve" approved="yes" id="increment">
         <source>increment</source>
-        <target state="needs-translation">wzrost</target>
+        <target state="translated">stadium rozwoju</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="minimap">
         <source>minimap</source>
@@ -99,9 +99,9 @@
         <source>menu</source>
         <target state="translated">menu</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="produce">
+      <trans-unit xml:space="preserve" approved="yes" id="produce">
         <source>produce</source>
-        <target state="needs-translation">produkuj</target>
+        <target state="translated">produkuj</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="production">
         <source>production</source>
@@ -119,12 +119,9 @@
         <source>click</source>
         <target state="translated">kliknij</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="main square">
+      <trans-unit xml:space="preserve" approved="yes" id="main square">
         <source>main square</source>
-        <target state="needs-translation">plac główny</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>rynek</target>
-        </alt-trans>
+        <target state="translated">rynek</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="settler">
         <source>settler</source>
@@ -134,9 +131,9 @@
         <source>time</source>
         <target state="translated">czas</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="trade">
+      <trans-unit xml:space="preserve" approved="yes" id="trade">
         <source>trade</source>
-        <target state="needs-translation">handel</target>
+        <target state="translated">handel</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="trail">
         <source>trail</source>
@@ -231,18 +228,13 @@
         <source>fire</source>
         <target state="translated">ogień</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="fisher">
+      <trans-unit xml:space="preserve" approved="yes" id="fisher">
         <source>fisher</source>
-        <target state="needs-translation">rybak</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (5)&#13;
-(poterminology) uh/unknownhorizons.pot (2)</note>
+        <target state="translated">rybak</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="found">
+      <trans-unit xml:space="preserve" approved="yes" id="found">
         <source>found</source>
-        <target state="needs-translation">znalezniono</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)&#13;
-(poterminology) uh/unknownhorizons.pot (2)&#13;
-80%</note>
+        <target state="translated">stwierdzono</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pavilion">
         <source>pavilion</source>
@@ -350,12 +342,9 @@
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (2)&#13;
 (poterminology) uh/unknownhorizons.pot (2)</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Captain's log">
+      <trans-unit xml:space="preserve" approved="yes" id="Captain's log">
         <source>Captain's log</source>
-        <target state="needs-translation">Dziennik kapitański</target>
-        <note from="translator">
-(poterminology) uh-tutorial/tutorial.pot (1)
-(poterminology) uh/unknownhorizons.pot (3)</note>
+        <target state="translated">Dziennik kapitański</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="construction">
         <source>construction</source>
@@ -365,11 +354,9 @@
         <source>decrease</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="free trader">
+      <trans-unit xml:space="preserve" approved="yes" id="free trader">
         <source>free trader</source>
-        <target state="needs-translation">niezależny kupiec</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (4)
-(poterminology) uh/unknownhorizons.pot (1)</note>
+        <target state="translated">darmowy handlarz</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="happiness">
         <source>happiness</source>
@@ -383,9 +370,9 @@
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (6)&#13;
 (poterminology) uh/unknownhorizons.pot (1)</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="inventory">
+      <trans-unit xml:space="preserve" approved="yes" id="inventory">
         <source>inventory</source>
-        <target state="needs-translation">zapasy</target>
+        <target state="translated">zapasów</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="lamb">
         <source>lamb</source>
@@ -650,12 +637,9 @@
 (poterminology) uh-tutorial/tutorial.pot (1)
 (poterminology) uh/unknownhorizons.pot (1)</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="return">
+      <trans-unit xml:space="preserve" approved="yes" id="return">
         <source>return</source>
-        <target state="needs-translation">powrót</target>
-        <note from="translator">
-(poterminology) uh-tutorial/tutorial.pot (1)
-(poterminology) uh/unknownhorizons.pot (1)</note>
+        <target state="translated">powrót</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="run">
         <source>run</source>
@@ -684,9 +668,9 @@
         <source>starting</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="sugar field">
+      <trans-unit xml:space="preserve" approved="yes" id="sugar field">
         <source>sugar field</source>
-        <target state="needs-translation">pole cukrowe</target>
+        <target state="translated">pole cukrowe</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="trade partner">
         <source>trade partner</source>

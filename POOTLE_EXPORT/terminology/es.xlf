@@ -8,6 +8,9 @@
         <note from="developer">set translated building name in gui</note>
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (43)
 (poterminology) uh/unknownhorizons.pot (10)</note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Project Manager</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="game">
         <source>game</source>
@@ -421,10 +424,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="running">
         <source>running</source>
-        <target state="translated">correr</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>activo</target>
-        </alt-trans>
+        <target state="translated">activo / correr</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="setting">
         <source>setting</source>
