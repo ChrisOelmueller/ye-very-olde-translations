@@ -884,9 +884,6 @@ Veuillez rapporter ceci à l'auteur.</target>
       <trans-unit xml:space="preserve" approved="yes" id="Active games:">
         <source>Active games:</source>
         <target state="translated">Parties actives:</target>
-        <alt-trans xml:space="preserve" origin="sébastien">
-          <target>Parties actives:</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Main menu:">
         <source>Main menu:</source>
