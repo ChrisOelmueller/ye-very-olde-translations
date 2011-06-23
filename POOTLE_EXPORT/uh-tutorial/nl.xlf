@@ -500,18 +500,6 @@ Service buildings like this also need to be connected to the tents with a trail,
 In later increments, upgraded versions of buildings may become available.</source>
         <target state="translated">Deze gereedschappen zullen eerst wel genoeg zijn. Goed gedaan!
 
-U heeft nu huizen, een marktplaats en voedsel vor uw inwonders.
-
-Er is alleen nog een vraag waar we nog niet aan hebben voldaan. U kunt dat controleren in de marktplaats of tent tab. Uw zeemannen willen een een gebouw om te bidden.
-
-De oplossing is een paviljoen, welke de dorps pastoor snel opgezet heeft als bescherming tegen de zon.
-
-Service gebouwen zoals deze moeten ook een pad naar de tent hebben, anders kunnen de inwoners er niet komen.
-
-Veel later in het spel zullen er ook upgrades voor de gebouwen komen.</target>
-        <alt-trans xml:space="preserve" origin="Shadow23">
-          <target>Deze gereedschappen zullen eerst wel genoeg zijn. Goed gedaan!
-
 U heeft nu huizen, een marktplaats en voedsel voor uw inwonders.
 
 Er is alleen nog een vraag waar we nog niet aan hebben voldaan. U kunt dat controleren in de marktplaats of tent tab. Uw zeemannen willen een een gebouw om te bidden.
@@ -521,7 +509,6 @@ De oplossing is een paviljoen, welke de dorps pastoor snel opgezet heeft als bes
 Service gebouwen zoals deze moeten ook een pad naar de tent hebben, anders kunnen de inwoners er niet komen.
 
 Veel later in het spel zullen er ook upgrades voor de gebouwen komen.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="In that case the 'small' version is not needed anymore since the 'big' one will also provide what your inhabitants are looking for in early increments.&#10;&#10;Take care when planning your city because most of those advanced buildings are bigger than the basic ones.&#10;&#10;Note that faith is treated like a physical resource, so units need to refresh there after some time.&#10;&#10;Important:&#10;It is NOT enough that the building is merely within a certain range of the tents.&#10;&#10;TASK: Build a pavilion with a trail to the tents in order to fulfill your sailors' demand for faith.">
         <source>In that case the 'small' version is not needed anymore since the 'big' one will also provide what your inhabitants are looking for in early increments.
@@ -536,17 +523,6 @@ It is NOT enough that the building is merely within a certain range of the tents
 TASK: Build a pavilion with a trail to the tents in order to fulfill your sailors' demand for faith.</source>
         <target state="translated">In het geval dat de 'kleine' versie niet meer nodig is omdat de 'grote' ook biedt wat uw inwoners kleine versie zoeken.
 
-Houdt bij het ontwikkelen van uw stad er rekening mee dat geavanceerde gebouwen groter zijn dan de basis gebouwen.
-
-Let erop dat geloof wordt behandeld als een fysieke grondstof, eenheden moeten zich na bepaalde tijd verfrissen.
-
-Belangrijk:
-Het is NIET voldoende dat het gebouw alleen maar binnen een bepaalde afstand van de tent staat.
-
-OPDRACHT: Plaats een pavilioen met een pad naar de tenten om te voldoen aan de vraag naar geloof van de zeelui.</target>
-        <alt-trans xml:space="preserve" origin="Shadow23">
-          <target>In het geval dat de 'kleine' versie niet meer nodig is omdat de 'grote' ook biedt wat uw inwoners kleine versie zoeken.
-
 Probeer rekening te houden bij het ontwikkelen van uw stad dat de geavanceerde gebouwen groter zijn dan de basis gebouwen.
 
 Let erop dat geloof wordt behandeld als een fysieke grondstof, eenheden moeten zich na bepaalde tijd verfrissen.
@@ -555,14 +531,10 @@ Belangrijk:
 Het is NIET voldoende dat het gebouw alleen maar binnen een bepaalde afstand van de tent staat.
 
 OPDRACHT: Plaats een paviljoen met een pad naar de tenten om te voldoen aan de vraag naar geloof van de zeelui.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a pavilion with connection to the tents.">
         <source>Build a pavilion with connection to the tents.</source>
-        <target state="translated">Plaats een pavilioen met verbinding naar de tenten.</target>
-        <alt-trans xml:space="preserve" origin="Shadow23">
-          <target>Plaats een paviljoen met verbinding naar de tenten.</target>
-        </alt-trans>
+        <target state="translated">Plaats een paviljoen met verbinding naar de tenten.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: NEXT INCREMENT">
         <source>NEW TASK: NEXT INCREMENT</source>

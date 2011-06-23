@@ -4,10 +4,7 @@
     <body>
       <trans-unit xml:space="preserve" approved="yes" id="Unknown Horizons Version %s">
         <source>Unknown Horizons Version %s</source>
-        <target state="translated">Unknown Horizons versión Desconocida %s</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Unknown Horizons versión %s</target>
-        </alt-trans>
+        <target state="translated">Unknown Horizons versión %s</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Restart required">
         <source>Restart required</source>

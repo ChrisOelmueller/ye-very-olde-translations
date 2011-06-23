@@ -103,10 +103,7 @@ Use por sua conta e risco!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Save game">
         <source>Save game</source>
-        <target state="translated">Guardar jogo</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Gravar jogo</target>
-        </alt-trans>
+        <target state="translated">Gravar jogo</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="A savegame with the name &quot;%s&quot; already exists. &#10;Should i overwrite it?">
         <source>A savegame with the name "%s" already exists. 
@@ -147,10 +144,6 @@ Deseja substituí-lo?</target>
 </source>
         <target state="translated">Gravado em %s
 </target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Guardado à %s
-</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="%H:%M, %A, %B %d">
         <source>%H:%M, %A, %B %d</source>
@@ -178,10 +171,7 @@ Requer versão %(need)d!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You need to select a savegame to delete">
         <source>You need to select a savegame to delete</source>
-        <target state="translated">Tem que selecionar uma gravação de jogo para apagar</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Necessida de selecionar uma gravação de jogo para apagar</target>
-        </alt-trans>
+        <target state="translated">Necessida de selecionar uma gravação de jogo para apagar</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Do you really want to delete the savegame &quot;%s&quot;?">
         <source>Do you really want to delete the savegame "%s"?</source>
@@ -433,10 +423,7 @@ Por favor reporte isto ao autor.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Lumberjack: Chops down trees and turns them into boards.">
         <source>Lumberjack: Chops down trees and turns them into boards.</source>
-        <target state="translated">Lenhador: Corta arvores e converte-as em pranchas de madeira.</target>
-        <alt-trans xml:space="preserve" origin="nmarques">
-          <target>Lenhador: Corta árvores e converte-as em tábuas.</target>
-        </alt-trans>
+        <target state="translated">Lenhador: Corta árvores e converte-as em tábuas.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Main square: Supplies citizens with goods.">
         <source>Main square: Supplies citizens with goods.</source>
@@ -448,17 +435,11 @@ Por favor reporte isto ao autor.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Storage: Extends stock and provides collectors.">
         <source>Storage: Extends stock and provides collectors.</source>
-        <target state="translated">Armazenamento: Extende a capacidade de armazenamento e force colecionadores.</target>
-        <alt-trans xml:space="preserve" origin="nmarques">
-          <target>Armazenamento: Extende a capacidade de armazenamento e fornece colecionadores.</target>
-        </alt-trans>
+        <target state="translated">Armazenamento: Extende a capacidade de armazenamento e fornece colecionadores.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Trail: Needed for collecting goods.">
         <source>Trail: Needed for collecting goods.</source>
-        <target state="translated">Carreiro: Necessário para colecionar mercadorias.</target>
-        <alt-trans xml:space="preserve" origin="nmarques">
-          <target>Caminho: Necessário para colecionar mercadorias.</target>
-        </alt-trans>
+        <target state="translated">Caminho: Necessário para colecionar mercadorias.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tree">
         <source>Tree</source>
@@ -470,10 +451,7 @@ Por favor reporte isto ao autor.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Pioneer buildings">
         <source>Pioneer buildings</source>
-        <target state="translated">Edificios de Pioneiro</target>
-        <alt-trans xml:space="preserve" origin="nmarques">
-          <target>Edifícios de Pioneiro</target>
-        </alt-trans>
+        <target state="translated">Edifícios de pioneiro</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Military">
         <source>Military</source>
@@ -481,10 +459,7 @@ Por favor reporte isto ao autor.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Boat builder: Builds boats and small ships. Built on coast.">
         <source>Boat builder: Builds boats and small ships. Built on coast.</source>
-        <target state="translated">Contrutor de barcos: contrói barcos e navios pequenos. Construídos na costa.</target>
-        <alt-trans xml:space="preserve" origin="nmarques">
-          <target>Contrutor de barcos: contrói barcos e navios pequenos. São construídos na costa.</target>
-        </alt-trans>
+        <target state="translated">Contrutor de barcos: Contrói barcos e navios pequenos. Construídos na costa.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Brickyard: Turns clay into bricks.">
         <source>Brickyard: Turns clay into bricks.</source>
@@ -492,10 +467,7 @@ Por favor reporte isto ao autor.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Clay pit: Gets clay from deposit.">
         <source>Clay pit: Gets clay from deposit.</source>
-        <target state="translated">Poço de barro: Fornece barro do depósito.</target>
-        <alt-trans xml:space="preserve" origin="nmarques">
-          <target>Poço de barro: Extrai barro do depósito.</target>
-        </alt-trans>
+        <target state="translated">Poço de barro: Extrai barro do depósito.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Distillery: Turns sugar into liquor.">
         <source>Distillery: Turns sugar into liquor.</source>
@@ -503,10 +475,7 @@ Por favor reporte isto ao autor.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Farm: Grows field crops and raises livestock.">
         <source>Farm: Grows field crops and raises livestock.</source>
-        <target state="translated">Quinta: crescem culturas e cria gado.</target>
-        <alt-trans xml:space="preserve" origin="nmarques">
-          <target>Quinta: fornece culturas em campo e cria gado.</target>
-        </alt-trans>
+        <target state="translated">Quinta: Crescem culturas e cria gado.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Pasture: Raises sheep. Produces wool. Needs a farm.">
         <source>Pasture: Raises sheep. Produces wool. Needs a farm.</source>
@@ -514,39 +483,27 @@ Por favor reporte isto ao autor.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Potato field: Yields food. Needs a farm.">
         <source>Potato field: Yields food. Needs a farm.</source>
-        <target state="translated">Campo de batatas: Fornece comida. Necessita de uma quinta.</target>
-        <alt-trans xml:space="preserve" origin="nmarques">
-          <target>Campo de batatas: Fornece comida. Requer uma quinta.</target>
-        </alt-trans>
+        <target state="translated">Campo de batatas: Fornece comida. Requer uma quinta.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sugarcane field: Used in liquor production. Needs a farm.">
         <source>Sugarcane field: Used in liquor production. Needs a farm.</source>
-        <target state="translated">Plantação de cana de açucar: Utilizado na produção de alcoól. Requer uma quinta.</target>
-        <alt-trans xml:space="preserve" origin="nmarques">
-          <target>Plantação de cana de açúcar: Utilizado na produção de alcoól. Requer uma quinta.</target>
-        </alt-trans>
+        <target state="translated">Plantação de cana de açúcar: Utilizado na produção de alcoól. Requer uma quinta.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Village school: Provides education.">
         <source>Village school: Provides education.</source>
-        <target state="translated">Escola da aldeia: Fornece educação.</target>
-        <alt-trans xml:space="preserve" origin="nmarques">
-          <target>Escola: Fornece educação.</target>
-        </alt-trans>
+        <target state="translated">Escola: Fornece educação.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Weaver: Turns lamb wool into cloth.">
         <source>Weaver: Turns lamb wool into cloth.</source>
-        <target state="translated">Tecelão: converte a lã em tecido.</target>
+        <target state="translated">Tecelão: Converte a lã em tecido.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Settler buildings">
         <source>Settler buildings</source>
-        <target state="translated">Edífcios do colonizador</target>
+        <target state="translated">Edífcios do colonizadores</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Charcoal burning: Burns a lot of boards.">
         <source>Charcoal burning: Burns a lot of boards.</source>
-        <target state="translated">Queima do carvão: Queima molhos de tabúas.</target>
-        <alt-trans xml:space="preserve" origin="nmarques">
-          <target>Fornalha: Queima molhos de tabúas e transforma-os em carvão.</target>
-        </alt-trans>
+        <target state="translated">Fornalha: Queima molhos de tabúas e transforma-os em carvão.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Iron mine: Gets iron ore from deposit.">
         <source>Iron mine: Gets iron ore from deposit.</source>
@@ -562,10 +519,7 @@ Por favor reporte isto ao autor.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Toolmaker: Produces tools out of iron.">
         <source>Toolmaker: Produces tools out of iron.</source>
-        <target state="translated">Ferreiro: Produz ferramentas a partir do ferro.</target>
-        <alt-trans xml:space="preserve" origin="nmarques">
-          <target>Ferramenteiro: Produz ferramentas a partir do ferro.</target>
-        </alt-trans>
+        <target state="translated">Ferramenteiro: Produz ferramentas a partir do ferro.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Running costs:">
         <source>Running costs:</source>
@@ -586,162 +540,90 @@ Por favor reporte isto ao autor.</target>
       <trans-unit xml:space="preserve" approved="yes" id="Inhabitants">
         <source>Inhabitants</source>
         <target state="translated">Habitantes</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Habitantes</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Click to change the name of your settlement.">
         <source>Click to change the name of your settlement.</source>
-        <target state="translated">Clique para mudar o nome da sua colonato.</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Clique para mudar o nome da sua colonato.</target>
-        </alt-trans>
-        <alt-trans xml:space="preserve" origin="nmarques">
-          <target>Clique para mudar o nome do seu povoado.</target>
-        </alt-trans>
+        <target state="translated">Clique para mudar o nome do seu povoação.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Destroy">
         <source>Destroy</source>
         <target state="translated">Destruir</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Destruir</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build menu">
         <source>Build menu</source>
         <target state="translated">Menu de construção</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Menu de construção</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Game menu">
         <source>Game menu</source>
         <target state="translated">Menu de jogo</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Menu de jogo</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Help">
         <source>Help</source>
         <target state="translated">Ajuda</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Ajuda</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Captain's log">
         <source>Captain's log</source>
-        <target state="translated">Diário do Capitão</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Diário do Capitão</target>
-        </alt-trans>
+        <target state="translated">Diário de bordo</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Rotate map counterclockwise">
         <source>Rotate map counterclockwise</source>
         <target state="translated">Rodar o mapa no sentido anti-horário</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Rodar o mapa no sentido anti-horário</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Rotate map clockwise">
         <source>Rotate map clockwise</source>
         <target state="translated">Rodar o mapa no sentido do horário</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Rodar o mapa no sentido do horário</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Decrease game speed">
         <source>Decrease game speed</source>
         <target state="translated">Diminuir a velocidade de jogo</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Diminuir a velocidade de jogo</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Increase game speed">
         <source>Increase game speed</source>
         <target state="translated">Aumentar a velocidade de jogo</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Aumentar a velocidade de jogo</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Zoom in">
         <source>Zoom in</source>
         <target state="translated">Ampliar</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Ampliar</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Zoom out">
         <source>Zoom out</source>
-        <target state="translated">Diminuir amplicação</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Diminuir amplicação</target>
-        </alt-trans>
-        <alt-trans xml:space="preserve" origin="nmarques">
-          <target>Diminuir ampliação</target>
-        </alt-trans>
+        <target state="translated">Diminuir ampliação</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Boards">
         <source>Boards</source>
         <target state="translated">Tábuas</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Tábuas</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Bricks">
         <source>Bricks</source>
         <target state="translated">Tijolos</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Tijolos</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Food">
         <source>Food</source>
         <target state="translated">Comida</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Comida</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Textiles">
         <source>Textiles</source>
         <target state="translated">Texteis</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Texteis</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tools">
         <source>Tools</source>
         <target state="translated">Ferramentas</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Ferramentas</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Gold">
         <source>Gold</source>
         <target state="translated">Ouro</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Ouro</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enter new name:">
         <source>Enter new name:</source>
         <target state="translated">Introduzir o novo nome:</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Introduzir o novo nome:</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Change name">
         <source>Change name</source>
         <target state="translated">Mudar o nome</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Mudar o nome</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enter your message:">
         <source>Enter your message:</source>
         <target state="translated">Introduzir a sua mensagem:</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Introduzir a sua mensagem:</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Chat">
         <source>Chat</source>
@@ -953,11 +835,11 @@ Por favor reporte isto ao autor.</target>
       <trans-unit xml:space="preserve" approved="yes" id="{F1} = Display help">
         <source>{F1} = Display help</source>
         <target state="translated">{F1} = Mostrar ajuda</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>{F1} = Mostrar ajuda</target>
-        </alt-trans>
         <alt-trans xml:space="preserve" origin="nmarques">
           <target>{F1} = Mostrar a ajuda</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>{F1} = Mostrar ajuda</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{F5} = Quicksave">
@@ -1231,21 +1113,21 @@ Por favor reporte isto ao autor.</target>
       <trans-unit xml:space="preserve" approved="yes" id="Refresh list:">
         <source>Refresh list:</source>
         <target state="translated">Actualizar lista:</target>
-        <alt-trans xml:space="preserve" origin="nmarques">
-          <target>Actualizar a lista:</target>
-        </alt-trans>
         <alt-trans xml:space="preserve" origin="nobody">
           <target>Actualizar lista:</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nmarques">
+          <target>Actualizar a lista:</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Apply the new name">
         <source>Apply the new name</source>
         <target state="translated">Aplicar novo jogo</target>
-        <alt-trans xml:space="preserve" origin="nmarques">
-          <target>Aplicar o jogo novo</target>
-        </alt-trans>
         <alt-trans xml:space="preserve" origin="nobody">
           <target>Aplicar novo jogo</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nmarques">
+          <target>Aplicar o jogo novo</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Create a new game">
@@ -1258,11 +1140,11 @@ Por favor reporte isto ao autor.</target>
       <trans-unit xml:space="preserve" approved="yes" id="Join the selected game">
         <source>Join the selected game</source>
         <target state="translated">Juntar-se ao jogo selecionado</target>
-        <alt-trans xml:space="preserve" origin="nmarques">
-          <target>Junte-se ao jogo selecionado</target>
-        </alt-trans>
         <alt-trans xml:space="preserve" origin="nobody">
           <target>Juntar-se ao jogo selecionado</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nmarques">
+          <target>Junte-se ao jogo selecionado</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Refresh list of active games">
@@ -1338,11 +1220,11 @@ Por favor reporte isto ao autor.</target>
       <trans-unit xml:space="preserve" approved="yes" id="Select language:">
         <source>Select language:</source>
         <target state="translated">Escolha a linguagem:</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Escolha a linguagem:</target>
-        </alt-trans>
         <alt-trans xml:space="preserve" origin="nmarques">
           <target>Escolha a língua:</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Escolha a linguagem:</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enable minimap rotation:">
@@ -1443,11 +1325,11 @@ Por favor reporte isto ao autor.</target>
       <trans-unit xml:space="preserve" approved="yes" id="New game - Singleplayer">
         <source>New game - Singleplayer</source>
         <target state="translated">Novo Jogo - Modo Solitário</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Novo Jogo - Modo Solitário</target>
-        </alt-trans>
         <alt-trans xml:space="preserve" origin="nmarques">
           <target>Novo Jogo - Jogo a "solo"</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Novo Jogo - Modo Solitário</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Start game:">
@@ -1593,11 +1475,11 @@ Por favor reporte isto ao autor.</target>
       <trans-unit xml:space="preserve" approved="yes" id="Herring fisher">
         <source>Herring fisher</source>
         <target state="translated">Arenque de Pescador</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Arenque de Pescador</target>
-        </alt-trans>
         <alt-trans xml:space="preserve" origin="nmarques">
           <target>Arenque de pescador</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Arenque de Pescador</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Whaler">
@@ -1790,11 +1672,11 @@ Por favor reporte isto ao autor.</target>
       <trans-unit xml:space="preserve" approved="yes" id="This is the free trader's ship. It will visit you from time to time to buy or sell goods.">
         <source>This is the free trader's ship. It will visit you from time to time to buy or sell goods.</source>
         <target state="translated">Este é o navio do mercador livre. Ele irá visitá-lo de tempo a tempo para comprar e vender mercadorias.</target>
-        <alt-trans xml:space="preserve" origin="nmarques">
-          <target>Este é o navio do mercador livre. Ele irá visitá-lo de tempo a tempo para comprar ou vender mercadorias.</target>
-        </alt-trans>
         <alt-trans xml:space="preserve" origin="nobody">
           <target>Este é o navio do mercador livre. Ele irá visitá-lo de tempo a tempo para comprar e vender mercadorias.</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nmarques">
+          <target>Este é o navio do mercador livre. Ele irá visitá-lo de tempo a tempo para comprar ou vender mercadorias.</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Exchange:">
@@ -1924,14 +1806,14 @@ Por favor reporte isto ao autor.</target>
       <trans-unit xml:space="preserve" approved="yes" id="You have won!">
         <source>You have won!</source>
         <target state="translated">Ganhou!</target>
-        <alt-trans xml:space="preserve" origin="nmarques">
-          <target>Venceu!</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Saiu vitorioso!</target>
         </alt-trans>
         <alt-trans xml:space="preserve" origin="nobody">
           <target>Ganhou!</target>
         </alt-trans>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Saiu vitorioso!</target>
+        <alt-trans xml:space="preserve" origin="nmarques">
+          <target>Venceu!</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You have completed this scenario. ">
@@ -2087,11 +1969,11 @@ Por favor reporte isto ao autor.</target>
       <trans-unit xml:space="preserve" approved="yes" id="Starts &lt;scenario&gt;. &lt;scenario&gt; is the scenarioname.">
         <source>Starts &lt;scenario&gt;. &lt;scenario&gt; is the scenarioname.</source>
         <target state="translated">Inicia &lt;scenario&gt;. &lt;scenario&gt; é o nome do cenário.</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Inicia &lt;scenario&gt;. &lt;scenario&gt; é o nome do cenário.</target>
-        </alt-trans>
         <alt-trans xml:space="preserve" origin="nmarques">
           <target>Inicia &lt;cenário&gt;. &lt;cenário&gt; é o nome do cenário.</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Inicia &lt;scenario&gt;. &lt;scenario&gt; é o nome do cenário.</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Starts &lt;campaign&gt;. &lt;campaign&gt; is the campaign name.">

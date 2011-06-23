@@ -6,9 +6,9 @@
         <source>Unknown Horizons Version %s</source>
         <target state="translated">Unknown Horizons Versioon %s</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Restart required">
+      <trans-unit xml:space="preserve" approved="yes" id="Restart required">
         <source>Restart required</source>
-        <target state="needs-translation">Vaja on Taaskäivitust</target>
+        <target state="translated">Vaja on taaskäivitust</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Some of your changes require a restart of Unknown Horizons.">
         <source>Some of your changes require a restart of Unknown Horizons.</source>
@@ -125,10 +125,9 @@ Kas kirjutada see üle?</target>
         <source>Details:</source>
         <target state="translated">Detailid:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Error:">
+      <trans-unit xml:space="preserve" approved="yes" id="Error:">
         <source>Error:</source>
-        <target state="needs-translation">Viga</target>
-        <note from="translator">83%</note>
+        <target state="translated">Viga:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Unknown savedate&#10;">
         <source>Unknown savedate
@@ -156,10 +155,10 @@ Need ver. %(need)d!</source>
         <target state="translated">HOIATUS: Mitteühilduv versioon %(ver)d!
 Vajatav versioon %(need)d!</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="INCOMPATIBLE VERSION&#10;">
+      <trans-unit xml:space="preserve" approved="yes" id="INCOMPATIBLE VERSION&#10;">
         <source>INCOMPATIBLE VERSION
 </source>
-        <target state="needs-translation">MITTEÜHILDUV VERSIOON
+        <target state="translated">MITTEÜHILDUV VERSIOON
 </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="No file selected">
@@ -338,25 +337,25 @@ Palun teavita sellest autorit.</target>
         <source>Overview</source>
         <target state="translated">Ülevaade</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Branch office overview">
+      <trans-unit xml:space="preserve" approved="yes" id="Branch office overview">
         <source>Branch office overview</source>
-        <target state="needs-translation">Harukontori Ülevaade</target>
+        <target state="translated">Harukontori ülevaade</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Market place overview">
+      <trans-unit xml:space="preserve" approved="yes" id="Market place overview">
         <source>Market place overview</source>
-        <target state="needs-translation">Turuplatsi Ülevaade</target>
+        <target state="translated">Turuplatsi ülevaade</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Ship overview">
+      <trans-unit xml:space="preserve" approved="yes" id="Ship overview">
         <source>Ship overview</source>
-        <target state="needs-translation">Laevade Ülevaade</target>
+        <target state="translated">Laevade ülevaade</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Production overview">
+      <trans-unit xml:space="preserve" approved="yes" id="Production overview">
         <source>Production overview</source>
-        <target state="needs-translation">Tootmise Ülevaade</target>
+        <target state="translated">Tootmise ülevaade</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Destroy building">
+      <trans-unit xml:space="preserve" approved="yes" id="Destroy building">
         <source>Destroy building</source>
-        <target state="needs-translation">Hävita Ehitis</target>
+        <target state="translated">Hävita ehitis</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Limit: %st per slot">
         <source>Limit: %st per slot</source>
@@ -382,74 +381,53 @@ Palun teavita sellest autorit.</target>
         <source>Companies</source>
         <target state="translated">Ettevõtted</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Sailor buildings">
+      <trans-unit xml:space="preserve" approved="yes" id="Sailor buildings">
         <source>Sailor buildings</source>
-        <target state="needs-translation">Meremehe Ehitised</target>
+        <target state="translated">Meremehe ehitised</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Residents and infrastructure">
+      <trans-unit xml:space="preserve" approved="yes" id="Residents and infrastructure">
         <source>Residents and infrastructure</source>
-        <target state="needs-translation">Elanikud ja Infrastruktuur</target>
+        <target state="translated">Elanikud ja infrastruktuur</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Services">
         <source>Services</source>
         <target state="translated">Teenused</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Pavilion: Fulfills religious needs of sailors.">
+      <trans-unit xml:space="preserve" approved="yes" id="Pavilion: Fulfills religious needs of sailors.">
         <source>Pavilion: Fulfills religious needs of sailors.</source>
-        <target state="needs-translation">Paviljon: 
-Rahuldab meremeeste 
-religioosseid vajadusi.</target>
+        <target state="translated">Paviljon: Rahuldab meremeeste religioosseid vajadusi.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Fisherman: Fishes the sea, produces food.">
+      <trans-unit xml:space="preserve" approved="yes" id="Fisherman: Fishes the sea, produces food.">
         <source>Fisherman: Fishes the sea, produces food.</source>
-        <target state="needs-translation">Kalur: 
-Kalastab merel, 
-toodab sööki.</target>
+        <target state="translated">Kalur: Kalastab merel, toodab sööki.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Hunter: Hunts wild forest animals, produces food.">
+      <trans-unit xml:space="preserve" approved="yes" id="Hunter: Hunts wild forest animals, produces food.">
         <source>Hunter: Hunts wild forest animals, produces food.</source>
-        <target state="needs-translation">Jahimees: 
-Jahib metsikuid 
-metsloomi, 
-toodab sööki.</target>
+        <target state="translated">Jahimees: Jahib metsikuid metsloomi, toodab sööki.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Signal fire: Allows the player to trade with the free trader.">
+      <trans-unit xml:space="preserve" approved="yes" id="Signal fire: Allows the player to trade with the free trader.">
         <source>Signal fire: Allows the player to trade with the free trader.</source>
-        <target state="needs-translation">Signaalituli: 
-Võimaldab mängijal 
-kubelda vaba 
-kaupmehega.</target>
+        <target state="translated">Signaalituli: Võimaldab mängijal kubelda vaba kaupmehega.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Lumberjack: Chops down trees and turns them into boards.">
+      <trans-unit xml:space="preserve" approved="yes" id="Lumberjack: Chops down trees and turns them into boards.">
         <source>Lumberjack: Chops down trees and turns them into boards.</source>
-        <target state="needs-translation">Puuraidur: 
-Langetab puid 
-ja teeb neist laudu.</target>
+        <target state="translated">Puuraidur: Langetab puid ja teeb neist laudu.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Main square: Supplies citizens with goods.">
+      <trans-unit xml:space="preserve" approved="yes" id="Main square: Supplies citizens with goods.">
         <source>Main square: Supplies citizens with goods.</source>
-        <target state="needs-translation">Peaväljak: 
-varustab kodanikke 
-kaupadega.</target>
+        <target state="translated">Peaväljak: Varustab kodanikke kaupadega.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Tent: Houses your inhabitants.">
+      <trans-unit xml:space="preserve" approved="yes" id="Tent: Houses your inhabitants.">
         <source>Tent: Houses your inhabitants.</source>
-        <target state="needs-translation">Telk: 
-Majutab sinu 
-asunikke.</target>
+        <target state="translated">Telk: Majutab sinu asunikke.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Storage: Extends stock and provides collectors.">
+      <trans-unit xml:space="preserve" approved="yes" id="Storage: Extends stock and provides collectors.">
         <source>Storage: Extends stock and provides collectors.</source>
-        <target state="needs-translation">Ladu: 
-Suurendab kaubavaru 
-ja varustab
-kogujatega.</target>
+        <target state="translated">Ladu: Suurendab kaubavaru ja varustab kogujatega.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Trail: Needed for collecting goods.">
+      <trans-unit xml:space="preserve" approved="yes" id="Trail: Needed for collecting goods.">
         <source>Trail: Needed for collecting goods.</source>
-        <target state="needs-translation">Rada: 
-vajalik kaupade 
-kogumiseks.</target>
+        <target state="translated">Rada: Vajalik kaupade kogumiseks.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tree">
         <source>Tree</source>
@@ -459,75 +437,57 @@ kogumiseks.</target>
         <source>Fields</source>
         <target state="translated">Põllud</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Pioneer buildings">
+      <trans-unit xml:space="preserve" approved="yes" id="Pioneer buildings">
         <source>Pioneer buildings</source>
-        <target state="needs-translation">Pioneeride Ehitised</target>
+        <target state="translated">Pioneeride ehitised</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Military">
         <source>Military</source>
         <target state="translated">Sõjandus</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Boat builder: Builds boats and small ships. Built on coast.">
+      <trans-unit xml:space="preserve" approved="yes" id="Boat builder: Builds boats and small ships. Built on coast.">
         <source>Boat builder: Builds boats and small ships. Built on coast.</source>
-        <target state="needs-translation">Paadi ehitaja: 
-Ehitab paate ja
-väikseid laevu. 
-Ehitatakse rannikule.</target>
+        <target state="translated">Paadi ehitaja: Ehitab paate ja väikseid laevu. Ehitatakse rannikule.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Brickyard: Turns clay into bricks.">
+      <trans-unit xml:space="preserve" approved="yes" id="Brickyard: Turns clay into bricks.">
         <source>Brickyard: Turns clay into bricks.</source>
-        <target state="needs-translation">Tellisetehas: 
-Valmistab savist 
-telliseid.</target>
+        <target state="translated">Tellisetehas: Valmistab savist telliseid.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Clay pit: Gets clay from deposit.">
+      <trans-unit xml:space="preserve" approved="yes" id="Clay pit: Gets clay from deposit.">
         <source>Clay pit: Gets clay from deposit.</source>
-        <target state="needs-translation">Saviauk: 
-Kaevandab savi 
-lasundist.</target>
+        <target state="translated">Saviauk: Kaevandab savi lasundist.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Distillery: Turns sugar into liquor.">
         <source>Distillery: Turns sugar into liquor.</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Farm: Grows field crops and raises livestock.">
+      <trans-unit xml:space="preserve" approved="yes" id="Farm: Grows field crops and raises livestock.">
         <source>Farm: Grows field crops and raises livestock.</source>
-        <target state="needs-translation">Talu: 
-Kasvatab 
-põllukultuure 
-ja kariloomi.</target>
+        <target state="translated">Talu: Kasvatab põllukultuure ja kariloomi.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Pasture: Raises sheep. Produces wool. Needs a farm.">
+      <trans-unit xml:space="preserve" approved="yes" id="Pasture: Raises sheep. Produces wool. Needs a farm.">
         <source>Pasture: Raises sheep. Produces wool. Needs a farm.</source>
-        <target state="needs-translation">Karjamaa: 
-Kasvatab lambaid. 
-Toodab villa. 
-Vajab talu.</target>
+        <target state="translated">Karjamaa: Kasvatab lambaid. Toodab villa. Vajab talu.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Potato field: Yields food. Needs a farm.">
+      <trans-unit xml:space="preserve" approved="yes" id="Potato field: Yields food. Needs a farm.">
         <source>Potato field: Yields food. Needs a farm.</source>
-        <target state="needs-translation">Kartulipõld: 
-Toodab sööki 
-Vajab talu.</target>
+        <target state="translated">Kartulipõld: Toodab sööki. Vajab talu.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sugarcane field: Used in liquor production. Needs a farm.">
         <source>Sugarcane field: Used in liquor production. Needs a farm.</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Village school: Provides education.">
+      <trans-unit xml:space="preserve" approved="yes" id="Village school: Provides education.">
         <source>Village school: Provides education.</source>
-        <target state="needs-translation">Külakool: 
-Annab haridust.</target>
+        <target state="translated">Külakool: Annab haridust.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Weaver: Turns lamb wool into cloth.">
+      <trans-unit xml:space="preserve" approved="yes" id="Weaver: Turns lamb wool into cloth.">
         <source>Weaver: Turns lamb wool into cloth.</source>
-        <target state="needs-translation">Kuduja: 
-Teeb lambavillast 
-riideid.</target>
+        <target state="translated">Kuduja: Teeb lambavillast riideid.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Settler buildings">
+      <trans-unit xml:space="preserve" approved="yes" id="Settler buildings">
         <source>Settler buildings</source>
-        <target state="needs-translation">Asunike Ehitised</target>
+        <target state="translated">Asunike ehitised</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Charcoal burning: Burns a lot of boards.">
         <source>Charcoal burning: Burns a lot of boards.</source>
@@ -717,13 +677,13 @@ riideid.</target>
         <source>Attention please!</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Credits">
+      <trans-unit xml:space="preserve" approved="yes" id="Credits">
         <source>Credits</source>
-        <target state="needs-translation"> Autorid </target>
+        <target state="translated">Autorid</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Cancel game">
+      <trans-unit xml:space="preserve" approved="yes" id="Cancel game">
         <source>Cancel game</source>
-        <target state="needs-translation"> Katkesta mäng </target>
+        <target state="translated">Katkesta mäng</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Settings">
         <source>Settings</source>
@@ -747,27 +707,27 @@ riideid.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{LEFT} = Scroll left">
         <source>{LEFT} = Scroll left</source>
-        <target state="translated">{LEFT}        = Nihuta vasakule</target>
+        <target state="translated">{LEFT} = Nihuta vasakule</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{RIGHT} = Scroll right">
         <source>{RIGHT} = Scroll right</source>
-        <target state="translated">{RIGHT}        = Nihuta paremale</target>
+        <target state="translated">{RIGHT} = Nihuta paremale</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{UP} = Scroll up">
         <source>{UP} = Scroll up</source>
-        <target state="translated">{UP}        = Nihuta ülesse</target>
+        <target state="translated">{UP} = Nihuta ülesse</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{DOWN} = Scroll down">
         <source>{DOWN} = Scroll down</source>
-        <target state="translated">{DOWN}        = Nihuta alla</target>
+        <target state="translated">{DOWN} = Nihuta alla</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{ , } = Rotate building left">
         <source>{ , } = Rotate building left</source>
-        <target state="translated">{ , }         = Pööra ehitist vasakule</target>
+        <target state="translated">{ , } = Pööra ehitist vasakule</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{ . } = Rotate building right">
         <source>{ . } = Rotate building right</source>
-        <target state="translated">{ . }         = Pööra ehitist paremale</target>
+        <target state="translated">{ . } = Pööra ehitist paremale</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{B} = Show build menu">
         <source>{B} = Show build menu</source>
@@ -1009,17 +969,17 @@ riideid.</target>
         <source>Number of quicksaves:</source>
         <target state="translated">Kiirsalvestuste arv:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Full screen:">
+      <trans-unit xml:space="preserve" approved="yes" id="Full screen:">
         <source>Full screen:</source>
-        <target state="needs-translation">Täisekraan</target>
+        <target state="translated">Täisekraan:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Screen resolution:">
         <source>Screen resolution:</source>
         <target state="translated">Ekraani resolutsioon:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Enable sound:">
+      <trans-unit xml:space="preserve" approved="yes" id="Enable sound:">
         <source>Enable sound:</source>
-        <target state="needs-translation">Luba heli</target>
+        <target state="translated">Luba heli:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Used renderer:">
         <source>Used renderer:</source>
@@ -1039,7 +999,7 @@ riideid.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Choose a map to play:">
         <source>Choose a map to play:</source>
-        <target state="translated">Vali mängimiseks kaart :</target>
+        <target state="translated">Vali mängimiseks kaart:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="New game - Singleplayer">
         <source>New game - Singleplayer</source>
@@ -1065,11 +1025,9 @@ riideid.</target>
         <source>Scenario</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Start game">
+      <trans-unit xml:space="preserve" approved="yes" id="Start game">
         <source>Start game</source>
-        <target state="needs-translation">Alusta mängu:</target>
-        <note from="translator">90%
-100%</note>
+        <target state="translated">Alusta mängu</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Color:">
         <source>Color:</source>
@@ -1103,10 +1061,9 @@ riideid.</target>
         <source>Building overview</source>
         <target state="translated">Ehitise ülevaade</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Cancel all building progress">
+      <trans-unit xml:space="preserve" approved="yes" id="Cancel all building progress">
         <source>Cancel all building progress</source>
-        <target state="needs-translation">Katkesta kõik 
-ehitusprotsessid</target>
+        <target state="translated">Katkesta kõik ehitusprotsessid</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Pause">
         <source>Pause</source>
@@ -1200,9 +1157,9 @@ ehitusprotsessid</target>
         <source>capacity utilization</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Resource deposit">
+      <trans-unit xml:space="preserve" approved="yes" id="Resource deposit">
         <source>Resource deposit</source>
-        <target state="needs-translation">Ressursi Lasund</target>
+        <target state="translated">Ressursi lasund</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="no" id="This is a resource deposit where you can build a mine to dig up resources.">
         <source>This is a resource deposit where you can build a mine to dig up resources.</source>
@@ -1228,20 +1185,17 @@ ehitusprotsessid</target>
         <source>Residents</source>
         <target state="translated">Elanikke</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Build settlement:">
+      <trans-unit xml:space="preserve" approved="yes" id="Build settlement:">
         <source>Build settlement:</source>
-        <target state="needs-translation">Ehita Koloonia</target>
-        <note from="translator">94%</note>
+        <target state="translated">Ehita koloonia:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Click to change the name of this ship.">
+      <trans-unit xml:space="preserve" approved="yes" id="Click to change the name of this ship.">
         <source>Click to change the name of this ship.</source>
-        <target state="needs-translation">Klõpsa selle 
-laeva nime 
-muutmiseks.</target>
+        <target state="translated">Klõpsa selle laeva nime muutmiseks.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Build settlement">
+      <trans-unit xml:space="preserve" approved="yes" id="Build settlement">
         <source>Build settlement</source>
-        <target state="needs-translation">Ehita Koloonia</target>
+        <target state="translated">Ehita koloonia</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The signal fire shows the free trader how to reach your settlement in case you want to buy or sell goods.">
         <source>The signal fire shows the free trader how to reach your settlement in case you want to buy or sell goods.</source>
@@ -1419,10 +1373,9 @@ muutmiseks.</target>
         <source>Specify network address to bind local network client to. This is useful if NAT holepunching is not working but you can forward a static port.</source>
         <target state="translated">Määra võrguaadress millega kohalik võrguklient siduda. See on kasulik, kui NAT holepunching ei tööta kuid sa saad staatilise pordi edasi suunata.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Starting Unknown Horizons">
+      <trans-unit xml:space="preserve" approved="yes" id="Starting Unknown Horizons">
         <source>Starting Unknown Horizons</source>
-        <target state="needs-translation">unknown horizons'i käivitamine</target>
-        <note from="translator">92%</note>
+        <target state="translated">Unknown Horizons'i käivitamine</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Starts &lt;map&gt;. &lt;map&gt; is the mapname.">
         <source>Starts &lt;map&gt;. &lt;map&gt; is the mapname.</source>
@@ -1470,7 +1423,7 @@ muutmiseks.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Writes log to &lt;filename&gt; instead of to the uh-userdir">
         <source>Writes log to &lt;filename&gt; instead of to the uh-userdir</source>
-        <target state="translated">Kirjutab logi &lt;failinimi&gt; asemel UH-userdir</target>
+        <target state="translated">Kirjutab logi &lt;filename&gt; asemel UH-userdir</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="For internal use only.">
         <source>For internal use only.</source>
@@ -1504,10 +1457,9 @@ muutmiseks.</target>
         <source>Thank you for using Unknown Horizons!</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Failed to load FIFE:">
+      <trans-unit xml:space="preserve" approved="yes" id="Failed to load FIFE:">
         <source>Failed to load FIFE:</source>
-        <target state="needs-translation">fife laadimine ebaõnnestus:</target>
-        <note from="translator">80%</note>
+        <target state="translated">FIFE laadimine ebaõnnestus:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="FIFE was not found.">
         <source>FIFE was not found.</source>

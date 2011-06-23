@@ -5,15 +5,6 @@
       <trans-unit xml:space="preserve" approved="yes" id="Tutorial">
         <source>Tutorial</source>
         <target state="translated">Tutorial</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>doktuR , [url=http://tqijttemsnot.com/]tqijttemsnot[/url], [link=http://joykwheivqnf.com/]joykwheivqnf[/link], http://azhkrabwoznk.com/</target>
-        </alt-trans>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>UA52Uk  &lt;a href="http://hamslrykawxj.com/"&gt;hamslrykawxj&lt;/a&gt;</target>
-        </alt-trans>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>More posts of this quality. Not the usual c***, pelase</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The UH team">
         <source>The UH team</source>
@@ -29,7 +20,7 @@ Build your first settlement and learn how to play!
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a branch office at the coast.">
         <source>Build a branch office at the coast.</source>
-        <target state="translated">Construir una sucursal en la costa.</target>
+        <target state="translated">Construya una sucursal en la costa.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Welcome to Unknown Horizons!">
         <source>Welcome to Unknown Horizons!</source>
@@ -91,7 +82,7 @@ Objetivo: Construir un asentamiento en la costa.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: UNLOAD YOUR GOODS">
         <source>NEW TASK: UNLOAD YOUR GOODS</source>
-        <target state="translated">DESCARGAR SUS MERCANCÍAS</target>
+        <target state="translated">NUEVO OBJETIVO: DESCARGAR SUS MERCANCÍAS</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Now that you have built the Branch Office, you need to move some of your resources to its stock.&#10;&#10;To do so, select your ship and go into the tab with the wooden box icon called 'Ship Inventory'.&#10;&#10;Here you get an overview of what this ship's cargo looks like and have the button 'Load/Unload'.&#10;&#10;This button becomes active if your ship is in range of a possible trade partner like a branch office.&#10;&#10;Click on the button. If it is not active, move your ship towards the branch office and then try again.&#10;&#10;TASK: Open the trade dialogue.">
         <source>Now that you have built the Branch Office, you need to move some of your resources to its stock.
@@ -115,9 +106,9 @@ Este botón se activa si el barco está próximo a un posible socio comercial co
 
 Haga clic en el botón. En caso de que no esté activo, mueva su barco hacia el asentamiento y vuelva a intentarlo.
 
-Objetivo: Abrir el menú comercial.</target>
+OBJETIVO: Abrir el menú comercial.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="The tab you will see is split into 'Ship' and 'Settlement' as trade partners.&#10;&#10;To move goods from one stock to the other, simply click on them.&#10;&#10;Try clicking on the boards currently on your ship first and then try moving them back.&#10;&#10;You can customize the quantity moved by using the self-explanatory radio buttons in the middle.&#10;&#10;Did you get used to the trade tab?&#10;You need some construction material in your settlement now!&#10;&#10;TASK: Unload at least 10 tons of each resource your ship sailed around with.">
+      <trans-unit xml:space="preserve" approved="yes" id="The tab you will see is split into 'Ship' and 'Settlement' as trade partners.&#10;&#10;To move goods from one stock to the other, simply click on them.&#10;&#10;Try clicking on the boards currently on your ship first and then try moving them back.&#10;&#10;You can customize the quantity moved by using the self-explanatory radio buttons in the middle.&#10;&#10;Did you get used to the trade tab?&#10;You need some construction material in your settlement now!&#10;&#10;TASK: Unload at least 10 tons of each resource your ship sailed around with.">
         <source>The tab you will see is split into 'Ship' and 'Settlement' as trade partners.
 
 To move goods from one stock to the other, simply click on them.
@@ -130,21 +121,18 @@ Did you get used to the trade tab?
 You need some construction material in your settlement now!
 
 TASK: Unload at least 10 tons of each resource your ship sailed around with.</source>
-        <target state="needs-translation">La ficha que verá está dividida en 'Barco' y 'Asentamiento', los socios comerciales.
+        <target state="translated">La ficha que verá está dividida en 'Barco' y 'Asentamiento', los socios comerciales.
 
-Para mover bienes de un almacén a otro, simplemente clica en ellos.
+Para mover bienes de un almacén a otro, simplemente haga clic en ellos.
 
-Try clicking on the boards currently on your ship first and then try moving them back.
+Primero, intenta hacer clic en los tablones que están en su barco para descargarlos. Después intente recargarlos otra vez.
 
-You can customize the quantity moved by using the self-explanatory radio buttons in the middle.
+Puede variar la cantidad que sera movida utilizando los botones de selección en el centro.
 
-Did you get used to the trade tab?
-You need some construction material in your settlement now!
+Se acostumbró a usar la pestaña de negocio?
+Ahora necesita material de construcción para vuestro asentamiento!
 
-TASK: Unload at least 10 tons of each resource your ship sailed around with.</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Thanks for sarhing. What a pleasure to read!</target>
-        </alt-trans>
+OBJETIVO: Descargue por lo menos 10 toneladas de cada recurso que esta en su barco.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Unload at least 10 tons of each resource on your ship.">
         <source>Unload at least 10 tons of each resource on your ship.</source>
@@ -152,7 +140,7 @@ TASK: Unload at least 10 tons of each resource your ship sailed around with.</ta
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A LUMBERJACK">
         <source>NEW TASK: BUILD A LUMBERJACK</source>
-        <target state="translated">CONSTRUIR UN ASERRADERO</target>
+        <target state="translated">NUEVO OBJETIVO: CONSTRUIR UN ASERRADERO</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="With your new construction material in the branch office, you can start to construct some basic buildings.&#10;&#10;We will start with building a lumberjack.&#10;&#10;This is essential because, at this stage, boards are the only poles your sailors can afford to hang their tents over.&#10;&#10;The fisherman needs some boards to build his vessel as well.&#10;&#10;In order to construct lumberjacks; open the build menu by either clicking the big icon below the mini map or pressing B key.&#10;&#10;The build menu is sorted by increments.&#10;You are currently in the first increment (the Sailors level) so are offered only the basic buildings.">
         <source>With your new construction material in the branch office, you can start to construct some basic buildings.
@@ -167,7 +155,18 @@ In order to construct lumberjacks; open the build menu by either clicking the bi
 
 The build menu is sorted by increments.
 You are currently in the first increment (the Sailors level) so are offered only the basic buildings.</source>
-        <target state="translated"></target>
+        <target state="translated">Con tu nuevo material de construcción ya puedes empezar a construir unos edificios basicos.
+
+Empezaremos con la construcción de una cabaña de leñador.
+
+El leñador es esencial porque en ese nivel tablones son lo único que tus marineros se pueden permitir para plantar sus tiendas. 
+
+El pescador también necesita tablones para construir su barco.
+
+Para construir una cabaña de leñador, abra el menú de construcción. Para eso haga clic en el icono grande debajo del mapa pequeño o pulsando la tecla B
+
+El menú esta ordenado por nivel.
+Usted esta por el momento en el primer nivel (el nivel de marinero) así que solo puede construir edificios básicos.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="As your civilization advances, you also gain more and more complex buildings.&#10;&#10;For now, select the lumberjack under 'Companies' and build it in an area with some trees around.&#10;&#10;You can also plant trees later - but that costs money. Use what nature provided you with!&#10;&#10;A company always needs a trail connection to a storage or branch office, otherwise goods will remain at the company and not be collected.&#10;&#10;This means that you have to build a trail connecting your branch office (or storage) and lumberjack.&#10;&#10;TASK: Build a lumberjack in a wooded area and connect it to a road.&#10;&#10;Watch how a collector will fetch your first self-produced boards.">
         <source>As your civilization advances, you also gain more and more complex buildings.
@@ -227,7 +226,7 @@ Don't forget to connect them to your branch office with trails!</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: MAIN SQUARE">
         <source>NEW TASK: MAIN SQUARE</source>
-        <target state="translated">PLAZA PRINCIPAL</target>
+        <target state="translated">NUEVO OBJETIVO: PLAZA PRINCIPAL</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Your residents need a main square where they can fetch their goods from.&#10;&#10;This means that they need a trail connection from their home to the main square.&#10;&#10;All goods in your branch office are available at this 'market place', so your residents do not need to walk to the fisher or even to the branch office.&#10;&#10;You should consider founding your actual house settlement in an area where you can easily expand it and build some trails, too.&#10;&#10;You should avoid placing tents too close to your lumberjacks for example because building tents will clear away the trees that your lumberjack needs to produce boards.&#10;&#10;TASK: Build a main square.">
         <source>Your residents need a main square where they can fetch their goods from.
