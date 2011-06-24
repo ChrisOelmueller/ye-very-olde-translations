@@ -182,7 +182,19 @@ This means that you have to build a trail connecting your branch office (or stor
 TASK: Build a lumberjack in a wooded area and connect it to a road.
 
 Watch how a collector will fetch your first self-produced boards.</source>
-        <target state="translated"></target>
+        <target state="translated">Cuanto mas aumenta el nivel de su civilización, mas edificios complejos va a poder construir.
+
+Ahora, seleccione el leñador en "compañías" y construya lo en una zona con arboles.
+
+Mas adelante también podrá plantar sus propios arboles - pero esto cuesta dinero. Así que utilice lo que la naturaleza les da!
+
+A company always needs a trail connection to a storage or branch office, otherwise goods will remain at the company and not be collected.
+
+This means that you have to build a trail connecting your branch office (or storage) and lumberjack.
+
+TASK: Build a lumberjack in a wooded area and connect it to a road.
+
+Watch how a collector will fetch your first self-produced boards.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a lumberjack and connect it to the branch office using a trail.">
         <source>Build a lumberjack and connect it to the branch office using a trail.</source>
