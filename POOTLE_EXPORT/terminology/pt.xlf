@@ -122,7 +122,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="minimap">
         <source>minimap</source>
-        <target state="translated">miniatura do mapa</target>
+        <target state="translated">mapa miniatura</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="running costs">
         <source>running costs</source>
