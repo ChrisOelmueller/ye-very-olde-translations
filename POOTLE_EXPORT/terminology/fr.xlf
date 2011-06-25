@@ -303,8 +303,8 @@ Woodcutter will be translated by bucheron. Lumberjack is difficult to translate 
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="storage">
         <source>storage</source>
-        <target state="translated">dépôt / entrepôt </target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (11)
+        <target state="translated">dépôt / entrepôt</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (11)&#13;
 (poterminology) uh/unknownhorizons.pot (2)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="trader">
