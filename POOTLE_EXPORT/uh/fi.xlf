@@ -1239,10 +1239,7 @@ Ole hyvä ja ilmoita tästä tekijälle.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Check the data you entered in the Network section in the settings dialogue.">
         <source>Check the data you entered in the Network section in the settings dialogue.</source>
-        <target state="translated">Tarkista kirjoittamasi tiedot Verkko-osiosta asetusikkunassa.</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Tarkista asetusten ikkunassa Verkko-osioon  kirjoittamasi tiedot.</target>
-        </alt-trans>
+        <target state="translated">Tarkista asetusten ikkunassa Verkko-osioon  kirjoittamasi tiedot.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Failed to start/load the game">
         <source>Failed to start/load the game</source>
