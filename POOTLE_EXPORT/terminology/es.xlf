@@ -8,9 +8,6 @@
         <note from="developer">set translated building name in gui</note>
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (43)
 (poterminology) uh/unknownhorizons.pot (10)</note>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Project Manager</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="game">
         <source>game</source>
@@ -803,13 +800,10 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="fulfill">
         <source>fulfill</source>
-        <target state="translated">cumpler / realizar</target>
+        <target state="translated">cumplir / realizar</target>
         <note from="translator">
 (poterminology) uh-tutorial/tutorial.pot (1)
 (poterminology) uh/unknownhorizons.pot (1)</note>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>cumplir / realizar</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="graphics">
         <source>graphics</source>
@@ -827,19 +821,13 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="grow">
         <source>grow</source>
-        <target state="translated">credercultivar</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>crecer</target>
-        </alt-trans>
+        <target state="translated">crecer / cultivar</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hold">
         <source>hold</source>
-        <target state="translated">interrumpir</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (2)
+        <target state="translated">parar / interrumpir</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (2)&#13;
 (poterminology) uh/unknownhorizons.pot (1)</note>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>parar</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hunts">
         <source>hunts</source>
@@ -928,10 +916,7 @@ a bit long, this one.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="yields">
         <source>yields</source>
-        <target state="translated">produce</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>genera</target>
-        </alt-trans>
+        <target state="translated">genera</target>
       </trans-unit>
     </body>
   </file>
