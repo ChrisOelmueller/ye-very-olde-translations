@@ -53,7 +53,7 @@ Et maintenant, commençons à jouer.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: SETTLE ON AN ISLAND">
         <source>NEW TASK: SETTLE ON AN ISLAND</source>
-        <target state="translated">MISSION: COLONISER UNE ILE</target>
+        <target state="translated">MISSION: COLONISER UNE ÎLE</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="To move your ship, select it with a left click and right click on the location you want it to go to.&#10;&#10;Once you are near the coast, the anchor-like button you see in the overview tab will become active.&#10;&#10;This indicates that you are able to build a branch office there by pressing that button (called 'Build Settlement').&#10;&#10;Now a preview of your building is dragged around when you move the cursor.&#10;&#10;You can build on any spot where this preview is not shaded red.&#10;Click where you want to place your first building.&#10;&#10;TASK: Build a branch office at the coast.">
         <source>To move your ship, select it with a left click and right click on the location you want it to go to.
@@ -141,7 +141,7 @@ MISSION : Déchargez au moins 10 tonnes de chaque ressource disponible à bord d
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A LUMBERJACK">
         <source>NEW TASK: BUILD A LUMBERJACK</source>
-        <target state="translated">MISSION : LE BUCHERON</target>
+        <target state="translated">MISSION : LE BÛCHERON</target>
         <note from="translator">I change this until we will have a system to make the longer sentences fitting properly (seb)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="With your new construction material in the branch office, you can start to construct some basic buildings.&#10;&#10;We will start with building a lumberjack.&#10;&#10;This is essential because, at this stage, boards are the only poles your sailors can afford to hang their tents over.&#10;&#10;The fisherman needs some boards to build his vessel as well.&#10;&#10;In order to construct lumberjacks; open the build menu by either clicking the big icon below the mini map or pressing B key.&#10;&#10;The build menu is sorted by increments.&#10;You are currently in the first increment (the Sailors level) so are offered only the basic buildings.">
@@ -319,7 +319,7 @@ Dans l'onglet «Colons» vous pouvez voir le niveau de satisfaction des habitant
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: RESIDENTIAL BUILDINGS">
         <source>NEW TASK: RESIDENTIAL BUILDINGS</source>
-        <target state="translated">NOUVELLE MISSION: L'HABITAT</target>
+        <target state="translated">MISSION: LES HABITATIONS</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Settlers want to have a roof over their heads, else they won't even think of living in your city! You need to provide tents.&#10;&#10;Tents are the basic residential buildings. Your inhabitants will want to upgrade it when they reach higher increments.&#10;&#10;Settlers may not look very useful since they will try to consume all goods you produce - but they at least pay taxes, and that's the only way you can make money for now!&#10;&#10;TASK: Build a tent and connect it to the main square.">
         <source>Settlers want to have a roof over their heads, else they won't even think of living in your city! You need to provide tents.
@@ -839,13 +839,13 @@ team@unknown-horizons.org
 
 Nos forums vous sont également accessibles!
 
-Jusqu'à présent, le channel IRC a été le meilleur moyen de nous joindre, essayer donc cela en premier ;-) 
+Jusqu'à présent, le canal IRC est le meilleur moyen de nous joindre, essayez donc cela en premier ;-) 
 
 Dans l'intérêt des autres participants aux conversations et qui ne parlent peut-être pas le français, nous vous prions de parler anglais dans le chat.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Thanks!">
         <source>Thanks!</source>
-        <target state="translated">Merci!</target>
+        <target state="translated">Merci !</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="&#10;&#10;&#10;&#10;&#10;&#10;&#10;Thanks for playing the tutorial!&#10;&#10;Your UH-Team">
         <source>
@@ -871,7 +871,7 @@ L'équipe d'UH</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Congratulations! You have reached the end of this tutorial and are ready to meet new challenges!">
         <source>Congratulations! You have reached the end of this tutorial and are ready to meet new challenges!</source>
-        <target state="translated">Félicitations! Vous avez atteint la fin de ce didacticiel, vous êtes maintenant prêt à relever de nouveaux défis!</target>
+        <target state="translated">Félicitations ! Vous avez atteint la fin de ce didacticiel, vous êtes maintenant prêt à relever de nouveaux défis !</target>
       </trans-unit>
     </body>
   </file>
