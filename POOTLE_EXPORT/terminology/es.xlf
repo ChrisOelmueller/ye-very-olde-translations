@@ -164,8 +164,8 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="click">
         <source>click</source>
-        <target state="translated">click</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (8)
+        <target state="translated">hacer clic</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (8)&#13;
 (poterminology) uh/unknownhorizons.pot (4)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="main square">
@@ -194,14 +194,11 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="trail">
         <source>trail</source>
-        <target state="translated">rastro</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (10)
+        <target state="translated">camino</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (10)&#13;
 (poterminology) uh/unknownhorizons.pot (2)</note>
         <alt-trans xml:space="preserve" origin="nobody">
           <target>sendero</target>
-        </alt-trans>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>camino</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="version">
@@ -254,8 +251,8 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="companies">
         <source>companies</source>
-        <target state="translated">compañías</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (8)
+        <target state="translated">negocio</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (8)&#13;
 (poterminology) uh/unknownhorizons.pot (1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="cost">
