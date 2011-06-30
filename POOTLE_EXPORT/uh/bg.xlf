@@ -66,7 +66,7 @@ Use at own risk!</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Failed to save.">
         <source>Failed to save.</source>
-        <target state="translated">Неуспех при запазване</target>
+        <target state="translated">Неуспех при запазване.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Are you sure you want to quit Unknown Horizons?">
         <source>Are you sure you want to quit Unknown Horizons?</source>
@@ -124,10 +124,9 @@ Should i overwrite it?</source>
         <source>Details:</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Error:">
+      <trans-unit xml:space="preserve" approved="yes" id="Error:">
         <source>Error:</source>
-        <target state="needs-translation">Грешка</target>
-        <note from="translator">83%</note>
+        <target state="translated">Грешка:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Unknown savedate&#10;">
         <source>Unknown savedate
@@ -212,7 +211,7 @@ Details: %s</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Something went wrong with the network: ">
         <source>Something went wrong with the network: </source>
-        <target state="translated">Нещо се обърка с мрежата</target>
+        <target state="translated">Нещо се обърка с мрежата: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Version differs!">
         <source>Version differs!</source>
@@ -220,15 +219,15 @@ Details: %s</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Map: ">
         <source>Map: </source>
-        <target state="translated">Карта:</target>
+        <target state="translated">Карта: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Players: ">
         <source>Players: </source>
-        <target state="translated">Играчи:</target>
+        <target state="translated">Играчи: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Creator: ">
         <source>Creator: </source>
-        <target state="translated">Създал:</target>
+        <target state="translated">Създал: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The game's version differs from your version. Every player in a multiplayer game must use the same version. This can be fixed by every player updating to the latest version. Game version: %(gameversion)s Your version: %(ownversion)s">
         <source>The game's version differs from your version. Every player in a multiplayer game must use the same version. This can be fixed by every player updating to the latest version. Game version: %(gameversion)s Your version: %(ownversion)s</source>
@@ -240,15 +239,15 @@ Details: %s</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Difficulty: ">
         <source>Difficulty: </source>
-        <target state="translated">Трудност:</target>
+        <target state="translated">Трудност: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Author: ">
         <source>Author: </source>
-        <target state="translated">Автор:</target>
+        <target state="translated">Автор: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Description: ">
         <source>Description: </source>
-        <target state="translated">Описание:</target>
+        <target state="translated">Описание: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Invalid player name">
         <source>Invalid player name</source>
@@ -266,7 +265,7 @@ Details: %s</source>
         <source>The selected file is not a valid scenario file.
 Error message: </source>
         <target state="translated">Избраният файл не е валиден сценарий файл.
-Съобщение за грешка:</target>
+Съобщение за грешка: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="&#10;Please report this to the author.">
         <source>
@@ -357,7 +356,7 @@ Please report this to the author.</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Limit: %st per slot">
         <source>Limit: %st per slot</source>
-        <target state="translated">Лимит:  %st на позиция</target>
+        <target state="translated">Лимит: %st на позиция</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Emptiness">
         <source>Emptiness</source>
@@ -922,7 +921,7 @@ Please report this to the author.</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Graphics">
         <source>Graphics</source>
-        <target state="translated">Графики:</target>
+        <target state="translated">Графики</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Language">
         <source>Language</source>
