@@ -26,7 +26,7 @@ Postav svojí první osadu a nauč se hrát!
         <source>Welcome to Unknown Horizons!</source>
         <target state="translated">Vítej v Unknown Horizons!</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="This is your Captain's log where all important information is stored. A short notification of each task will be provided on the left of the screen.&#10;&#10;If you are interested in longer descriptions, your log will hopefully provide all the help you need.&#10;&#10;After you close this log, it can be re-opened with the 'Captain's Log' icon in the top-right corner (below the mini-map, with a sealed document and a feather).&#10;&#10;For any suggestions on better wording, topics you would like to have explained or even buggy conditions: Please tell us and we will try to improve the tutorial!&#10;&#10;Visit www.unknown-horizons.org for help on how to contact the team!&#10;&#10;And now, let's start the actual game.">
+      <trans-unit xml:space="preserve" approved="no" id="This is your Captain's log where all important information is stored. A short notification of each task will be provided on the left of the screen.&#10;&#10;If you are interested in longer descriptions, your log will hopefully provide all the help you need.&#10;&#10;After you close this log, it can be re-opened with the 'Captain's Log' icon in the top-right corner (below the mini-map, with a sealed document and a feather).&#10;&#10;For any suggestions on better wording, topics you would like to have explained or even buggy conditions: Please tell us and we will try to improve the tutorial!&#10;&#10;Visit www.unknown-horizons.org for help on how to contact the team!&#10;&#10;And now, let's start the actual game.">
         <source>This is your Captain's log where all important information is stored. A short notification of each task will be provided on the left of the screen.
 
 If you are interested in longer descriptions, your log will hopefully provide all the help you need.
@@ -38,7 +38,7 @@ For any suggestions on better wording, topics you would like to have explained o
 Visit www.unknown-horizons.org for help on how to contact the team!
 
 And now, let's start the actual game.</source>
-        <target state="translated">Toto je Kapitánův deník, kde jsou uloženy všechny důležité informace. Krátký popis každého úkolu bude zobrazen na levé straně obrazovky.
+        <target state="needs-translation">Toto je Kapitánův deník, kde jsou uloženy všechny důležité informace. Krátký popis každého úkolu bude zobrazen na levé straně obrazovky.
 
 Pokud máš zájem o podrobnější popis, v deníku snad najdeš veškeré informace které potřebuješ.
 
@@ -96,7 +96,7 @@ This button becomes active if your ship is in range of a possible trade partner 
 Click on the button. If it is not active, move your ship towards the branch office and then try again.
 
 TASK: Open the trade dialogue.</source>
-        <target state="translated">Nyní když jsi postavil pobočku, musíš přesunout nějaké tvé prostředky do zásob. 
+        <target state="translated">Nyní když jsi postavil pobočku, musíš přesunout nějaké tvé prostředky do zásob.
 
 Chceš-li tak učinit, vyber tvojí loď a klikni na záložku s ikonou dřevěných beden nazvané 'Lodní inventář'.
 
@@ -106,7 +106,7 @@ Toto tlačítko bude aktivní pokud je tvoje loď v dosahu obchodních partnerů
 
 Klikni na tlačítko. Pokud není aktivní přibliž se s loďí k Pobočce a zkus to znovu.
 
-ÚKOL:Otevři obchodní dialog</target>
+ÚKOL:Otevři obchodní dialog.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The tab you will see is split into 'Ship' and 'Settlement' as trade partners.&#10;&#10;To move goods from one stock to the other, simply click on them.&#10;&#10;Try clicking on the boards currently on your ship first and then try moving them back.&#10;&#10;You can customize the quantity moved by using the self-explanatory radio buttons in the middle.&#10;&#10;Did you get used to the trade tab?&#10;You need some construction material in your settlement now!&#10;&#10;TASK: Unload at least 10 tons of each resource your ship sailed around with.">
         <source>The tab you will see is split into 'Ship' and 'Settlement' as trade partners.
@@ -159,7 +159,14 @@ You are currently in the first increment (the Sailors level) so are offered only
 
 Zažneme se stavbou dřevorubce.
 
-</target>
+This is essential because, at this stage, boards are the only poles your sailors can afford to hang their tents over.
+
+The fisherman needs some boards to build his vessel as well.
+
+In order to construct lumberjacks; open the build menu by either clicking the big icon below the mini map or pressing B key.
+
+The build menu is sorted by increments.
+You are currently in the first increment (the Sailors level) so are offered only the basic buildings.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="As your civilization advances, you also gain more and more complex buildings.&#10;&#10;For now, select the lumberjack under 'Companies' and build it in an area with some trees around.&#10;&#10;You can also plant trees later - but that costs money. Use what nature provided you with!&#10;&#10;A company always needs a trail connection to a storage or branch office, otherwise goods will remain at the company and not be collected.&#10;&#10;This means that you have to build a trail connecting your branch office (or storage) and lumberjack.&#10;&#10;TASK: Build a lumberjack in a wooded area and connect it to a road.&#10;&#10;Watch how a collector will fetch your first self-produced boards.">
         <source>As your civilization advances, you also gain more and more complex buildings.
@@ -175,15 +182,25 @@ This means that you have to build a trail connecting your branch office (or stor
 TASK: Build a lumberjack in a wooded area and connect it to a road.
 
 Watch how a collector will fetch your first self-produced boards.</source>
-        <target state="translated"></target>
+        <target state="translated">Jak se bude vaše civilizace rozvíjet získáte stále komplexnější a komplexnější budovy. 
+
+Nyní vyberte dřevorubce pod 'Podniky' a postavte ho v oblasti, kde jsou stromy.
+
+Podnik vždy potřebuje spojení stezkou ke skladišti nebo pobočce, jinak zboží zůstane v podniku a nebude vybráno.
+
+To znamená, že musíte vybudovat stezku spojující vaší pobočku (nebo skladiště) a dřevorubce. 
+
+ÚKOL: Postavte dřevorubce in lesnaté oblasti a propojte ho cestou. 
+
+Sledujte jak výběrčí vybere vaše první vyprodukované prkna.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a lumberjack and connect it to the branch office using a trail.">
         <source>Build a lumberjack and connect it to the branch office using a trail.</source>
-        <target state="translated"></target>
+        <target state="translated">Postavte dřevorubce a spojte ho s pobočkou pomocí stezky.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: FOOD SUPPLY">
         <source>NEW TASK: FOOD SUPPLY</source>
-        <target state="translated"></target>
+        <target state="translated">NOVÝ ÚKOL: POTRAVNÍ ZÁSOBOVÁNÍ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You will need to have some food-producing companies, too, because people in general (and especially sailors) are very hungry.&#10;&#10;Available companies in the first increment are the Hunter and Fisher.&#10;&#10;The Hunter, surprisingly, hunts animals in the forest, so he needs trees around.&#10;&#10;Note that you can place your Hunter close to the lumberjack's forest.&#10;&#10;It can happen that the animals don't reproduce fast enough or simply hide well.&#10;&#10;Conclusion: the hunter is not too reliable if you need continuous supply.">
         <source>You will need to have some food-producing companies, too, because people in general (and especially sailors) are very hungry.
