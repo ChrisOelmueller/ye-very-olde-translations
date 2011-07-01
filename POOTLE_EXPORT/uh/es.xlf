@@ -115,12 +115,11 @@ Should i overwrite it?</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Please select a savegame or click on cancel.">
         <source>Please select a savegame or click on cancel.</source>
-        <target state="translated"></target>
+        <target state="translated">Escoja una partida guardada o haga clic en cancelar.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Select a savegame">
         <source>Select a savegame</source>
-        <target state="translated"></target>
-        <note from="developer">ok button has been pressed, but no savegame was selected</note>
+        <target state="translated">Escoja una partida guardada</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Details:">
         <source>Details:</source>
