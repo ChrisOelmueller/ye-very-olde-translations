@@ -82,7 +82,7 @@ Objetivo: Construir un asentamiento en la costa.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: UNLOAD YOUR GOODS">
         <source>NEW TASK: UNLOAD YOUR GOODS</source>
-        <target state="translated">NUEVO OBJETIVO: DESCARGAR SUS MERCANCÍAS</target>
+        <target state="translated">DESCARGAR SUS MERCANCÍAS</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Now that you have built the Branch Office, you need to move some of your resources to its stock.&#10;&#10;To do so, select your ship and go into the tab with the wooden box icon called 'Ship Inventory'.&#10;&#10;Here you get an overview of what this ship's cargo looks like and have the button 'Load/Unload'.&#10;&#10;This button becomes active if your ship is in range of a possible trade partner like a branch office.&#10;&#10;Click on the button. If it is not active, move your ship towards the branch office and then try again.&#10;&#10;TASK: Open the trade dialogue.">
         <source>Now that you have built the Branch Office, you need to move some of your resources to its stock.
@@ -125,14 +125,14 @@ TASK: Unload at least 10 tons of each resource your ship sailed around with.</so
 
 Para mover bienes de un almacén a otro, simplemente haga clic en ellos.
 
-Primero, intenta hacer clic en los tablones que están en su barco para descargarlos. Después intente recargarlos otra vez.
+Primero, intenta hacer clic en los tablones que están en su barco para descargarlos.Después intente recargarlos otra vez.
 
 Puede variar la cantidad que sera movida utilizando los botones de selección en el centro.
 
 Se acostumbró a usar la pestaña de negocio?
 Ahora necesita material de construcción para vuestro asentamiento!
 
-OBJETIVO: Descargue por lo menos 10 toneladas de cada recurso que esta en su barco.</target>
+OBJETIVO: Descargue por lo menos 10 toneladas de cada recurso que esta en su navío.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Unload at least 10 tons of each resource on your ship.">
         <source>Unload at least 10 tons of each resource on your ship.</source>
@@ -140,7 +140,7 @@ OBJETIVO: Descargue por lo menos 10 toneladas de cada recurso que esta en su bar
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A LUMBERJACK">
         <source>NEW TASK: BUILD A LUMBERJACK</source>
-        <target state="translated">NUEVO OBJETIVO: CONSTRUIR UN ASERRADERO</target>
+        <target state="translated">CONSTRUIR UN ASERRADERO</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="With your new construction material in the branch office, you can start to construct some basic buildings.&#10;&#10;We will start with building a lumberjack.&#10;&#10;This is essential because, at this stage, boards are the only poles your sailors can afford to hang their tents over.&#10;&#10;The fisherman needs some boards to build his vessel as well.&#10;&#10;In order to construct lumberjacks; open the build menu by either clicking the big icon below the mini map or pressing B key.&#10;&#10;The build menu is sorted by increments.&#10;You are currently in the first increment (the Sailors level) so are offered only the basic buildings.">
         <source>With your new construction material in the branch office, you can start to construct some basic buildings.
@@ -159,11 +159,10 @@ You are currently in the first increment (the Sailors level) so are offered only
 
 Empezaremos con la construcción de una cabaña de leñador.
 
-El leñador es esencial porque en ese nivel tablones son lo único que tus marineros se pueden permitir para plantar sus tiendas. 
-
+El leñador es esencial porque en ese nivel tablones son lo único que tus marineros se pueden permitir para plantar sus tiendas.
 El pescador también necesita tablones para construir su barco.
 
-Para construir una cabaña de leñador, abra el menú de construcción. Para eso haga clic en el icono grande debajo del mapa pequeño o pulsando la tecla B
+Para construir una cabaña de leñador, abra el menú de construcción. Para eso haga clic en el icono grande debajo del mapa pequeño o pulsando la tecla B.
 
 El menú esta ordenado por nivel.
 Usted esta por el momento en el primer nivel (el nivel de marinero) así que solo puede construir edificios básicos.</target>
@@ -184,17 +183,17 @@ TASK: Build a lumberjack in a wooded area and connect it to a road.
 Watch how a collector will fetch your first self-produced boards.</source>
         <target state="translated">Cuanto mas aumenta el nivel de su civilización, mas edificios complejos va a poder construir.
 
-Ahora, seleccione el leñador en "compañías" y construya lo en una zona con arboles.
+Ahora, seleccione el leñador en 'compañías' y construya lo en una zona con arboles.
 
 Mas adelante también podrá plantar sus propios arboles - pero esto cuesta dinero. Así que utilice lo que la naturaleza les da!
 
-A company always needs a trail connection to a storage or branch office, otherwise goods will remain at the company and not be collected.
+Un negocio siempre necesita un camino que le conecta con un almacén o una sucursal, si no los bienes permanecerán en el negocio y no serán recogidos.
 
-This means that you have to build a trail connecting your branch office (or storage) and lumberjack.
+Eso significa que tendrá que construir un camino que conecta su sucursal (o un almacén) con su leñador.
 
-TASK: Build a lumberjack in a wooded area and connect it to a road.
+OBJETIVO: Construya un leñador en una zona con arboles y conecte lo con la calle
 
-Watch how a collector will fetch your first self-produced boards.</target>
+Ahora relaje y observe como recogerán sus primeros tablones.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a lumberjack and connect it to the branch office using a trail.">
         <source>Build a lumberjack and connect it to the branch office using a trail.</source>
@@ -202,7 +201,7 @@ Watch how a collector will fetch your first self-produced boards.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: FOOD SUPPLY">
         <source>NEW TASK: FOOD SUPPLY</source>
-        <target state="translated">SUMINISTRO DE ALIMENTOS</target>
+        <target state="translated">NUEVO OBJETIVO: SUMINISTRO DE ALIMENTOS</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You will need to have some food-producing companies, too, because people in general (and especially sailors) are very hungry.&#10;&#10;Available companies in the first increment are the Hunter and Fisher.&#10;&#10;The Hunter, surprisingly, hunts animals in the forest, so he needs trees around.&#10;&#10;Note that you can place your Hunter close to the lumberjack's forest.&#10;&#10;It can happen that the animals don't reproduce fast enough or simply hide well.&#10;&#10;Conclusion: the hunter is not too reliable if you need continuous supply.">
         <source>You will need to have some food-producing companies, too, because people in general (and especially sailors) are very hungry.
@@ -216,7 +215,17 @@ Note that you can place your Hunter close to the lumberjack's forest.
 It can happen that the animals don't reproduce fast enough or simply hide well.
 
 Conclusion: the hunter is not too reliable if you need continuous supply.</source>
-        <target state="translated"></target>
+        <target state="translated">También necesitaran negocios que fabriquen comida porque la gente normalmente es bastante hambrienta (y especialmente los marineros).
+
+En el primer nivel son disponibles el cazador y el pescador.
+
+Como ya sabrás, el cazador caza animales en el bosque, así que necesita arboles a su alrededor.
+
+Tenga en cuenta que puede colocar el cazador cerca del bosque del leñador.
+
+Puede pasar que los animales no se reproduzcan bastante rápidos o que simplemente se escondan muy bien.
+
+Conclusión: El cazador no es muy fiable si necesita un suministro continuo.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The Fisher needs a coastal building site like the branch office and a fish school in range.&#10;&#10;He will build a small rowing vessel and catch some fish.&#10;&#10;This is a very constant supply at the cost of a slightly longer production time per unit of food.&#10;&#10;A small settlement like yours can use both companies, and you can better balance pros and cons if you see the direct comparison.&#10;&#10;TASK: Build a hunter and a fisher.&#10;&#10;Don't forget to connect them to your branch office with trails!">
         <source>The Fisher needs a coastal building site like the branch office and a fish school in range.
@@ -238,7 +247,7 @@ Don't forget to connect them to your branch office with trails!</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: MAIN SQUARE">
         <source>NEW TASK: MAIN SQUARE</source>
-        <target state="translated">NUEVO OBJETIVO: PLAZA PRINCIPAL</target>
+        <target state="translated">PLAZA PRINCIPAL</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Your residents need a main square where they can fetch their goods from.&#10;&#10;This means that they need a trail connection from their home to the main square.&#10;&#10;All goods in your branch office are available at this 'market place', so your residents do not need to walk to the fisher or even to the branch office.&#10;&#10;You should consider founding your actual house settlement in an area where you can easily expand it and build some trails, too.&#10;&#10;You should avoid placing tents too close to your lumberjacks for example because building tents will clear away the trees that your lumberjack needs to produce boards.&#10;&#10;TASK: Build a main square.">
         <source>Your residents need a main square where they can fetch their goods from.
@@ -314,7 +323,7 @@ TIP: Holding down SHIFT eases constructing multiple buildings of the same kind.<
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD SIGNAL FIRE">
         <source>NEW TASK: BUILD SIGNAL FIRE</source>
-        <target state="translated">CONSTRUIR UNA SEÑAL DE FUEGO</target>
+        <target state="translated">NUEVO OBJETIVO: CONSTRUIR UNA SEÑAL DE FUEGO</target>
         <note from="translator">sin contexto (construye/haz)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Can you see the ship passing your island from time to time?&#10;&#10;This is the ship of the Free Trader, one of the first settlers in this archipelago.&#10;&#10;This trader will supply your settlement with necessary goods which you can't produce yet.&#10;&#10;You can also sell surpluses of your production, but in general consuming them (by building more tents) instead of selling to the Free Trader yields more profit.&#10;&#10;Normally the ships just sail around and look for deals, but small settlements like yours first need some promotion, otherwise you won't be found.&#10;&#10;For this purpose, you can build a signal fire at the coast near your branch office to show ships the way to your settlement.">
@@ -584,7 +593,7 @@ TASK: Build a weaver positioned so it can get wool.</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: COMPLETE TUTORIAL">
         <source>NEW TASK: COMPLETE TUTORIAL</source>
-        <target state="translated">COMPLETA EL TUTORIAL</target>
+        <target state="translated">NUEVO OBJETIVO: COMPLETA EL TUTORIAL</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Try to house a total of 50 or more inhabitants in your city by providing more residential buildings.&#10;&#10;Once you are able to keep an economy running which can satisfy this amount of consumers, you are ready to discover new Unknown Horizons!&#10;&#10;TASK: Reach a total number of 50 inhabitants and a positive balance to complete this tutorial.">
         <source>Try to house a total of 50 or more inhabitants in your city by providing more residential buildings.
