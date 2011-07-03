@@ -26,7 +26,7 @@
         <source>The SDL renderer is meant as a fallback solution only and has serious graphical glitches. 
 
 Use at own risk!</source>
-        <target state="translated">De SDL renderer is als reservesysteem te gebruiken en kan serieuze gafische problemen geven. 
+        <target state="translated">De SDL renderer is alleen bedoeld als reservesysteem en kan serieuze gafische problemen geven. 
 
 Gebruik op eigen risico!</target>
       </trans-unit>
@@ -48,7 +48,7 @@ Gebruik op eigen risico!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Failed to apply new network data.">
         <source>Failed to apply new network data.</source>
-        <target state="translated">Netwerk instellingen opslaan mislukt.</target>
+        <target state="translated">Opslaan van netwerk instellingen mislukt.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Networking couldn't be initialised with the current configuration.">
         <source>Networking couldn't be initialised with the current configuration.</source>
@@ -60,7 +60,7 @@ Gebruik op eigen risico!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Low port numbers sometimes require special privileges, try one greater than 1024 or 0.">
         <source>Low port numbers sometimes require special privileges, try one greater than 1024 or 0.</source>
-        <target state="translated">Lage poortnummers hebben soms extra rechten nodig, probeer de 0 of een groter dan 1024.</target>
+        <target state="translated">Lage poortnummers hebben soms extra rechten nodig, probeer de 0 of een getal groter dan 1024.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Error">
         <source>Error</source>
@@ -73,7 +73,8 @@ Gebruik op eigen risico!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Are you sure you want to quit Unknown Horizons?">
         <source>Are you sure you want to quit Unknown Horizons?</source>
-        <target state="translated">Weet U zeker dat U Unknown Horizons wilt verlaten?</target>
+        <target state="translated">Weet u zeker dat u Unknown Horizons wilt verlaten?</target>
+        <note from="translator">geen hoofdletters bij u tenzij u god aanspreekt.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Quit Game">
         <source>Quit Game</source>
@@ -81,7 +82,8 @@ Gebruik op eigen risico!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Are you sure you want to abort the running session?">
         <source>Are you sure you want to abort the running session?</source>
-        <target state="translated">Weet U zeker dat U de actieve sessie wilt stoppen?</target>
+        <target state="translated">Weet u zeker dat u de actieve sessie wilt stoppen?</target>
+        <note from="translator">ook u aangepast</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Quit Session">
         <source>Quit Session</source>
@@ -107,8 +109,7 @@ Gebruik op eigen risico!</target>
         <source>A savegame with the name "%s" already exists. 
 Should i overwrite it?</source>
         <target state="translated">Een opgeslagen spel met naam "%s" bestaat reeds. 
-Overschrijven?</target>
-        <note from="developer">savegamename already exists</note>
+Wilt u dat ik deze overschrijf?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Confirmation for overwriting">
         <source>Confirmation for overwriting</source>
@@ -135,7 +136,7 @@ Overschrijven?</target>
       <trans-unit xml:space="preserve" approved="yes" id="Unknown savedate&#10;">
         <source>Unknown savedate
 </source>
-        <target state="translated">Datum opslaan onbekend
+        <target state="translated">Datum van opslaan onbekend
 </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Saved at %s&#10;">
@@ -199,6 +200,7 @@ Versie %(need) vereist!</target>
       <trans-unit xml:space="preserve" approved="yes" id="Networking isn't initialised">
         <source>Networking isn't initialised</source>
         <target state="translated">Het netwerk is nog niet geinistialiseerd</target>
+        <note from="translator">Miss. van maken 'Het netwerk is nog niet gestart'?</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Networking isn't initialised, probably because of configuration issues. Check your settings!">
         <source>Networking isn't initialised, probably because of configuration issues. Check your settings!</source>
