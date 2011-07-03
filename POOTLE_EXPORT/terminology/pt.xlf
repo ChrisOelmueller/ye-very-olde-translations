@@ -58,7 +58,7 @@
       <trans-unit xml:space="preserve" approved="yes" id="unknown">
         <source>unknown</source>
         <target state="translated">desconhecido</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (3)
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (3)&#13;
 (poterminology) uh/unknownhorizons.pot (10)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="farm">
