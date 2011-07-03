@@ -32,7 +32,7 @@ Uporabljajte na lastno odgovornost!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Configured language %(lang)s at %(place)s could not be loaded">
         <source>Configured language %(lang)s at %(place)s could not be loaded</source>
-        <target state="translated">Nastavljenega jezika %(lang)s na %(place)s ni bilo mogoče naložiti.</target>
+        <target state="translated">Nastavljenega jezika %(lang)s na %(place)s ni bilo mogoče naložiti</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Invalid network port">
         <source>Invalid network port</source>
@@ -127,10 +127,9 @@ Ali jo želite prepisati?</target>
         <source>Details:</source>
         <target state="translated">Podrobnosti:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Error:">
+      <trans-unit xml:space="preserve" approved="yes" id="Error:">
         <source>Error:</source>
-        <target state="needs-translation">Napaka</target>
-        <note from="translator">83%</note>
+        <target state="translated">Napaka:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Unknown savedate&#10;">
         <source>Unknown savedate
@@ -146,7 +145,7 @@ Ali jo želite prepisati?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="%H:%M, %A, %B %d">
         <source>%H:%M, %A, %B %d</source>
-        <target state="translated">%H:%M , %d. %m. </target>
+        <target state="translated">%H:%M, %A, %B %d</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Savegame ver. %d">
         <source>Savegame ver. %d</source>
@@ -215,7 +214,7 @@ Details: %s</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Something went wrong with the network: ">
         <source>Something went wrong with the network: </source>
-        <target state="translated">Nekaj je bilo narobe z omrežjem: _</target>
+        <target state="translated">Nekaj je bilo narobe z omrežjem: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Version differs!">
         <source>Version differs!</source>
@@ -223,15 +222,15 @@ Details: %s</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Map: ">
         <source>Map: </source>
-        <target state="translated">Zemljevid:</target>
+        <target state="translated">Zemljevid: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Players: ">
         <source>Players: </source>
-        <target state="translated">Igralci:</target>
+        <target state="translated">Igralci: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Creator: ">
         <source>Creator: </source>
-        <target state="translated">Ustvarjalec:</target>
+        <target state="translated">Ustvarjalec: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The game's version differs from your version. Every player in a multiplayer game must use the same version. This can be fixed by every player updating to the latest version. Game version: %(gameversion)s Your version: %(ownversion)s">
         <source>The game's version differs from your version. Every player in a multiplayer game must use the same version. This can be fixed by every player updating to the latest version. Game version: %(gameversion)s Your version: %(ownversion)s</source>
@@ -243,15 +242,15 @@ Details: %s</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Difficulty: ">
         <source>Difficulty: </source>
-        <target state="translated">Težavnost: _</target>
+        <target state="translated">Težavnost: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Author: ">
         <source>Author: </source>
-        <target state="translated">Avtor: _</target>
+        <target state="translated">Avtor: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Description: ">
         <source>Description: </source>
-        <target state="translated">Opis: _</target>
+        <target state="translated">Opis: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Invalid player name">
         <source>Invalid player name</source>
@@ -269,7 +268,7 @@ Details: %s</source>
         <source>The selected file is not a valid scenario file.
 Error message: </source>
         <target state="translated">Izbrana datoteka ni veljavna datoteka scenarija.
-Sporočilo o napaki: _</target>
+Sporočilo o napaki: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="&#10;Please report this to the author.">
         <source>
@@ -858,7 +857,7 @@ Poročajte o tem avtorju.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Game details:">
         <source>Game details:</source>
-        <target state="translated">Podrobnosti igre: </target>
+        <target state="translated">Podrobnosti igre:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Exit gamelobby">
         <source>Exit gamelobby</source>
@@ -1264,7 +1263,7 @@ Poročajte o tem avtorju.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Error: Found multiple matches: ">
         <source>Error: Found multiple matches: </source>
-        <target state="translated">Napaka: Najdenih je bilo več ujemanj:</target>
+        <target state="translated">Napaka: Najdenih je bilo več ujemanj: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Error: Cannot find savegame &quot;%s&quot;.">
         <source>Error: Cannot find savegame "%s".</source>
@@ -1307,7 +1306,7 @@ Poročajte o tem avtorju.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You have completed this scenario. ">
         <source>You have completed this scenario. </source>
-        <target state="translated">Dokončali ste ta scenarij.</target>
+        <target state="translated">Dokončali ste ta scenarij. </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="unknown">
         <source>unknown</source>
@@ -1315,7 +1314,7 @@ Poročajte o tem avtorju.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Failed to quicksave.">
         <source>Failed to quicksave.</source>
-        <target state="translated">Hitro shranjevanje je spodletelo</target>
+        <target state="translated">Hitro shranjevanje je spodletelo.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="An error happened during quicksave. Your game has not been saved.">
         <source>An error happened during quicksave. Your game has not been saved.</source>
@@ -1385,11 +1384,11 @@ Poročajte o tem avtorju.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Starts &lt;map&gt;. &lt;map&gt; is the mapname.">
         <source>Starts &lt;map&gt;. &lt;map&gt; is the mapname.</source>
-        <target state="translated">Začne &lt;zemljevid&gt;. &lt;zemljevid&gt; je ime zemljevida.</target>
+        <target state="translated">Začne &lt;map&gt;. &lt;map&gt; je ime zemljevida.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Starts a random map.">
         <source>Starts a random map.</source>
-        <target state="translated">Začne naključni zemljevid</target>
+        <target state="translated">Začne naključni zemljevid.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Starts a random map with seed &lt;seed&gt;.">
         <source>Starts a random map with seed &lt;seed&gt;.</source>
@@ -1429,7 +1428,7 @@ Poročajte o tem avtorju.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Writes log to &lt;filename&gt; instead of to the uh-userdir">
         <source>Writes log to &lt;filename&gt; instead of to the uh-userdir</source>
-        <target state="translated">Zapiše dnevnik v &lt;imedatoteke&gt; namesto v uh-uporabniško mapo</target>
+        <target state="translated">Zapiše dnevnik v &lt;filename&gt; namesto v uh-uporabniško mapo</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="For internal use only.">
         <source>For internal use only.</source>
@@ -1457,7 +1456,7 @@ Poročajte o tem avtorju.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Please give it to us via IRC or our forum, for both see unknown-horizons.org .">
         <source>Please give it to us via IRC or our forum, for both see unknown-horizons.org .</source>
-        <target state="translated">Pošljite jo nam preko IRC-a ali našega foruma. Za oboje si oglejte unknown-horizons.org</target>
+        <target state="translated">Pošljite jo nam preko IRC-a ali našega foruma. Za oboje si oglejte unknown-horizons.org .</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Thank you for using Unknown Horizons!">
         <source>Thank you for using Unknown Horizons!</source>
