@@ -492,10 +492,11 @@ Woodcutter will be translated by bucheron. Lumberjack is difficult to translate 
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="free trader">
         <source>free trader</source>
-        <target state="translated">marchand libre</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (4)
-(poterminology) uh/unknownhorizons.pot (1)
-In the tutorial context, i often used 'bateau marchand' which can be translated in trading-ship.</note>
+        <target state="translated">marchand indépendant</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (4)&#13;
+(poterminology) uh/unknownhorizons.pot (1)&#13;
+In the tutorial context, i often used 'bateau marchand' which can be translated in trading-ship.&#13;
+Why not "marchand indépendant" ?</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="happiness">
         <source>happiness</source>
