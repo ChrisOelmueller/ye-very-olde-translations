@@ -224,7 +224,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pavilion">
         <source>pavilion</source>
-        <target state="translated"></target>
+        <target state="translated">paviljon</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="signal">
         <source>signal</source>
