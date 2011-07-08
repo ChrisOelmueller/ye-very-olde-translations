@@ -4,16 +4,15 @@
     <body>
       <trans-unit xml:space="preserve" approved="yes" id="build">
         <source>build</source>
-        <target state="translated"></target>
-        <note from="developer">set translated building name in gui</note>
+        <target state="translated">ehita</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="game">
         <source>game</source>
-        <target state="translated"></target>
+        <target state="translated">mäng</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="building">
         <source>building</source>
-        <target state="translated"></target>
+        <target state="translated">ehitise</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tent">
         <source>tent</source>
@@ -25,15 +24,15 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="branch office">
         <source>branch office</source>
-        <target state="translated"></target>
+        <target state="translated">harukontor</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="overview">
         <source>overview</source>
-        <target state="translated"></target>
+        <target state="translated">ülevaade</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="ship">
         <source>ship</source>
-        <target state="translated"></target>
+        <target state="translated">laev</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="main">
         <source>main</source>
@@ -49,7 +48,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="sailor">
         <source>sailor</source>
-        <target state="translated"></target>
+        <target state="translated">meremehe</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="inhabitants">
         <source>inhabitants</source>
@@ -61,7 +60,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="settlement">
         <source>settlement</source>
-        <target state="translated"></target>
+        <target state="translated">koloonia</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="start">
         <source>start</source>
@@ -117,7 +116,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="main square">
         <source>main square</source>
-        <target state="translated"></target>
+        <target state="translated">turuplats</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="settler">
         <source>settler</source>
@@ -149,7 +148,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="lumberjack">
         <source>lumberjack</source>
-        <target state="translated"></target>
+        <target state="translated">puuraidur</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="sell">
         <source>sell</source>
@@ -197,11 +196,11 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="stock">
         <source>stock</source>
-        <target state="translated"></target>
+        <target state="translated">lao</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="storage">
         <source>storage</source>
-        <target state="translated"></target>
+        <target state="translated">lao</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="trader">
         <source>trader</source>
@@ -217,7 +216,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="fisher">
         <source>fisher</source>
-        <target state="translated"></target>
+        <target state="translated">kalur</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="found">
         <source>found</source>
@@ -225,7 +224,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pavilion">
         <source>pavilion</source>
-        <target state="translated"></target>
+        <target state="translated">paviljon</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="signal">
         <source>signal</source>
@@ -233,7 +232,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="signal fire">
         <source>signal fire</source>
-        <target state="translated"></target>
+        <target state="translated">signaalituli</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="slider">
         <source>slider</source>
@@ -241,7 +240,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tools">
         <source>tools</source>
-        <target state="translated"></target>
+        <target state="translated">asunike</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="active">
         <source>active</source>
@@ -273,7 +272,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pioneer">
         <source>pioneer</source>
-        <target state="translated"></target>
+        <target state="translated">pioneeri</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="potato">
         <source>potato</source>
@@ -333,11 +332,11 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="happiness">
         <source>happiness</source>
-        <target state="translated"></target>
+        <target state="translated">õnnelikkus</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hunter">
         <source>hunter</source>
-        <target state="translated"></target>
+        <target state="translated">jahimehe</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="inventory">
         <source>inventory</source>
