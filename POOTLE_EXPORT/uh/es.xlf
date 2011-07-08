@@ -2,10 +2,6 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
   <file original="es.po" source-language="en-US" datatype="plaintext" target-language="es">
     <body>
-      <trans-unit xml:space="preserve" approved="yes" id="Unknown Horizons Version %s">
-        <source>Unknown Horizons Version %s</source>
-        <target state="translated">Unknown Horizons versión %s</target>
-      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Restart required">
         <source>Restart required</source>
         <target state="translated">Reinicio requerido</target>
@@ -13,6 +9,18 @@
       <trans-unit xml:space="preserve" approved="yes" id="Some of your changes require a restart of Unknown Horizons.">
         <source>Some of your changes require a restart of Unknown Horizons.</source>
         <target state="translated">Algunos cambios necesitan reiniciar el juego.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Restore default settings">
+        <source>Restore default settings</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="This will delete all changes to the settings you made so far.">
+        <source>This will delete all changes to the settings you made so far.</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Do you want to continue?">
+        <source>Do you want to continue?</source>
+        <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="System default">
         <source>System default</source>
@@ -69,6 +77,7 @@ Use at own risk!</source>
       <trans-unit xml:space="preserve" approved="yes" id="Failed to save.">
         <source>Failed to save.</source>
         <target state="translated">El guardado ha fallado.</target>
+        <note from="translator">75%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Are you sure you want to quit Unknown Horizons?">
         <source>Are you sure you want to quit Unknown Horizons?</source>
@@ -120,6 +129,7 @@ Should i overwrite it?</source>
       <trans-unit xml:space="preserve" approved="yes" id="Select a savegame">
         <source>Select a savegame</source>
         <target state="translated">Escoja una partida guardada</target>
+        <note from="developer">ok button has been pressed, but no savegame was selected</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Details:">
         <source>Details:</source>
@@ -128,6 +138,7 @@ Should i overwrite it?</source>
       <trans-unit xml:space="preserve" approved="yes" id="Error:">
         <source>Error:</source>
         <target state="translated">Error:</target>
+        <note from="translator">83%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Unknown savedate&#10;">
         <source>Unknown savedate
@@ -283,6 +294,10 @@ Reporta esto al autor, por favor.</target>
         <source>Boat builder overview</source>
         <target state="translated">Información general para constructor de barcos</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fishing boat">
+        <source>Fishing boat</source>
+        <target state="translated">Pesquero</target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Resources still needed:">
         <source>Resources still needed:</source>
         <target state="translated">Se necesitan más recursos:</target>
@@ -306,6 +321,10 @@ Reporta esto al autor, por favor.</target>
       <trans-unit xml:space="preserve" approved="yes" id="Confirm order">
         <source>Confirm order</source>
         <target state="translated">Confirmar la orden</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Build related fields">
+        <source>Build related fields</source>
+        <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Increment">
         <source>Increment</source>
@@ -488,13 +507,37 @@ Reporta esto al autor, por favor.</target>
         <source>Settler buildings</source>
         <target state="translated">Edificios de los colonos</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Butchery: Needs pigs or cattle. Produces food.">
+        <source>Butchery: Needs pigs or cattle. Produces food.</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Cattle run: Raises cattle. Needs a farm.">
+        <source>Cattle run: Raises cattle. Needs a farm.</source>
+        <target state="translated"></target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="no" id="Charcoal burning: Burns a lot of boards.">
         <source>Charcoal burning: Burns a lot of boards.</source>
         <target state="needs-translation">Carbón de leña ardiente: Quema una gran cantidad de tablas.</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Doctor: Treats diseases. Consumes herbs.">
+        <source>Doctor: Treats diseases. Consumes herbs.</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Herbary: Produces herbs. Needs a farm.">
+        <source>Herbary: Produces herbs. Needs a farm.</source>
+        <target state="translated"></target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Iron mine: Gets iron ore from deposit.">
         <source>Iron mine: Gets iron ore from deposit.</source>
         <target state="translated">Minas de hierro: Obtiene mineral de hierro del depósito.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pigsty: Raises pigs. Needs a farm.">
+        <source>Pigsty: Raises pigs. Needs a farm.</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Salt ponds: Evaporates salt. Built on sea coast.">
+        <source>Salt ponds: Evaporates salt. Built on sea coast.</source>
+        <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="no" id="Smeltery: Refines all kind of ores.">
         <source>Smeltery: Refines all kind of ores.</source>
@@ -503,6 +546,14 @@ Reporta esto al autor, por favor.</target>
       <trans-unit xml:space="preserve" approved="yes" id="Tavern: Provides get-together.">
         <source>Tavern: Provides get-together.</source>
         <target state="translated">Taberna: Proporciona encuentro.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tobacco field: Produces tobacco. Needs a farm.">
+        <source>Tobacco field: Produces tobacco. Needs a farm.</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tobacconist: Produces tobaccos out of tobacco.">
+        <source>Tobacconist: Produces tobaccos out of tobacco.</source>
+        <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Toolmaker: Produces tools out of iron.">
         <source>Toolmaker: Produces tools out of iron.</source>
@@ -608,6 +659,10 @@ Reporta esto al autor, por favor.</target>
         <source>Change name</source>
         <target state="translated">Cambiar nombre</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Apply the new name">
+        <source>Apply the new name</source>
+        <target state="translated">Aplicar el nuevo nombre</target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enter your message:">
         <source>Enter your message:</source>
         <target state="translated">Introduce tu mensaje:</target>
@@ -652,12 +707,36 @@ Reporta esto al autor, por favor.</target>
         <source>Read next entries</source>
         <target state="translated">Leer entradas próximas</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Available Scenarios">
+        <source>Available Scenarios</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Scenario description">
+        <source>Scenario description</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Continue playing">
+        <source>Continue playing</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Choose this scenario">
+        <source>Choose this scenario</source>
+        <target state="translated"></target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Exit">
         <source>Exit</source>
         <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Add to list">
         <source>Add to list</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Leave production overview">
+        <source>Leave production overview</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Refresh data">
+        <source>Refresh data</source>
         <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Delete entry">
@@ -888,10 +967,6 @@ Reporta esto al autor, por favor.</target>
         <source>Refresh list:</source>
         <target state="translated">Refescar lista:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Apply the new name">
-        <source>Apply the new name</source>
-        <target state="translated">Aplicar el nuevo nombre</target>
-      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Create a new game">
         <source>Create a new game</source>
         <target state="translated">Crear nueva partida</target>
@@ -988,6 +1063,15 @@ Reporta esto al autor, por favor.</target>
         <source>Please make sure that you know what you do.</source>
         <target state="translated">Por favor, asegúrate de que sabes lo que haces.</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="Apply">
+        <source>Apply</source>
+        <target state="needs-translation">Aplicar:</target>
+        <note from="translator">83%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Reset to default settings">
+        <source>Reset to default settings</source>
+        <target state="translated"></target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enter filename:">
         <source>Enter filename:</source>
         <target state="translated">Nombre de archivo:</target>
@@ -995,6 +1079,14 @@ Reporta esto al autor, por favor.</target>
       <trans-unit xml:space="preserve" approved="yes" id="Your saved games:">
         <source>Your saved games:</source>
         <target state="translated">Partidas guardadas:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Start game">
+        <source>Start game</source>
+        <target state="translated">Comenzar partida</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Delete selected savegame">
+        <source>Delete selected savegame</source>
+        <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Choose a map to play:">
         <source>Choose a map to play:</source>
@@ -1023,10 +1115,6 @@ Reporta esto al autor, por favor.</target>
       <trans-unit xml:space="preserve" approved="yes" id="Scenario">
         <source>Scenario</source>
         <target state="translated"></target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Start game">
-        <source>Start game</source>
-        <target state="translated">Comenzar partida</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Color:">
         <source>Color:</source>
@@ -1081,10 +1169,6 @@ Reporta esto al autor, por favor.</target>
         <source>Fishing boats</source>
         <target state="translated">Barcos de pesca</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Fishing boat">
-        <source>Fishing boat</source>
-        <target state="translated">Pesquero</target>
-      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Cutter">
         <source>Cutter</source>
         <target state="translated">Guardacostas</target>
@@ -1133,6 +1217,14 @@ Reporta esto al autor, por favor.</target>
         <source>Taxes</source>
         <target state="translated">Impuestos</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Show resources produced in this settlement">
+        <source>Show resources produced in this settlement</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Build fields">
+        <source>Build fields</source>
+        <target state="translated"></target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Average happiness:">
         <source>Average happiness:</source>
         <target state="translated">Nivel de felicidad:</target>
@@ -1149,8 +1241,8 @@ Reporta esto al autor, por favor.</target>
         <source>Taxes:</source>
         <target state="translated">Impuestos:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Tax Rate">
-        <source>Tax Rate</source>
+      <trans-unit xml:space="preserve" approved="yes" id="Tax rate">
+        <source>Tax rate</source>
         <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="capacity utilization">
@@ -1297,6 +1389,18 @@ Reporta esto al autor, por favor.</target>
         <note from="translator">81%
 76%</note>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="Error: Cannot find scenario &quot;%s&quot;.">
+        <source>Error: Cannot find scenario "%s".</source>
+        <target state="needs-translation">Error: No se puede encontrar la partida "%s".</target>
+        <note from="translator">81%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="Error: Cannot find scenario with file &quot;%s&quot;.">
+        <source>Error: Cannot find scenario with file "%s".</source>
+        <target state="needs-translation">Error: No se puede cargar el mapa "%s".</target>
+        <note from="translator">81%
+76%
+83%</note>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You have won!">
         <source>You have won!</source>
         <target state="translated">¡Has ganado!</target>
@@ -1317,8 +1421,8 @@ Reporta esto al autor, por favor.</target>
         <source>An error happened during quicksave. Your game has not been saved.</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="If this error happens again, please contact the development team: unknown-horizons.org/support">
-        <source>If this error happens again, please contact the development team: unknown-horizons.org/support</source>
+      <trans-unit xml:space="preserve" approved="yes" id="If this error happens again, please contact the development team:">
+        <source>If this error happens again, please contact the development team:</source>
         <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="No quicksaves found">
@@ -1459,11 +1563,6 @@ Reporta esto al autor, por favor.</target>
         <source>Thank you for using Unknown Horizons!</source>
         <target state="translated">¡Gracias por usar Unknown Horizons!</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Failed to load FIFE:">
-        <source>Failed to load FIFE:</source>
-        <target state="needs-translation">Fallo al cargar FIFE:</target>
-        <note from="translator">80%</note>
-      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="FIFE was not found.">
         <source>FIFE was not found.</source>
         <target state="translated">No se ha encontrado FIFE.</target>
@@ -1479,6 +1578,14 @@ Reporta esto al autor, por favor.</target>
       <trans-unit xml:space="preserve" approved="yes" id="Brickyard">
         <source>Brickyard</source>
         <target state="translated">Cantero</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Butchery">
+        <source>Butchery</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Cattle Run">
+        <source>Cattle Run</source>
+        <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Charcoal Burning">
         <source>Charcoal Burning</source>
@@ -1496,6 +1603,10 @@ Reporta esto al autor, por favor.</target>
         <source>Distillery</source>
         <target state="translated">Destilería</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Doctor">
+        <source>Doctor</source>
+        <target state="translated"></target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Farm">
         <source>Farm</source>
         <target state="translated">Granja</target>
@@ -1507,6 +1618,10 @@ Reporta esto al autor, por favor.</target>
       <trans-unit xml:space="preserve" approved="yes" id="Fisherman's Tent">
         <source>Fisherman's Tent</source>
         <target state="translated">Tienda de pescador</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Herbary">
+        <source>Herbary</source>
+        <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Hunter's Tent">
         <source>Hunter's Tent</source>
@@ -1544,6 +1659,10 @@ Reporta esto al autor, por favor.</target>
         <source>Pavilion</source>
         <target state="translated">Pabellón</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pigsty">
+        <source>Pigsty</source>
+        <target state="translated"></target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Potato Field">
         <source>Potato Field</source>
         <target state="translated">Campo de patatas</target>
@@ -1551,6 +1670,10 @@ Reporta esto al autor, por favor.</target>
       <trans-unit xml:space="preserve" approved="yes" id="Rampart">
         <source>Rampart</source>
         <target state="translated">Terraplén</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Salt Ponds">
+        <source>Salt Ponds</source>
+        <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Signal Fire">
         <source>Signal Fire</source>
@@ -1576,9 +1699,18 @@ Reporta esto al autor, por favor.</target>
         <source>Tent</source>
         <target state="translated">Tienda</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Tent_ruin">
-        <source>Tent_ruin</source>
-        <target state="translated">Ruinas de una tienda</target>
+      <trans-unit xml:space="preserve" approved="no" id="Tent Ruin">
+        <source>Tent Ruin</source>
+        <target state="needs-translation">Ruinas de una tienda</target>
+        <note from="translator">77%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tobacco Field">
+        <source>Tobacco Field</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tobacconist">
+        <source>Tobacconist</source>
+        <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Toolmaker">
         <source>Toolmaker</source>
@@ -1668,6 +1800,10 @@ Reporta esto al autor, por favor.</target>
         <source>Your settlers reached level ${level}.</source>
         <target state="translated">Tus colonos han llegado al nivel ${level}.</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="acorns">
+        <source>acorns</source>
+        <target state="translated"></target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="boards">
         <source>boards</source>
         <target state="translated">tablas</target>
@@ -1675,6 +1811,14 @@ Reporta esto al autor, por favor.</target>
       <trans-unit xml:space="preserve" approved="yes" id="bricks">
         <source>bricks</source>
         <target state="translated">ladrillos</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="cattle">
+        <source>cattle</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="cattle for slaughter">
+        <source>cattle for slaughter</source>
+        <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="charcoal">
         <source>charcoal</source>
@@ -1691,6 +1835,14 @@ Reporta esto al autor, por favor.</target>
       <trans-unit xml:space="preserve" approved="yes" id="community">
         <source>community</source>
         <target state="translated">comunidad</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="deer food A">
+        <source>deer food A</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="deer meat">
+        <source>deer meat</source>
+        <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="education">
         <source>education</source>
@@ -1720,6 +1872,10 @@ Reporta esto al autor, por favor.</target>
         <source>happiness</source>
         <target state="translated">felicidad</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="herbs">
+        <source>herbs</source>
+        <target state="translated"></target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="iron ingots">
         <source>iron ingots</source>
         <target state="translated">lingotes de hierro</target>
@@ -1736,6 +1892,14 @@ Reporta esto al autor, por favor.</target>
         <source>liquor</source>
         <target state="translated">licor</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pigs">
+        <source>pigs</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pigs for slaughter">
+        <source>pigs for slaughter</source>
+        <target state="translated"></target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="potatoes">
         <source>potatoes</source>
         <target state="translated">patatas</target>
@@ -1743,6 +1907,10 @@ Reporta esto al autor, por favor.</target>
       <trans-unit xml:space="preserve" approved="yes" id="raw clay">
         <source>raw clay</source>
         <target state="translated">arcilla sin procesar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="raw herbs">
+        <source>raw herbs</source>
+        <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="raw iron">
         <source>raw iron</source>
@@ -1752,6 +1920,14 @@ Reporta esto al autor, por favor.</target>
         <source>raw sugar</source>
         <target state="translated">azúcar sin procesar</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="raw tobacco">
+        <source>raw tobacco</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="salt">
+        <source>salt</source>
+        <target state="translated"></target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="sugar">
         <source>sugar</source>
         <target state="translated">azúcar</target>
@@ -1760,17 +1936,17 @@ Reporta esto al autor, por favor.</target>
         <source>textile</source>
         <target state="translated">telas</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="tobacco">
+        <source>tobacco</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="tobaccos">
+        <source>tobaccos</source>
+        <target state="translated"></target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tools">
         <source>tools</source>
         <target state="translated">herramientas</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="wild animal food 1">
-        <source>wild animal food 1</source>
-        <target state="translated">alimentos de animal salvaje 1</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="wild animal meat">
-        <source>wild animal meat</source>
-        <target state="translated">carne de animal salvaje</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="wood">
         <source>wood</source>
@@ -1779,6 +1955,18 @@ Reporta esto al autor, por favor.</target>
       <trans-unit xml:space="preserve" approved="yes" id="wool">
         <source>wool</source>
         <target state="translated">lana</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="aristocrat">
+        <source>aristocrat</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="citizen">
+        <source>citizen</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="merchant">
+        <source>merchant</source>
+        <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pioneer">
         <source>pioneer</source>
