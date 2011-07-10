@@ -12,19 +12,19 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Restore default settings">
         <source>Restore default settings</source>
-        <target state="translated"></target>
+        <target state="translated">Reiniciar configuración por defecto</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="This will delete all changes to the settings you made so far.">
         <source>This will delete all changes to the settings you made so far.</source>
-        <target state="translated"></target>
+        <target state="translated">Esto eliminará todos los cambios en los ajustes realizados hasta el momento.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Do you want to continue?">
         <source>Do you want to continue?</source>
-        <target state="translated"></target>
+        <target state="translated">¿Desea continuar?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="System default">
         <source>System default</source>
-        <target state="translated">Predeterminado</target>
+        <target state="translated">Predeterminado del sistema</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Warning">
         <source>Warning</source>
@@ -44,15 +44,15 @@ Use at own risk!</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Invalid network port">
         <source>Invalid network port</source>
-        <target state="translated"></target>
+        <target state="translated">Puerto de red inválido</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The port you specified is not valid. It must be a number between 1 and 65535.">
         <source>The port you specified is not valid. It must be a number between 1 and 65535.</source>
-        <target state="translated"></target>
+        <target state="translated">El puerto que ha spcificado no es válido. Debe ser un número entre 1 y 65535.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Please check the port you entered and make sure it's in the specified range.">
         <source>Please check the port you entered and make sure it's in the specified range.</source>
-        <target state="translated"></target>
+        <target state="translated">Por favor, compruebe que ha introducido el puerto y asegúrese de que está en el rango especificado.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Failed to apply new network data.">
         <source>Failed to apply new network data.</source>
