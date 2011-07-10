@@ -2,10 +2,6 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
   <file original="ru.po" source-language="en-US" datatype="plaintext" target-language="ru">
     <body>
-      <trans-unit xml:space="preserve" approved="yes" id="Unknown Horizons Version %s">
-        <source>Unknown Horizons Version %s</source>
-        <target state="translated">Неизведанные Горизонты версия: %s</target>
-      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Restart required">
         <source>Restart required</source>
         <target state="translated">Необходим перезапуск</target>
@@ -13,6 +9,18 @@
       <trans-unit xml:space="preserve" approved="yes" id="Some of your changes require a restart of Unknown Horizons.">
         <source>Some of your changes require a restart of Unknown Horizons.</source>
         <target state="translated">Некоторые из ваших изменений требуют перезапуска Неизведанных Горизонтов.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Restore default settings">
+        <source>Restore default settings</source>
+        <target state="translated">Восстановить настройки по умолчанию</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="This will delete all changes to the settings you made so far.">
+        <source>This will delete all changes to the settings you made so far.</source>
+        <target state="translated">Это удалит все изменения настроек, сделанные вами.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Do you want to continue?">
+        <source>Do you want to continue?</source>
+        <target state="translated">Вы хотите продолжить?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="System default">
         <source>System default</source>
@@ -286,6 +294,10 @@ Please report this to the author.</source>
         <source>Boat builder overview</source>
         <target state="translated">Обзор судостроителя</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fishing boat">
+        <source>Fishing boat</source>
+        <target state="translated">Рыбацкая лодка</target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Resources still needed:">
         <source>Resources still needed:</source>
         <target state="translated">Необходимые ресурсы:</target>
@@ -310,6 +322,10 @@ Please report this to the author.</source>
       <trans-unit xml:space="preserve" approved="yes" id="Confirm order">
         <source>Confirm order</source>
         <target state="translated">Подтвердить приказ</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Build related fields">
+        <source>Build related fields</source>
+        <target state="translated">Создать связанные поля</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Increment">
         <source>Increment</source>
@@ -494,13 +510,37 @@ Please report this to the author.</source>
         <source>Settler buildings</source>
         <target state="translated">Здания поселенцев</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Butchery: Needs pigs or cattle. Produces food.">
+        <source>Butchery: Needs pigs or cattle. Produces food.</source>
+        <target state="translated">Бойня: нуждается в свиньях или скоте. Производит пищу.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Cattle run: Raises cattle. Needs a farm.">
+        <source>Cattle run: Raises cattle. Needs a farm.</source>
+        <target state="translated">Выгон скота: разводит скот. Нуждается в ферме.</target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Charcoal burning: Burns a lot of boards.">
         <source>Charcoal burning: Burns a lot of boards.</source>
         <target state="translated">Костёр для углежжения: Сжигает большое количество досок.</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Doctor: Treats diseases. Consumes herbs.">
+        <source>Doctor: Treats diseases. Consumes herbs.</source>
+        <target state="translated">Врач: лечит болезни. Расходует травы.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Herbary: Produces herbs. Needs a farm.">
+        <source>Herbary: Produces herbs. Needs a farm.</source>
+        <target state="translated">Сад трав: производит травы. Нуждается в ферме.</target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Iron mine: Gets iron ore from deposit.">
         <source>Iron mine: Gets iron ore from deposit.</source>
-        <target state="translated">Железный рудник: Добывает железную руду из месторождения.</target>
+        <target state="translated">Железный рудник: добывает железную руду из месторождения.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pigsty: Raises pigs. Needs a farm.">
+        <source>Pigsty: Raises pigs. Needs a farm.</source>
+        <target state="translated">Свинарник: разводит свиней. Нуждается в ферме.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Salt ponds: Evaporates salt. Built on sea coast.">
+        <source>Salt ponds: Evaporates salt. Built on sea coast.</source>
+        <target state="translated">Солёные озера: выпаривают соль. Должны быть расположены на морском берегу.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Smeltery: Refines all kind of ores.">
         <source>Smeltery: Refines all kind of ores.</source>
@@ -509,6 +549,14 @@ Please report this to the author.</source>
       <trans-unit xml:space="preserve" approved="yes" id="Tavern: Provides get-together.">
         <source>Tavern: Provides get-together.</source>
         <target state="translated">Таверна: Предоставляет место для встреч.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tobacco field: Produces tobacco. Needs a farm.">
+        <source>Tobacco field: Produces tobacco. Needs a farm.</source>
+        <target state="translated">Табачное поле: Производит сырьё для табака. Нуждается в ферме.</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tobacconist: Produces tobaccos out of tobacco.">
+        <source>Tobacconist: Produces tobaccos out of tobacco.</source>
+        <target state="translated">Табачная лавка: производит табак из табачного сырья.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Toolmaker: Produces tools out of iron.">
         <source>Toolmaker: Produces tools out of iron.</source>
@@ -615,6 +663,10 @@ Please report this to the author.</source>
         <source>Change name</source>
         <target state="translated">Сменить имя</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Apply the new name">
+        <source>Apply the new name</source>
+        <target state="translated">Применить новое имя</target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enter your message:">
         <source>Enter your message:</source>
         <target state="translated">Введите ваше сообщение:</target>
@@ -659,6 +711,22 @@ Please report this to the author.</source>
         <source>Read next entries</source>
         <target state="translated">Читать следующую запись</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Available Scenarios">
+        <source>Available Scenarios</source>
+        <target state="translated">Доступные сценарии</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Scenario description">
+        <source>Scenario description</source>
+        <target state="translated">Описание сценария</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Continue playing">
+        <source>Continue playing</source>
+        <target state="translated">Продолжить игру</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Choose this scenario">
+        <source>Choose this scenario</source>
+        <target state="translated">Выбрать этот сценарий</target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Exit">
         <source>Exit</source>
         <target state="translated">Выход</target>
@@ -666,6 +734,14 @@ Please report this to the author.</source>
       <trans-unit xml:space="preserve" approved="yes" id="Add to list">
         <source>Add to list</source>
         <target state="translated">Добавить в список</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Leave production overview">
+        <source>Leave production overview</source>
+        <target state="translated">Покинуть обзор производства</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Refresh data">
+        <source>Refresh data</source>
+        <target state="translated">Обновить данные</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Delete entry">
         <source>Delete entry</source>
@@ -895,10 +971,6 @@ Please report this to the author.</source>
         <source>Refresh list:</source>
         <target state="translated">Обновить список:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Apply the new name">
-        <source>Apply the new name</source>
-        <target state="translated">Применить новое имя</target>
-      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Create a new game">
         <source>Create a new game</source>
         <target state="translated">Создать новую игру</target>
@@ -995,6 +1067,15 @@ Please report this to the author.</source>
         <source>Please make sure that you know what you do.</source>
         <target state="translated">Пожалуйста, убедитесь, что вы знаете, что делаете.</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Apply">
+        <source>Apply</source>
+        <target state="translated">Применить</target>
+        <note from="translator">83%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Reset to default settings">
+        <source>Reset to default settings</source>
+        <target state="translated">Восстановить настройки по умолчанию</target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enter filename:">
         <source>Enter filename:</source>
         <target state="translated">Введите имя файла:</target>
@@ -1002,6 +1083,15 @@ Please report this to the author.</source>
       <trans-unit xml:space="preserve" approved="yes" id="Your saved games:">
         <source>Your saved games:</source>
         <target state="translated">Сохраненных игр:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Start game">
+        <source>Start game</source>
+        <target state="translated">Начать игру</target>
+        <note from="translator">90%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Delete selected savegame">
+        <source>Delete selected savegame</source>
+        <target state="translated">Удалить выбранную сохранённую игру</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Choose a map to play:">
         <source>Choose a map to play:</source>
@@ -1030,11 +1120,6 @@ Please report this to the author.</source>
       <trans-unit xml:space="preserve" approved="yes" id="Scenario">
         <source>Scenario</source>
         <target state="translated">Сценарий</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Start game">
-        <source>Start game</source>
-        <target state="translated">Начать игру</target>
-        <note from="translator">90%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Color:">
         <source>Color:</source>
@@ -1088,10 +1173,6 @@ Please report this to the author.</source>
         <source>Fishing boats</source>
         <target state="translated">Рыбацкие лодки</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Fishing boat">
-        <source>Fishing boat</source>
-        <target state="translated">Рыбацкая лодка</target>
-      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Cutter">
         <source>Cutter</source>
         <target state="translated">Катер</target>
@@ -1140,6 +1221,14 @@ Please report this to the author.</source>
         <source>Taxes</source>
         <target state="translated">Налог</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Show resources produced in this settlement">
+        <source>Show resources produced in this settlement</source>
+        <target state="translated">Показать ресурсы, произведённые в данном поселении</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Build fields">
+        <source>Build fields</source>
+        <target state="translated">Строить поля</target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Average happiness:">
         <source>Average happiness:</source>
         <target state="translated">Средняя удовлетворённость:</target>
@@ -1156,9 +1245,10 @@ Please report this to the author.</source>
         <source>Taxes:</source>
         <target state="translated">Налог:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Tax Rate">
-        <source>Tax Rate</source>
+      <trans-unit xml:space="preserve" approved="yes" id="Tax rate">
+        <source>Tax rate</source>
         <target state="translated">Налог</target>
+        <note from="translator">87%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="capacity utilization">
         <source>capacity utilization</source>
@@ -1301,6 +1391,16 @@ Please report this to the author.</source>
         <source>Error: Cannot find campaign with file "%s".</source>
         <target state="translated">Ошибка: Не найдена кампания с файлом "%s".</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Error: Cannot find scenario &quot;%s&quot;.">
+        <source>Error: Cannot find scenario "%s".</source>
+        <target state="translated">Ошибка: Не найден сценарий "%s".</target>
+        <note from="translator">81%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Error: Cannot find scenario with file &quot;%s&quot;.">
+        <source>Error: Cannot find scenario with file "%s".</source>
+        <target state="translated">Ошибка: Не найден сценарий с файлом "%s".</target>
+        <note from="translator">83%</note>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You have won!">
         <source>You have won!</source>
         <target state="translated">Вы выиграли!</target>
@@ -1321,9 +1421,9 @@ Please report this to the author.</source>
         <source>An error happened during quicksave. Your game has not been saved.</source>
         <target state="translated">В ходе быстрого сохранения произошла ошибка. Ваша игра не была сохранена.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="If this error happens again, please contact the development team: unknown-horizons.org/support">
-        <source>If this error happens again, please contact the development team: unknown-horizons.org/support</source>
-        <target state="translated">Если ошибка повторится, пожалуйста свяжитесь с командой разработчиков: unknown-horizons.org/support</target>
+      <trans-unit xml:space="preserve" approved="yes" id="If this error happens again, please contact the development team:">
+        <source>If this error happens again, please contact the development team:</source>
+        <target state="translated">Если эта ошибка повторится, пожалуйста свяжитесь с разработчиками:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="No quicksaves found">
         <source>No quicksaves found</source>
@@ -1422,6 +1522,7 @@ Please report this to the author.</source>
       <trans-unit xml:space="preserve" approved="yes" id="Write debug output only to logfile, not to console. Implies -d.">
         <source>Write debug output only to logfile, not to console. Implies -d.</source>
         <target state="translated">Писать отладочную информацию только в лог-файл, а не в консоль. Включает в себя -d.</target>
+        <note from="translator">I don't sure what means "Implies -d."</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enable logging for a certain logging module (for developing only).">
         <source>Enable logging for a certain logging module (for developing only).</source>
@@ -1463,10 +1564,6 @@ Please report this to the author.</source>
         <source>Thank you for using Unknown Horizons!</source>
         <target state="translated">Спасибо за использование Неизведанных Горизонтов!</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Failed to load FIFE:">
-        <source>Failed to load FIFE:</source>
-        <target state="translated">Невозможно загрузить FIFE:</target>
-      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="FIFE was not found.">
         <source>FIFE was not found.</source>
         <target state="translated">FIFE не найден.</target>
@@ -1482,6 +1579,14 @@ Please report this to the author.</source>
       <trans-unit xml:space="preserve" approved="yes" id="Brickyard">
         <source>Brickyard</source>
         <target state="translated">Кирпичный завод</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Butchery">
+        <source>Butchery</source>
+        <target state="translated">Бойня</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Cattle Run">
+        <source>Cattle Run</source>
+        <target state="translated">Выгон скота</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Charcoal Burning">
         <source>Charcoal Burning</source>
@@ -1499,6 +1604,10 @@ Please report this to the author.</source>
         <source>Distillery</source>
         <target state="translated">Винокуренный завод</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Doctor">
+        <source>Doctor</source>
+        <target state="translated">Врач</target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Farm">
         <source>Farm</source>
         <target state="translated">Ферма</target>
@@ -1510,6 +1619,10 @@ Please report this to the author.</source>
       <trans-unit xml:space="preserve" approved="yes" id="Fisherman's Tent">
         <source>Fisherman's Tent</source>
         <target state="translated">Палатка рыбака</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Herbary">
+        <source>Herbary</source>
+        <target state="translated">Сад трав</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Hunter's Tent">
         <source>Hunter's Tent</source>
@@ -1547,6 +1660,10 @@ Please report this to the author.</source>
         <source>Pavilion</source>
         <target state="translated">Павильон</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pigsty">
+        <source>Pigsty</source>
+        <target state="translated">Свинарник</target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Potato Field">
         <source>Potato Field</source>
         <target state="translated">Картофельное поле</target>
@@ -1554,6 +1671,10 @@ Please report this to the author.</source>
       <trans-unit xml:space="preserve" approved="yes" id="Rampart">
         <source>Rampart</source>
         <target state="translated">Защитный вал</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Salt Ponds">
+        <source>Salt Ponds</source>
+        <target state="translated">Солёные озёра</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Signal Fire">
         <source>Signal Fire</source>
@@ -1580,9 +1701,18 @@ Please report this to the author.</source>
         <source>Tent</source>
         <target state="translated">Палатка</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Tent_ruin">
-        <source>Tent_ruin</source>
+      <trans-unit xml:space="preserve" approved="yes" id="Tent Ruin">
+        <source>Tent Ruin</source>
         <target state="translated">Разрушенный шатёр</target>
+        <note from="translator">77%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tobacco Field">
+        <source>Tobacco Field</source>
+        <target state="translated">Табачное поле</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tobacconist">
+        <source>Tobacconist</source>
+        <target state="translated">Табачная лавка</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Toolmaker">
         <source>Toolmaker</source>
@@ -1672,6 +1802,10 @@ Please report this to the author.</source>
         <source>Your settlers reached level ${level}.</source>
         <target state="translated">Ваши поселенцы достигли ${level} уровня.</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="acorns">
+        <source>acorns</source>
+        <target state="translated">жёлуди</target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="boards">
         <source>boards</source>
         <target state="translated">доски</target>
@@ -1679,6 +1813,14 @@ Please report this to the author.</source>
       <trans-unit xml:space="preserve" approved="yes" id="bricks">
         <source>bricks</source>
         <target state="translated">кирпич</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="cattle">
+        <source>cattle</source>
+        <target state="translated">скот</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="cattle for slaughter">
+        <source>cattle for slaughter</source>
+        <target state="translated">скот на убой</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="charcoal">
         <source>charcoal</source>
@@ -1695,6 +1837,14 @@ Please report this to the author.</source>
       <trans-unit xml:space="preserve" approved="yes" id="community">
         <source>community</source>
         <target state="translated">общество</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="deer food A">
+        <source>deer food A</source>
+        <target state="translated">еда оленя A</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="deer meat">
+        <source>deer meat</source>
+        <target state="translated">мясо оленя</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="education">
         <source>education</source>
@@ -1725,6 +1875,10 @@ Please report this to the author.</source>
         <target state="translated">удовлетворение</target>
         <note from="translator">Счастье?</note>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="herbs">
+        <source>herbs</source>
+        <target state="translated">травы</target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="iron ingots">
         <source>iron ingots</source>
         <target state="translated">железные слитки</target>
@@ -1741,6 +1895,14 @@ Please report this to the author.</source>
         <source>liquor</source>
         <target state="translated">алкоголь</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pigs">
+        <source>pigs</source>
+        <target state="translated">свиньи</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pigs for slaughter">
+        <source>pigs for slaughter</source>
+        <target state="translated">свиньи для бойни</target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="potatoes">
         <source>potatoes</source>
         <target state="translated">картофель</target>
@@ -1748,6 +1910,10 @@ Please report this to the author.</source>
       <trans-unit xml:space="preserve" approved="yes" id="raw clay">
         <source>raw clay</source>
         <target state="translated">необработанная глина</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="raw herbs">
+        <source>raw herbs</source>
+        <target state="translated">пучки трав</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="raw iron">
         <source>raw iron</source>
@@ -1757,6 +1923,14 @@ Please report this to the author.</source>
         <source>raw sugar</source>
         <target state="translated">сахарный тростник</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="raw tobacco">
+        <source>raw tobacco</source>
+        <target state="translated">табак-сырец</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="salt">
+        <source>salt</source>
+        <target state="translated">соль</target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="sugar">
         <source>sugar</source>
         <target state="translated">сахар</target>
@@ -1765,17 +1939,17 @@ Please report this to the author.</source>
         <source>textile</source>
         <target state="translated">ткань</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="tobacco">
+        <source>tobacco</source>
+        <target state="translated">табак</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="tobaccos">
+        <source>tobaccos</source>
+        <target state="translated">табачные изделия</target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tools">
         <source>tools</source>
         <target state="translated">инструменты</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="wild animal food 1">
-        <source>wild animal food 1</source>
-        <target state="translated">мясо дикого животного 1</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="wild animal meat">
-        <source>wild animal meat</source>
-        <target state="translated">мясо дикого животного</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="wood">
         <source>wood</source>
@@ -1784,6 +1958,18 @@ Please report this to the author.</source>
       <trans-unit xml:space="preserve" approved="yes" id="wool">
         <source>wool</source>
         <target state="translated">шерсть</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="aristocrat">
+        <source>aristocrat</source>
+        <target state="translated">аристократ</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="citizen">
+        <source>citizen</source>
+        <target state="translated">горожанин</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="merchant">
+        <source>merchant</source>
+        <target state="translated">торговец</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pioneer">
         <source>pioneer</source>
