@@ -509,33 +509,33 @@ Bitte meldet dies dem Autor.</target>
         <source>Settler buildings</source>
         <target state="translated">Siedlerbauten</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Butchery: Needs pigs or cattle. Produces food.">
+      <trans-unit xml:space="preserve" approved="yes" id="Butchery: Needs pigs or cattle. Produces food.">
         <source>Butchery: Needs pigs or cattle. Produces food.</source>
-        <target state="needs-translation">Metzgerei: </target>
+        <target state="translated">Metzgerei: Verwertet Schlachtvieh zu Nahrung.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Cattle run: Raises cattle. Needs a farm.">
+      <trans-unit xml:space="preserve" approved="yes" id="Cattle run: Raises cattle. Needs a farm.">
         <source>Cattle run: Raises cattle. Needs a farm.</source>
-        <target state="needs-translation">Viehweide: </target>
+        <target state="translated">Viehweide: Zieht Schlachtvieh auf. Benötigt eine Farm.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Charcoal burning: Burns a lot of boards.">
         <source>Charcoal burning: Burns a lot of boards.</source>
         <target state="translated">Kohlenmeiler: Ein Köhler stellt hier Holzkohle her.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Doctor: Treats diseases. Consumes herbs.">
+      <trans-unit xml:space="preserve" approved="yes" id="Doctor: Treats diseases. Consumes herbs.">
         <source>Doctor: Treats diseases. Consumes herbs.</source>
-        <target state="needs-translation">Arzt: </target>
+        <target state="translated">Arzt: Behandelt Seuchen. Verbraucht Heilkräuter.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Herbary: Produces herbs. Needs a farm.">
+      <trans-unit xml:space="preserve" approved="yes" id="Herbary: Produces herbs. Needs a farm.">
         <source>Herbary: Produces herbs. Needs a farm.</source>
-        <target state="needs-translation">Kräutergarten: </target>
+        <target state="translated">Kräutergarten: Anbau von Heilkräutern. Benötigt eine Farm.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Iron mine: Gets iron ore from deposit.">
         <source>Iron mine: Gets iron ore from deposit.</source>
         <target state="translated">Eisenstollen: Dient dem Abbau von Eisenerz.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Pigsty: Raises pigs. Needs a farm.">
+      <trans-unit xml:space="preserve" approved="yes" id="Pigsty: Raises pigs. Needs a farm.">
         <source>Pigsty: Raises pigs. Needs a farm.</source>
-        <target state="needs-translation">Schweinestall: </target>
+        <target state="translated">Schweinestall: Zieht Schweine auf. Benötigt eine Farm.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Salt ponds: Evaporates salt. Built on sea coast.">
         <source>Salt ponds: Evaporates salt. Built on sea coast.</source>
@@ -549,13 +549,13 @@ Bitte meldet dies dem Autor.</target>
         <source>Tavern: Provides get-together.</source>
         <target state="translated">Taverne: Erfüllt den Gemeinschaftssinn Eurer Untertanen.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Tobacco field: Produces tobacco. Needs a farm.">
+      <trans-unit xml:space="preserve" approved="yes" id="Tobacco field: Produces tobacco. Needs a farm.">
         <source>Tobacco field: Produces tobacco. Needs a farm.</source>
-        <target state="needs-translation">Tabakplantage: </target>
+        <target state="translated">Tabakplantage: Produziert Tabakpflanzen. Benötigt eine Farm.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Tobacconist: Produces tobaccos out of tobacco.">
+      <trans-unit xml:space="preserve" approved="yes" id="Tobacconist: Produces tobaccos out of tobacco.">
         <source>Tobacconist: Produces tobaccos out of tobacco.</source>
-        <target state="needs-translation">Tabakdreher: </target>
+        <target state="translated">Tabakdreher: Produziert Tabakwaren aus Tabak.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Toolmaker: Produces tools out of iron.">
         <source>Toolmaker: Produces tools out of iron.</source>
