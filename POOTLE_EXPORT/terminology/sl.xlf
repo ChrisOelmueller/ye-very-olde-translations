@@ -26,6 +26,18 @@
         <source>branch office</source>
         <target state="translated">območna pisarna</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="your">
+        <source>your</source>
+        <target state="translated">vaš</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="farm">
+        <source>farm</source>
+        <target state="translated">kmetija</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="field">
+        <source>field</source>
+        <target state="translated">polje</target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="overview">
         <source>overview</source>
         <target state="translated">pregled</target>
@@ -38,17 +50,17 @@
         <source>main</source>
         <target state="translated">glavna zgradba</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="unknown">
-        <source>unknown</source>
-        <target state="translated">neznano</target>
+      <trans-unit xml:space="preserve" approved="yes" id="settlement">
+        <source>settlement</source>
+        <target state="translated">naselbina</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="farm">
-        <source>farm</source>
-        <target state="translated">kmetija</target>
+      <trans-unit xml:space="preserve" approved="yes" id="start">
+        <source>start</source>
+        <target state="translated">začetek</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="sailor">
-        <source>sailor</source>
-        <target state="translated">mornar</target>
+      <trans-unit xml:space="preserve" approved="yes" id="click">
+        <source>click</source>
+        <target state="translated">kliknite</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="inhabitants">
         <source>inhabitants</source>
@@ -58,21 +70,21 @@
         <source>map</source>
         <target state="translated">začetek</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="settlement">
-        <source>settlement</source>
-        <target state="translated">naselbina</target>
+      <trans-unit xml:space="preserve" approved="yes" id="menu">
+        <source>menu</source>
+        <target state="translated">meni</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="start">
-        <source>start</source>
-        <target state="translated">začetek</target>
+      <trans-unit xml:space="preserve" approved="yes" id="production">
+        <source>production</source>
+        <target state="translated">proizvodnja</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tab">
         <source>tab</source>
         <target state="translated">zavihek</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="field">
-        <source>field</source>
-        <target state="translated">polje</target>
+      <trans-unit xml:space="preserve" approved="yes" id="unknown">
+        <source>unknown</source>
+        <target state="translated">neznano</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="food">
         <source>food</source>
@@ -82,45 +94,13 @@
         <source>increment</source>
         <target state="translated">povečanje</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="minimap">
-        <source>minimap</source>
-        <target state="translated">mini zemljevid</target>
+      <trans-unit xml:space="preserve" approved="yes" id="select">
+        <source>select</source>
+        <target state="translated">izberi</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="running costs">
-        <source>running costs</source>
-        <target state="translated">stroški poslovanja</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="menu">
-        <source>menu</source>
-        <target state="translated">meni</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="produce">
-        <source>produce</source>
-        <target state="translated">proizvedi</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="production">
-        <source>production</source>
-        <target state="translated">proizvodnja</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="boards">
-        <source>boards</source>
-        <target state="translated">lesene deske</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="change">
-        <source>change</source>
-        <target state="translated">spremeni</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="click">
-        <source>click</source>
-        <target state="translated">kliknite</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="main square">
-        <source>main square</source>
-        <target state="translated">glavni trg</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="settler">
-        <source>settler</source>
-        <target state="translated">naseljenec</target>
+      <trans-unit xml:space="preserve" approved="yes" id="setting">
+        <source>setting</source>
+        <target state="translated">nastavljanje</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="time">
         <source>time</source>
@@ -130,45 +110,33 @@
         <source>trade</source>
         <target state="translated">menjava</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="change">
+        <source>change</source>
+        <target state="translated">spremeni</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="main square">
+        <source>main square</source>
+        <target state="translated">glavni trg</target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="trail">
         <source>trail</source>
         <target state="translated">sled</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="version">
-        <source>version</source>
-        <target state="translated">različica</target>
+      <trans-unit xml:space="preserve" approved="yes" id="boards">
+        <source>boards</source>
+        <target state="translated">lesene deske</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="buy">
         <source>buy</source>
         <target state="translated">kupi</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="connect">
-        <source>connect</source>
-        <target state="translated">poveži</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="lumberjack">
-        <source>lumberjack</source>
-        <target state="translated">gozdar</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="sell">
-        <source>sell</source>
-        <target state="translated">prodaj</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="taxes">
-        <source>taxes</source>
-        <target state="translated">davki</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="wool">
-        <source>wool</source>
-        <target state="translated">volna</target>
-      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="coast">
         <source>coast</source>
         <target state="translated">obala</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="companies">
-        <source>companies</source>
-        <target state="translated">družbe</target>
+      <trans-unit xml:space="preserve" approved="yes" id="connect">
+        <source>connect</source>
+        <target state="translated">poveži</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="cost">
         <source>cost</source>
@@ -178,41 +146,77 @@
         <source>free</source>
         <target state="translated">prosto</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="left">
-        <source>left</source>
-        <target state="translated">levo</target>
-      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="log">
         <source>log</source>
         <target state="translated">zapisnik</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="reach">
-        <source>reach</source>
-        <target state="translated">doseg</target>
+      <trans-unit xml:space="preserve" approved="yes" id="lumberjack">
+        <source>lumberjack</source>
+        <target state="translated">gozdar</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="select">
-        <source>select</source>
-        <target state="translated">izberi</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="stock">
-        <source>stock</source>
-        <target state="translated">zaloga</target>
+      <trans-unit xml:space="preserve" approved="yes" id="sell">
+        <source>sell</source>
+        <target state="translated">prodaj</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="storage">
         <source>storage</source>
         <target state="translated">shramba</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="taxes">
+        <source>taxes</source>
+        <target state="translated">davki</target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="trader">
         <source>trader</source>
         <target state="translated">trgovec</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="version">
+        <source>version</source>
+        <target state="translated">različica</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="companies">
+        <source>companies</source>
+        <target state="translated">družbe</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="fire">
+        <source>fire</source>
+        <target state="translated">ogenj</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="left">
+        <source>left</source>
+        <target state="translated">levo</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="reach">
+        <source>reach</source>
+        <target state="translated">doseg</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="signal">
+        <source>signal</source>
+        <target state="translated">signal</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="signal fire">
+        <source>signal fire</source>
+        <target state="translated">signalni ogenj</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="stock">
+        <source>stock</source>
+        <target state="translated">zaloga</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="tools">
+        <source>tools</source>
+        <target state="translated">orodje</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="wool">
+        <source>wool</source>
+        <target state="translated">volna</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="balance">
         <source>balance</source>
         <target state="translated">ravnovesje</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="fire">
-        <source>fire</source>
-        <target state="translated">ogenj</target>
+      <trans-unit xml:space="preserve" approved="yes" id="choose">
+        <source>choose</source>
+        <target state="translated">izberite</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="fisher">
         <source>fisher</source>
@@ -226,29 +230,25 @@
         <source>pavilion</source>
         <target state="translated">paviljon</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="signal">
-        <source>signal</source>
-        <target state="translated">signal</target>
+      <trans-unit xml:space="preserve" approved="yes" id="potato">
+        <source>potato</source>
+        <target state="translated">krompir</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="signal fire">
-        <source>signal fire</source>
-        <target state="translated">signalni ogenj</target>
+      <trans-unit xml:space="preserve" approved="yes" id="range">
+        <source>range</source>
+        <target state="translated">doseg</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="slider">
-        <source>slider</source>
-        <target state="translated">drsnik</target>
+      <trans-unit xml:space="preserve" approved="yes" id="raw">
+        <source>raw</source>
+        <target state="translated">surovo</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="tools">
-        <source>tools</source>
-        <target state="translated">orodje</target>
+      <trans-unit xml:space="preserve" approved="yes" id="running">
+        <source>running</source>
+        <target state="translated">izvajanje</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="active">
-        <source>active</source>
-        <target state="translated">dejavno</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="choose">
-        <source>choose</source>
-        <target state="translated">izberite</target>
+      <trans-unit xml:space="preserve" approved="yes" id="running costs">
+        <source>running costs</source>
+        <target state="translated">stroški poslovanja</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="collector">
         <source>collector</source>
@@ -262,33 +262,35 @@
         <source>house</source>
         <target state="translated">hiša</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="inventory">
+        <source>inventory</source>
+        <target state="translated">inventer</target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="level">
         <source>level</source>
         <target state="translated">stopnja</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="move">
+        <source>move</source>
+        <target state="translated">premakni</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="moved">
+        <source>moved</source>
+        <target state="needs-translation">premakni</target>
+        <note from="translator">80%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="produce">
+        <source>produce</source>
+        <target state="translated">proizvedi</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="produced">
+        <source>produced</source>
+        <target state="needs-translation">proizvedi</target>
+        <note from="translator">87%</note>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pasture">
         <source>pasture</source>
         <target state="translated">pašnik</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="pioneer">
-        <source>pioneer</source>
-        <target state="translated">pionir</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="potato">
-        <source>potato</source>
-        <target state="translated">krompir</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="range">
-        <source>range</source>
-        <target state="translated">doseg</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="running">
-        <source>running</source>
-        <target state="translated">izvajanje</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="setting">
-        <source>setting</source>
-        <target state="translated">nastavljanje</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="storage tent">
         <source>storage tent</source>
@@ -302,25 +304,29 @@
         <source>tree</source>
         <target state="translated">drevo</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="active">
+        <source>active</source>
+        <target state="translated">dejavno</target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="add">
         <source>add</source>
         <target state="translated">dodaj</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="animal">
-        <source>animal</source>
-        <target state="translated">žival</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="build menu">
         <source>build menu</source>
         <target state="translated">meni gradnje</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Captain's log">
-        <source>Captain's log</source>
-        <target state="translated">Kapitanov dnevnik</target>
+      <trans-unit xml:space="preserve" approved="yes" id="built">
+        <source>built</source>
+        <target state="translated">zgrajeno</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="construction">
         <source>construction</source>
         <target state="translated">izgradnja</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="continue">
+        <source>continue</source>
+        <target state="translated">nadaljuj</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="decrease">
         <source>decrease</source>
@@ -330,33 +336,57 @@
         <source>free trader</source>
         <target state="translated">neodvisni trgovec</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="happiness">
-        <source>happiness</source>
-        <target state="translated">zadovoljstvo</target>
-      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hunter">
         <source>hunter</source>
         <target state="translated">lovec</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="inventory">
-        <source>inventory</source>
-        <target state="translated">inventer</target>
+      <trans-unit xml:space="preserve" approved="yes" id="leave">
+        <source>leave</source>
+        <target state="translated">odidi</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="lamb">
-        <source>lamb</source>
-        <target state="translated">jagnje</target>
+      <trans-unit xml:space="preserve" approved="yes" id="market">
+        <source>market</source>
+        <target state="translated">trg</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="liquor">
-        <source>liquor</source>
-        <target state="translated">žganje</target>
+      <trans-unit xml:space="preserve" approved="yes" id="partner">
+        <source>partner</source>
+        <target state="translated">partner</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="raw">
-        <source>raw</source>
-        <target state="translated">surovo</target>
+      <trans-unit xml:space="preserve" approved="yes" id="sailor">
+        <source>sailor</source>
+        <target state="translated">mornar</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pioneer">
+        <source>pioneer</source>
+        <target state="translated">pionir</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settler">
+        <source>settler</source>
+        <target state="translated">naseljenec</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="citizen">
+        <source>citizen</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="merchant">
+        <source>merchant</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="aristocrat">
+        <source>aristocrat</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="refresh">
+        <source>refresh</source>
+        <target state="translated">osveži</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="residents">
         <source>residents</source>
         <target state="translated">prebivalci</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="run">
+        <source>run</source>
+        <target state="translated">poženi</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="slot">
         <source>slot</source>
@@ -366,13 +396,13 @@
         <source>stop</source>
         <target state="translated">zaustavi</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="team">
+        <source>team</source>
+        <target state="translated">ekipa</target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="village">
         <source>village</source>
         <target state="translated">vas</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="your">
-        <source>your</source>
-        <target state="translated">vaš</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="account">
         <source>account</source>
@@ -386,41 +416,29 @@
         <source>build settlement</source>
         <target state="translated">izgradi naselbino</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="built">
-        <source>built</source>
-        <target state="translated">zgrajeno</target>
+      <trans-unit xml:space="preserve" approved="yes" id="Captain's log">
+        <source>Captain's log</source>
+        <target state="translated">Kapitanov dnevnik</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="cloth">
         <source>cloth</source>
         <target state="translated">tkanina</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="feature">
-        <source>feature</source>
-        <target state="translated">zmožnost</target>
+      <trans-unit xml:space="preserve" approved="yes" id="description">
+        <source>description</source>
+        <target state="translated">opis</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="fish">
-        <source>fish</source>
-        <target state="translated">riba</target>
+      <trans-unit xml:space="preserve" approved="yes" id="happiness">
+        <source>happiness</source>
+        <target state="translated">zadovoljstvo</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="increase">
         <source>increase</source>
         <target state="translated">povečaj</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="lamb wool">
-        <source>lamb wool</source>
-        <target state="translated">ovčja volna</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="leave">
-        <source>leave</source>
-        <target state="translated">odidi</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="market">
-        <source>market</source>
-        <target state="translated">trg</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="market place">
-        <source>market place</source>
-        <target state="translated">tržnica</target>
+      <trans-unit xml:space="preserve" approved="yes" id="liquor">
+        <source>liquor</source>
+        <target state="translated">žganje</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="mode">
         <source>mode</source>
@@ -434,21 +452,9 @@
         <source>output</source>
         <target state="translated">izhod</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="partner">
-        <source>partner</source>
-        <target state="translated">partner</target>
-      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="play">
         <source>play</source>
         <target state="translated">igraj</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="potato field">
-        <source>potato field</source>
-        <target state="translated">polje krompirja</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="refresh">
-        <source>refresh</source>
-        <target state="translated">osveži</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="sale">
         <source>sale</source>
@@ -474,10 +480,6 @@
         <source>sound</source>
         <target state="translated">zvok</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="team">
-        <source>team</source>
-        <target state="translated">ekipa</target>
-      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="from time to time">
         <source>from time to time</source>
         <target state="translated">od časa do časa</target>
@@ -494,17 +496,13 @@
         <source>weaver</source>
         <target state="translated">tkalec</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="continue">
-        <source>continue</source>
-        <target state="translated">nadaljuj</target>
+      <trans-unit xml:space="preserve" approved="yes" id="animal">
+        <source>animal</source>
+        <target state="translated">žival</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="description">
-        <source>description</source>
-        <target state="translated">opis</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="faith">
-        <source>faith</source>
-        <target state="translated">vera</target>
+      <trans-unit xml:space="preserve" approved="yes" id="fish">
+        <source>fish</source>
+        <target state="translated">riba</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="fisherman">
         <source>fisherman</source>
@@ -526,10 +524,6 @@
         <source>graphics</source>
         <target state="translated">grafika</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="green">
-        <source>green</source>
-        <target state="translated">zeleno</target>
-      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="grow">
         <source>grow</source>
         <target state="translated">rasti</target>
@@ -538,9 +532,10 @@
         <source>hold</source>
         <target state="translated">držati</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="hunts">
-        <source>hunts</source>
-        <target state="translated">lovi</target>
+      <trans-unit xml:space="preserve" approved="no" id="hunt">
+        <source>hunt</source>
+        <target state="needs-translation">lovi</target>
+        <note from="translator">80%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="income">
         <source>income</source>
@@ -553,28 +548,19 @@
       <trans-unit xml:space="preserve" approved="yes" id="key">
         <source>key</source>
         <target state="translated">ključ</target>
-        <note from="translator">(keyboard)&#13;
-</note>
+        <note from="translator">(keyboard)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="lamb wool">
+        <source>lamb wool</source>
+        <target state="translated">ovčja volna</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="load/unload">
         <source>load/unload</source>
         <target state="translated">naloži/razloži</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="move">
-        <source>move</source>
-        <target state="translated">premakni</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="red">
-        <source>red</source>
-        <target state="translated">rdeče</target>
-      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="return">
         <source>return</source>
         <target state="translated">vrni se</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="run">
-        <source>run</source>
-        <target state="translated">poženi</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="service">
         <source>service</source>
@@ -584,10 +570,6 @@
         <source>sheep</source>
         <target state="translated">ovca</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="SHIFT">
-        <source>SHIFT</source>
-        <target state="translated">SHIFT</target>
-      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="ship inventory">
         <source>ship inventory</source>
         <target state="translated">inventar ladje</target>
@@ -596,10 +578,6 @@
         <source>starting</source>
         <target state="translated">začenjanje</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="sugar field">
-        <source>sugar field</source>
-        <target state="translated">polje sladkornega trsa</target>
-      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="trade partner">
         <source>trade partner</source>
         <target state="translated">trgovnski partner</target>
@@ -607,6 +585,140 @@
       <trans-unit xml:space="preserve" approved="yes" id="yields">
         <source>yields</source>
         <target state="translated">izkoristki</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="faith">
+        <source>faith</source>
+        <target state="translated">vera</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="green">
+        <source>green</source>
+        <target state="translated">zeleno</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="red">
+        <source>red</source>
+        <target state="translated">rdeče</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="check">
+        <source>check</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="connection">
+        <source>connection</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="no">
+        <source>no</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="tax">
+        <source>tax</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="feature">
+        <source>feature</source>
+        <target state="translated">zmožnost</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="reached">
+        <source>reached</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="slider">
+        <source>slider</source>
+        <target state="translated">drsnik</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="condition">
+        <source>condition</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="consume">
+        <source>consume</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="contact">
+        <source>contact</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="dialogue">
+        <source>dialogue</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="issues">
+        <source>issues</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="minimap">
+        <source>minimap</source>
+        <target state="translated">mini zemljevid</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="playing">
+        <source>playing</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="ruin">
+        <source>ruin</source>
+        <target state="needs-translation">poženi</target>
+        <note from="translator">75%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="seed">
+        <source>seed</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="temporarily">
+        <source>temporarily</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="salt ponds">
+        <source>salt ponds</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="tobacco">
+        <source>tobacco</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="cattle">
+        <source>cattle</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pig">
+        <source>pig</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="herbs">
+        <source>herbs</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="herbary">
+        <source>herbary</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="butchery">
+        <source>butchery</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="doctor">
+        <source>doctor</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="education">
+        <source>education</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="no" id="clay">
+        <source>clay</source>
+        <target state="needs-translation">igraj</target>
+        <note from="translator">75%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="charcoal">
+        <source>charcoal</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="iron">
+        <source>iron</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ore">
+        <source>ore</source>
+        <target state="translated"></target>
       </trans-unit>
     </body>
   </file>
