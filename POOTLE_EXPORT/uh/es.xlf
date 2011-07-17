@@ -1063,9 +1063,9 @@ Reporta esto al autor, por favor.</target>
         <source>Please make sure that you know what you do.</source>
         <target state="translated">Por favor, asegúrate de que sabes lo que haces.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Apply">
+      <trans-unit xml:space="preserve" approved="yes" id="Apply">
         <source>Apply</source>
-        <target state="needs-translation">Aplicar:</target>
+        <target state="translated">Aplicar</target>
         <note from="translator">83%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Reset to default settings">
