@@ -26,7 +26,7 @@ Postav svojí první osadu a nauč se hrát!
         <source>Welcome to Unknown Horizons!</source>
         <target state="translated">Vítej v Unknown Horizons!</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="This is your Captain's log where all important information is stored. A short notification of each task will be provided on the left of the screen.&#10;&#10;If you are interested in longer descriptions, your log will hopefully provide all the help you need.&#10;&#10;After you close this log, it can be re-opened with the 'Captain's Log' icon in the top-right corner (below the mini-map, with a sealed document and a feather).&#10;&#10;For any suggestions on better wording, topics you would like to have explained or even buggy conditions: Please tell us and we will try to improve the tutorial!&#10;&#10;Visit www.unknown-horizons.org for help on how to contact the team!&#10;&#10;And now, let's start the actual game.">
+      <trans-unit xml:space="preserve" approved="yes" id="This is your Captain's log where all important information is stored. A short notification of each task will be provided on the left of the screen.&#10;&#10;If you are interested in longer descriptions, your log will hopefully provide all the help you need.&#10;&#10;After you close this log, it can be re-opened with the 'Captain's Log' icon in the top-right corner (below the mini-map, with a sealed document and a feather).&#10;&#10;For any suggestions on better wording, topics you would like to have explained or even buggy conditions: Please tell us and we will try to improve the tutorial!&#10;&#10;Visit www.unknown-horizons.org for help on how to contact the team!&#10;&#10;And now, let's start the actual game.">
         <source>This is your Captain's log where all important information is stored. A short notification of each task will be provided on the left of the screen.
 
 If you are interested in longer descriptions, your log will hopefully provide all the help you need.
@@ -38,11 +38,11 @@ For any suggestions on better wording, topics you would like to have explained o
 Visit www.unknown-horizons.org for help on how to contact the team!
 
 And now, let's start the actual game.</source>
-        <target state="needs-translation">Toto je Kapitánův deník, kde jsou uloženy všechny důležité informace. Krátký popis každého úkolu bude zobrazen na levé straně obrazovky.
+        <target state="translated">Toto je tvůj Lodní deník, kde jsou uloženy všechny důležité informace. Krátký popis každého úkolu bude zobrazen na levé straně obrazovky.
 
 Pokud máš zájem o podrobnější popis, v deníku snad najdeš veškeré informace které potřebuješ.
 
-Po zavření tohoto okna, může být znovu otevřeno ikonou 'Kapitánův deník' v horním pravém rohu (pod mini-mapou, se zavřeným dokumentem a pérem.
+Po zavření deníku, může být tento znovu otevřen ikonou 'Lodní deník' v pravém horním rohu (pod mini-mapou, se zavřeným dokumentem a pérem.
 
 Pro jakékoliv návrhy na lepší formulace, témata, které bys chtěl mít vysvětlené nebo je někde chyba napište nám a my se pokusíme o nápravu.
 
