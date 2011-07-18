@@ -4,516 +4,525 @@
     <body>
       <trans-unit xml:space="preserve" approved="yes" id="Restart required">
         <source>Restart required</source>
-        <target state="translated"></target>
+        <target state="translated">Újraindítás szükséges</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Some of your changes require a restart of Unknown Horizons.">
         <source>Some of your changes require a restart of Unknown Horizons.</source>
-        <target state="translated"></target>
+        <target state="translated">Néhány beállítás érvénybe lépése a játék újraindítását igényli.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Restore default settings">
         <source>Restore default settings</source>
-        <target state="translated"></target>
+        <target state="translated">Visszaállítás az eredeti beállításokra</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="This will delete all changes to the settings you made so far.">
         <source>This will delete all changes to the settings you made so far.</source>
-        <target state="translated"></target>
+        <target state="translated">Ez törli az összes beállítást, amelyet korábban módosítottál.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Do you want to continue?">
         <source>Do you want to continue?</source>
-        <target state="translated"></target>
+        <target state="translated">Folytatod?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="System default">
         <source>System default</source>
-        <target state="translated"></target>
+        <target state="translated">Rendszer alapértelmezett</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Warning">
         <source>Warning</source>
-        <target state="translated"></target>
+        <target state="translated">Figyelmeztetés</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The SDL renderer is meant as a fallback solution only and has serious graphical glitches. &#10;&#10;Use at own risk!">
         <source>The SDL renderer is meant as a fallback solution only and has serious graphical glitches. 
 
 Use at own risk!</source>
-        <target state="translated"></target>
+        <target state="translated">Az SDL megjelenítő egy visszalépés, és veszélyes grafikai hibákat tartalmaz.
+
+Csak saját felelősségre!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Configured language %(lang)s at %(place)s could not be loaded">
         <source>Configured language %(lang)s at %(place)s could not be loaded</source>
-        <target state="translated"></target>
+        <target state="translated">A beállított nyelv %(lang)s innen: %(place)s nem betölthető</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Invalid network port">
         <source>Invalid network port</source>
-        <target state="translated"></target>
+        <target state="translated">Hibás hálózati port</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The port you specified is not valid. It must be a number between 1 and 65535.">
         <source>The port you specified is not valid. It must be a number between 1 and 65535.</source>
-        <target state="translated"></target>
+        <target state="translated">A port, amelyet megadtál nem valós. 1 és 65535 közötti számnak kell lennie.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Please check the port you entered and make sure it's in the specified range.">
         <source>Please check the port you entered and make sure it's in the specified range.</source>
-        <target state="translated"></target>
+        <target state="translated">Kérlek ellenőrizd a portot amelyet megadtál, hogy biztosan benne van-e a számintervallumban.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Failed to apply new network data.">
         <source>Failed to apply new network data.</source>
-        <target state="translated"></target>
+        <target state="translated">Nem sikerült menteni az új hálózati adatokat.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Networking couldn't be initialised with the current configuration.">
         <source>Networking couldn't be initialised with the current configuration.</source>
-        <target state="translated"></target>
+        <target state="translated">A hálózatot nem sikerült összehozni ezzel a beállítással.</target>
+        <note from="translator">"összehozni", jobb ötletem nem volt</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Check the data you entered in the Network section.">
         <source>Check the data you entered in the Network section.</source>
-        <target state="translated"></target>
+        <target state="translated">Ellenőrizd az adatokat a Hálózat részben.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Low port numbers sometimes require special privileges, try one greater than 1024 or 0.">
         <source>Low port numbers sometimes require special privileges, try one greater than 1024 or 0.</source>
-        <target state="translated"></target>
+        <target state="translated">Alacsony port számok használata néha speciális jogokat igényelnek, próbálj 1024-nél nagyobbat használni, vagy a 0-át.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Error">
         <source>Error</source>
-        <target state="translated"></target>
+        <target state="translated">Hiba</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Failed to save.">
         <source>Failed to save.</source>
-        <target state="translated"></target>
+        <target state="translated">Nem sikerült menteni.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Are you sure you want to quit Unknown Horizons?">
         <source>Are you sure you want to quit Unknown Horizons?</source>
-        <target state="translated"></target>
+        <target state="translated">Valóban ki akarsz lépni a játékból?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Quit Game">
         <source>Quit Game</source>
-        <target state="translated"></target>
+        <target state="translated">Kilépés</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Are you sure you want to abort the running session?">
         <source>Are you sure you want to abort the running session?</source>
-        <target state="translated"></target>
+        <target state="translated">Valóban megszakítod a futó munkamenetet?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Quit Session">
         <source>Quit Session</source>
-        <target state="translated"></target>
+        <target state="translated">Munkamenet elhagyása</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="No saved games">
         <source>No saved games</source>
-        <target state="translated"></target>
+        <target state="translated">Nincsenek mentett játékok</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="There are no saved games to load">
         <source>There are no saved games to load</source>
-        <target state="translated"></target>
+        <target state="translated">Nincsenek mentett játékok a betöltéshez</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Load game">
         <source>Load game</source>
-        <target state="translated"></target>
+        <target state="translated">Játék betöltése</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Save game">
         <source>Save game</source>
-        <target state="translated"></target>
+        <target state="translated">Játék mentése</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="A savegame with the name &quot;%s&quot; already exists. &#10;Should i overwrite it?">
         <source>A savegame with the name "%s" already exists. 
 Should i overwrite it?</source>
-        <target state="translated"></target>
-        <note from="developer">savegamename already exists</note>
+        <target state="translated">Egy mentett játék ezzel a névvel "%s" már létezik. 
+Felül írod?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Confirmation for overwriting">
         <source>Confirmation for overwriting</source>
-        <target state="translated"></target>
+        <target state="translated">Felülírás megerősítése</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Please select a savegame or click on cancel.">
         <source>Please select a savegame or click on cancel.</source>
-        <target state="translated"></target>
+        <target state="translated">Válassz egy mentést, vagy klikk a mégsére.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Select a savegame">
         <source>Select a savegame</source>
-        <target state="translated"></target>
-        <note from="developer">ok button has been pressed, but no savegame was selected</note>
+        <target state="translated">Válassz egy mentést</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Details:">
         <source>Details:</source>
-        <target state="translated"></target>
+        <target state="translated">Részletek:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Error:">
         <source>Error:</source>
-        <target state="translated"></target>
+        <target state="translated">Hiba:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Unknown savedate&#10;">
         <source>Unknown savedate
 </source>
-        <target state="translated"></target>
+        <target state="translated">Ismeretlen mentési idő
+</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Saved at %s&#10;">
         <source>Saved at %s
 </source>
-        <target state="translated"></target>
+        <target state="translated">Mentve ekkor %s
+</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="%H:%M, %A, %B %d">
         <source>%H:%M, %A, %B %d</source>
-        <target state="translated"></target>
+        <target state="translated">%H:%M, %A, %B %d</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Savegame ver. %d">
         <source>Savegame ver. %d</source>
-        <target state="translated"></target>
+        <target state="translated">Mentett játék verzió %d</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="WARNING: Incompatible ver. %(ver)d!&#10;Need ver. %(need)d!">
         <source>WARNING: Incompatible ver. %(ver)d!
 Need ver. %(need)d!</source>
-        <target state="translated"></target>
+        <target state="translated">FIGYELEM: Nem kompatibilis ver. %(ver)d!
+Szüks. ver. %(need)d!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="INCOMPATIBLE VERSION&#10;">
         <source>INCOMPATIBLE VERSION
 </source>
-        <target state="translated"></target>
+        <target state="translated">NEM KOMPATIBILIS VERZIÓ
+</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="No file selected">
         <source>No file selected</source>
-        <target state="translated"></target>
+        <target state="translated">Nincs fájl kiválasztva</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You need to select a savegame to delete">
         <source>You need to select a savegame to delete</source>
-        <target state="translated"></target>
+        <target state="translated">Ki kell választanod egy mentést a törléshez</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Do you really want to delete the savegame &quot;%s&quot;?">
         <source>Do you really want to delete the savegame "%s"?</source>
-        <target state="translated"></target>
+        <target state="translated">Valóban törlöd a mentést "%s"?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Confirm deletion">
         <source>Confirm deletion</source>
-        <target state="translated"></target>
+        <target state="translated">Törlés megerősítése</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Error!">
         <source>Error!</source>
-        <target state="translated"></target>
+        <target state="translated">Hiba!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Failed to delete savefile!">
         <source>Failed to delete savefile!</source>
-        <target state="translated"></target>
+        <target state="translated">Nem sikerült a mentés törlése!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Hit P to continue the game or click below!">
         <source>Hit P to continue the game or click below!</source>
-        <target state="translated"></target>
+        <target state="translated">Üsd le a P -t a folytatáshoz, vagy kattints lentre!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Game paused">
         <source>Game paused</source>
-        <target state="translated"></target>
+        <target state="translated">Játék szüneteltetve</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Networking isn't initialised">
         <source>Networking isn't initialised</source>
-        <target state="translated"></target>
+        <target state="translated">A hálózatot nem sikerült betölteni</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Networking isn't initialised, probably because of configuration issues. Check your settings!">
         <source>Networking isn't initialised, probably because of configuration issues. Check your settings!</source>
-        <target state="translated"></target>
+        <target state="translated">A hálózat nincs betöltve, valószínűleg beállítási hiba. Nézd át a beállításaidat!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Could not connect to master server. Please check your Internet connection. If it is fine, it means our master server is temporarily down.&#10;Details: %s">
         <source>Could not connect to master server. Please check your Internet connection. If it is fine, it means our master server is temporarily down.
 Details: %s</source>
-        <target state="translated"></target>
+        <target state="translated">Nem sikerült csatlakozni a mester szerverhez. Kérlek ellenőrizd az Internet kapcsolatod. Hogyha az rendben van, akkor a mester szerver nem elérhető.
+Részletek: %s</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Network Error">
         <source>Network Error</source>
-        <target state="translated"></target>
+        <target state="translated">Hálózati Hiba</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Something went wrong with the network: ">
         <source>Something went wrong with the network: </source>
-        <target state="translated"></target>
+        <target state="translated">Valami gubanc van a hálózattal: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Version differs!">
         <source>Version differs!</source>
-        <target state="translated"></target>
+        <target state="translated">A verzió eltér!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Map: ">
         <source>Map: </source>
-        <target state="translated"></target>
+        <target state="translated">Térkép: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Players: ">
         <source>Players: </source>
-        <target state="translated"></target>
+        <target state="translated">Játékosok: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Creator: ">
         <source>Creator: </source>
-        <target state="translated"></target>
+        <target state="translated">Létrehozta: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The game's version differs from your version. Every player in a multiplayer game must use the same version. This can be fixed by every player updating to the latest version. Game version: %(gameversion)s Your version: %(ownversion)s">
         <source>The game's version differs from your version. Every player in a multiplayer game must use the same version. This can be fixed by every player updating to the latest version. Game version: %(gameversion)s Your version: %(ownversion)s</source>
-        <target state="translated"></target>
+        <target state="translated">A játék verziója eltér a tiédtől. Minden játékosnak a hálózati játékban, ugyan olyan verzióval kell rendelkeznie. Ez azzal hozható helyre, ha mindenki a legújabb verzióra frissít. Játék verió: %(gameversion)s Te verziód: %(ownversion)s</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Wrong version">
         <source>Wrong version</source>
-        <target state="translated"></target>
+        <target state="translated">Hibás verzió</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Difficulty: ">
         <source>Difficulty: </source>
-        <target state="translated"></target>
+        <target state="translated">Nehézség: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Author: ">
         <source>Author: </source>
-        <target state="translated"></target>
+        <target state="translated">Létrehozta: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Description: ">
         <source>Description: </source>
-        <target state="translated"></target>
+        <target state="translated">Leírás: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Invalid player name">
         <source>Invalid player name</source>
-        <target state="translated"></target>
+        <target state="translated">Hibás játékos név</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You entered an invalid playername">
         <source>You entered an invalid playername</source>
-        <target state="translated"></target>
+        <target state="translated">Hibás játékos nevet adtál meg</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Invalid scenario file">
+      <trans-unit xml:space="preserve" approved="no" id="Invalid scenario file">
         <source>Invalid scenario file</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Hibás szkenárió fájl</target>
+        <note from="translator">szkenárió??</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="The selected file is not a valid scenario file.&#10;Error message: ">
+      <trans-unit xml:space="preserve" approved="no" id="The selected file is not a valid scenario file.&#10;Error message: ">
         <source>The selected file is not a valid scenario file.
 Error message: </source>
-        <target state="translated"></target>
+        <target state="needs-translation">A kiválasztott állomány nem valós szkenárió fájl.
+Hibaüzenet: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="&#10;Please report this to the author.">
         <source>
 Please report this to the author.</source>
-        <target state="translated"></target>
+        <target state="translated">
+Kérlek ezt jelentsd az alkotójának.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build">
         <source>Build</source>
-        <target state="translated"></target>
-        <note from="developer">set translated building name in gui</note>
+        <target state="translated">Épít</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Boat builder overview">
         <source>Boat builder overview</source>
-        <target state="translated"></target>
+        <target state="translated">Hajó építő áttekintés</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Fishing boat">
         <source>Fishing boat</source>
-        <target state="translated"></target>
+        <target state="translated">Halász hajó</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Resources still needed:">
         <source>Resources still needed:</source>
-        <target state="translated"></target>
+        <target state="translated">Nyersanyagok kellenek:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Fisher boats">
         <source>Fisher boats</source>
-        <target state="translated"></target>
+        <target state="translated">Halász hajó</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Trade boats">
         <source>Trade boats</source>
-        <target state="translated"></target>
+        <target state="translated">Kereskedő hajó</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="War boats">
         <source>War boats</source>
-        <target state="translated"></target>
+        <target state="translated">Csata hajó</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="War ships">
         <source>War ships</source>
-        <target state="translated"></target>
+        <target state="translated">Csata hajó</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Confirm order">
         <source>Confirm order</source>
-        <target state="translated"></target>
+        <target state="translated">Megerősítés</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Build related fields">
+      <trans-unit xml:space="preserve" approved="no" id="Build related fields">
         <source>Build related fields</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Kapcsolódó területek építése</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Increment">
         <source>Increment</source>
-        <target state="translated"></target>
+        <target state="translated">Növekedés</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Trade">
         <source>Trade</source>
-        <target state="translated"></target>
+        <target state="translated">Kereskedelem</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Inventory">
         <source>Inventory</source>
-        <target state="translated"></target>
+        <target state="translated">Raktár</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Ship inventory">
         <source>Ship inventory</source>
-        <target state="translated"></target>
+        <target state="translated">Hajó raktár</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Account">
         <source>Account</source>
-        <target state="translated"></target>
+        <target state="translated">Fiók</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Settler overview">
         <source>Settler overview</source>
-        <target state="translated"></target>
+        <target state="translated">Telepes áttekintés</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Overview">
         <source>Overview</source>
-        <target state="translated"></target>
+        <target state="translated">Áttekintés</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Branch office overview">
         <source>Branch office overview</source>
-        <target state="translated"></target>
+        <target state="translated">Fióktelep áttekintés</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Market place overview">
         <source>Market place overview</source>
-        <target state="translated"></target>
+        <target state="translated">Piactér áttekintés</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Ship overview">
         <source>Ship overview</source>
-        <target state="translated"></target>
+        <target state="translated">Hajó áttekintés</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Production overview">
         <source>Production overview</source>
-        <target state="translated"></target>
+        <target state="translated">Termelési áttekintés</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Destroy building">
         <source>Destroy building</source>
-        <target state="translated"></target>
+        <target state="translated">Épület lerombolása</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Limit: %st per slot">
         <source>Limit: %st per slot</source>
-        <target state="translated"></target>
+        <target state="translated">Korlát: %s tonna / hely</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Emptiness">
         <source>Emptiness</source>
-        <target state="translated"></target>
+        <target state="translated">Üresség</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="There is nothing written in your logbook yet!">
         <source>There is nothing written in your logbook yet!</source>
-        <target state="translated"></target>
+        <target state="translated">Nincs semmi írva az eseménykönyvedbe eddig!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Start route">
         <source>Start route</source>
-        <target state="translated"></target>
+        <target state="translated">Útvonal indítása</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Stop route">
         <source>Stop route</source>
-        <target state="translated"></target>
+        <target state="translated">Útvonal leállítása</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Companies">
         <source>Companies</source>
-        <target state="translated"></target>
+        <target state="translated">Vállalatok</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sailor buildings">
         <source>Sailor buildings</source>
-        <target state="translated"></target>
+        <target state="translated">Tengerész épületek</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Residents and infrastructure">
         <source>Residents and infrastructure</source>
-        <target state="translated"></target>
+        <target state="translated">Lakosok és épületek</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Services">
         <source>Services</source>
-        <target state="translated"></target>
+        <target state="translated">Szolgáltatások</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Pavilion: Fulfills religious needs of sailors.">
         <source>Pavilion: Fulfills religious needs of sailors.</source>
-        <target state="translated"></target>
+        <target state="translated">Pavilon: Kielégíti a hajósok vallási szükségleteit</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Fisherman: Fishes the sea, produces food.">
         <source>Fisherman: Fishes the sea, produces food.</source>
-        <target state="translated"></target>
+        <target state="translated">Halász: Halászik a tengeren, élelmet készít</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Hunter: Hunts wild forest animals, produces food.">
         <source>Hunter: Hunts wild forest animals, produces food.</source>
-        <target state="translated"></target>
+        <target state="translated">Vadász: Vadakra vadászik az erdőben, élelmet készít</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Signal fire: Allows the player to trade with the free trader.">
         <source>Signal fire: Allows the player to trade with the free trader.</source>
-        <target state="translated"></target>
+        <target state="translated">Jelző tűz: Kereskedelmi szándék jelzése a szabad kereskedők felé.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Lumberjack: Chops down trees and turns them into boards.">
         <source>Lumberjack: Chops down trees and turns them into boards.</source>
-        <target state="translated"></target>
+        <target state="translated">Favágó: Kivágja a fákat, és deszkákat készít belőlük.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Main square: Supplies citizens with goods.">
         <source>Main square: Supplies citizens with goods.</source>
-        <target state="translated"></target>
+        <target state="translated">Főtér: Ellátja a lakosokat termékekkel.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tent: Houses your inhabitants.">
         <source>Tent: Houses your inhabitants.</source>
-        <target state="translated"></target>
+        <target state="translated">Sátor: Lakás a lakosoknak.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Storage: Extends stock and provides collectors.">
         <source>Storage: Extends stock and provides collectors.</source>
-        <target state="translated"></target>
+        <target state="translated">Raktár: Több helyet és hordárt biztosít.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Trail: Needed for collecting goods.">
         <source>Trail: Needed for collecting goods.</source>
-        <target state="translated"></target>
+        <target state="translated">Nyom: Szükséges az áruk begyűjtéséhez.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tree">
         <source>Tree</source>
-        <target state="translated"></target>
+        <target state="translated">Fa</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Fields">
         <source>Fields</source>
-        <target state="translated"></target>
+        <target state="translated">Mező</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Pioneer buildings">
         <source>Pioneer buildings</source>
-        <target state="translated"></target>
+        <target state="translated">Tengerész épületek</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Military">
         <source>Military</source>
-        <target state="translated"></target>
+        <target state="translated">Hadsereg</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Boat builder: Builds boats and small ships. Built on coast.">
         <source>Boat builder: Builds boats and small ships. Built on coast.</source>
-        <target state="translated"></target>
+        <target state="translated">Csónak építő: Csónakokat és kis hajókat épít. Partra épül.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Brickyard: Turns clay into bricks.">
         <source>Brickyard: Turns clay into bricks.</source>
-        <target state="translated"></target>
+        <target state="translated">Téglagyár: Agyagból téglát készít.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Clay pit: Gets clay from deposit.">
         <source>Clay pit: Gets clay from deposit.</source>
-        <target state="translated"></target>
+        <target state="translated">Agyagbánya: Agyagot termel</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Distillery: Turns sugar into liquor.">
         <source>Distillery: Turns sugar into liquor.</source>
-        <target state="translated"></target>
+        <target state="translated">Szeszfőzde: Cukorból szeszes italt készít.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Farm: Grows field crops and raises livestock.">
         <source>Farm: Grows field crops and raises livestock.</source>
-        <target state="translated"></target>
+        <target state="translated">Farm: Növényeket és élő állatokat nevel.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Pasture: Raises sheep. Produces wool. Needs a farm.">
         <source>Pasture: Raises sheep. Produces wool. Needs a farm.</source>
-        <target state="translated"></target>
+        <target state="translated">Legelő: Bárányokat tenyészt. Gyapjút termel. Egy farm szükséges.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Potato field: Yields food. Needs a farm.">
         <source>Potato field: Yields food. Needs a farm.</source>
-        <target state="translated"></target>
+        <target state="translated">Krumpli föld: Ételt termel. Egy farm szükséges.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sugarcane field: Used in liquor production. Needs a farm.">
         <source>Sugarcane field: Used in liquor production. Needs a farm.</source>
-        <target state="translated"></target>
+        <target state="translated">Cukornád mező: Szeszes ital termeléshez szükséges. Egy farm szükséges.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Village school: Provides education.">
         <source>Village school: Provides education.</source>
-        <target state="translated"></target>
+        <target state="translated">Falusi iskola: Oktatást szolgáltat</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Weaver: Turns lamb wool into cloth.">
         <source>Weaver: Turns lamb wool into cloth.</source>
-        <target state="translated"></target>
+        <target state="translated">Takács: Ruhát készít a gyapjúból.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Settler buildings">
         <source>Settler buildings</source>
-        <target state="translated"></target>
+        <target state="translated">Telepes épületek</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Butchery: Needs pigs or cattle. Produces food.">
         <source>Butchery: Needs pigs or cattle. Produces food.</source>
-        <target state="translated"></target>
+        <target state="translated">Mészáros: Malac vagy marha szükséges. Élelmiszert termel.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Cattle run: Raises cattle. Needs a farm.">
         <source>Cattle run: Raises cattle. Needs a farm.</source>
-        <target state="translated"></target>
+        <target state="translated">Marha kifutó: Marhákat nevel. Egy farm szükséges.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Charcoal burning: Burns a lot of boards.">
         <source>Charcoal burning: Burns a lot of boards.</source>
-        <target state="translated"></target>
+        <target state="translated">Faszén égető: Rengeteg deszkát éget.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Doctor: Treats diseases. Consumes herbs.">
         <source>Doctor: Treats diseases. Consumes herbs.</source>
-        <target state="translated"></target>
+        <target state="translated">Orvos: Kezeli a betegségeket. Gyógynövényeket készít.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Herbary: Produces herbs. Needs a farm.">
         <source>Herbary: Produces herbs. Needs a farm.</source>
-        <target state="translated"></target>
+        <target state="translated">Gyógynövény: Gyógynövényeket termel. Egy farm szükséges.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Iron mine: Gets iron ore from deposit.">
         <source>Iron mine: Gets iron ore from deposit.</source>
