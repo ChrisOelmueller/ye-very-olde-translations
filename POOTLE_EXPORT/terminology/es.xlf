@@ -788,9 +788,9 @@
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (2)
 (poterminology) uh/unknownhorizons.pot (1)</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="hunt">
+      <trans-unit xml:space="preserve" approved="yes" id="hunt">
         <source>hunt</source>
-        <target state="needs-translation">caza</target>
+        <target state="translated">cazar</target>
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)&#13;
 (poterminology) uh/unknownhorizons.pot (1)&#13;
 80%</note>
