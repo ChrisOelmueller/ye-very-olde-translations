@@ -127,12 +127,9 @@ I think that tab is not the good word in some case, i had here some other words 
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="unknown">
         <source>unknown</source>
-        <target state="translated">inconnue</target>
+        <target state="translated">inconnu</target>
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (3)
 (poterminology) uh/unknownhorizons.pot (10)</note>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>inconnu</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="food">
         <source>food</source>
@@ -432,6 +429,9 @@ Woodcutter will be translated by bucheron. Lumberjack is difficult to translate 
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (9)
 (poterminology) uh/unknownhorizons.pot (4)
 87%</note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>produit</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pasture">
         <source>pasture</source>
@@ -554,15 +554,15 @@ Why not "marchand indépendant" ?</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="citizen">
         <source>citizen</source>
-        <target state="translated"></target>
+        <target state="translated">citoyen</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="merchant">
         <source>merchant</source>
-        <target state="translated"></target>
+        <target state="translated">marchand</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="aristocrat">
         <source>aristocrat</source>
-        <target state="translated"></target>
+        <target state="translated">aristocrate</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="refresh">
         <source>refresh</source>
@@ -903,18 +903,24 @@ see lamb. wool come from sheep, lambs give meat</note>
       <trans-unit xml:space="preserve" approved="yes" id="check">
         <source>check</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Vérifier</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="connection">
         <source>connection</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>connexion</target>
+        </alt-trans>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="no">
+      <trans-unit xml:space="preserve" approved="no" id="no">
         <source>no</source>
-        <target state="translated"></target>
+        <target state="needs-translation">aucun</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tax">
         <source>tax</source>
-        <target state="translated"></target>
+        <target state="translated">taxe</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="feature">
         <source>feature</source>
@@ -935,22 +941,34 @@ see lamb. wool come from sheep, lambs give meat</note>
       <trans-unit xml:space="preserve" approved="yes" id="condition">
         <source>condition</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>condition</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="consume">
         <source>consume</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>consommer</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="contact">
         <source>contact</source>
-        <target state="translated"></target>
+        <target state="translated">contact</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="dialogue">
         <source>dialogue</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>dialogue</target>
+        </alt-trans>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="issues">
+      <trans-unit xml:space="preserve" approved="no" id="issues">
         <source>issues</source>
-        <target state="translated"></target>
+        <target state="needs-translation">problème</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>problèmes</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="minimap">
         <source>minimap</source>
@@ -959,6 +977,9 @@ see lamb. wool come from sheep, lambs give meat</note>
       <trans-unit xml:space="preserve" approved="yes" id="playing">
         <source>playing</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>jouant</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="no" id="ruin">
         <source>ruin</source>
@@ -967,69 +988,99 @@ see lamb. wool come from sheep, lambs give meat</note>
 (poterminology) uh/unknownhorizons.pot (1)
 Of course, here is all about context cause run can also be translated by 'courir' (using legs for running !)
 75%</note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>ruiner</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="seed">
         <source>seed</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>graine</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="temporarily">
         <source>temporarily</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>temporairement</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="salt ponds">
         <source>salt ponds</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>lacs salés</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>marés salants</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tobacco">
         <source>tobacco</source>
-        <target state="translated"></target>
+        <target state="translated">tabac</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="cattle">
         <source>cattle</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>bétail</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pig">
         <source>pig</source>
-        <target state="translated"></target>
+        <target state="translated">porc</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="herbs">
         <source>herbs</source>
-        <target state="translated"></target>
+        <target state="translated">herbes</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="herbary">
         <source>herbary</source>
-        <target state="translated"></target>
+        <target state="translated">herbier</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="butchery">
         <source>butchery</source>
-        <target state="translated"></target>
+        <target state="translated">boucherie</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="doctor">
         <source>doctor</source>
-        <target state="translated"></target>
+        <target state="translated">médecin</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="education">
         <source>education</source>
-        <target state="translated"></target>
+        <target state="translated">éducation</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="no" id="clay">
         <source>clay</source>
-        <target state="needs-translation">jouer</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)
-(poterminology) uh/unknownhorizons.pot (2)
+        <target state="needs-translation">argile / terre</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)&#13;
+(poterminology) uh/unknownhorizons.pot (2)&#13;
 75%</note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>argile</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="charcoal">
         <source>charcoal</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>charbon</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="iron">
         <source>iron</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>fer</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="ore">
         <source>ore</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>minerai</target>
+        </alt-trans>
       </trans-unit>
     </body>
   </file>
