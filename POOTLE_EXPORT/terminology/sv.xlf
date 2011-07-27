@@ -20,11 +20,12 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="resource">
         <source>resource</source>
-        <target state="translated">resurs</target>
+        <target state="translated">vara</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="branch office">
         <source>branch office</source>
         <target state="translated">handelskontor</target>
+        <note from="translator">Otydlig. Ursprungliga översättning från tyskans "kontor".</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="your">
         <source>your</source>
@@ -52,7 +53,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="settlement">
         <source>settlement</source>
-        <target state="translated">bosättning</target>
+        <target state="translated">bosättning / nybygge / koloni</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="start">
         <source>start</source>
@@ -144,15 +145,16 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="free">
         <source>free</source>
-        <target state="translated">fritt</target>
+        <target state="translated">fri</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="log">
         <source>log</source>
-        <target state="translated">loggbok</target>
+        <target state="translated">logg</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="lumberjack">
         <source>lumberjack</source>
-        <target state="translated">timmerstuga</target>
+        <target state="translated">Skogshuggare</target>
+        <note from="translator">lumberjack och lumberjacks camp syftar till samma byggnad/yrke</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="sell">
         <source>sell</source>
@@ -184,7 +186,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="left">
         <source>left</source>
-        <target state="translated">över</target>
+        <target state="translated">över / vänster</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="reach">
         <source>reach</source>
@@ -216,7 +218,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="choose">
         <source>choose</source>
-        <target state="translated">välj</target>
+        <target state="translated">välj / välja</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="fisher">
         <source>fisher</source>
@@ -229,6 +231,7 @@
       <trans-unit xml:space="preserve" approved="yes" id="pavilion">
         <source>pavilion</source>
         <target state="translated">paviljong</target>
+        <note from="translator">för kyrkobyggnad</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="potato">
         <source>potato</source>
@@ -236,7 +239,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="range">
         <source>range</source>
-        <target state="translated"></target>
+        <target state="translated">räckvidd</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="raw">
         <source>raw</source>
@@ -244,7 +247,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="running">
         <source>running</source>
-        <target state="translated"></target>
+        <target state="translated">kör / springer</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="running costs">
         <source>running costs</source>
@@ -252,7 +255,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="collector">
         <source>collector</source>
-        <target state="translated">samlare</target>
+        <target state="translated">samlare / insamlare</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="help">
         <source>help</source>
@@ -268,7 +271,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="level">
         <source>level</source>
-        <target state="translated"></target>
+        <target state="translated">nivå / plan</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="move">
         <source>move</source>
@@ -276,7 +279,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="moved">
         <source>moved</source>
-        <target state="translated">flyttad</target>
+        <target state="translated">flyttad / flyttat</target>
         <note from="translator">80%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="produce">
@@ -285,7 +288,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="produced">
         <source>produced</source>
-        <target state="translated"></target>
+        <target state="translated">producerad / producerat</target>
         <note from="translator">87%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pasture">
@@ -306,11 +309,11 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="active">
         <source>active</source>
-        <target state="translated">aktiv</target>
+        <target state="translated">aktiv / verksam</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="add">
         <source>add</source>
-        <target state="translated"></target>
+        <target state="translated">addera / lägga till</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="build menu">
         <source>build menu</source>
@@ -318,15 +321,15 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="built">
         <source>built</source>
-        <target state="translated">byggt</target>
+        <target state="translated">byggd / byggt</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="construction">
         <source>construction</source>
-        <target state="translated">bygga</target>
+        <target state="translated">konstruktion / byggnad / bygge</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="continue">
         <source>continue</source>
-        <target state="translated">fortsätt</target>
+        <target state="translated">fortsätt / fortsätta</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="decrease">
         <source>decrease</source>
@@ -334,7 +337,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="free trader">
         <source>free trader</source>
-        <target state="translated">fria köpmän</target>
+        <target state="translated">köpman / köpmän</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hunter">
         <source>hunter</source>
@@ -370,7 +373,8 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="merchant">
         <source>merchant</source>
-        <target state="translated">köpman</target>
+        <target state="translated">borgare</target>
+        <note from="translator">merchant kan även översättas till köpman, men krockar med översättningen av trader. Borgare är ett alternativ för att lösa detta.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="aristocrat">
         <source>aristocrat</source>
@@ -378,7 +382,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="refresh">
         <source>refresh</source>
-        <target state="translated"></target>
+        <target state="translated">uppdatera / förnya</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="residents">
         <source>residents</source>
@@ -386,15 +390,15 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="run">
         <source>run</source>
-        <target state="translated">kör</target>
+        <target state="translated">kör / springa</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="slot">
         <source>slot</source>
-        <target state="translated"></target>
+        <target state="translated">kortplats / lucka / spår</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="stop">
         <source>stop</source>
-        <target state="translated">stopp</target>
+        <target state="translated">stopp / stoppa</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="team">
         <source>team</source>
@@ -410,15 +414,15 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="back">
         <source>back</source>
-        <target state="translated"></target>
+        <target state="translated">tillbaka</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="build settlement">
         <source>build settlement</source>
-        <target state="translated">bygg bosättning</target>
+        <target state="translated">bygg bosättning / nybygge / koloni</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Captain's log">
         <source>Captain's log</source>
-        <target state="translated">Kaptenens loggbok</target>
+        <target state="translated">loggbok</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="cloth">
         <source>cloth</source>
@@ -430,7 +434,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="happiness">
         <source>happiness</source>
-        <target state="translated">lycka</target>
+        <target state="translated">lycka / glädje</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="increase">
         <source>increase</source>
@@ -443,16 +447,16 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="mode">
         <source>mode</source>
-        <target state="translated"></target>
+        <target state="translated">läge</target>
         <note from="translator">75%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="multiple">
         <source>multiple</source>
-        <target state="translated"></target>
+        <target state="translated">flera / flerdubbel</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="output">
         <source>output</source>
-        <target state="translated"></target>
+        <target state="translated">utgång / effekt / produktion</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="play">
         <source>play</source>
@@ -485,7 +489,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="from time to time">
         <source>from time to time</source>
-        <target state="translated">från tid till annan</target>
+        <target state="translated">från tid till annan / då och då</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="trading">
         <source>trading</source>
@@ -493,7 +497,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="visit">
         <source>visit</source>
-        <target state="translated">besöka</target>
+        <target state="translated">besök / besöka</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="weaver">
         <source>weaver</source>
@@ -521,7 +525,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="fulfill">
         <source>fulfill</source>
-        <target state="translated">fullfölja</target>
+        <target state="translated">fullfölja / fullgöra</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="graphics">
         <source>graphics</source>
@@ -529,15 +533,15 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="grow">
         <source>grow</source>
-        <target state="translated"></target>
+        <target state="translated">växa / öka / gro / stiga / odla</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hold">
         <source>hold</source>
-        <target state="translated">hålla</target>
+        <target state="translated">hålla / hejda</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hunt">
         <source>hunt</source>
-        <target state="translated"></target>
+        <target state="translated">jaga / jakt / jakten</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="income">
         <source>income</source>
@@ -562,7 +566,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="return">
         <source>return</source>
-        <target state="translated"></target>
+        <target state="translated">tillbaka / återgå / återlämna</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="service">
         <source>service</source>
@@ -578,7 +582,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="starting">
         <source>starting</source>
-        <target state="translated"></target>
+        <target state="translated">start / startande</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="trade partner">
         <source>trade partner</source>
@@ -586,11 +590,11 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="yields">
         <source>yields</source>
-        <target state="translated"></target>
+        <target state="translated">ger</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="faith">
         <source>faith</source>
-        <target state="translated">tro</target>
+        <target state="translated">tro / religion</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="green">
         <source>green</source>
@@ -602,15 +606,15 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="check">
         <source>check</source>
-        <target state="translated"></target>
+        <target state="translated">kolla / kontrollera</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="connection">
         <source>connection</source>
-        <target state="translated"></target>
+        <target state="translated">anslutning</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="no">
         <source>no</source>
-        <target state="translated"></target>
+        <target state="translated">nej / ingen / inga</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tax">
         <source>tax</source>
@@ -618,27 +622,27 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="feature">
         <source>feature</source>
-        <target state="translated"></target>
+        <target state="translated">funktion / kännetecken</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="reached">
         <source>reached</source>
-        <target state="translated"></target>
+        <target state="translated">uppnått / nådd / nått</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="slider">
         <source>slider</source>
-        <target state="translated"></target>
+        <target state="translated">reglage</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="condition">
         <source>condition</source>
-        <target state="translated"></target>
+        <target state="translated">villkor / skick / tillstånd</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="consume">
         <source>consume</source>
-        <target state="translated"></target>
+        <target state="translated">konsumera / förbruka</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="contact">
         <source>contact</source>
-        <target state="translated"></target>
+        <target state="translated">kontakt / kontakta</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="dialogue">
         <source>dialogue</source>
@@ -658,20 +662,20 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="ruin">
         <source>ruin</source>
-        <target state="translated"></target>
+        <target state="translated">ruin / ruinera / förstöra / ödelägga</target>
         <note from="translator">75%</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="seed">
+      <trans-unit xml:space="preserve" approved="no" id="seed">
         <source>seed</source>
-        <target state="translated"></target>
+        <target state="needs-translation">seeder / distributör?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="temporarily">
         <source>temporarily</source>
-        <target state="translated"></target>
+        <target state="translated">tillfälligt</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="salt ponds">
         <source>salt ponds</source>
-        <target state="translated">Saliner</target>
+        <target state="translated">saliner</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tobacco">
         <source>tobacco</source>
@@ -695,11 +699,11 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="butchery">
         <source>butchery</source>
-        <target state="translated">slaktare</target>
+        <target state="translated">slakteri</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="doctor">
         <source>doctor</source>
-        <target state="translated">läkare</target>
+        <target state="translated">doktor / läkare</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="education">
         <source>education</source>
