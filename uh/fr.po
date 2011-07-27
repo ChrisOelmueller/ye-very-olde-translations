@@ -28,15 +28,15 @@ msgstr ""
 
 #: horizons/engine.py:70
 msgid "Restore default settings"
-msgstr ""
+msgstr "Restaurer les paramètres par défaut"
 
 #: horizons/engine.py:71
 msgid "This will delete all changes to the settings you made so far."
-msgstr ""
+msgstr "Ceci supprimera tous les changements que vous avez effectuer précédemment."
 
 #: horizons/engine.py:72
 msgid "Do you want to continue?"
-msgstr ""
+msgstr "Voulez-vous continuer ?"
 
 #: horizons/engine.py:135
 msgid "System default"
@@ -55,7 +55,7 @@ msgstr ""
 "Le \"SDL-Renderer\" est uniquement un système de réserve et peut engendrer de "
 "gravesérieux problèmes graphiques.\n"
 "\n"
-"Utilisation à vos propres risques et périls !"
+"Utilisation à vos propres risque !"
 
 #: horizons/engine.py:224
 #, python-format
@@ -69,13 +69,13 @@ msgstr "Port réseau non valide"
 #: horizons/engine.py:468
 msgid "The port you specified is not valid. It must be a number between 1 and 65535."
 msgstr ""
-"Le port que vous avez indiqué est invalide. Ce doit être un nombre compris "
+"Le port que vous avez indiqué est invalide. Il doit être compris "
 "entre 1 et 65535."
 
 #: horizons/engine.py:469
 msgid "Please check the port you entered and make sure it's in the specified range."
 msgstr ""
-"Vérifiez le port entré et assurez vous qu'il soit dans l'intervalle indiqué."
+"Vérifiez le port entré et assurez-vous qu'il soit dans l'intervalle indiqué."
 
 #: horizons/engine.py:481
 msgid "Failed to apply new network data."
@@ -122,11 +122,11 @@ msgstr "Abandonner la partie"
 
 #: horizons/gui/gui.py:201
 msgid "No saved games"
-msgstr "Aucune partie sauvegardée"
+msgstr "Aucune parties sauvegardées"
 
 #: horizons/gui/gui.py:201
 msgid "There are no saved games to load"
-msgstr "Il y a aucune partie sauvegardée à charger"
+msgstr "Il n'y a aucune partie sauvegardée à charger."
 
 #: horizons/gui/gui.py:208 horizons/i18n/guitranslations.py:163
 #: horizons/i18n/guitranslations.py:202
@@ -209,7 +209,7 @@ msgstr "Aucun fichier sélectionné"
 # "supprimer" is better than "effacer"
 #: horizons/gui/gui.py:446
 msgid "You need to select a savegame to delete"
-msgstr "Vous devez sélectionner une sauvegarde à supprimer"
+msgstr "Vous devez sélectionner une sauvegarde à supprimer."
 
 #: horizons/gui/gui.py:449
 #, python-format
@@ -230,7 +230,7 @@ msgstr "Échec lors de l'effacement de la sauvegarde !"
 
 #: horizons/gui/ingamegui.py:449
 msgid "Hit P to continue the game or click below!"
-msgstr "Appuyez sur P pour continuer la partie ou cliquez ci-dessous !"
+msgstr "Appuyez sur P pour reprendre la partie ou cliquez ci-dessous !"
 
 #: horizons/gui/ingamegui.py:450
 msgid "Game paused"
@@ -243,8 +243,8 @@ msgstr "Réseau non initialisé"
 #: horizons/gui/modules/multiplayermenu.py:45
 msgid "Networking isn't initialised, probably because of configuration issues. Check your settings!"
 msgstr ""
-"Le réseau n'a pas été initialisé, cela peut être du à des problèmes de "
-"configuration. Veuillez vérifiez votre configuration !"
+"Le réseau n'a pas été initialisé, cela peut être dû à des problèmes de "
+"configuration. Veuillez vérifier votre configuration !"
 
 #: horizons/gui/modules/multiplayermenu.py:90
 #: horizons/gui/modules/multiplayermenu.py:102
@@ -454,7 +454,7 @@ msgstr "vide"
 
 #: horizons/gui/widgets/logbook.py:150
 msgid "There is nothing written in your logbook yet!"
-msgstr "Il n'y a encore rien dans votre journal de bord!"
+msgstr "Il n'y a encore rien dans votre journal de bord !"
 
 #: horizons/gui/widgets/routeconfig.py:56 horizons/i18n/guitranslations.py:150
 msgid "Start route"
@@ -590,7 +590,8 @@ msgstr "Bâtiments des colons"
 
 #: horizons/i18n/guitranslations.py:78
 msgid "Butchery: Needs pigs or cattle. Produces food."
-msgstr ""
+msgstr "Boucherie : Nécessite des cochons ou des bovins. "
+"Poduit de la nourriture."
 
 #: horizons/i18n/guitranslations.py:79
 msgid "Cattle run: Raises cattle. Needs a farm."
@@ -604,13 +605,13 @@ msgstr "Charbonnier : Produit du charbon de bois."
 #, fuzzy
 msgid "Doctor: Treats diseases. Consumes herbs."
 msgstr ""
-"Médecin : traite les maladies. Consommes des herbes / plantes médicinales"
+"Médecin : traite les maladies. Consomme des herbes / plantes médicinales."
 
 #: horizons/i18n/guitranslations.py:82
 #, fuzzy
 msgid "Herbary: Produces herbs. Needs a farm."
 msgstr ""
-"herboristerie : Produit des herbes / plantes médicinales. Nécessite une "
+"Herboristerie : Produit des herbes / plantes médicinales. Nécessite une "
 "ferme."
 
 # I think it's good like that
@@ -620,32 +621,36 @@ msgstr "Mine de fer : Extrait le minerai de fer d'un gisement."
 
 #: horizons/i18n/guitranslations.py:84
 msgid "Pigsty: Raises pigs. Needs a farm."
-msgstr ""
+msgstr "Porcherie : Elève des cochons. Nécessite une ferme."
 
 #: horizons/i18n/guitranslations.py:85
 msgid "Salt ponds: Evaporates salt. Built on sea coast."
-msgstr ""
+msgstr "saline : Récolte le sel de l'eau de mer. Doit être construit "
+"prés de la côte."
 
 #: horizons/i18n/guitranslations.py:86
 msgid "Smeltery: Refines all kind of ores."
 msgstr "Fonderie : Raffine tout type de minerais."
 
-# 'Satisfait le besoin de communauté.' ça c'est vraiment pas joli ! comment traduire get-together ? je propose 'rapproche les hommes!'
+# 'Satisfait le besoin de communauté.' ça c'est vraiment pas joli ! comment traduire get-together ? 
+# je propose 'rapproche les hommes!'
+# Personnellement je propose 'Réunit la communauté !'
 #: horizons/i18n/guitranslations.py:87
 msgid "Tavern: Provides get-together."
 msgstr "Taverne: Rapproche les hommes !"
 
 #: horizons/i18n/guitranslations.py:88
 msgid "Tobacco field: Produces tobacco. Needs a farm."
-msgstr ""
+msgstr "Champ de tabac : Produit des feuilles de tabac. "
+"Nécessite une ferme."
 
 #: horizons/i18n/guitranslations.py:89
 msgid "Tobacconist: Produces tobaccos out of tobacco."
-msgstr ""
+msgstr "Tabagiste : Produit du tabac. Nécessite des feuilles de tabac."
 
 #: horizons/i18n/guitranslations.py:90
 msgid "Toolmaker: Produces tools out of iron."
-msgstr "Forgeron : Forge des outils."
+msgstr "Forgeron : Forge des outils. Nécessite du minerai."
 
 #: horizons/i18n/guitranslations.py:93 horizons/i18n/guitranslations.py:327
 msgid "Running costs:"
@@ -659,11 +664,11 @@ msgstr "Outil de pré-visualisation de textes pour les fichiers Scénario"
 msgid "select a scenario and click on load/reload to update the messages in the captain's log"
 msgstr ""
 "Sélectionnez un scénario et cliquez sur charger/décharger pour mettre à jour "
-"le journal de bord"
+"le journal de bord."
 
 #: horizons/i18n/guitranslations.py:97
 msgid "load/reload"
-msgstr "charger/décharger"
+msgstr "Charger/Décharger"
 
 #: horizons/i18n/guitranslations.py:99
 msgid "Inhabitants"
@@ -824,11 +829,11 @@ msgstr "Ajouter à la liste"
 
 #: horizons/i18n/guitranslations.py:153
 msgid "Leave production overview"
-msgstr ""
+msgstr "Quitter la vue production"
 
 #: horizons/i18n/guitranslations.py:154
 msgid "Refresh data"
-msgstr ""
+msgstr "Rafraîchir"
 
 #: horizons/i18n/guitranslations.py:156
 msgid "Delete entry"
@@ -1123,7 +1128,7 @@ msgstr "Volume de la musique :"
 
 #: horizons/i18n/guitranslations.py:251
 msgid "(0 means default)"
-msgstr "(0 pour valeur par défaut)"
+msgstr "(0 pour la valeur par défaut)"
 
 #: horizons/i18n/guitranslations.py:252
 msgid "Network port:"
@@ -1165,7 +1170,7 @@ msgstr "Appliquer :"
 
 #: horizons/i18n/guitranslations.py:262
 msgid "Reset to default settings"
-msgstr ""
+msgstr "Revenir à la configuration par défaut"
 
 #: horizons/i18n/guitranslations.py:264
 msgid "Enter filename:"
@@ -1183,7 +1188,7 @@ msgstr "Commencer la partie :"
 
 #: horizons/i18n/guitranslations.py:269
 msgid "Delete selected savegame"
-msgstr ""
+msgstr "Supprimer la sauvegarde sélectionnée"
 
 #: horizons/i18n/guitranslations.py:271
 msgid "Choose a map to play:"
@@ -1223,7 +1228,7 @@ msgstr "Nom du joueur :"
 
 #: horizons/i18n/guitranslations.py:285
 msgid "Cancel building:"
-msgstr "Annuler la construction:"
+msgstr "Annuler la construction :"
 
 #: horizons/i18n/guitranslations.py:286
 msgid "(lose all resources)"
@@ -1320,11 +1325,11 @@ msgstr "Impôts"
 
 #: horizons/i18n/guitranslations.py:316
 msgid "Show resources produced in this settlement"
-msgstr ""
+msgstr "Afficher les ressources produites dans cette colonie"
 
 #: horizons/i18n/guitranslations.py:318
 msgid "Build fields"
-msgstr ""
+msgstr "Construire des champs"
 
 # Resources
 #: horizons/i18n/guitranslations.py:322
@@ -1472,7 +1477,7 @@ msgstr "Erreur: Impossible de trouver la carte \"%s\"."
 
 #: horizons/main.py:289 horizons/main.py:332
 msgid "Error: Found multiple matches: "
-msgstr "Erreur: Plusieurs correspondances trouvées: "
+msgstr "Erreur: Plusieurs correspondances trouvées : "
 
 #: horizons/main.py:329
 #, python-format
@@ -1490,13 +1495,13 @@ msgstr "Impossible"
 
 #: horizons/mpsession.py:48
 msgid "You cannot change the speed of a multiplayer game"
-msgstr "Vous ne pouvez changer la vitesse d'une partie multijoueurs"
+msgstr "Vous ne pouvez pas changer la vitesse d'une partie multijoueurs."
 
 #: horizons/mpsession.py:55 horizons/mpsession.py:57 horizons/mpsession.py:59
 #: horizons/mpsession.py:61
 msgid "Save/load for multiplayer games is not possible yet"
 msgstr ""
-"Il n'es pas encore possible de sauvegarder/changer des parties multijoueurs"
+"Il n'est pas encore possible de sauvegarder/changer des parties multijoueurs."
 
 #: horizons/savegamemanager.py:342
 #, python-format
@@ -1552,11 +1557,11 @@ msgstr ""
 
 #: horizons/spsession.py:123
 msgid "If this error happens again, please contact the development team:"
-msgstr ""
+msgstr "Si cette erreur se reproduit, veuillez contacter l'équipe de développement :"
 
 #: horizons/spsession.py:131
 msgid "No quicksaves found"
-msgstr "Aucune sauvegarde rapide n'a été trouvée"
+msgstr "Aucune sauvegarde rapide n'a été trouvée."
 
 #: horizons/spsession.py:131
 msgid "You need to quicksave before you can quickload."
@@ -1570,7 +1575,7 @@ msgstr "Impossible de créer le fichier de sauvegarde"
 
 #: horizons/spsession.py:159
 msgid "There has been an error while creating your savegame file."
-msgstr "Erreur lors de la création de votre fichier de sauvegarde."
+msgstr "Erreur lors de la création de votre fichier de sauvegarde"
 
 #: horizons/spsession.py:160
 msgid "This usually means that the savegame name contains unsupported special characters."
@@ -1607,7 +1612,7 @@ msgstr ""
 
 #: run_uh.py:85
 msgid "Specify alternative multiplayer master server."
-msgstr "Spécifier le serveur multijoueur maitre alternatif."
+msgstr "Spécifier le serveur multijoueur maître alternatif."
 
 #: run_uh.py:87
 msgid "Specify network address to bind local network client to. This is useful if NAT holepunching is not working but you can forward a static port."
@@ -1686,7 +1691,7 @@ msgstr "Active le profilage (pour le développement seulement)."
 #: run_uh.py:122
 msgid "Enable the string previewer tool for scenario writers"
 msgstr ""
-"Active l'outil de pré-visualisation de textes pour les créateurs de scénario"
+"Active l'outil de pré-visualisation de textes pour les créateurs de scénario."
 
 #: run_uh.py:144
 msgid "Unknown Horizons crashed."
@@ -1694,7 +1699,7 @@ msgstr "Unknown Horizons a planté."
 
 #: run_uh.py:146
 msgid "We are very sorry for this, and want to fix this error."
-msgstr "Nous vous prions de bien vouloir nous excuser pour la gêne occasionnée"
+msgstr "Nous vous prions de bien vouloir nous excuser pour la gêne occasionnée."
 
 #: run_uh.py:147
 msgid "In order to do this, we need the information from the logfile:"
@@ -1705,12 +1710,12 @@ msgstr ""
 #: run_uh.py:149
 msgid "Please give it to us via IRC or our forum, for both see unknown-horizons.org ."
 msgstr ""
-"Vous pouvez nous le retransmettre via IRC ou sur notre forum, vous trouvez "
+"Vous pouvez nous le retransmettre via IRC ou sur notre forum, vous trouverez "
 "de plus amples informations sur  unknown-horizons.org ."
 
 #: run_uh.py:204
 msgid "Thank you for using Unknown Horizons!"
-msgstr "Merci d'utiliser Unknown Horizons!"
+msgstr "Merci d'utiliser Unknown Horizons !"
 
 #: run_uh.py:361
 msgid "FIFE was not found."
@@ -1771,7 +1776,7 @@ msgstr "Tente du pêcheur"
 
 #: sqlite/Building
 msgid "Herbary"
-msgstr "herboristerie"
+msgstr "Herboristerie"
 
 #: sqlite/Building
 msgid "Hunter's Tent"
@@ -1862,7 +1867,7 @@ msgstr "Champ de tabac"
 
 #: sqlite/Building
 msgid "Tobacconist"
-msgstr "marchand de tabac"
+msgstr "Tabagiste"
 
 #: sqlite/Building
 msgid "Toolmaker"
@@ -1883,35 +1888,35 @@ msgstr "Tente du tisseur"
 
 #: sqlite/Colors
 msgid "black"
-msgstr "noir"
+msgstr "Noir"
 
 #: sqlite/Colors
 msgid "blue"
-msgstr "bleu"
+msgstr "Bleu"
 
 #: sqlite/Colors
 msgid "cyan"
-msgstr "cyan"
+msgstr "Cyan"
 
 #: sqlite/Colors
 msgid "green"
-msgstr "vert"
+msgstr "Vert"
 
 #: sqlite/Colors
 msgid "pink"
-msgstr "rose"
+msgstr "Rose"
 
 #: sqlite/Colors
 msgid "red"
-msgstr "rouge"
+msgstr "Rouge"
 
 #: sqlite/Colors
 msgid "white"
-msgstr "blanc"
+msgstr "Blanc"
 
 #: sqlite/Colors
 msgid "yellow"
-msgstr "jaune"
+msgstr "Jaune"
 
 #: sqlite/Messages
 msgid "A new settlement has been created by ${player}."
@@ -1936,7 +1941,7 @@ msgstr "Certains de vos colons viennent juste de déménager."
 # Messages
 #: sqlite/Messages
 msgid "YOU HAVE WON!!!"
-msgstr "VOUS AVEZ GAGNÉ!!!"
+msgstr "VOUS AVEZ GAGNÉ !!!"
 
 # Messages
 #: sqlite/Messages
@@ -1958,114 +1963,114 @@ msgstr "Vos colons ont atteints le niveau ${level}."
 
 #: sqlite/Resources
 msgid "acorns"
-msgstr "glands"
+msgstr "Glands"
 
 #: sqlite/Resources
 msgid "boards"
-msgstr "planches"
+msgstr "Planches"
 
 #: sqlite/Resources
 msgid "bricks"
-msgstr "briques"
+msgstr "Briques"
 
 #: sqlite/Resources
 msgid "cattle"
-msgstr ""
+msgstr "Bovin"
 
 #: sqlite/Resources
 msgid "cattle for slaughter"
-msgstr ""
+msgstr "Abbatoir à bovin"
 
 #: sqlite/Resources
 msgid "charcoal"
-msgstr "charbon de bois"
+msgstr "Charbon de bois"
 
 #: sqlite/Resources
 msgid "clay"
-msgstr "argile"
+msgstr "Argile"
 
 #: sqlite/Resources
 msgid "coins"
-msgstr "pièces de monnaie"
+msgstr "Pièces de monnaie"
 
 #: sqlite/Resources
 msgid "community"
-msgstr "communauté"
+msgstr "Communauté"
 
 #: sqlite/Resources
 msgid "deer food A"
-msgstr ""
+msgstr "Nourriture pour les cerfs"
 
 #: sqlite/Resources
 msgid "deer meat"
-msgstr ""
+msgstr "Viande de cerf"
 
 #: sqlite/Resources
 msgid "education"
-msgstr "éducation"
+msgstr "Education"
 
 # Resources
 #: sqlite/Resources
 msgid "faith"
-msgstr "foi"
+msgstr "Foi"
 
 #: sqlite/Resources
 msgid "fish"
-msgstr "poisson"
+msgstr "Poisson"
 
 #: sqlite/Resources
 msgid "food"
-msgstr "nourriture"
+msgstr "Nourriture"
 
 #: sqlite/Resources
 msgid "get-together"
-msgstr "communauté"
+msgstr "Communauté"
 
 #: sqlite/Resources
 msgid "grass"
-msgstr "herbe"
+msgstr "Herbe"
 
 # Resources
 #: sqlite/Resources
 msgid "happiness"
-msgstr "satisfaction"
+msgstr "Satisfaction"
 
 #: sqlite/Resources
 msgid "herbs"
-msgstr "herbes"
+msgstr "Herbes"
 
 #: sqlite/Resources
 msgid "iron ingots"
-msgstr "lingots de fer"
+msgstr "Lingots de fer"
 
 #: sqlite/Resources
 msgid "iron ore"
-msgstr "minerai de fer"
+msgstr "Minerai de fer"
 
 #: sqlite/Resources
 msgid "lamb wool"
-msgstr "laine de mouton"
+msgstr "Laine de mouton"
 
 #: sqlite/Resources
 msgid "liquor"
-msgstr "alcool"
+msgstr "Alcool"
 
 #: sqlite/Resources
 msgid "pigs"
-msgstr "porcs"
+msgstr "Porcs"
 
 #: sqlite/Resources
 msgid "pigs for slaughter"
-msgstr ""
+msgstr "Abbatoir à cochons"
 
 # Resources
 #: sqlite/Resources
 msgid "potatoes"
-msgstr "pommes de terre"
+msgstr "Pommes de terre"
 
 #: sqlite/Resources
 msgid "raw clay"
-msgstr "argile brute"
+msgstr "Argile brute"
 
 #: sqlite/Resources
 #, fuzzy
@@ -2074,61 +2079,61 @@ msgstr "herbes brutes / plante médicinale brut"
 
 #: sqlite/Resources
 msgid "raw iron"
-msgstr "fer brut"
+msgstr "Fer brut"
 
 # Resources
 #: sqlite/Resources
 msgid "raw sugar"
-msgstr "sucre brut"
+msgstr "Sucre brut"
 
 #: sqlite/Resources
 msgid "raw tobacco"
-msgstr "tabac brut"
+msgstr "Tabac brut"
 
 #: sqlite/Resources
 msgid "salt"
-msgstr "sel"
+msgstr "Sel"
 
 # Resources
 #: sqlite/Resources
 msgid "sugar"
-msgstr "sucre"
+msgstr "Sucre"
 
 #: sqlite/Resources
 msgid "textile"
-msgstr "tissus"
+msgstr "Tissus"
 
 #: sqlite/Resources
 msgid "tobacco"
-msgstr "tabac"
+msgstr "Tabac"
 
 #: sqlite/Resources
 msgid "tobaccos"
-msgstr "tabacs"
+msgstr "Tabacs"
 
 #: sqlite/Resources
 msgid "tools"
-msgstr "outils"
+msgstr "Outils"
 
 #: sqlite/Resources
 msgid "wood"
-msgstr "bois"
+msgstr "Bois"
 
 #: sqlite/Resources
 msgid "wool"
-msgstr "laine"
+msgstr "Laine"
 
 #: sqlite/SettlerLevel
 msgid "aristocrat"
-msgstr "aristocrate"
+msgstr "Aristocrate"
 
 #: sqlite/SettlerLevel
 msgid "citizen"
-msgstr "citoyen"
+msgstr "Citoyen"
 
 #: sqlite/SettlerLevel
 msgid "merchant"
-msgstr "marchand"
+msgstr "Marchand"
 
 # please don't translate anything in <tags> - thanks!
 # Resources
@@ -2136,15 +2141,15 @@ msgstr "marchand"
 # Messages
 #: sqlite/SettlerLevel
 msgid "pioneer"
-msgstr "pionier"
+msgstr "Pionier"
 
 #: sqlite/SettlerLevel
 msgid "sailor"
-msgstr "marin"
+msgstr "Marin"
 
 #: sqlite/SettlerLevel
 msgid "settler"
-msgstr "colon"
+msgstr "Colon"
 
 #, python-format
 #~ msgid "Unknown Horizons Version %s"
@@ -2165,10 +2170,10 @@ msgstr "colon"
 #~ msgstr "Tente abîmée"
 
 #~ msgid "wild animal food 1"
-#~ msgstr "nourriture 1 du gibier"
+#~ msgstr "Nourriture 1 du gibier"
 
 #~ msgid "wild animal meat"
-#~ msgstr "viande de gibier"
+#~ msgstr "Viande de gibier"
 
 #, python-format
 #~ msgid "Could not connect to master server. Details: %s"
