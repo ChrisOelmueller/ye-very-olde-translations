@@ -1166,7 +1166,7 @@ msgstr "Veuillez vous assurer que vous savez ce que vous faites."
 #: horizons/i18n/guitranslations.py:260
 #, fuzzy
 msgid "Apply"
-msgstr "Appliquer :"
+msgstr "Appliquer"
 
 #: horizons/i18n/guitranslations.py:262
 msgid "Reset to default settings"
