@@ -8,23 +8,23 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Some of your changes require a restart of Unknown Horizons.">
         <source>Some of your changes require a restart of Unknown Horizons.</source>
-        <target state="translated">Kai kurie jūsų pakeitimai reikalauja Nežinomų Horizontų perkrovimo.</target>
+        <target state="translated">Kai kurie jūsų pakeitimai reikalauja žaidimo Nežinomi Horizontai perkrovimo.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Restore default settings">
         <source>Restore default settings</source>
-        <target state="translated"></target>
+        <target state="translated">Atkurti numatytąsias nuostatas </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="This will delete all changes to the settings you made so far.">
         <source>This will delete all changes to the settings you made so far.</source>
-        <target state="translated"></target>
+        <target state="translated">Tai panaikins visus nuostatų pakeitimus, kurios buvote atlikęs iki šiol.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Do you want to continue?">
         <source>Do you want to continue?</source>
-        <target state="translated"></target>
+        <target state="translated">Ar norite tęsti?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="System default">
         <source>System default</source>
-        <target state="translated">Standartinė sistema</target>
+        <target state="translated">Numatytoji sistema</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Warning">
         <source>Warning</source>
@@ -34,7 +34,9 @@
         <source>The SDL renderer is meant as a fallback solution only and has serious graphical glitches. 
 
 Use at own risk!</source>
-        <target state="translated"></target>
+        <target state="translated">SDL atvaizdavimas yra skirtas, tik kaip atsarginis sprendimas, kuris turi rimtų grafikos trikdžių. 
+
+Naudokite tik įvertinę riziką!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Configured language %(lang)s at %(place)s could not be loaded">
         <source>Configured language %(lang)s at %(place)s could not be loaded</source>
@@ -42,7 +44,7 @@ Use at own risk!</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Invalid network port">
         <source>Invalid network port</source>
-        <target state="translated"></target>
+        <target state="translated">Negaliojanti tinklo jungtis</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The port you specified is not valid. It must be a number between 1 and 65535.">
         <source>The port you specified is not valid. It must be a number between 1 and 65535.</source>
@@ -78,7 +80,7 @@ Use at own risk!</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Are you sure you want to quit Unknown Horizons?">
         <source>Are you sure you want to quit Unknown Horizons?</source>
-        <target state="translated">Ar tikrai norite išeiti iš Nežinomų Horizontų?</target>
+        <target state="translated">Ar tikrai norite išeiti iš žaidimo Nežinomi Horizonti?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Quit Game">
         <source>Quit Game</source>
@@ -121,16 +123,15 @@ Ar norite jį perrašyti?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Please select a savegame or click on cancel.">
         <source>Please select a savegame or click on cancel.</source>
-        <target state="translated"></target>
+        <target state="translated">Prašome pasirinkti išsaugotą žaidimą arba spragtelėti ant atšaukti.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Select a savegame">
         <source>Select a savegame</source>
-        <target state="translated"></target>
-        <note from="developer">ok button has been pressed, but no savegame was selected</note>
+        <target state="translated">Pasirinkite įrašyti žaidimą</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Details:">
         <source>Details:</source>
-        <target state="translated"></target>
+        <target state="translated">Išsamiau:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Error:">
         <source>Error:</source>
@@ -140,25 +141,28 @@ Ar norite jį perrašyti?</target>
       <trans-unit xml:space="preserve" approved="yes" id="Unknown savedate&#10;">
         <source>Unknown savedate
 </source>
-        <target state="translated"></target>
+        <target state="translated">Nežinomi įrašo duomenys
+</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Saved at %s&#10;">
         <source>Saved at %s
 </source>
-        <target state="translated"></target>
+        <target state="translated">Įrašyta į %s
+</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="%H:%M, %A, %B %d">
         <source>%H:%M, %A, %B %d</source>
-        <target state="translated"></target>
+        <target state="translated">%H:%M, %A, %B %d</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Savegame ver. %d">
         <source>Savegame ver. %d</source>
-        <target state="translated"></target>
+        <target state="translated">Įrašyto žaidimo ver. %d</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="WARNING: Incompatible ver. %(ver)d!&#10;Need ver. %(need)d!">
         <source>WARNING: Incompatible ver. %(ver)d!
 Need ver. %(need)d!</source>
-        <target state="translated"></target>
+        <target state="translated">ĮSPĖJIMAS: Nesuderinta ver. %(ver)d!
+Reikalinga ver. %(need)d!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="INCOMPATIBLE VERSION&#10;">
         <source>INCOMPATIBLE VERSION
@@ -167,19 +171,19 @@ Need ver. %(need)d!</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="No file selected">
         <source>No file selected</source>
-        <target state="translated"></target>
+        <target state="translated">Failas nepasirinktas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You need to select a savegame to delete">
         <source>You need to select a savegame to delete</source>
-        <target state="translated"></target>
+        <target state="translated">Jums reikia pasirinkti išsaugotą žaidimą, kad pašalintumėte</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Do you really want to delete the savegame &quot;%s&quot;?">
         <source>Do you really want to delete the savegame "%s"?</source>
-        <target state="translated"></target>
+        <target state="translated">Ar tikrai norite pašalinti išsaugotą žaidimą "%s"?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Confirm deletion">
         <source>Confirm deletion</source>
-        <target state="translated"></target>
+        <target state="translated">Patvirtinkite pašalinimą</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Error!">
         <source>Error!</source>
@@ -187,19 +191,19 @@ Need ver. %(need)d!</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Failed to delete savefile!">
         <source>Failed to delete savefile!</source>
-        <target state="translated"></target>
+        <target state="translated">Nepavyko pašalinti įrašyto failo!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Hit P to continue the game or click below!">
         <source>Hit P to continue the game or click below!</source>
-        <target state="translated"></target>
+        <target state="translated">Spustelėkite P, kad tęstumėte žaidimą arba spauskite žemiau!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Game paused">
         <source>Game paused</source>
-        <target state="translated"></target>
+        <target state="translated">Žaidimas sustabdytas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Networking isn't initialised">
         <source>Networking isn't initialised</source>
-        <target state="translated"></target>
+        <target state="translated">Tinklas neinicijuotas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Networking isn't initialised, probably because of configuration issues. Check your settings!">
         <source>Networking isn't initialised, probably because of configuration issues. Check your settings!</source>
@@ -216,11 +220,11 @@ Details: %s</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Something went wrong with the network: ">
         <source>Something went wrong with the network: </source>
-        <target state="translated"></target>
+        <target state="translated">Kažkas negerai su tinklu: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Version differs!">
         <source>Version differs!</source>
-        <target state="translated"></target>
+        <target state="translated">Skiriasi versija!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Map: ">
         <source>Map: </source>
@@ -228,19 +232,19 @@ Details: %s</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Players: ">
         <source>Players: </source>
-        <target state="translated"></target>
+        <target state="translated">Žaidėjai: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Creator: ">
         <source>Creator: </source>
-        <target state="translated"></target>
+        <target state="translated">Kūrėjas: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The game's version differs from your version. Every player in a multiplayer game must use the same version. This can be fixed by every player updating to the latest version. Game version: %(gameversion)s Your version: %(ownversion)s">
         <source>The game's version differs from your version. Every player in a multiplayer game must use the same version. This can be fixed by every player updating to the latest version. Game version: %(gameversion)s Your version: %(ownversion)s</source>
-        <target state="translated"></target>
+        <target state="translated">Žaidimo versija skiriasi nuo jūsų versijos. Kiekvienas žaidėjas daugelio žaidėjų žaidimo režime privalo naudoti tą pačią versiją. Tai gali būti ištaisoma, atsisiunčiant kiekvienam žaidėjui naujausią žaidimo versiją. Žaidimo versija: %(gameversion)s Jūsų versija: %(ownversion)s</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Wrong version">
         <source>Wrong version</source>
-        <target state="translated"></target>
+        <target state="translated">Bloga versija</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Difficulty: ">
         <source>Difficulty: </source>
@@ -279,26 +283,25 @@ Prašome apie tai pranešti žaidimo autoriui.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build">
         <source>Build</source>
-        <target state="translated">Darinys</target>
-        <note from="developer">set translated building name in gui</note>
+        <target state="translated">Sudėjimas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Boat builder overview">
         <source>Boat builder overview</source>
-        <target state="translated"></target>
+        <target state="translated">Valties statybos apžvalga</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Fishing boat">
+      <trans-unit xml:space="preserve" approved="yes" id="Fishing boat">
         <source>Fishing boat</source>
-        <target state="needs-translation">Žvejų valtys</target>
-        <note from="translator">76%
+        <target state="translated">Žvejybos valtis</target>
+        <note from="translator">76%&#13;
 92%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Resources still needed:">
         <source>Resources still needed:</source>
-        <target state="translated"></target>
+        <target state="translated">Vis dar reikalingi resursai:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Fisher boats">
         <source>Fisher boats</source>
-        <target state="translated">Žvejų valtys</target>
+        <target state="translated">Žvejo valtys</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Trade boats">
         <source>Trade boats</source>
@@ -318,7 +321,7 @@ Prašome apie tai pranešti žaidimo autoriui.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build related fields">
         <source>Build related fields</source>
-        <target state="translated"></target>
+        <target state="translated">Statyti susijusiuose laukuose</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Increment">
         <source>Increment</source>
@@ -334,7 +337,7 @@ Prašome apie tai pranešti žaidimo autoriui.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Ship inventory">
         <source>Ship inventory</source>
-        <target state="translated"></target>
+        <target state="translated">Laivo inventorius</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Account">
         <source>Account</source>
@@ -350,11 +353,11 @@ Prašome apie tai pranešti žaidimo autoriui.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Branch office overview">
         <source>Branch office overview</source>
-        <target state="translated"></target>
+        <target state="translated">Filialo apžvalga</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Market place overview">
         <source>Market place overview</source>
-        <target state="translated"></target>
+        <target state="translated">Rinkos apžvalga</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Ship overview">
         <source>Ship overview</source>
@@ -366,107 +369,107 @@ Prašome apie tai pranešti žaidimo autoriui.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Destroy building">
         <source>Destroy building</source>
-        <target state="translated"></target>
+        <target state="translated">Sugriauti pastatą</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Limit: %st per slot">
+      <trans-unit xml:space="preserve" approved="no" id="Limit: %st per slot">
         <source>Limit: %st per slot</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Riba: %st už lizdą</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Emptiness">
         <source>Emptiness</source>
-        <target state="translated"></target>
+        <target state="translated">Tuštuma</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="There is nothing written in your logbook yet!">
         <source>There is nothing written in your logbook yet!</source>
-        <target state="translated"></target>
+        <target state="translated">Dar nieko nėra įrašyta į jūsų žurnalą!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Start route">
         <source>Start route</source>
-        <target state="translated"></target>
+        <target state="translated">Pradėti maršrutą</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Stop route">
         <source>Stop route</source>
-        <target state="translated"></target>
+        <target state="translated">Stabdyti maršrutą</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Companies">
         <source>Companies</source>
-        <target state="translated"></target>
+        <target state="translated">Įmonės</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sailor buildings">
         <source>Sailor buildings</source>
-        <target state="translated"></target>
+        <target state="translated">Jūriniai pastatai</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Residents and infrastructure">
         <source>Residents and infrastructure</source>
-        <target state="translated"></target>
+        <target state="translated">Gyventojai ir infrastruktūra</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Services">
         <source>Services</source>
-        <target state="translated"></target>
+        <target state="translated">Paslaugos</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Pavilion: Fulfills religious needs of sailors.">
+      <trans-unit xml:space="preserve" approved="no" id="Pavilion: Fulfills religious needs of sailors.">
         <source>Pavilion: Fulfills religious needs of sailors.</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Pavilijonas: Suteikia jūreiviams prieigą prie religijos.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Fisherman: Fishes the sea, produces food.">
         <source>Fisherman: Fishes the sea, produces food.</source>
-        <target state="translated"></target>
+        <target state="translated">Žvejys: Gaudo jūros žuvis, teikia maistą.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Hunter: Hunts wild forest animals, produces food.">
         <source>Hunter: Hunts wild forest animals, produces food.</source>
-        <target state="translated"></target>
+        <target state="translated">Medžiotojas: Medžioja laukinio miško gyvūnus, teikia maistą.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Signal fire: Allows the player to trade with the free trader.">
         <source>Signal fire: Allows the player to trade with the free trader.</source>
-        <target state="translated"></target>
+        <target state="translated">Gaisro signalas: Leidžia žaidėjui prekiauti su nepriklausomu prekybininku.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Lumberjack: Chops down trees and turns them into boards.">
         <source>Lumberjack: Chops down trees and turns them into boards.</source>
-        <target state="translated"></target>
+        <target state="translated">Medkirtys: Kerta medžius ir paverčia juos lentomis.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Main square: Supplies citizens with goods.">
         <source>Main square: Supplies citizens with goods.</source>
-        <target state="translated"></target>
+        <target state="translated">Pagrindinė aikštė: Aprūpina miestiečius prekėmis.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tent: Houses your inhabitants.">
         <source>Tent: Houses your inhabitants.</source>
-        <target state="translated"></target>
+        <target state="translated">Palapinės: Jūsų gyventojų namai.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Storage: Extends stock and provides collectors.">
         <source>Storage: Extends stock and provides collectors.</source>
-        <target state="translated"></target>
+        <target state="translated">Saugykla: Išplečia sandėlį ir teikia mokesčių rinkėjus.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Trail: Needed for collecting goods.">
         <source>Trail: Needed for collecting goods.</source>
-        <target state="translated"></target>
+        <target state="translated">Takas: Reikalingas surinkti prekėms.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tree">
         <source>Tree</source>
-        <target state="translated"></target>
+        <target state="translated">Medis</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Fields">
         <source>Fields</source>
-        <target state="translated"></target>
+        <target state="translated">Laukai</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Pioneer buildings">
         <source>Pioneer buildings</source>
-        <target state="translated"></target>
+        <target state="translated">Pionierių pastatai</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Military">
         <source>Military</source>
-        <target state="translated"></target>
+        <target state="translated">Kariuomenė</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Boat builder: Builds boats and small ships. Built on coast.">
         <source>Boat builder: Builds boats and small ships. Built on coast.</source>
-        <target state="translated"></target>
+        <target state="translated">Valties statybininkas: Stato valtis ir mažus laivelius. Statoma ant kranto.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Brickyard: Turns clay into bricks.">
         <source>Brickyard: Turns clay into bricks.</source>
-        <target state="translated"></target>
+        <target state="translated">Plytinė: Paverčia molį į plytas.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Clay pit: Gets clay from deposit.">
         <source>Clay pit: Gets clay from deposit.</source>
-        <target state="translated"></target>
+        <target state="translated">Molio karjeras: Paima molio iš telkinio.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Distillery: Turns sugar into liquor.">
         <source>Distillery: Turns sugar into liquor.</source>
@@ -474,777 +477,777 @@ Prašome apie tai pranešti žaidimo autoriui.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Farm: Grows field crops and raises livestock.">
         <source>Farm: Grows field crops and raises livestock.</source>
-        <target state="translated"></target>
+        <target state="translated">Ūkis: Augina lauko kultūras ir gyvulius.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Pasture: Raises sheep. Produces wool. Needs a farm.">
         <source>Pasture: Raises sheep. Produces wool. Needs a farm.</source>
-        <target state="translated"></target>
+        <target state="translated">Ganykla: Augina avis. Teikia vilną. Reikalingas ūkis.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Potato field: Yields food. Needs a farm.">
         <source>Potato field: Yields food. Needs a farm.</source>
-        <target state="translated"></target>
+        <target state="translated">Bulvių laukas: Teikia maistą. Reikalingas ūkis.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sugarcane field: Used in liquor production. Needs a farm.">
         <source>Sugarcane field: Used in liquor production. Needs a farm.</source>
-        <target state="translated"></target>
+        <target state="translated">Cukranendrės laukas: Naudojama alkoholio gamybai. Reikalingas ūkis.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Village school: Provides education.">
         <source>Village school: Provides education.</source>
-        <target state="translated"></target>
+        <target state="translated">Kaimo mokykla: Suteikia išsilavinimą.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Weaver: Turns lamb wool into cloth.">
         <source>Weaver: Turns lamb wool into cloth.</source>
-        <target state="translated"></target>
+        <target state="translated">Audėjas: Ėriukų vilną paverčia į audinį.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Settler buildings">
         <source>Settler buildings</source>
-        <target state="translated"></target>
+        <target state="translated">Naujakurių pastatai</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Butchery: Needs pigs or cattle. Produces food.">
         <source>Butchery: Needs pigs or cattle. Produces food.</source>
-        <target state="translated"></target>
+        <target state="translated">Skerdykla: Reikalingos kiaulės ar galvijai. Gamina maistą.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Cattle run: Raises cattle. Needs a farm.">
         <source>Cattle run: Raises cattle. Needs a farm.</source>
-        <target state="translated"></target>
+        <target state="translated">Paleisti galvijai: Didina galvijų skaičių. Reikalingas ūkis.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Charcoal burning: Burns a lot of boards.">
         <source>Charcoal burning: Burns a lot of boards.</source>
-        <target state="translated"></target>
+        <target state="translated">Anglies deginimas: Sudegina daug lentų.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Doctor: Treats diseases. Consumes herbs.">
         <source>Doctor: Treats diseases. Consumes herbs.</source>
-        <target state="translated"></target>
+        <target state="translated">Gydytojas: Gydo ligas. Naudoja vaistažoles.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Herbary: Produces herbs. Needs a farm.">
         <source>Herbary: Produces herbs. Needs a farm.</source>
-        <target state="translated"></target>
+        <target state="translated">Herbariumas: Augina vaistažoles. Reikalingas ūkis.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Iron mine: Gets iron ore from deposit.">
         <source>Iron mine: Gets iron ore from deposit.</source>
-        <target state="translated"></target>
+        <target state="translated">Geležies kasykla: Paima geležies rūdą iš telkinio.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Pigsty: Raises pigs. Needs a farm.">
         <source>Pigsty: Raises pigs. Needs a farm.</source>
-        <target state="translated"></target>
+        <target state="translated">Kiaulidė: Didina kiaulių skaičių. Reikalingas ūkis.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Salt ponds: Evaporates salt. Built on sea coast.">
         <source>Salt ponds: Evaporates salt. Built on sea coast.</source>
-        <target state="translated"></target>
+        <target state="translated">Druskos tvenkiniai: Išgarina vandenį ir surenka druską. Statomi prie jūros kranto.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Smeltery: Refines all kind of ores.">
         <source>Smeltery: Refines all kind of ores.</source>
-        <target state="translated"></target>
+        <target state="translated">Lydykla: Valo visų rūšių rūdis.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tavern: Provides get-together.">
         <source>Tavern: Provides get-together.</source>
-        <target state="translated"></target>
+        <target state="translated">Smuklė: Suteikia vietą susitikimui.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tobacco field: Produces tobacco. Needs a farm.">
         <source>Tobacco field: Produces tobacco. Needs a farm.</source>
-        <target state="translated"></target>
+        <target state="translated">Tabako laukas: Teikia tabaką. Reikalingas ūkis.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tobacconist: Produces tobaccos out of tobacco.">
         <source>Tobacconist: Produces tobaccos out of tobacco.</source>
-        <target state="translated"></target>
+        <target state="translated">Tabakininkas: Teikia tabako gaminius iš tabako.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Toolmaker: Produces tools out of iron.">
         <source>Toolmaker: Produces tools out of iron.</source>
-        <target state="translated"></target>
+        <target state="translated">Įrankininkas: Teikia įrankius iš geležies.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Running costs:">
         <source>Running costs:</source>
-        <target state="translated"></target>
+        <target state="translated">Einamosioms išlaidoms padengti:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="String Previewer Tool for Scenario files">
         <source>String Previewer Tool for Scenario files</source>
-        <target state="translated"></target>
+        <target state="translated">Eilutės peržiūrėjimo įrankis scenarijaus failams</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="select a scenario and click on load/reload to update the messages in the captain's log">
         <source>select a scenario and click on load/reload to update the messages in the captain's log</source>
-        <target state="translated"></target>
+        <target state="translated">pasirinkite scenarijų ir spragtelėkite ant įkelti/perkrauti, kad atnaujintumėte žinutes kapitono žurnale</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="load/reload">
         <source>load/reload</source>
-        <target state="translated"></target>
+        <target state="translated">įkelti/perkrauti</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Inhabitants">
         <source>Inhabitants</source>
-        <target state="translated"></target>
+        <target state="translated">Gyventojai</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Click to change the name of your settlement.">
         <source>Click to change the name of your settlement.</source>
-        <target state="translated"></target>
+        <target state="translated">Spragtelėkite, kad pakeistumėte jūsų gyvenvietės pavadinimą.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Destroy">
         <source>Destroy</source>
-        <target state="translated"></target>
+        <target state="translated">Sugriauti</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build menu">
         <source>Build menu</source>
-        <target state="translated"></target>
+        <target state="translated">Statymo meniu</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Game menu">
         <source>Game menu</source>
-        <target state="translated"></target>
+        <target state="translated">Žaidimo meniu</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Help">
         <source>Help</source>
-        <target state="translated"></target>
+        <target state="translated">Pagalba</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Captain's log">
         <source>Captain's log</source>
-        <target state="translated"></target>
+        <target state="translated">Kapitono žurnalas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Rotate map counterclockwise">
         <source>Rotate map counterclockwise</source>
-        <target state="translated"></target>
+        <target state="translated">Pasukti žemėlapį prieš laikrodžio rodyklę</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Rotate map clockwise">
         <source>Rotate map clockwise</source>
-        <target state="translated"></target>
+        <target state="translated">Pasukti žemėlapį pagal laikrodžio rodyklę</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Decrease game speed">
         <source>Decrease game speed</source>
-        <target state="translated"></target>
+        <target state="translated">Sumažinti žaidimo greitį</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Increase game speed">
         <source>Increase game speed</source>
-        <target state="translated"></target>
+        <target state="translated">Padidinti žaidimo greitį</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Zoom in">
         <source>Zoom in</source>
-        <target state="translated"></target>
+        <target state="translated">Didinti</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Zoom out">
         <source>Zoom out</source>
-        <target state="translated"></target>
+        <target state="translated">Mažinti</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Boards">
         <source>Boards</source>
-        <target state="translated"></target>
+        <target state="translated">Lentos</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Bricks">
         <source>Bricks</source>
-        <target state="translated"></target>
+        <target state="translated">Plytos</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Food">
         <source>Food</source>
-        <target state="translated"></target>
+        <target state="translated">Maistas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Textiles">
         <source>Textiles</source>
-        <target state="translated"></target>
+        <target state="translated">Tekstilė</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tools">
         <source>Tools</source>
-        <target state="translated"></target>
+        <target state="translated">Įrankiai</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Gold">
         <source>Gold</source>
-        <target state="translated"></target>
+        <target state="translated">Auksas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enter new name:">
         <source>Enter new name:</source>
-        <target state="translated"></target>
+        <target state="translated">Įveskite naują vardą:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Change name">
         <source>Change name</source>
-        <target state="translated"></target>
+        <target state="translated">Pakeisti vardą</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Apply the new name">
         <source>Apply the new name</source>
-        <target state="translated"></target>
+        <target state="translated">Taikyti naują vardą</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enter your message:">
         <source>Enter your message:</source>
-        <target state="translated"></target>
+        <target state="translated">Įveskite Jūsų žinutę:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Chat">
         <source>Chat</source>
-        <target state="translated"></target>
+        <target state="translated">Pokalbis</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Buy resources">
         <source>Buy resources</source>
-        <target state="translated"></target>
+        <target state="translated">Pirkti resursus</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Buy or sell resources">
         <source>Buy or sell resources</source>
-        <target state="translated"></target>
+        <target state="translated">Pirkti ar parduoti resursus</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Legend:">
         <source>Legend:</source>
-        <target state="translated"></target>
+        <target state="translated">Legenda:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sell resources">
         <source>Sell resources</source>
-        <target state="translated"></target>
+        <target state="translated">Parduoti resursus</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Pause production">
         <source>Pause production</source>
-        <target state="translated"></target>
+        <target state="translated">Pristabdyti gamybą</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Start production">
         <source>Start production</source>
-        <target state="translated"></target>
+        <target state="translated">Pradėti gamybą</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Leave Captain's log">
         <source>Leave Captain's log</source>
-        <target state="translated"></target>
+        <target state="translated">Palikti Kapitono žurnalą</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Read prev. entries">
         <source>Read prev. entries</source>
-        <target state="translated"></target>
+        <target state="translated">Skaityti ankstesnius įrašus</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Read next entries">
         <source>Read next entries</source>
-        <target state="translated"></target>
+        <target state="translated">Skaityti sekančius įrašus</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Available Scenarios">
         <source>Available Scenarios</source>
-        <target state="translated"></target>
+        <target state="translated">Galimi scenarijai</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Scenario description">
         <source>Scenario description</source>
-        <target state="translated"></target>
+        <target state="translated">Scenarijaus aprašas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Continue playing">
         <source>Continue playing</source>
-        <target state="translated"></target>
+        <target state="translated">Tęsti žaidimą</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Choose this scenario">
         <source>Choose this scenario</source>
-        <target state="translated"></target>
+        <target state="translated">Pasirinkti šį scenarijų</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Exit">
         <source>Exit</source>
-        <target state="translated"></target>
+        <target state="translated">Išeiti</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Add to list">
         <source>Add to list</source>
-        <target state="translated"></target>
+        <target state="translated">Įdėti į sąrašą</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Leave production overview">
         <source>Leave production overview</source>
-        <target state="translated"></target>
+        <target state="translated">Palikti gamybos peržiūrą</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Refresh data">
         <source>Refresh data</source>
-        <target state="translated"></target>
+        <target state="translated">Atnaujinti duomenis</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Delete entry">
         <source>Delete entry</source>
-        <target state="translated"></target>
+        <target state="translated">Pašalinti įrašą</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Move down">
         <source>Move down</source>
-        <target state="translated"></target>
+        <target state="translated">Nuleisti</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Move up">
         <source>Move up</source>
-        <target state="translated"></target>
+        <target state="translated">Pakelti</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Attention please!">
         <source>Attention please!</source>
-        <target state="translated"></target>
+        <target state="translated">Prašome dėmesio!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Credits">
         <source>Credits</source>
-        <target state="translated"></target>
+        <target state="translated">Titrai</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Cancel game">
         <source>Cancel game</source>
-        <target state="translated"></target>
+        <target state="translated">Atšaukti žaidimą</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Settings">
         <source>Settings</source>
-        <target state="translated"></target>
+        <target state="translated">Nuostatos</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Return to game">
         <source>Return to game</source>
-        <target state="translated"></target>
+        <target state="translated">Grįžti į žaidimą</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The FIFE and Unknown Horizons development teams">
         <source>The FIFE and Unknown Horizons development teams</source>
-        <target state="translated"></target>
+        <target state="translated">FIFE ir Nežinomi Horizontai kūrėjų komandos</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Have fun.">
         <source>Have fun.</source>
-        <target state="translated"></target>
+        <target state="translated">Smagaus žaidimo.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Key bindings">
         <source>Key bindings</source>
-        <target state="translated"></target>
+        <target state="translated">Klavišų susiejimai</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{LEFT} = Scroll left">
         <source>{LEFT} = Scroll left</source>
-        <target state="translated"></target>
+        <target state="translated">{LEFT} = Slinkti kairėn</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{RIGHT} = Scroll right">
         <source>{RIGHT} = Scroll right</source>
-        <target state="translated"></target>
+        <target state="translated">{RIGHT} = Slinkti dešinėn</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{UP} = Scroll up">
         <source>{UP} = Scroll up</source>
-        <target state="translated"></target>
+        <target state="translated">{UP} = Slinkti viršun</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{DOWN} = Scroll down">
         <source>{DOWN} = Scroll down</source>
-        <target state="translated"></target>
+        <target state="translated">{DOWN} = Slinkti žemyn</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{ , } = Rotate building left">
         <source>{ , } = Rotate building left</source>
-        <target state="translated"></target>
+        <target state="translated">{ , } = Pasukti statinį kairėn</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{ . } = Rotate building right">
         <source>{ . } = Rotate building right</source>
-        <target state="translated"></target>
+        <target state="translated">{ . } = Pasukti statinį dešinėn</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{B} = Show build menu">
         <source>{B} = Show build menu</source>
-        <target state="translated"></target>
+        <target state="translated">{B} = Rodyti statymo meniu</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{F1} = Display help">
         <source>{F1} = Display help</source>
-        <target state="translated"></target>
+        <target state="translated">{F1} = Rodyti pagalbą</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{F5} = Quicksave">
         <source>{F5} = Quicksave</source>
-        <target state="translated"></target>
+        <target state="translated">{F5} = Greitas įrašymas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{F9} = Quickload">
         <source>{F9} = Quickload</source>
-        <target state="translated"></target>
+        <target state="translated">{F9} = Greitas įkrovimas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{F10} = Toggle console on/off">
         <source>{F10} = Toggle console on/off</source>
-        <target state="translated"></target>
+        <target state="translated">{F10} = Perjungti pultą įj/išj</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{ESC} = Show pause menu">
         <source>{ESC} = Show pause menu</source>
-        <target state="translated"></target>
+        <target state="translated">{ESC} = Rodyti pauzės meniu</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{G} = Toggle grid on/off">
         <source>{G} = Toggle grid on/off</source>
-        <target state="translated"></target>
+        <target state="translated">{G} = Perjungti tinklelį įj/išj</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{X} = Enable destruct mode">
         <source>{X} = Enable destruct mode</source>
-        <target state="translated"></target>
+        <target state="translated">{X} = Įgalinti naikinimo būseną</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{P} = Pause game">
         <source>{P} = Pause game</source>
-        <target state="translated"></target>
+        <target state="translated">{P} = Žaidimo pauzė</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{ + } = Increase game speed">
         <source>{ + } = Increase game speed</source>
-        <target state="translated"></target>
+        <target state="translated">{ + } = Padidinti žaidimo greitį</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{ - } = Decrease game speed">
         <source>{ - } = Decrease game speed</source>
-        <target state="translated"></target>
+        <target state="translated">{ - } = Sumažinti žaidimo greitį</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{S} = Screenshot">
         <source>{S} = Screenshot</source>
-        <target state="translated"></target>
+        <target state="translated">{S} = Ekrano nuotrauka</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{SHIFT} = Hold to place multiple buildings">
         <source>{SHIFT} = Hold to place multiple buildings</source>
-        <target state="translated"></target>
+        <target state="translated">{SHIFT} = Laikykite, norėdami pastatyti daug pastatų</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{C} = Chat">
         <source>{C} = Chat</source>
-        <target state="translated"></target>
+        <target state="translated">{C} = Pokalbis</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{L} = Toggle Captain's log">
         <source>{L} = Toggle Captain's log</source>
-        <target state="translated"></target>
+        <target state="translated">{L} = Perjungti Kapitono žurnalą</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Exit to main menu">
         <source>Exit to main menu</source>
-        <target state="translated"></target>
+        <target state="translated">Išeiti į pagrindinį meniu</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Loading ...">
         <source>Loading ...</source>
-        <target state="translated"></target>
+        <target state="translated">Įkeliama ...</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Quit">
         <source>Quit</source>
-        <target state="translated"></target>
+        <target state="translated">Baigti</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Singleplayer">
         <source>Singleplayer</source>
-        <target state="translated"></target>
+        <target state="translated">Vieno žaidėjo žaidimas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Multiplayer">
         <source>Multiplayer</source>
-        <target state="translated"></target>
+        <target state="translated">Kelių žaidėjų žaidimas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Create game:">
         <source>Create game:</source>
-        <target state="translated"></target>
+        <target state="translated">Sukurti žaidimą:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Back:">
         <source>Back:</source>
-        <target state="translated"></target>
+        <target state="translated">Grįžti:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Choose a map:">
         <source>Choose a map:</source>
-        <target state="translated"></target>
+        <target state="translated">Pasirinkite žemėlapį:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Create game - Multiplayer">
         <source>Create game - Multiplayer</source>
-        <target state="translated"></target>
+        <target state="translated">Sukurti žaidimą - Kelių žaidėjų</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Player limit:">
         <source>Player limit:</source>
-        <target state="translated"></target>
+        <target state="translated">Žaidėjų riba:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Create this new game">
         <source>Create this new game</source>
-        <target state="translated"></target>
+        <target state="translated">Sukurti šį naują žaidimą</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Exit to multiplayer menu">
         <source>Exit to multiplayer menu</source>
-        <target state="translated"></target>
+        <target state="translated">Išeiti į kelių žaidėjų meniu</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Leave:">
         <source>Leave:</source>
-        <target state="translated"></target>
+        <target state="translated">Palikti:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The game will start as soon as enough players have joined.">
         <source>The game will start as soon as enough players have joined.</source>
-        <target state="translated"></target>
+        <target state="translated">Žaidimas prasidės tuomet, kai prisijungs pakankamai žaidėjų.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Chat:">
         <source>Chat:</source>
-        <target state="translated"></target>
+        <target state="translated">Pokalbis:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Gamelobby">
         <source>Gamelobby</source>
-        <target state="translated"></target>
+        <target state="translated">Žaidimo kambarys</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Game details:">
         <source>Game details:</source>
-        <target state="translated"></target>
+        <target state="translated">Išsamiau apie žaidimą:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Exit gamelobby">
         <source>Exit gamelobby</source>
-        <target state="translated"></target>
+        <target state="translated">Palikti žaidimo kambarį</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Active games:">
         <source>Active games:</source>
-        <target state="translated"></target>
+        <target state="translated">Aktyvūs žaidimai:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Main menu:">
         <source>Main menu:</source>
-        <target state="translated"></target>
+        <target state="translated">Pagrindinis meniu:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Show only games with the same version:">
         <source>Show only games with the same version:</source>
-        <target state="translated"></target>
+        <target state="translated">Rodyti žaidimus tik su ta pačia versija:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="New game - Multiplayer">
+      <trans-unit xml:space="preserve" approved="no" id="New game - Multiplayer">
         <source>New game - Multiplayer</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Naujas žaidimas - Kelių žaidėjų</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Join game">
         <source>Join game</source>
-        <target state="translated"></target>
+        <target state="translated">Dalyvauti žaidime</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Apply:">
         <source>Apply:</source>
-        <target state="translated"></target>
+        <target state="translated">Taikyti:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Refresh list:">
         <source>Refresh list:</source>
-        <target state="translated"></target>
+        <target state="translated">Atnaujinti sąrašą:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Create a new game">
         <source>Create a new game</source>
-        <target state="translated"></target>
+        <target state="translated">Sukurti naują žaidimą</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Join the selected game">
         <source>Join the selected game</source>
-        <target state="translated"></target>
+        <target state="translated">Dalyvauti pasirinktame žaidimą</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Refresh list of active games">
         <source>Refresh list of active games</source>
-        <target state="translated"></target>
+        <target state="translated">Atnaujinti aktyvių žaidimų sąrašą</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Autosave interval in minutes:">
         <source>Autosave interval in minutes:</source>
-        <target state="translated"></target>
+        <target state="translated">Automatinio įrašymo intervalas minutėmis:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Color depth:">
         <source>Color depth:</source>
-        <target state="translated"></target>
+        <target state="translated">Spalvos gylis:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enable edge scrolling:">
         <source>Enable edge scrolling:</source>
-        <target state="translated"></target>
+        <target state="translated">Įgalinti kraštinį slinkimą:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Effects volume:">
         <source>Effects volume:</source>
-        <target state="translated"></target>
+        <target state="translated">Efektų garsis:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Graphics">
         <source>Graphics</source>
-        <target state="translated"></target>
+        <target state="translated">Grafika</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Language">
         <source>Language</source>
-        <target state="translated"></target>
+        <target state="translated">Kalba</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Network">
         <source>Network</source>
-        <target state="translated"></target>
+        <target state="translated">Tinklas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Saving">
         <source>Saving</source>
-        <target state="translated"></target>
+        <target state="translated">Išsaugojimas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sound">
         <source>Sound</source>
-        <target state="translated"></target>
+        <target state="translated">Garsas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Select language:">
         <source>Select language:</source>
-        <target state="translated"></target>
+        <target state="translated">Pasirinkti kalbą:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enable minimap rotation:">
         <source>Enable minimap rotation:</source>
-        <target state="translated"></target>
+        <target state="translated">Įgalinti mažo žemėlapio pasukimą:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Music volume:">
         <source>Music volume:</source>
-        <target state="translated"></target>
+        <target state="translated">Muzikos garsis:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="(0 means default)">
         <source>(0 means default)</source>
-        <target state="translated"></target>
+        <target state="translated">(0 reiškia numatytasis)</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Network port:">
         <source>Network port:</source>
-        <target state="translated"></target>
+        <target state="translated">Tinklo jungtis:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Number of autosaves:">
         <source>Number of autosaves:</source>
-        <target state="translated"></target>
+        <target state="translated">Automatinių įrašų skaičius:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Number of quicksaves:">
         <source>Number of quicksaves:</source>
-        <target state="translated"></target>
+        <target state="translated">Greitų įrašų skaičius:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Full screen:">
         <source>Full screen:</source>
-        <target state="translated"></target>
+        <target state="translated">Visas ekranas:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Screen resolution:">
         <source>Screen resolution:</source>
-        <target state="translated"></target>
+        <target state="translated">Ekrano skiriamoji geba:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enable sound:">
         <source>Enable sound:</source>
-        <target state="translated"></target>
+        <target state="translated">Įgalinti garsą:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Used renderer:">
         <source>Used renderer:</source>
-        <target state="translated"></target>
+        <target state="translated">Naudoti atvaizdavimą:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Please make sure that you know what you do.">
         <source>Please make sure that you know what you do.</source>
-        <target state="translated"></target>
+        <target state="translated">Prašome įsitikinti, kad žinote, ką darote.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Apply">
         <source>Apply</source>
-        <target state="translated"></target>
+        <target state="translated">Taikyti</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Reset to default settings">
         <source>Reset to default settings</source>
-        <target state="translated"></target>
+        <target state="translated">Atkurti numatytąsias nuostatas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enter filename:">
         <source>Enter filename:</source>
-        <target state="translated"></target>
+        <target state="translated">Įveskite failo pavadinimą:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Your saved games:">
+      <trans-unit xml:space="preserve" approved="yes" id="Your saved games:">
         <source>Your saved games:</source>
-        <target state="needs-translation">Nėra išsaugotų žaidimų</target>
+        <target state="translated">Jūsų išsaugoti žaidimai:</target>
         <note from="translator">76%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Start game">
         <source>Start game</source>
-        <target state="translated"></target>
+        <target state="translated">Pradėti žaidimą</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Delete selected savegame">
         <source>Delete selected savegame</source>
-        <target state="translated"></target>
+        <target state="translated">Pašalinti pasirinktą išsaugotą žaidimą</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Choose a map to play:">
         <source>Choose a map to play:</source>
-        <target state="translated"></target>
+        <target state="translated">Pasirinkite žaidimui žemėlapį:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="New game - Singleplayer">
         <source>New game - Singleplayer</source>
-        <target state="translated"></target>
+        <target state="translated">Naujas žaidimas - Vieno žaidėjo</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Start game:">
         <source>Start game:</source>
-        <target state="translated"></target>
+        <target state="translated">Pradėti žaidimą:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Campaign">
         <source>Campaign</source>
-        <target state="translated"></target>
+        <target state="translated">Žygis</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Free play">
         <source>Free play</source>
-        <target state="translated"></target>
+        <target state="translated">Laisvasis žaidimas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Random map">
         <source>Random map</source>
-        <target state="translated"></target>
+        <target state="translated">Atsitiktinis žemėlapis</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Scenario">
         <source>Scenario</source>
-        <target state="translated"></target>
+        <target state="translated">Scenarijus</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Color:">
         <source>Color:</source>
-        <target state="translated"></target>
+        <target state="translated">Spalva:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Player name:">
         <source>Player name:</source>
-        <target state="translated"></target>
+        <target state="translated">Žaidėjo vardas:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Cancel building:">
         <source>Cancel building:</source>
-        <target state="translated"></target>
+        <target state="translated">Atšaukti statybas:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="(lose all resources)">
+      <trans-unit xml:space="preserve" approved="no" id="(lose all resources)">
         <source>(lose all resources)</source>
-        <target state="translated"></target>
+        <target state="needs-translation">(prarasti visi resursai)</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Currently building:">
         <source>Currently building:</source>
-        <target state="translated"></target>
+        <target state="translated">Dabartinės statybos:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="To build a boat, click on one of the class tabs, select the desired ship and confirm the order.">
         <source>To build a boat, click on one of the class tabs, select the desired ship and confirm the order.</source>
-        <target state="translated"></target>
+        <target state="translated">Kad pastatytumėte valtį, spragtelėkite ant vienos iš klasės lentelių, pasirinkite laivo tipą ir patvirtinkite užsakymą.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Construction progress:">
         <source>Construction progress:</source>
-        <target state="translated"></target>
+        <target state="translated">Statybos pažanga:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Building overview">
         <source>Building overview</source>
-        <target state="translated"></target>
+        <target state="translated">Statybos apžvalga</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Cancel all building progress">
         <source>Cancel all building progress</source>
-        <target state="translated"></target>
+        <target state="translated">Atšaukti visų statybų progresą</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Pause">
         <source>Pause</source>
-        <target state="translated"></target>
+        <target state="translated">Pauzė</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Resume">
         <source>Resume</source>
-        <target state="translated"></target>
+        <target state="translated">Tęsti</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Running costs">
         <source>Running costs</source>
-        <target state="translated"></target>
+        <target state="translated">Einamosios išlaidos</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Fishing boats">
+      <trans-unit xml:space="preserve" approved="yes" id="Fishing boats">
         <source>Fishing boats</source>
-        <target state="needs-translation">Žvejų valtys</target>
+        <target state="translated">Žvejų valtys</target>
         <note from="translator">76%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Cutter">
         <source>Cutter</source>
-        <target state="translated"></target>
+        <target state="translated">Kateris</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Herring fisher">
+      <trans-unit xml:space="preserve" approved="no" id="Herring fisher">
         <source>Herring fisher</source>
-        <target state="translated"></target>
+        <target state="needs-translation">Silkių gaudytojas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Whaler">
         <source>Whaler</source>
-        <target state="translated"></target>
+        <target state="translated">Laivas banginiams</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build this ship!">
         <source>Build this ship!</source>
-        <target state="translated"></target>
+        <target state="translated">Pastatyti šį laivą!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Not yet implemented!">
         <source>Not yet implemented!</source>
-        <target state="translated"></target>
+        <target state="translated">Dar neįgyvendinta!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Select resources:">
         <source>Select resources:</source>
-        <target state="translated"></target>
+        <target state="translated">Pasirinkti išteklius:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Buying">
         <source>Buying</source>
-        <target state="translated"></target>
+        <target state="translated">Pirkimas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Balance:">
         <source>Balance:</source>
-        <target state="translated"></target>
+        <target state="translated">Likutis:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Expenses:">
         <source>Expenses:</source>
-        <target state="translated"></target>
+        <target state="translated">Išlaidos:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Income:">
         <source>Income:</source>
-        <target state="translated"></target>
+        <target state="translated">Pajamos:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sale">
         <source>Sale</source>
-        <target state="translated"></target>
+        <target state="translated">Pardavimas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Taxes">
         <source>Taxes</source>
-        <target state="translated"></target>
+        <target state="translated">Mokesčiai</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Show resources produced in this settlement">
         <source>Show resources produced in this settlement</source>
-        <target state="translated"></target>
+        <target state="translated">Rodyti resursus, pagamintus šioje gyvenvietėje</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build fields">
         <source>Build fields</source>
-        <target state="translated"></target>
+        <target state="translated">Kurti laukus</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Average happiness:">
         <source>Average happiness:</source>
-        <target state="translated"></target>
+        <target state="translated">Vidutinis pasitenkinimas:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Most needed resource:">
         <source>Most needed resource:</source>
-        <target state="translated"></target>
+        <target state="translated">Patys reikalingiausi resursai:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Name:">
         <source>Name:</source>
-        <target state="translated"></target>
+        <target state="translated">Pavadinimas:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Taxes:">
         <source>Taxes:</source>
-        <target state="translated"></target>
+        <target state="translated">Mokesčiai:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tax rate">
         <source>Tax rate</source>
-        <target state="translated"></target>
+        <target state="translated">Mokesčio tarifas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="capacity utilization">
         <source>capacity utilization</source>
-        <target state="translated"></target>
+        <target state="translated">galios panaudojimas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Resource deposit">
         <source>Resource deposit</source>
-        <target state="translated"></target>
+        <target state="translated">Indėlių resursai</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="This is a resource deposit where you can build a mine to dig up resources.">
         <source>This is a resource deposit where you can build a mine to dig up resources.</source>
@@ -1256,31 +1259,31 @@ Prašome apie tai pranešti žaidimo autoriui.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Needed resources:">
         <source>Needed resources:</source>
-        <target state="translated"></target>
+        <target state="translated">Reikalingi resursai</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Happiness">
         <source>Happiness</source>
-        <target state="translated"></target>
+        <target state="translated">Pasitenkinimas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Paid taxes">
         <source>Paid taxes</source>
-        <target state="translated"></target>
+        <target state="translated">Sumokėti mokesčiai</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Residents">
         <source>Residents</source>
-        <target state="translated"></target>
+        <target state="translated">Gyventojai</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build settlement:">
         <source>Build settlement:</source>
-        <target state="translated"></target>
+        <target state="translated">Statyti nausėdiją:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Click to change the name of this ship.">
         <source>Click to change the name of this ship.</source>
-        <target state="translated"></target>
+        <target state="translated">Spragtelėkite, kad pakeistumėte šio laivo pavadinimą.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build settlement">
         <source>Build settlement</source>
-        <target state="translated"></target>
+        <target state="translated">Statyti nausėdiją</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The signal fire shows the free trader how to reach your settlement in case you want to buy or sell goods.">
         <source>The signal fire shows the free trader how to reach your settlement in case you want to buy or sell goods.</source>
@@ -1292,23 +1295,23 @@ Prašome apie tai pranešti žaidimo autoriui.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Exchange:">
         <source>Exchange:</source>
-        <target state="translated"></target>
+        <target state="translated">Keistis:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Ship:">
         <source>Ship:</source>
-        <target state="translated"></target>
+        <target state="translated">Laivas:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Trade partner:">
         <source>Trade partner:</source>
-        <target state="translated"></target>
+        <target state="translated">Prekybos partneris:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Configure trading route:">
         <source>Configure trading route:</source>
-        <target state="translated"></target>
+        <target state="translated">Konfigūruoti prekybos maršrutą:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Load/Unload:">
         <source>Load/Unload:</source>
-        <target state="translated"></target>
+        <target state="translated">Įkelti/Perkrauti</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Error: Invalid syntax in --mp-master commandline option. Port must be a number between 1 and 65535.">
         <source>Error: Invalid syntax in --mp-master commandline option. Port must be a number between 1 and 65535.</source>
@@ -1352,7 +1355,7 @@ Prašome apie tai pranešti žaidimo autoriui.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Error: No quicksave found.">
         <source>Error: No quicksave found.</source>
-        <target state="translated"></target>
+        <target state="translated">Klaida: Nėra greito įrašymo.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Not possible">
         <source>Not possible</source>
@@ -1372,7 +1375,7 @@ Prašome apie tai pranešti žaidimo autoriui.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Error: Cannot find campaign &quot;%s&quot;.">
         <source>Error: Cannot find campaign "%s".</source>
-        <target state="translated"></target>
+        <target state="translated">Klaida: Negalima surasti žygio "%s".</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Error: Cannot find campaign with file &quot;%s&quot;.">
         <source>Error: Cannot find campaign with file "%s".</source>
@@ -1388,7 +1391,7 @@ Prašome apie tai pranešti žaidimo autoriui.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You have won!">
         <source>You have won!</source>
-        <target state="translated"></target>
+        <target state="translated">Jūs laimėjote!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You have completed this scenario. ">
         <source>You have completed this scenario. </source>
@@ -1396,11 +1399,11 @@ Prašome apie tai pranešti žaidimo autoriui.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="unknown">
         <source>unknown</source>
-        <target state="translated"></target>
+        <target state="translated">nežinomas</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Failed to quicksave.">
+      <trans-unit xml:space="preserve" approved="yes" id="Failed to quicksave.">
         <source>Failed to quicksave.</source>
-        <target state="needs-translation">Nepavyko įrašyti</target>
+        <target state="translated">Nepavyko greitai įrašyti.</target>
         <note from="translator">75%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="An error happened during quicksave. Your game has not been saved.">
@@ -1413,7 +1416,7 @@ Prašome apie tai pranešti žaidimo autoriui.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="No quicksaves found">
         <source>No quicksaves found</source>
-        <target state="translated"></target>
+        <target state="translated">Nerasta greito įrašymo</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You need to quicksave before you can quickload.">
         <source>You need to quicksave before you can quickload.</source>
@@ -1440,9 +1443,9 @@ Prašome apie tai pranešti žaidimo autoriui.</target>
         <source>The savegame file is currently used by another program.</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Trader">
+      <trans-unit xml:space="preserve" approved="yes" id="Trader">
         <source>Trader</source>
-        <target state="needs-translation">Prekyba</target>
+        <target state="translated">Pirklys</target>
         <note from="translator">83%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enable debug output to stderr and a logfile.">
@@ -1591,11 +1594,11 @@ Prašome apie tai pranešti žaidimo autoriui.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Doctor">
         <source>Doctor</source>
-        <target state="translated"></target>
+        <target state="translated">Gydytojas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Farm">
         <source>Farm</source>
-        <target state="translated"></target>
+        <target state="translated">Ūkis</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Fish Deposit">
         <source>Fish Deposit</source>
@@ -1607,7 +1610,7 @@ Prašome apie tai pranešti žaidimo autoriui.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Herbary">
         <source>Herbary</source>
-        <target state="translated"></target>
+        <target state="translated">Herbariumas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Hunter's Tent">
         <source>Hunter's Tent</source>
@@ -1619,7 +1622,7 @@ Prašome apie tai pranešti žaidimo autoriui.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Log">
         <source>Log</source>
-        <target state="translated"></target>
+        <target state="translated">Žurnalas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Lookout">
         <source>Lookout</source>
@@ -1635,115 +1638,115 @@ Prašome apie tai pranešti žaidimo autoriui.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Mountain">
         <source>Mountain</source>
-        <target state="translated"></target>
+        <target state="translated">Kalnas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Pasture">
         <source>Pasture</source>
-        <target state="translated"></target>
+        <target state="translated">Ganykla</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Pavilion">
         <source>Pavilion</source>
-        <target state="translated"></target>
+        <target state="translated">Paviljonas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Pigsty">
         <source>Pigsty</source>
-        <target state="translated"></target>
+        <target state="translated">Kiaulidė</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Potato Field">
         <source>Potato Field</source>
-        <target state="translated"></target>
+        <target state="translated">Bulvių laukas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Rampart">
         <source>Rampart</source>
-        <target state="translated"></target>
+        <target state="translated">Pylimas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Salt Ponds">
         <source>Salt Ponds</source>
-        <target state="translated"></target>
+        <target state="translated">Druskos tvenkiniai</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Signal Fire">
         <source>Signal Fire</source>
-        <target state="translated"></target>
+        <target state="translated">Ugnies signalas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Smeltery">
         <source>Smeltery</source>
-        <target state="translated"></target>
+        <target state="translated">Lydykla</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Storage Tent">
         <source>Storage Tent</source>
-        <target state="translated"></target>
+        <target state="translated">Saugojimo palapinė</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sugar Field">
         <source>Sugar Field</source>
-        <target state="translated"></target>
+        <target state="translated">Cukraus laukas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tavern">
         <source>Tavern</source>
-        <target state="translated"></target>
+        <target state="translated">Smuklė</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tent">
         <source>Tent</source>
-        <target state="translated"></target>
+        <target state="translated">Palapinė</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tent Ruin">
         <source>Tent Ruin</source>
-        <target state="translated"></target>
+        <target state="translated">Palapinės griuvėsiai</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tobacco Field">
         <source>Tobacco Field</source>
-        <target state="translated"></target>
+        <target state="translated">Tabako laukas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tobacconist">
         <source>Tobacconist</source>
-        <target state="translated"></target>
+        <target state="translated">Tabakininkas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Toolmaker">
         <source>Toolmaker</source>
-        <target state="translated"></target>
+        <target state="translated">Įrankininkas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Trail">
         <source>Trail</source>
-        <target state="translated"></target>
+        <target state="translated">Takas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Village school">
         <source>Village school</source>
-        <target state="translated"></target>
+        <target state="translated">Kaimo mokykla</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Weaver's Tent">
         <source>Weaver's Tent</source>
-        <target state="translated"></target>
+        <target state="translated">Audėjo palapinė</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="black">
         <source>black</source>
-        <target state="translated"></target>
+        <target state="translated">juoda</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="blue">
         <source>blue</source>
-        <target state="translated"></target>
+        <target state="translated">mėlyna</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="cyan">
         <source>cyan</source>
-        <target state="translated"></target>
+        <target state="translated">žydra</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="green">
         <source>green</source>
-        <target state="translated"></target>
+        <target state="translated">žalia</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pink">
         <source>pink</source>
-        <target state="translated"></target>
+        <target state="translated">rožinė</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="red">
         <source>red</source>
-        <target state="translated"></target>
+        <target state="translated">raudona</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="white">
         <source>white</source>
-        <target state="translated"></target>
+        <target state="translated">balta</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="yellow">
         <source>yellow</source>
-        <target state="translated"></target>
+        <target state="translated">geltona</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="A new settlement has been created by ${player}.">
         <source>A new settlement has been created by ${player}.</source>
@@ -1767,7 +1770,7 @@ Prašome apie tai pranešti žaidimo autoriui.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="YOU HAVE WON!!!">
         <source>YOU HAVE WON!!!</source>
-        <target state="translated"></target>
+        <target state="translated">JŪS LAIMĖJOTE!!!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You need more ${resource} to build this building.">
         <source>You need more ${resource} to build this building.</source>
@@ -1787,183 +1790,183 @@ Prašome apie tai pranešti žaidimo autoriui.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="acorns">
         <source>acorns</source>
-        <target state="translated"></target>
+        <target state="translated">gilės</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="boards">
         <source>boards</source>
-        <target state="translated"></target>
+        <target state="translated">lentos</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="bricks">
         <source>bricks</source>
-        <target state="translated"></target>
+        <target state="translated">plytos</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="cattle">
         <source>cattle</source>
-        <target state="translated"></target>
+        <target state="translated">galvijai</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="cattle for slaughter">
         <source>cattle for slaughter</source>
-        <target state="translated"></target>
+        <target state="translated">skerdimui skirti galvijai</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="charcoal">
         <source>charcoal</source>
-        <target state="translated"></target>
+        <target state="translated">anglis</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="clay">
         <source>clay</source>
-        <target state="translated"></target>
+        <target state="translated">molis</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="coins">
         <source>coins</source>
-        <target state="translated"></target>
+        <target state="translated">monetos</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="community">
         <source>community</source>
-        <target state="translated"></target>
+        <target state="translated">bendruomenė</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="deer food A">
         <source>deer food A</source>
-        <target state="translated"></target>
+        <target state="translated">elnio maistas A</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="deer meat">
         <source>deer meat</source>
-        <target state="translated"></target>
+        <target state="translated">elnio mėsa</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="education">
         <source>education</source>
-        <target state="translated"></target>
+        <target state="translated">išsilavinimas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="faith">
         <source>faith</source>
-        <target state="translated"></target>
+        <target state="translated">tikėjimas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="fish">
         <source>fish</source>
-        <target state="translated"></target>
+        <target state="translated">žuvis</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="food">
         <source>food</source>
-        <target state="translated"></target>
+        <target state="translated">maistas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="get-together">
         <source>get-together</source>
-        <target state="translated"></target>
+        <target state="translated">susitikimas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="grass">
         <source>grass</source>
-        <target state="translated"></target>
+        <target state="translated">žolė</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="happiness">
         <source>happiness</source>
-        <target state="translated"></target>
+        <target state="translated">pasitenkinimas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="herbs">
         <source>herbs</source>
-        <target state="translated"></target>
+        <target state="translated">vaistažolės</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="iron ingots">
         <source>iron ingots</source>
-        <target state="translated"></target>
+        <target state="translated">geležies luitai</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="iron ore">
         <source>iron ore</source>
-        <target state="translated"></target>
+        <target state="translated">geležies rūda</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="lamb wool">
         <source>lamb wool</source>
-        <target state="translated"></target>
+        <target state="translated">ėriuko vilna</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="liquor">
         <source>liquor</source>
-        <target state="translated"></target>
+        <target state="translated">alkoholis</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pigs">
         <source>pigs</source>
-        <target state="translated"></target>
+        <target state="translated">kiaulės</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pigs for slaughter">
         <source>pigs for slaughter</source>
-        <target state="translated"></target>
+        <target state="translated">skerdimui skirtos kiaulės</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="potatoes">
         <source>potatoes</source>
-        <target state="translated"></target>
+        <target state="translated">bulvės</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="raw clay">
         <source>raw clay</source>
-        <target state="translated"></target>
+        <target state="translated">molio žaliava</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="raw herbs">
         <source>raw herbs</source>
-        <target state="translated"></target>
+        <target state="translated">vaistažolių žaliava</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="raw iron">
         <source>raw iron</source>
-        <target state="translated"></target>
+        <target state="translated">geležies žaliava</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="raw sugar">
         <source>raw sugar</source>
-        <target state="translated"></target>
+        <target state="translated">cukraus žaliava</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="raw tobacco">
         <source>raw tobacco</source>
-        <target state="translated"></target>
+        <target state="translated">tabako žaliava</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="salt">
         <source>salt</source>
-        <target state="translated"></target>
+        <target state="translated">druska</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="sugar">
         <source>sugar</source>
-        <target state="translated"></target>
+        <target state="translated">cukrus</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="textile">
         <source>textile</source>
-        <target state="translated"></target>
+        <target state="translated">tekstilė</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tobacco">
         <source>tobacco</source>
-        <target state="translated"></target>
+        <target state="translated">tabakas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tobaccos">
         <source>tobaccos</source>
-        <target state="translated"></target>
+        <target state="translated">tabakui</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tools">
         <source>tools</source>
-        <target state="translated"></target>
+        <target state="translated">įrankiai</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="wood">
         <source>wood</source>
-        <target state="translated"></target>
+        <target state="translated">mediena</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="wool">
         <source>wool</source>
-        <target state="translated"></target>
+        <target state="translated">vilna</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="aristocrat">
         <source>aristocrat</source>
-        <target state="translated"></target>
+        <target state="translated">aristokratas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="citizen">
         <source>citizen</source>
-        <target state="translated"></target>
+        <target state="translated">miestiečiai</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="merchant">
         <source>merchant</source>
-        <target state="translated"></target>
+        <target state="translated">pirklys</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pioneer">
         <source>pioneer</source>
-        <target state="translated"></target>
+        <target state="translated">pionierius</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="sailor">
         <source>sailor</source>
-        <target state="translated"></target>
+        <target state="translated">jūreivis</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="settler">
         <source>settler</source>
-        <target state="translated"></target>
+        <target state="translated">naujakurys</target>
       </trans-unit>
     </body>
   </file>
