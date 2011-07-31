@@ -1822,11 +1822,11 @@ Bitte meldet dies dem Autor.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="cattle">
         <source>cattle</source>
-        <target state="translated">Vieh</target>
+        <target state="translated">Rinder</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="cattle for slaughter">
         <source>cattle for slaughter</source>
-        <target state="translated">Schlachtvieh</target>
+        <target state="translated">Schlachtrinder</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="charcoal">
         <source>charcoal</source>
@@ -1908,7 +1908,8 @@ Bitte meldet dies dem Autor.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pigs for slaughter">
         <source>pigs for slaughter</source>
-        <target state="translated">Schlachtvieh</target>
+        <target state="translated">Mastschweine</target>
+        <note from="translator">2x Schlachtvieh für Cattle und Pigs?</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="potatoes">
         <source>potatoes</source>

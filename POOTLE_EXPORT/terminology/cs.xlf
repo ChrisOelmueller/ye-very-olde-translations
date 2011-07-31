@@ -115,8 +115,8 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="production">
         <source>production</source>
-        <target state="translated">produkce</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (7)
+        <target state="translated">výroba</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (7)&#13;
 (poterminology) uh/unknownhorizons.pot (4)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tab">
@@ -422,11 +422,11 @@
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (9)
 (poterminology) uh/unknownhorizons.pot (4)</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="produced">
+      <trans-unit xml:space="preserve" approved="yes" id="produced">
         <source>produced</source>
-        <target state="needs-translation">produkování</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (9)
-(poterminology) uh/unknownhorizons.pot (4)
+        <target state="translated">vyrobeno</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (9)&#13;
+(poterminology) uh/unknownhorizons.pot (4)&#13;
 87%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pasture">
@@ -545,15 +545,18 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="citizen">
         <source>citizen</source>
-        <target state="translated"></target>
+        <target state="translated">občan</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="merchant">
         <source>merchant</source>
-        <target state="translated"></target>
+        <target state="translated">obchodník</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="aristocrat">
         <source>aristocrat</source>
-        <target state="translated"></target>
+        <target state="translated">šlechtic</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>šlechtic</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="refresh">
         <source>refresh</source>
@@ -617,8 +620,8 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Captain's log">
         <source>Captain's log</source>
-        <target state="translated">kapitánův deník</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)
+        <target state="translated">Lodní deník</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)&#13;
 (poterminology) uh/unknownhorizons.pot (3)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="cloth">
@@ -790,12 +793,15 @@
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (2)
 (poterminology) uh/unknownhorizons.pot (1)</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="hunt">
+      <trans-unit xml:space="preserve" approved="yes" id="hunt">
         <source>hunt</source>
-        <target state="needs-translation">lovy</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)
-(poterminology) uh/unknownhorizons.pot (1)
+        <target state="translated">lovit</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)&#13;
+(poterminology) uh/unknownhorizons.pot (1)&#13;
 80%</note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>lov</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="income">
         <source>income</source>
@@ -890,19 +896,31 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="check">
         <source>check</source>
-        <target state="translated"></target>
+        <target state="translated">zkontrolovat</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>kontrola</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="connection">
         <source>connection</source>
-        <target state="translated"></target>
+        <target state="translated">spojení</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>spojení</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="no">
         <source>no</source>
-        <target state="translated"></target>
+        <target state="translated">ne</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>ne</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tax">
         <source>tax</source>
-        <target state="translated"></target>
+        <target state="translated">daň</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>daň</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="feature">
         <source>feature</source>
@@ -922,23 +940,38 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="condition">
         <source>condition</source>
-        <target state="translated"></target>
+        <target state="translated">podmínka</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>stav</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="consume">
         <source>consume</source>
-        <target state="translated"></target>
+        <target state="translated">spotřebovat</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>spotřebovat</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="contact">
         <source>contact</source>
-        <target state="translated"></target>
+        <target state="translated">kontakt</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>styk</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="dialogue">
         <source>dialogue</source>
-        <target state="translated"></target>
+        <target state="translated">dialog</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>rozhovor</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="issues">
         <source>issues</source>
-        <target state="translated"></target>
+        <target state="translated">problémy</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>problémy</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="minimap">
         <source>minimap</source>
@@ -946,77 +979,125 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="playing">
         <source>playing</source>
-        <target state="translated"></target>
+        <target state="translated">hraní</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>hraní</target>
+        </alt-trans>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="ruin">
+      <trans-unit xml:space="preserve" approved="yes" id="ruin">
         <source>ruin</source>
-        <target state="needs-translation">běh</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)
-(poterminology) uh/unknownhorizons.pot (1)
+        <target state="translated">ruina</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)&#13;
+(poterminology) uh/unknownhorizons.pot (1)&#13;
 75%</note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>ruina</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="seed">
         <source>seed</source>
-        <target state="translated"></target>
+        <target state="translated">osivo</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>semeno</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="temporarily">
         <source>temporarily</source>
-        <target state="translated"></target>
+        <target state="translated">dočasně</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>dočasně</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="salt ponds">
         <source>salt ponds</source>
-        <target state="translated"></target>
+        <target state="translated">solná jezera</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>solná jezera</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tobacco">
         <source>tobacco</source>
-        <target state="translated"></target>
+        <target state="translated">tabák</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>tabák</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="cattle">
         <source>cattle</source>
-        <target state="translated"></target>
+        <target state="translated">skot</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>skot</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pig">
         <source>pig</source>
-        <target state="translated"></target>
+        <target state="translated">prase</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>prase</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="herbs">
         <source>herbs</source>
-        <target state="translated"></target>
+        <target state="translated">byliny</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>byliny</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>bylinky</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="herbary">
         <source>herbary</source>
-        <target state="translated"></target>
+        <target state="translated">bylinkářství</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>bylinný</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>bylinkářství</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="butchery">
         <source>butchery</source>
-        <target state="translated"></target>
+        <target state="translated">řeznictví</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>řeznictví</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="doctor">
         <source>doctor</source>
-        <target state="translated"></target>
+        <target state="translated">lékař</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>lékař</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="education">
         <source>education</source>
-        <target state="translated"></target>
+        <target state="translated">vzdělání</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>vzdělání</target>
+        </alt-trans>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="clay">
+      <trans-unit xml:space="preserve" approved="yes" id="clay">
         <source>clay</source>
-        <target state="needs-translation">hrát</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)
-(poterminology) uh/unknownhorizons.pot (2)
+        <target state="translated">jíl</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)&#13;
+(poterminology) uh/unknownhorizons.pot (2)&#13;
 75%</note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>jíl</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="charcoal">
         <source>charcoal</source>
-        <target state="translated"></target>
+        <target state="translated">dřevěné uhlí</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="iron">
         <source>iron</source>
-        <target state="translated"></target>
+        <target state="translated">železo</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="ore">
         <source>ore</source>
-        <target state="translated"></target>
+        <target state="translated">ruda</target>
       </trans-unit>
     </body>
   </file>
