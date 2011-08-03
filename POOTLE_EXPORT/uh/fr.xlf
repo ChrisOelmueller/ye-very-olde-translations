@@ -800,11 +800,11 @@ Veuillez rapporter ceci à l'auteur.</target>
       <trans-unit xml:space="preserve" approved="yes" id="Continue playing">
         <source>Continue playing</source>
         <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Continuer de jouer</target>
-        </alt-trans>
         <alt-trans xml:space="preserve" origin="LawNasK">
           <target>Continuer à jouer</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Continuer de jouer</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Choose this scenario">
