@@ -423,15 +423,12 @@ Woodcutter will be translated by bucheron. Lumberjack is difficult to translate 
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (9)
 (poterminology) uh/unknownhorizons.pot (4)</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="produced">
+      <trans-unit xml:space="preserve" approved="yes" id="produced">
         <source>produced</source>
-        <target state="needs-translation">produire</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (9)
-(poterminology) uh/unknownhorizons.pot (4)
+        <target state="translated">produit</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (9)&#13;
+(poterminology) uh/unknownhorizons.pot (4)&#13;
 87%</note>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>produit</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pasture">
         <source>pasture</source>
@@ -801,11 +798,11 @@ tisserand is really more beautifull than tisseur, isn't it ?</note>
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (2)
 (poterminology) uh/unknownhorizons.pot (1)</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="hunt">
+      <trans-unit xml:space="preserve" approved="yes" id="hunt">
         <source>hunt</source>
-        <target state="needs-translation">chasse</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)
-(poterminology) uh/unknownhorizons.pot (1)
+        <target state="translated">chasser</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)&#13;
+(poterminology) uh/unknownhorizons.pot (1)&#13;
 80%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="income">
@@ -902,21 +899,24 @@ see lamb. wool come from sheep, lambs give meat</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="check">
         <source>check</source>
-        <target state="translated"></target>
+        <target state="translated">vérifier</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>vérifié</target>
+        </alt-trans>
         <alt-trans xml:space="preserve" origin="nobody">
           <target>Vérifier</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="connection">
         <source>connection</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>connexion</target>
-        </alt-trans>
+        <target state="translated">connexion</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="no">
+      <trans-unit xml:space="preserve" approved="yes" id="no">
         <source>no</source>
-        <target state="needs-translation">aucun</target>
+        <target state="translated">non</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>non</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tax">
         <source>tax</source>
@@ -940,17 +940,11 @@ see lamb. wool come from sheep, lambs give meat</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="condition">
         <source>condition</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>condition</target>
-        </alt-trans>
+        <target state="translated">condition</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="consume">
         <source>consume</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>consommer</target>
-        </alt-trans>
+        <target state="translated">consommer</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="contact">
         <source>contact</source>
@@ -958,17 +952,11 @@ see lamb. wool come from sheep, lambs give meat</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="dialogue">
         <source>dialogue</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>dialogue</target>
-        </alt-trans>
+        <target state="translated">dialogue</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="issues">
+      <trans-unit xml:space="preserve" approved="yes" id="issues">
         <source>issues</source>
-        <target state="needs-translation">problème</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>problèmes</target>
-        </alt-trans>
+        <target state="translated">problèmes</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="minimap">
         <source>minimap</source>
@@ -976,17 +964,14 @@ see lamb. wool come from sheep, lambs give meat</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="playing">
         <source>playing</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>jouant</target>
-        </alt-trans>
+        <target state="translated">jouant</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="ruin">
+      <trans-unit xml:space="preserve" approved="yes" id="ruin">
         <source>ruin</source>
-        <target state="needs-translation">rouler / exploiter</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)
-(poterminology) uh/unknownhorizons.pot (1)
-Of course, here is all about context cause run can also be translated by 'courir' (using legs for running !)
+        <target state="translated">ruine</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)&#13;
+(poterminology) uh/unknownhorizons.pot (1)&#13;
+Of course, here is all about context cause run can also be translated by 'courir' (using legs for running !)&#13;
 75%</note>
         <alt-trans xml:space="preserve" origin="nobody">
           <target>ruiner</target>
@@ -994,17 +979,11 @@ Of course, here is all about context cause run can also be translated by 'courir
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="seed">
         <source>seed</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>graine</target>
-        </alt-trans>
+        <target state="translated">graine</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="temporarily">
         <source>temporarily</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>temporairement</target>
-        </alt-trans>
+        <target state="translated">temporairement</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="salt ponds">
         <source>salt ponds</source>
