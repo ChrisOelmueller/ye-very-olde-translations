@@ -434,10 +434,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="storage tent">
         <source>storage tent</source>
-        <target state="translated">tienda de almacenamiento</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>tienda almacén</target>
-        </alt-trans>
+        <target state="translated">tienda almacén</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="sugar">
         <source>sugar</source>
