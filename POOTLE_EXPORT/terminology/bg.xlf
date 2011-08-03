@@ -4,7 +4,7 @@
     <body>
       <trans-unit xml:space="preserve" approved="yes" id="build">
         <source>build</source>
-        <target state="translated"></target>
+        <target state="translated">построй</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="game">
         <source>game</source>
@@ -120,7 +120,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="trail">
         <source>trail</source>
-        <target state="translated"></target>
+        <target state="translated">следа</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="boards">
         <source>boards</source>
@@ -228,7 +228,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pavilion">
         <source>pavilion</source>
-        <target state="translated"></target>
+        <target state="translated">палата</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="potato">
         <source>potato</source>
@@ -240,7 +240,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="raw">
         <source>raw</source>
-        <target state="translated">суров</target>
+        <target state="translated">суровина</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="running">
         <source>running</source>
@@ -412,19 +412,19 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="build settlement">
         <source>build settlement</source>
-        <target state="translated"></target>
+        <target state="translated">построй колония</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Captain's log">
         <source>Captain's log</source>
-        <target state="translated"></target>
+        <target state="translated">Дневникът на капитана</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="cloth">
         <source>cloth</source>
-        <target state="translated"></target>
+        <target state="translated">плат</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="description">
         <source>description</source>
-        <target state="translated"></target>
+        <target state="translated">описание</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="happiness">
         <source>happiness</source>
@@ -432,187 +432,187 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="increase">
         <source>increase</source>
-        <target state="translated"></target>
+        <target state="translated">нараства</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="liquor">
         <source>liquor</source>
-        <target state="translated"></target>
+        <target state="translated">ликьор</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="mode">
         <source>mode</source>
-        <target state="translated"></target>
+        <target state="translated">метод</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="multiple">
         <source>multiple</source>
-        <target state="translated"></target>
+        <target state="translated">многоброен</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="output">
         <source>output</source>
-        <target state="translated"></target>
+        <target state="translated">изходни данни</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="play">
         <source>play</source>
-        <target state="translated"></target>
+        <target state="translated">играй</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="sale">
         <source>sale</source>
-        <target state="translated"></target>
+        <target state="translated">продай</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="save">
         <source>save</source>
-        <target state="translated"></target>
+        <target state="translated">запази</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="school">
         <source>school</source>
-        <target state="translated"></target>
+        <target state="translated">училище</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="screen">
         <source>screen</source>
-        <target state="translated"></target>
+        <target state="translated">екран</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="solution">
         <source>solution</source>
-        <target state="translated"></target>
+        <target state="translated">решение</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="sound">
         <source>sound</source>
-        <target state="translated"></target>
+        <target state="translated">звук</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="from time to time">
         <source>from time to time</source>
-        <target state="translated"></target>
+        <target state="translated">от време на време</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="trading">
         <source>trading</source>
-        <target state="translated"></target>
+        <target state="translated">търгуване</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="visit">
         <source>visit</source>
-        <target state="translated"></target>
+        <target state="translated">посети</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="weaver">
         <source>weaver</source>
-        <target state="translated"></target>
+        <target state="translated">тъкач</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="animal">
         <source>animal</source>
-        <target state="translated"></target>
+        <target state="translated">животно</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="fish">
         <source>fish</source>
-        <target state="translated"></target>
+        <target state="translated">риба</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="fisherman">
         <source>fisherman</source>
-        <target state="translated"></target>
+        <target state="translated">рибар</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="forest">
         <source>forest</source>
-        <target state="translated"></target>
+        <target state="translated">гора</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="forum">
         <source>forum</source>
-        <target state="translated"></target>
+        <target state="translated">форум</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="fulfill">
         <source>fulfill</source>
-        <target state="translated"></target>
+        <target state="translated">изпълнявам</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="graphics">
         <source>graphics</source>
-        <target state="translated"></target>
+        <target state="translated">графики</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="grow">
         <source>grow</source>
-        <target state="translated"></target>
+        <target state="translated">растя</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hold">
         <source>hold</source>
-        <target state="translated"></target>
+        <target state="translated">задържам</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hunt">
         <source>hunt</source>
-        <target state="translated"></target>
+        <target state="translated">ловувам</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="income">
         <source>income</source>
-        <target state="translated"></target>
+        <target state="translated">приход</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="information">
         <source>information</source>
-        <target state="translated"></target>
+        <target state="translated">информация</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="key">
         <source>key</source>
-        <target state="translated"></target>
+        <target state="translated">ключ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="lamb wool">
         <source>lamb wool</source>
-        <target state="translated"></target>
+        <target state="translated">агнешка вълна</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="load/unload">
         <source>load/unload</source>
-        <target state="translated"></target>
+        <target state="translated">зареди/презареди</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="return">
         <source>return</source>
-        <target state="translated"></target>
+        <target state="translated">върни</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="service">
         <source>service</source>
-        <target state="translated"></target>
+        <target state="translated">услуга</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="sheep">
         <source>sheep</source>
-        <target state="translated"></target>
+        <target state="translated">овца</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="ship inventory">
         <source>ship inventory</source>
-        <target state="translated"></target>
+        <target state="translated">инвентар на кораба</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="starting">
         <source>starting</source>
-        <target state="translated"></target>
+        <target state="translated">стартиране</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="trade partner">
         <source>trade partner</source>
-        <target state="translated"></target>
+        <target state="translated">търговски партньор</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="yields">
         <source>yields</source>
-        <target state="translated"></target>
+        <target state="translated">добиви</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="faith">
         <source>faith</source>
-        <target state="translated"></target>
+        <target state="translated">доверие</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="green">
         <source>green</source>
-        <target state="translated"></target>
+        <target state="translated">зелен</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="red">
         <source>red</source>
-        <target state="translated"></target>
+        <target state="translated">червен</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="check">
         <source>check</source>
-        <target state="translated"></target>
+        <target state="translated">провери</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="connection">
         <source>connection</source>
-        <target state="translated"></target>
+        <target state="translated">свържи се</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="no">
         <source>no</source>
-        <target state="translated"></target>
+        <target state="translated">няма</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tax">
         <source>tax</source>
-        <target state="translated"></target>
+        <target state="translated">такса</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="feature">
         <source>feature</source>
-        <target state="translated"></target>
+        <target state="translated">характерна черта</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="reached">
         <source>reached</source>
@@ -620,99 +620,99 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="slider">
         <source>slider</source>
-        <target state="translated"></target>
+        <target state="translated">плъзгач</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="condition">
         <source>condition</source>
-        <target state="translated"></target>
+        <target state="translated">условие</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="consume">
         <source>consume</source>
-        <target state="translated"></target>
+        <target state="translated">консумирам</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="contact">
         <source>contact</source>
-        <target state="translated"></target>
+        <target state="translated">контакт</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="dialogue">
         <source>dialogue</source>
-        <target state="translated"></target>
+        <target state="translated">диалог</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="issues">
         <source>issues</source>
-        <target state="translated"></target>
+        <target state="translated">въпроси</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="minimap">
         <source>minimap</source>
-        <target state="translated"></target>
+        <target state="translated">миникарта</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="playing">
         <source>playing</source>
-        <target state="translated"></target>
+        <target state="translated">играене</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="ruin">
         <source>ruin</source>
-        <target state="translated"></target>
+        <target state="translated">разрушавам</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="seed">
         <source>seed</source>
-        <target state="translated"></target>
+        <target state="translated">садя</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="temporarily">
         <source>temporarily</source>
-        <target state="translated"></target>
+        <target state="translated">временно</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="salt ponds">
         <source>salt ponds</source>
-        <target state="translated"></target>
+        <target state="translated">солници</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tobacco">
         <source>tobacco</source>
-        <target state="translated"></target>
+        <target state="translated">тютюн</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="cattle">
         <source>cattle</source>
-        <target state="translated"></target>
+        <target state="translated">добитък</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pig">
         <source>pig</source>
-        <target state="translated"></target>
+        <target state="translated">свиня</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="herbs">
         <source>herbs</source>
-        <target state="translated"></target>
+        <target state="translated">билки</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="herbary">
         <source>herbary</source>
-        <target state="translated"></target>
+        <target state="translated">дрогерия</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="butchery">
         <source>butchery</source>
-        <target state="translated"></target>
+        <target state="translated">кланица</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="doctor">
         <source>doctor</source>
-        <target state="translated"></target>
+        <target state="translated">лекар</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="education">
         <source>education</source>
-        <target state="translated"></target>
+        <target state="translated">образование</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="clay">
         <source>clay</source>
-        <target state="translated"></target>
+        <target state="translated">глина</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="charcoal">
         <source>charcoal</source>
-        <target state="translated"></target>
+        <target state="translated">дървени въглища</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="iron">
         <source>iron</source>
-        <target state="translated"></target>
+        <target state="translated">желязо</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="ore">
         <source>ore</source>
-        <target state="translated"></target>
+        <target state="translated">руда</target>
       </trans-unit>
     </body>
   </file>
