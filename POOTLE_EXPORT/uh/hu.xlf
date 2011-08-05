@@ -410,15 +410,15 @@ Kérlek ezt jelentsd az alkotójának.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Pavilion: Fulfills religious needs of sailors.">
         <source>Pavilion: Fulfills religious needs of sailors.</source>
-        <target state="translated">Pavilon: Kielégíti a hajósok vallási szükségleteit</target>
+        <target state="translated">Pavilon: Kielégíti a hajósok vallási szükségleteit.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Fisherman: Fishes the sea, produces food.">
         <source>Fisherman: Fishes the sea, produces food.</source>
-        <target state="translated">Halász: Halászik a tengeren, élelmet készít</target>
+        <target state="translated">Halász: Halászik a tengeren, élelmet készít.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Hunter: Hunts wild forest animals, produces food.">
         <source>Hunter: Hunts wild forest animals, produces food.</source>
-        <target state="translated">Vadász: Vadakra vadászik az erdőben, élelmet készít</target>
+        <target state="translated">Vadász: Vadakra vadászik az erdőben, élelmet készít.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Signal fire: Allows the player to trade with the free trader.">
         <source>Signal fire: Allows the player to trade with the free trader.</source>
@@ -470,7 +470,7 @@ Kérlek ezt jelentsd az alkotójának.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Clay pit: Gets clay from deposit.">
         <source>Clay pit: Gets clay from deposit.</source>
-        <target state="translated">Agyagbánya: Agyagot termel</target>
+        <target state="translated">Agyagbánya: Agyagot termel.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Distillery: Turns sugar into liquor.">
         <source>Distillery: Turns sugar into liquor.</source>
@@ -494,7 +494,7 @@ Kérlek ezt jelentsd az alkotójának.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Village school: Provides education.">
         <source>Village school: Provides education.</source>
-        <target state="translated">Falusi iskola: Oktatást szolgáltat</target>
+        <target state="translated">Falusi iskola: Oktatást szolgáltat.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Weaver: Turns lamb wool into cloth.">
         <source>Weaver: Turns lamb wool into cloth.</source>

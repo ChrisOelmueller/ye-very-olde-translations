@@ -1064,10 +1064,9 @@ Poročajte o tem avtorju.</target>
         <source>Please make sure that you know what you do.</source>
         <target state="translated">Prepričajte se, da veste kaj delate.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Apply">
+      <trans-unit xml:space="preserve" approved="yes" id="Apply">
         <source>Apply</source>
-        <target state="needs-translation">Uveljavi:</target>
-        <note from="translator">83%</note>
+        <target state="translated">Uveljavi</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Reset to default settings">
         <source>Reset to default settings</source>
