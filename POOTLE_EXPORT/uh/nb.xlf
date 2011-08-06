@@ -1457,13 +1457,13 @@ Vennligst rapporter dette til forfatteren.</target>
         <source>Trader</source>
         <target state="translated">Kjøpmann</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Enable debug output to stderr and a logfile.">
+      <trans-unit xml:space="preserve" approved="no" id="Enable debug output to stderr and a logfile.">
         <source>Enable debug output to stderr and a logfile.</source>
-        <target state="translated">Enable debug output to stderr and a logfile.</target>
+        <target state="needs-translation">Enable debug output to stderr and a logfile.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Specify the path to FIFE root directory.">
+      <trans-unit xml:space="preserve" approved="no" id="Specify the path to FIFE root directory.">
         <source>Specify the path to FIFE root directory.</source>
-        <target state="translated">Specify the path to FIFE root directory.</target>
+        <target state="needs-translation">Specify the path to FIFE root directory.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Restores the default settings. Useful if Unknown Horizons crashes on startup due to misconfiguration.">
         <source>Restores the default settings. Useful if Unknown Horizons crashes on startup due to misconfiguration.</source>
