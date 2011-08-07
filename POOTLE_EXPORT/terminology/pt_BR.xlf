@@ -476,10 +476,9 @@
         <source>solution</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="sound">
+      <trans-unit xml:space="preserve" approved="yes" id="sound">
         <source>sound</source>
-        <target state="needs-translation">estabelecer / (fundar)</target>
-        <note from="translator">80%</note>
+        <target state="translated">estabelecer / fundar</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="from time to time">
         <source>from time to time</source>
