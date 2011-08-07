@@ -52,7 +52,7 @@ E agora, vamos iniciar o jgoo.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: SETTLE ON AN ISLAND">
         <source>NEW TASK: SETTLE ON AN ISLAND</source>
-        <target state="translated">NOVA TAREFA: ESTABELEÇA A SUA POVOAÇÂO NA ILHA</target>
+        <target state="translated">ESTABELEÇA A SUA POVOAÇÂO NA ILHA</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="To move your ship, select it with a left click and right click on the location you want it to go to.&#10;&#10;Once you are near the coast, the anchor-like button you see in the overview tab will become active.&#10;&#10;This indicates that you are able to build a branch office there by pressing that button (called 'Build Settlement').&#10;&#10;Now a preview of your building is dragged around when you move the cursor.&#10;&#10;You can build on any spot where this preview is not shaded red.&#10;Click where you want to place your first building.&#10;&#10;TASK: Build a branch office at the coast.">
         <source>To move your ship, select it with a left click and right click on the location you want it to go to.
@@ -82,7 +82,7 @@ TAREFA: Construir uma filial na costa.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: UNLOAD YOUR GOODS">
         <source>NEW TASK: UNLOAD YOUR GOODS</source>
-        <target state="translated">NOVA TAREFA: DESEMBARQUE AS MERCADORIAS</target>
+        <target state="translated">DESEMBARQUE AS MERCADORIAS</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Now that you have built the Branch Office, you need to move some of your resources to its stock.&#10;&#10;To do so, select your ship and go into the tab with the wooden box icon called 'Ship Inventory'.&#10;&#10;Here you get an overview of what this ship's cargo looks like and have the button 'Load/Unload'.&#10;&#10;This button becomes active if your ship is in range of a possible trade partner like a branch office.&#10;&#10;Click on the button. If it is not active, move your ship towards the branch office and then try again.&#10;&#10;TASK: Open the trade dialogue.">
         <source>Now that you have built the Branch Office, you need to move some of your resources to its stock.
@@ -140,7 +140,7 @@ TAREFA: Descarregar pelo menos 10 toneladas de cada recurso disponível no navio
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A LUMBERJACK">
         <source>NEW TASK: BUILD A LUMBERJACK</source>
-        <target state="translated">NOVA TAREFA: CRIE UM LENHADOR</target>
+        <target state="translated">CRIE UM LENHADOR</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="With your new construction material in the branch office, you can start to construct some basic buildings.&#10;&#10;We will start with building a lumberjack.&#10;&#10;This is essential because, at this stage, boards are the only poles your sailors can afford to hang their tents over.&#10;&#10;The fisherman needs some boards to build his vessel as well.&#10;&#10;In order to construct lumberjacks; open the build menu by either clicking the big icon below the mini map or pressing B key.&#10;&#10;The build menu is sorted by increments.&#10;You are currently in the first increment (the Sailors level) so are offered only the basic buildings.">
         <source>With your new construction material in the branch office, you can start to construct some basic buildings.
@@ -163,7 +163,7 @@ Isto é essencial, pois nesta altura, as tábuas são os únicos materiais dispo
 
 Os pescadores também necessitam de algumas tábuas para construírem os seus barcos.
 
-Para construir lenhadores; abra o menu de construção, através de um clique no icon por baixo do mapa miniatura ou pressionando a tecla 'B'.
+Para construir lenhadores; abra o menu de construção, através de um clique no icon por baixo do mapa miniatura ou pressionando a tecla B.
 
 O menu de construção é controlado através de níveis.
 Está presentemente no primeiro nível (o nível dos marinheiros), pelo que só estarão disponíveis edifícios básicos.</target>
@@ -202,7 +202,7 @@ Verifique como um colecionador irá produzir as suas primeiras tábuas.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: FOOD SUPPLY">
         <source>NEW TASK: FOOD SUPPLY</source>
-        <target state="translated">NOVA TAREFA: FORNECIMENTO DE COMIDA</target>
+        <target state="translated">FORNECIMENTO DE COMIDA</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You will need to have some food-producing companies, too, because people in general (and especially sailors) are very hungry.&#10;&#10;Available companies in the first increment are the Hunter and Fisher.&#10;&#10;The Hunter, surprisingly, hunts animals in the forest, so he needs trees around.&#10;&#10;Note that you can place your Hunter close to the lumberjack's forest.&#10;&#10;It can happen that the animals don't reproduce fast enough or simply hide well.&#10;&#10;Conclusion: the hunter is not too reliable if you need continuous supply.">
         <source>You will need to have some food-producing companies, too, because people in general (and especially sailors) are very hungry.
@@ -258,7 +258,7 @@ Não se esqueça de ligá-los à sua filial através de um caminho!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: MAIN SQUARE">
         <source>NEW TASK: MAIN SQUARE</source>
-        <target state="translated">NOVA TAREFA: PRAÇA PRINCIPAL</target>
+        <target state="translated">PRAÇA PRINCIPAL</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Your residents need a main square where they can fetch their goods from.&#10;&#10;This means that they need a trail connection from their home to the main square.&#10;&#10;All goods in your branch office are available at this 'market place', so your residents do not need to walk to the fisher or even to the branch office.&#10;&#10;You should consider founding your actual house settlement in an area where you can easily expand it and build some trails, too.&#10;&#10;You should avoid placing tents too close to your lumberjacks for example because building tents will clear away the trees that your lumberjack needs to produce boards.&#10;&#10;TASK: Build a main square.">
         <source>Your residents need a main square where they can fetch their goods from.
@@ -314,7 +314,7 @@ Na guia de 'Povoador' deverá ver se os seus residentes estão felizes e qual é
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: RESIDENTIAL BUILDINGS">
         <source>NEW TASK: RESIDENTIAL BUILDINGS</source>
-        <target state="translated">NOVA TAREFA: EDIFÍCIOS RESIDENCIAIS</target>
+        <target state="translated">EDIFÍCIOS RESIDENCIAIS</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Settlers want to have a roof over their heads, else they won't even think of living in your city! You need to provide tents.&#10;&#10;Tents are the basic residential buildings. Your inhabitants will want to upgrade it when they reach higher increments.&#10;&#10;Settlers may not look very useful since they will try to consume all goods you produce - but they at least pay taxes, and that's the only way you can make money for now!&#10;&#10;TASK: Build a tent and connect it to the main square.">
         <source>Settlers want to have a roof over their heads, else they won't even think of living in your city! You need to provide tents.
@@ -374,7 +374,7 @@ DICA: Mantendo pressionado SHIFT permite contruir vários edifícios do mesmo ti
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD SIGNAL FIRE">
         <source>NEW TASK: BUILD SIGNAL FIRE</source>
-        <target state="translated">NOVA TAREFA: CONSTUIR O SINAL DE FOGO</target>
+        <target state="translated">CONSTRUIR O SINAL DE FOGO</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Can you see the ship passing your island from time to time?&#10;&#10;This is the ship of the Free Trader, one of the first settlers in this archipelago.&#10;&#10;This trader will supply your settlement with necessary goods which you can't produce yet.&#10;&#10;You can also sell surpluses of your production, but in general consuming them (by building more tents) instead of selling to the Free Trader yields more profit.&#10;&#10;Normally the ships just sail around and look for deals, but small settlements like yours first need some promotion, otherwise you won't be found.&#10;&#10;For this purpose, you can build a signal fire at the coast near your branch office to show ships the way to your settlement.">
         <source>Can you see the ship passing your island from time to time?
@@ -400,7 +400,7 @@ Normalmente os navios de mercador viajam procurando negócios, no entanto pequen
 
 Para este purpósito, poderá construir um Sinal de Fogo na costa próximo da sua prefeitoria para mostrar aos navios o caminho para a sua povoação.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="After this little advertisment, the trader will stop by from time to time and look into your branch office.&#10;&#10;You can propose deals via the tab 'Buy/Sell'. (This feature is currently quite fiddly to use, but a re-design is in the pipeline. If you have found a nice way of doing it, please share your thoughts! We need your help here!)&#10;&#10;At the 'sailors' increment, you are equipped with three trading slots.&#10;&#10;Click on the small icon to change the slot mode from 'Buy' to 'Sell' and vice versa.&#10;&#10;If you click in the slot, you can choose the good you want to trade with. We will further explain this once you are ready to trade.&#10;&#10;TASK: Build a signal fire at the coast close to your branch office.">
+      <trans-unit xml:space="preserve" approved="no" id="After this little advertisment, the trader will stop by from time to time and look into your branch office.&#10;&#10;You can propose deals via the tab 'Buy/Sell'. (This feature is currently quite fiddly to use, but a re-design is in the pipeline. If you have found a nice way of doing it, please share your thoughts! We need your help here!)&#10;&#10;At the 'sailors' increment, you are equipped with three trading slots.&#10;&#10;Click on the small icon to change the slot mode from 'Buy' to 'Sell' and vice versa.&#10;&#10;If you click in the slot, you can choose the good you want to trade with. We will further explain this once you are ready to trade.&#10;&#10;TASK: Build a signal fire at the coast close to your branch office.">
         <source>After this little advertisment, the trader will stop by from time to time and look into your branch office.
 
 You can propose deals via the tab 'Buy/Sell'. (This feature is currently quite fiddly to use, but a re-design is in the pipeline. If you have found a nice way of doing it, please share your thoughts! We need your help here!)
@@ -412,7 +412,7 @@ Click on the small icon to change the slot mode from 'Buy' to 'Sell' and vice ve
 If you click in the slot, you can choose the good you want to trade with. We will further explain this once you are ready to trade.
 
 TASK: Build a signal fire at the coast close to your branch office.</source>
-        <target state="translated">Depois deste pequeno anúncio, o mercador livre irá visitá-lo de tempo a tempo e procurar pela sua prefeitoria.
+        <target state="needs-translation">Depois deste pequeno anúncio, o mercador livre irá visitá-lo de tempo a tempo e procurar pela sua prefeitoria.
 
 Poderá propor negócios através da guia de 'Comprar/Vender'. (Esta opção actualmente está a ser melhorada e redesenhada. Se encontrar uma forma de a melhorar, por favor partilhe as suas ideias! Agradecemos as suas ideias!)
 
@@ -424,7 +424,7 @@ TAREFA: Construa um Sinal de Fogo na costa, próximo da sua prefeitoria.</target
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: LEARN TO TRADE">
         <source>NEW TASK: LEARN TO TRADE</source>
-        <target state="translated">NOVA TAREFA: APRENDA A TROCAR</target>
+        <target state="translated">APRENDA A TROCAR</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Excellent! The Free Trader will now stop by at your branch office from time to time.&#10;&#10;Let's continue our tutorial on how to trade.&#10;&#10;After selecting a particular type of good, the green bar across the bottom of the slot (if visible) shows you how much you have in stock of this good.&#10;&#10;Dragging the slider on the right of each slot determines your 'target value' which has a different meaning on 'Buy' and 'Sell'. &#10;When buying, you will buy sufficient to hold your 'target value' in stock. &#10;When selling the 'target value' is the number which you hold in reserve to not sell">
         <source>Excellent! The Free Trader will now stop by at your branch office from time to time.
@@ -480,7 +480,7 @@ Se ainda tiver algumas no inventário do seu navio, poderá ser uma boa altura p
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A PAVILION">
         <source>NEW TASK: BUILD A PAVILION</source>
-        <target state="translated">NOVA TAREFA: CONSTRUA UM PAVILHÃO</target>
+        <target state="translated">CONSTRUA UM PAVILHÃO</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Those tools will be enough for the moment. Well done!&#10;&#10;You now provide housing, a main square and food to your inhabitants.&#10;&#10;Still there is one demand which we have not satisfied so far, you may check that in the marketplace or tent tab - your sailors want a basic building where they can pray.&#10;&#10;The solution is a pavilion which the village parson quickly puts up as shelter from the sun.&#10;&#10;Service buildings like this also need to be connected to the tents with a trail, else your inhabitants feel unable to reach them.&#10;&#10;In later increments, upgraded versions of buildings may become available.">
         <source>Those tools will be enough for the moment. Well done!
@@ -534,7 +534,7 @@ TAREFA: Construa um Pavilhão com um caminho para as tendas para satizfazer as n
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: NEXT INCREMENT">
         <source>NEW TASK: NEXT INCREMENT</source>
-        <target state="translated">NOVA TAREFA: O PRÓXIMO INCREMENTO</target>
+        <target state="translated">O PRÓXIMO INCREMENTO</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="All demands are fulfilled now if your inhabitants can regularly visit the main square &amp; pavilion and your food supply is adequate.&#10;&#10;If the sailors are happy enough, they want to advance to the next increment called Pioneers.&#10;&#10;To make them happy, there is nothing else for you to do but setting taxes to a lower level since you have fulfilled all the demands of your inhabitants.&#10;&#10;You should try to not always run on low taxes since this will probably lead to bankruptcy sooner or later. For a period of time and if you know what you are doing, it is fine though.&#10;&#10;After some time, the first unit should walk to the main square and have a look for new construction material there to build a log house. This house will replace the old tent.">
         <source>All demands are fulfilled now if your inhabitants can regularly visit the main square &amp; pavilion and your food supply is adequate.
@@ -582,7 +582,7 @@ TAREFA: Baixe os impostos e espere que pela promoção dos marinheiros a pioneir
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A FARM">
         <source>NEW TASK: BUILD A FARM</source>
-        <target state="translated">NOVA TAREFA: CONSTRUA UMA QUINTA</target>
+        <target state="translated">CONSTRUA UMA QUINTA</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Congratulations! Some of your inhabitants have reached increment II!&#10;&#10;Now you have access to new buildings, take a look at the Build menu again.&#10;&#10;A shiny new tab appeared there.&#10;&#10;Pioneers will demand cloth, so you need to set up a production line for cloth starting with lambs wool (which is one of the goods produced at the farm).&#10;&#10;The farm is a very special production building since it can produce not only one, but very many (and different) goods if you choose.&#10;&#10;The output of farms depends on what kind of fields you build around it.">
         <source>Congratulations! Some of your inhabitants have reached increment II!
@@ -638,7 +638,7 @@ TAREFA: Construa uma Quinta.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD FIELDS">
         <source>NEW TASK: BUILD FIELDS</source>
-        <target state="translated">NOVA TAREFA: CONSTRUA CAMPOS</target>
+        <target state="translated">CONSTRUA CAMPOS</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The farm itself is not going to produce anything without some fields.&#10;&#10;You currently have the choice between pastures, potato and sugar fields.&#10;&#10;Let's have a short overview:&#10;* Pasture: Sheep live here, producing lamb wool.&#10;* Potato field: Grows potatoes which are currently treated as food.&#10;* Sugar field: Grows sugar which is used to distill liquor and (later) produce confectionery.&#10;&#10;We now only need pastures, but in case your food supply chain is too small (maybe many residential buildings) you can also produce some potatoes.&#10;&#10;Note that for potatoes you will need a road connection to the farm (not to the field!) as it will be the only company to work on the goods.">
         <source>The farm itself is not going to produce anything without some fields.
@@ -692,7 +692,7 @@ TAREFA: Crie pelo menos uma pastagem na àrea envolvente da Quinta e adicione um
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD STORAGE">
         <source>NEW TASK: BUILD STORAGE</source>
-        <target state="translated">NOVA TAREFA: CONSTRUA UM ARMAZÉM</target>
+        <target state="translated">CONSTRUA UM ARMAZÉM</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Did you watch your lumberjack recently?&#10;&#10;Since your branch office does not have unlimited space to store goods, collectors will stop fetching goods from companies when stock is full.&#10;So if no sailor recently wanted to upgrade his tent, you probably have a lot of boards and in that case, the lumberjack may idle.&#10;We can improve this situation with two different approaches, and below we will have a look at both of them.&#10;&#10;All companies offer the possibility of doing no work at all.&#10;This may sound strange, but try to click on the gear wheel you see in, for example, a lumberjack's overview.&#10;&#10;If this 'break' mode is enabled (we call it 'Decommissioning'), the running costs you pay for the building will decrease. They won't be zero, but still lower than if you keep the company producing.">
         <source>Did you watch your lumberjack recently?
@@ -705,7 +705,7 @@ All companies offer the possibility of doing no work at all.
 This may sound strange, but try to click on the gear wheel you see in, for example, a lumberjack's overview.
 
 If this 'break' mode is enabled (we call it 'Decommissioning'), the running costs you pay for the building will decrease. They won't be zero, but still lower than if you keep the company producing.</source>
-        <target state="translated">Tem observado a Serração recentemente?
+        <target state="translated">Tem observado a lenhador recentemente?
 
 Desde que a sua Prefeitoria não tem espaço ilimitado para armazenar mercadorias, os colecionadores irão parar de as recolher quando o armazém está cheio.
 Se nenhum marinheiro quis recentemente remodelar a sua tenda, possivelmente terá muitas tábuas, e nesse caso a serração poderá estar parada.
@@ -714,7 +714,7 @@ Podemos rectificar esta situação de duas formas!
 Todas as unidades oferecem a possibilidade de paragem.
 Isto pode parecer estranho, clique na roda dentada que vê, por exemplo, no resumo da serração.
 
-Se este modo for ligado, a produção pára e pagará menos custos de manutenção. Não serão nulos, mas serão inferiores aos custos apresentados caso  a unidade esteja a produzir.</target>
+Se este modo for ligado, a produção pára e pagará menos custos de manutenção. Não serão nulos, mas serão inferiores aos custos apresentados caso a unidade esteja a produzir.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="This means that you can save money when you temporarily do not need a company and do not want to tear it down, either.&#10;&#10;Another solution is to build the last increment-I building which has not been mentioned so far: the storage tent.&#10;&#10;This building has two purposes. It:&#10;* Offers more storage for your goods, and &#10;* sends its own collectors to fetch goods, just like the branch office does.&#10;&#10;Note that companies can also be connected to a storage in order to get their products collected, and if the branch office is overwhelmed with collector tasks, you can place a storage tent to help out there.&#10;&#10;TASK: Build a storage tent, preferably where you need collectors.">
         <source>This means that you can save money when you temporarily do not need a company and do not want to tear it down, either.
@@ -745,7 +745,7 @@ TAREFA: Construa um Armazém, preferencialmente onde necessita de colecionadores
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A WEAVER">
         <source>NEW TASK: BUILD A WEAVER</source>
-        <target state="translated">NOVA TAREFA: CRIE UM TECELÃO</target>
+        <target state="translated">CRIE UM TECELÃO</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Now the wool production is set up, you still need a weaver to produce cloth out of this wool.&#10;&#10;There are two spots where you can build it - either close to the farm or close to a Storage Tent (or the Branch Office).&#10;&#10;In both cases you should ensure the connection to a trail as well.&#10;&#10;You can place the weaver close to the farm and tear down any trail to the farm to see that it will still fetch the wool and produce.&#10;&#10;TASK: Build a weaver positioned so it can get wool.">
         <source>Now the wool production is set up, you still need a weaver to produce cloth out of this wool.
@@ -777,7 +777,7 @@ TAREFA: Construa um Tecelão posicionado para recolher lã.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: COMPLETE TUTORIAL">
         <source>NEW TASK: COMPLETE TUTORIAL</source>
-        <target state="translated">NOVA TAREFA: TERMINE O TUTORIAL</target>
+        <target state="translated">TERMINE O TUTORIAL</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Try to house a total of 50 or more inhabitants in your city by providing more residential buildings.&#10;&#10;Once you are able to keep an economy running which can satisfy this amount of consumers, you are ready to discover new Unknown Horizons!&#10;&#10;TASK: Reach a total number of 50 inhabitants and a positive balance to complete this tutorial.">
         <source>Try to house a total of 50 or more inhabitants in your city by providing more residential buildings.
