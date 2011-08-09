@@ -118,9 +118,9 @@
         <source>main square</source>
         <target state="translated">største torv</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="trail">
+      <trans-unit xml:space="preserve" approved="no" id="trail">
         <source>trail</source>
-        <target state="translated">trail</target>
+        <target state="needs-translation">trail</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="boards">
         <source>boards</source>
