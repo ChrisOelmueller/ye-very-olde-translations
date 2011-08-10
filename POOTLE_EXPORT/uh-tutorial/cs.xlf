@@ -26,7 +26,7 @@ Postav svojí první osadu a nauč se hrát!
         <source>Welcome to Unknown Horizons!</source>
         <target state="translated">Vítej v Unknown Horizons!</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="This is your Captain's log where all important information is stored. A short notification of each task will be provided on the left of the screen.&#10;&#10;If you are interested in longer descriptions, your log will hopefully provide all the help you need.&#10;&#10;After you close this log, it can be re-opened with the 'Captain's Log' icon in the top-right corner (below the mini-map, with a sealed document and a feather).&#10;&#10;For any suggestions on better wording, topics you would like to have explained or even buggy conditions: Please tell us and we will try to improve the tutorial!&#10;&#10;Visit www.unknown-horizons.org for help on how to contact the team!&#10;&#10;And now, let's start the actual game.">
+      <trans-unit xml:space="preserve" approved="no" id="This is your Captain's log where all important information is stored. A short notification of each task will be provided on the left of the screen.&#10;&#10;If you are interested in longer descriptions, your log will hopefully provide all the help you need.&#10;&#10;After you close this log, it can be re-opened with the 'Captain's Log' icon in the top-right corner (below the mini-map, with a sealed document and a feather).&#10;&#10;For any suggestions on better wording, topics you would like to have explained or even buggy conditions: Please tell us and we will try to improve the tutorial!&#10;&#10;Visit www.unknown-horizons.org for help on how to contact the team!&#10;&#10;And now, let's start the actual game.">
         <source>This is your Captain's log where all important information is stored. A short notification of each task will be provided on the left of the screen.
 
 If you are interested in longer descriptions, your log will hopefully provide all the help you need.
@@ -38,7 +38,7 @@ For any suggestions on better wording, topics you would like to have explained o
 Visit www.unknown-horizons.org for help on how to contact the team!
 
 And now, let's start the actual game.</source>
-        <target state="translated">Toto je tvůj Lodní deník, kde jsou uloženy všechny důležité informace. Krátký popis každého úkolu bude zobrazen na levé straně obrazovky.
+        <target state="needs-translation">Toto je tvůj Lodní deník, kde jsou uloženy všechny důležité informace. Krátký popis každého úkolu bude zobrazen na levé straně obrazovky.
 
 Pokud máš zájem o podrobnější popis, v deníku snad najdeš veškeré informace které potřebuješ.
 
@@ -48,7 +48,7 @@ Pro jakékoliv návrhy na lepší formulace, témata, které bys chtěl mít vys
 
 Na www.unknown-horizons.org nás můžeš kontaktovat.
 
-A nyní pojď hrát</target>
+A nyní pojď hrát.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: SETTLE ON AN ISLAND">
         <source>NEW TASK: SETTLE ON AN ISLAND</source>
@@ -78,7 +78,7 @@ Nyní se zobrazí náhled budovy při pohybu kurzorem.
 Můžeš postavit budovu na jakémkoliv místě kde náhled není zbarven červeně.
 Klikni kdekoliv pro umístění tvé první budovy.
 
-ÚKOL: Postav pobočku na pobřeží</target>
+ÚKOL: Postav pobočku na pobřeží.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: UNLOAD YOUR GOODS">
         <source>NEW TASK: UNLOAD YOUR GOODS</source>
