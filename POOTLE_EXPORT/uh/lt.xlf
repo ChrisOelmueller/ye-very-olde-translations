@@ -12,7 +12,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Restore default settings">
         <source>Restore default settings</source>
-        <target state="translated">Atkurti numatytąsias nuostatas </target>
+        <target state="translated">Atkurti numatytąsias nuostatas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="This will delete all changes to the settings you made so far.">
         <source>This will delete all changes to the settings you made so far.</source>
@@ -1259,7 +1259,7 @@ Prašome apie tai pranešti žaidimo autoriui.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Needed resources:">
         <source>Needed resources:</source>
-        <target state="translated">Reikalingi resursai</target>
+        <target state="translated">Reikalingi resursai:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Happiness">
         <source>Happiness</source>
@@ -1311,7 +1311,7 @@ Prašome apie tai pranešti žaidimo autoriui.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Load/Unload:">
         <source>Load/Unload:</source>
-        <target state="translated">Įkelti/Perkrauti</target>
+        <target state="translated">Įkelti/Perkrauti:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Error: Invalid syntax in --mp-master commandline option. Port must be a number between 1 and 65535.">
         <source>Error: Invalid syntax in --mp-master commandline option. Port must be a number between 1 and 65535.</source>
