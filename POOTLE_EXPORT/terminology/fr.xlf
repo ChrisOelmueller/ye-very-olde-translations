@@ -4,9 +4,9 @@
     <body>
       <trans-unit xml:space="preserve" approved="yes" id="build">
         <source>build</source>
-        <target state="translated">construire, installer</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (43)
-(poterminology) uh/unknownhorizons.pot (10)
+        <target state="translated">Construire/Installer</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (43)&#13;
+(poterminology) uh/unknownhorizons.pot (10)&#13;
 I added 'installer' cause in my opinion, you cannot build a weaver...french will understand that</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="game">
