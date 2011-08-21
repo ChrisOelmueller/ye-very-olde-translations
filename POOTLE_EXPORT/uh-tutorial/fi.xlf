@@ -80,70 +80,12 @@ Paina hiirellä mihin haluat rakentaa ensimmäisen rakennuksesi.
 
 TEHTÄVÄ: Rakenna sivutoimisto rannikolle.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: UNLOAD YOUR GOODS">
-        <source>NEW TASK: UNLOAD YOUR GOODS</source>
-        <target state="translated">PURA LAIVASI LASTI</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Now that you have built the Branch Office, you need to move some of your resources to its stock.&#10;&#10;To do so, select your ship and go into the tab with the wooden box icon called 'Ship Inventory'.&#10;&#10;Here you get an overview of what this ship's cargo looks like and have the button 'Load/Unload'.&#10;&#10;This button becomes active if your ship is in range of a possible trade partner like a branch office.&#10;&#10;Click on the button. If it is not active, move your ship towards the branch office and then try again.&#10;&#10;TASK: Open the trade dialogue.">
-        <source>Now that you have built the Branch Office, you need to move some of your resources to its stock.
-
-To do so, select your ship and go into the tab with the wooden box icon called 'Ship Inventory'.
-
-Here you get an overview of what this ship's cargo looks like and have the button 'Load/Unload'.
-
-This button becomes active if your ship is in range of a possible trade partner like a branch office.
-
-Click on the button. If it is not active, move your ship towards the branch office and then try again.
-
-TASK: Open the trade dialogue.</source>
-        <target state="translated">Nyt kun olet rakentanut Sivutoimiston, sinun tarvitsee siirtää sinne raaka-aineitasi.
-
-Tehdäksesi niin, valitse aluksesi ja mene välilehdelle puisesta laatikosta nimeltä 'Laivan tavaranäkymä'.
-
-Tässä saat yleiskatsauksen laivasi lastin ulkonäöstä ja näet näppäimen 'Ota kyytiin/pois'.
-
-Tämä näppäin tulee aktiiviseksi, jos aluksesi on mahdollisen kauppakumppanin kantamassa kuten esimerkiksi sivutoimisto.
-
-Paina tätä näppäintä. Jos sitä ei voi painaa, siirrä alustasi kohti sivutoimistoa ja yritä uudestaan.
-
-TEHTÄVÄ: Avaa kaupusteluikkuna.</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="The tab you will see is split into 'Ship' and 'Settlement' as trade partners.&#10;&#10;To move goods from one stock to the other, simply click on them.&#10;&#10;Try clicking on the boards currently on your ship first and then try moving them back.&#10;&#10;You can customize the quantity moved by using the self-explanatory radio buttons in the middle.&#10;&#10;Did you get used to the trade tab?&#10;You need some construction material in your settlement now!&#10;&#10;TASK: Unload at least 10 tons of each resource your ship sailed around with.">
-        <source>The tab you will see is split into 'Ship' and 'Settlement' as trade partners.
-
-To move goods from one stock to the other, simply click on them.
-
-Try clicking on the boards currently on your ship first and then try moving them back.
-
-You can customize the quantity moved by using the self-explanatory radio buttons in the middle.
-
-Did you get used to the trade tab?
-You need some construction material in your settlement now!
-
-TASK: Unload at least 10 tons of each resource your ship sailed around with.</source>
-        <target state="translated">Näkemäsi välilehti jakautuu kaupankäyjiin 'Alus' ja 'Asutuskeskus'.
-
-Siirtääksesi tavaroita varastosta toiseen paina kyseistä tavaraa.
-
-Koita ensin painaa laivassasi olevia lautoja ja sitten yritä siirtää ne takaisin.
-
-Voit vaihtaa liikutettavien määrän käyttämällä itsensäselittäviä valintanappeja keskellä.
-
-Totuitko kaupankäyntivälilehteen?
-Tarvitset nyt rakennustarvikkeita asutuskeskukseesi!
-
-TEHTÄVÄ: Pura laivasi lastista vähintään 10 tonnia kutakin laivasi mukana purjehtinutta tarviketta.</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Unload at least 10 tons of each resource on your ship.">
-        <source>Unload at least 10 tons of each resource on your ship.</source>
-        <target state="translated">Pura vähintään 10 tonnia kutakin tavaraa laivastasi.</target>
-      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A LUMBERJACK">
         <source>NEW TASK: BUILD A LUMBERJACK</source>
         <target state="translated">RAKENNA PUUNHAKKAAJA</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="With your new construction material in the branch office, you can start to construct some basic buildings.&#10;&#10;We will start with building a lumberjack.&#10;&#10;This is essential because, at this stage, boards are the only poles your sailors can afford to hang their tents over.&#10;&#10;The fisherman needs some boards to build his vessel as well.&#10;&#10;In order to construct lumberjacks; open the build menu by either clicking the big icon below the mini map or pressing B key.&#10;&#10;The build menu is sorted by increments.&#10;You are currently in the first increment (the Sailors level) so are offered only the basic buildings.">
-        <source>With your new construction material in the branch office, you can start to construct some basic buildings.
+      <trans-unit xml:space="preserve" approved="yes" id="The construction material on your ship got unloaded automatically. You can now construct some basic buildings.&#10;&#10;We will start with building a lumberjack.&#10;&#10;This is essential because, at this stage, boards are the only poles your sailors can afford to hang their tents over.&#10;&#10;The fisherman needs some boards to build his vessel as well.&#10;&#10;In order to construct lumberjacks; open the build menu by either clicking the big icon below the mini map or pressing B key.&#10;&#10;The build menu is sorted by increments.&#10;You are currently in the first increment (the Sailors level) so are offered only the basic buildings.">
+        <source>The construction material on your ship got unloaded automatically. You can now construct some basic buildings.
 
 We will start with building a lumberjack.
 
@@ -155,18 +97,7 @@ In order to construct lumberjacks; open the build menu by either clicking the bi
 
 The build menu is sorted by increments.
 You are currently in the first increment (the Sailors level) so are offered only the basic buildings.</source>
-        <target state="translated">Uudet rakennustarvikkeesi sivustoimistossa, voit aloittaa rakentamaan muutamia perusrakennuksia.
-
-Aloittakaamme puunhakkaajalla.
-
-Tämä on olennaista, koska tässä vaiheessa laudat ovat ainoat palkit, joille merenkävijöilläsi on varaa ripustaa telttansa.
-
-Kalastaja tarvitsee lautoja myös rakentaakseen veneensä.
-
-Rakentaaksesi puunhakkaajan; avaa rakennusvalikko joko painamalla isoa kuvaketta minimapin alapuolella tai B-näppäintä.
-
-Rakennusvalikko on järjestetty korotusten perusteella.
-Sinä olet tässä vaiheessa peliä ensimmäisessä korotuksessa (Merenkävijä-taso), joten sinulle tarjotaan vain perusrakennuksia.</target>
+        <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="As your civilization advances, you also gain more and more complex buildings.&#10;&#10;For now, select the lumberjack under 'Companies' and build it in an area with some trees around.&#10;&#10;You can also plant trees later - but that costs money. Use what nature provided you with!&#10;&#10;A company always needs a trail connection to a storage or branch office, otherwise goods will remain at the company and not be collected.&#10;&#10;This means that you have to build a trail connecting your branch office (or storage) and lumberjack.&#10;&#10;TASK: Build a lumberjack in a wooded area and connect it to a road.&#10;&#10;Watch how a collector will fetch your first self-produced boards.">
         <source>As your civilization advances, you also gain more and more complex buildings.
@@ -450,7 +381,7 @@ Vetämällä vetimen kunkin tavararuudun oikealla puolella valitaan 'tavoiteltu 
 Ostaessa, ostat riittävästi säilyttääksesi 'tavoitellun arvon' varastossasi.
 Myydessä 'tavoiteltu arvo' on lukumäärä, jonka haluat säilyttää myymättömänä</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="For example: &#10;Having a 'Buy' slot and 5 tons in stock, a slider positioned at 9 tons will cause you to buy 4 additional tons at most.&#10;Selling works similarly. A 'Sell' slot with 18 tons in stock and the slider positioned at 13 will sell up to 5 tons.&#10;&#10;If the free trader however only wants to buy or sell less than your settings would allow him, you need to live with that and wait for him to return.&#10;&#10;Unknown Horizons features smart pricing, so the value of one unit can vary.&#10;It is NOT possible to change prices manually!&#10;&#10;You can see your trade balance in the 'Account' tab comparing the 'Sale' and 'Buy' values there.&#10;&#10;TASK: Buy as many tools as you need to have 30 tools in stock!&#10;If you still have some in your ship's inventory, this seems like a good point to unload them.">
+      <trans-unit xml:space="preserve" approved="yes" id="For example: &#10;Having a 'Buy' slot and 5 tons in stock, a slider positioned at 9 tons will cause you to buy 4 additional tons at most.&#10;Selling works similarly. A 'Sell' slot with 18 tons in stock and the slider positioned at 13 will sell up to 5 tons.&#10;&#10;If the free trader however only wants to buy or sell less than your settings would allow him, you need to live with that and wait for him to return.&#10;&#10;Unknown Horizons features smart pricing, so the value of one unit can vary.&#10;It is NOT possible to change prices manually!&#10;&#10;You can see your trade balance in the 'Account' tab comparing the 'Sale' and 'Buy' values there.&#10;&#10;TASK: Buy as many tools as you need to have 30 tools in stock!">
         <source>For example: 
 Having a 'Buy' slot and 5 tons in stock, a slider positioned at 9 tons will cause you to buy 4 additional tons at most.
 Selling works similarly. A 'Sell' slot with 18 tons in stock and the slider positioned at 13 will sell up to 5 tons.
@@ -462,21 +393,8 @@ It is NOT possible to change prices manually!
 
 You can see your trade balance in the 'Account' tab comparing the 'Sale' and 'Buy' values there.
 
-TASK: Buy as many tools as you need to have 30 tools in stock!
-If you still have some in your ship's inventory, this seems like a good point to unload them.</source>
-        <target state="translated">Esimerkiksi: 
-Pitämällä ruudun 'Osto'-tilassa ja 5 tonnia varastossa, vieritin sijoitettuna 9 tonniin laittaa sinut ostamaan enintään 4 tonnia lisää.
-Myyminen toimii samankaltaisesti. 'Myy'-ruutu 18 tonnia varastossa ja vieritin sijoitettuna 13 tonniin myy enintään 5 tonnia.
-
-Jos vapaakauppias kuitenkin haluaa ostaa tai myydä vähemmän kuin asetuksesi sallivat, sinun tulee elää sen kanssa ja odottaa vapaakauppiaan takaisinpaluuta.
-
-Unknown Horizons osaa älykkään hinnoittelun, joten yksikön hinta voi vaihdella.
-Hintojen käsin muuttaminen EI ole mahdollista!
-
-Voit nähdä kaupankäyntisi tuloksen 'Tili'-välilehdessä vertaamalla 'Myynti' ja 'Osto'-arvoja.
-
-TEHTÄVÄ: Osta niin monta työkalua kuin tarvitset, jotta varastossasi olisi 30!
-Jos aluksessasi on vielä lastia, niin nyt on hyvä kohta purkaa ne maihin.</target>
+TASK: Buy as many tools as you need to have 30 tools in stock!</source>
+        <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Reach an island stock of at least 30 tools.">
         <source>Reach an island stock of at least 30 tools.</source>
