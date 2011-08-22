@@ -668,6 +668,9 @@
       <trans-unit xml:space="preserve" approved="no" id="seed">
         <source>seed</source>
         <target state="needs-translation">seeder / distributör?</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>seeder / distributör? / frö / säd</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="temporarily">
         <source>temporarily</source>
