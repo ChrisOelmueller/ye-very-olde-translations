@@ -80,70 +80,12 @@ Klik waar u uw eerste gebouw wilt plaatsen.
 
 OPDRACHT: Plaats een kantoor aan de kust.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: UNLOAD YOUR GOODS">
-        <source>NEW TASK: UNLOAD YOUR GOODS</source>
-        <target state="translated">OPDRACHT: LAAD DE GOEDEREN UIT</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Now that you have built the Branch Office, you need to move some of your resources to its stock.&#10;&#10;To do so, select your ship and go into the tab with the wooden box icon called 'Ship Inventory'.&#10;&#10;Here you get an overview of what this ship's cargo looks like and have the button 'Load/Unload'.&#10;&#10;This button becomes active if your ship is in range of a possible trade partner like a branch office.&#10;&#10;Click on the button. If it is not active, move your ship towards the branch office and then try again.&#10;&#10;TASK: Open the trade dialogue.">
-        <source>Now that you have built the Branch Office, you need to move some of your resources to its stock.
-
-To do so, select your ship and go into the tab with the wooden box icon called 'Ship Inventory'.
-
-Here you get an overview of what this ship's cargo looks like and have the button 'Load/Unload'.
-
-This button becomes active if your ship is in range of a possible trade partner like a branch office.
-
-Click on the button. If it is not active, move your ship towards the branch office and then try again.
-
-TASK: Open the trade dialogue.</source>
-        <target state="translated">Nu het hoofdkantoor geplaatst is, moeten grondstoffen worden verplaatst naar de opslag.
-
-Selecteer het schip en open het scherm 'Scheepsinventaris' door op de knop met het houten krat te klikken.
-
-Hier is een overzicht van de inventaris van het schip en een knop 'Laden/Uitladen'.
-
-Deze knop wordt actief zodra uw schip in de buurt is van een mogelijke handelspartner, zoals het hoofdkantoor
-
-Klik op de knop. Verplaats uw schip dichterbij het hoofdkantoor als de knop niet actief is en probeer opnieuw.
-
-OPDRACHT: Open het handelsscherm.</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="The tab you will see is split into 'Ship' and 'Settlement' as trade partners.&#10;&#10;To move goods from one stock to the other, simply click on them.&#10;&#10;Try clicking on the boards currently on your ship first and then try moving them back.&#10;&#10;You can customize the quantity moved by using the self-explanatory radio buttons in the middle.&#10;&#10;Did you get used to the trade tab?&#10;You need some construction material in your settlement now!&#10;&#10;TASK: Unload at least 10 tons of each resource your ship sailed around with.">
-        <source>The tab you will see is split into 'Ship' and 'Settlement' as trade partners.
-
-To move goods from one stock to the other, simply click on them.
-
-Try clicking on the boards currently on your ship first and then try moving them back.
-
-You can customize the quantity moved by using the self-explanatory radio buttons in the middle.
-
-Did you get used to the trade tab?
-You need some construction material in your settlement now!
-
-TASK: Unload at least 10 tons of each resource your ship sailed around with.</source>
-        <target state="translated">Het scherm wat u ziet is verdeeld in 'Schip' en 'Kolonie' als handelspartners.
-
-Om goederen van een voorraad naar de andere voorraad te verplaatsen, kunt u er simpelweg op klikken.
-
-Probeer eerst op de planken op het schip te klikken en probeer vervolgens deze terug te plaatsen.
-
-U kunt de verplaatste hoeveelheid aanpassen met de knoppen in het midden.
-
-Heeft u zichzelf bekend gemaakt met het handelsscherm?
-U heeft nu constructie materiaal nodig in uw kolonie!
-
-OPDRACHT: Laad tenminste 10 ton van iedere grondstof op het schip uit.</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Unload at least 10 tons of each resource on your ship.">
-        <source>Unload at least 10 tons of each resource on your ship.</source>
-        <target state="translated">Laad tenminste 10 ton van iedere grondstof op het schip uit.</target>
-      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A LUMBERJACK">
         <source>NEW TASK: BUILD A LUMBERJACK</source>
         <target state="translated">OPDRACHT: BOUW EEN HOUTHAKKER</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="With your new construction material in the branch office, you can start to construct some basic buildings.&#10;&#10;We will start with building a lumberjack.&#10;&#10;This is essential because, at this stage, boards are the only poles your sailors can afford to hang their tents over.&#10;&#10;The fisherman needs some boards to build his vessel as well.&#10;&#10;In order to construct lumberjacks; open the build menu by either clicking the big icon below the mini map or pressing B key.&#10;&#10;The build menu is sorted by increments.&#10;You are currently in the first increment (the Sailors level) so are offered only the basic buildings.">
-        <source>With your new construction material in the branch office, you can start to construct some basic buildings.
+      <trans-unit xml:space="preserve" approved="yes" id="The construction material on your ship got unloaded automatically. You can now construct some basic buildings.&#10;&#10;We will start with building a lumberjack.&#10;&#10;This is essential because, at this stage, boards are the only poles your sailors can afford to hang their tents over.&#10;&#10;The fisherman needs some boards to build his vessel as well.&#10;&#10;In order to construct lumberjacks; open the build menu by either clicking the big icon below the mini map or pressing B key.&#10;&#10;The build menu is sorted by increments.&#10;You are currently in the first increment (the Sailors level) so are offered only the basic buildings.">
+        <source>The construction material on your ship got unloaded automatically. You can now construct some basic buildings.
 
 We will start with building a lumberjack.
 
@@ -155,18 +97,7 @@ In order to construct lumberjacks; open the build menu by either clicking the bi
 
 The build menu is sorted by increments.
 You are currently in the first increment (the Sailors level) so are offered only the basic buildings.</source>
-        <target state="translated">Met het nieuwe constructie materiaal in het kantoor kunnen de eerste gebouwen geplaatst worden.
-
-We zullen starten met het plaatsen van een houthakker.
-
-De houthakker is belangrijk aangezien planken in deze fase de enige middelen zijn die de zeelui kunnen gebruiken voor hun tenten.
-
-De visser heeft ook hout nodig om zijn schip te maken.
-
-Om een houthakker te plaatsen, ga naar het constructie menu door op de grote knop onder de kleine kaart te klikken of druk de B toets.
-
-Het constructie menu is gesorteerd op niveau's.
-Dat betekent dat alleen standaard gebouwen beschikbaar zijn op het zeelui niveau (waarop u zich nu bevindt).</target>
+        <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="As your civilization advances, you also gain more and more complex buildings.&#10;&#10;For now, select the lumberjack under 'Companies' and build it in an area with some trees around.&#10;&#10;You can also plant trees later - but that costs money. Use what nature provided you with!&#10;&#10;A company always needs a trail connection to a storage or branch office, otherwise goods will remain at the company and not be collected.&#10;&#10;This means that you have to build a trail connecting your branch office (or storage) and lumberjack.&#10;&#10;TASK: Build a lumberjack in a wooded area and connect it to a road.&#10;&#10;Watch how a collector will fetch your first self-produced boards.">
         <source>As your civilization advances, you also gain more and more complex buildings.
@@ -452,7 +383,7 @@ Door de schuifbalk aan de rechterkant van elk slot te bewegen, kies je de 'stree
 Bij kopen, zal je aankopen doen maar je 'streefwaarde' in voorraad houden. 
 Bij verkoop is de 'streefwaarde' het aantal dat je reserve houdt en niet verkoopt</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="For example: &#10;Having a 'Buy' slot and 5 tons in stock, a slider positioned at 9 tons will cause you to buy 4 additional tons at most.&#10;Selling works similarly. A 'Sell' slot with 18 tons in stock and the slider positioned at 13 will sell up to 5 tons.&#10;&#10;If the free trader however only wants to buy or sell less than your settings would allow him, you need to live with that and wait for him to return.&#10;&#10;Unknown Horizons features smart pricing, so the value of one unit can vary.&#10;It is NOT possible to change prices manually!&#10;&#10;You can see your trade balance in the 'Account' tab comparing the 'Sale' and 'Buy' values there.&#10;&#10;TASK: Buy as many tools as you need to have 30 tools in stock!&#10;If you still have some in your ship's inventory, this seems like a good point to unload them.">
+      <trans-unit xml:space="preserve" approved="yes" id="For example: &#10;Having a 'Buy' slot and 5 tons in stock, a slider positioned at 9 tons will cause you to buy 4 additional tons at most.&#10;Selling works similarly. A 'Sell' slot with 18 tons in stock and the slider positioned at 13 will sell up to 5 tons.&#10;&#10;If the free trader however only wants to buy or sell less than your settings would allow him, you need to live with that and wait for him to return.&#10;&#10;Unknown Horizons features smart pricing, so the value of one unit can vary.&#10;It is NOT possible to change prices manually!&#10;&#10;You can see your trade balance in the 'Account' tab comparing the 'Sale' and 'Buy' values there.&#10;&#10;TASK: Buy as many tools as you need to have 30 tools in stock!">
         <source>For example: 
 Having a 'Buy' slot and 5 tons in stock, a slider positioned at 9 tons will cause you to buy 4 additional tons at most.
 Selling works similarly. A 'Sell' slot with 18 tons in stock and the slider positioned at 13 will sell up to 5 tons.
@@ -464,19 +395,8 @@ It is NOT possible to change prices manually!
 
 You can see your trade balance in the 'Account' tab comparing the 'Sale' and 'Buy' values there.
 
-TASK: Buy as many tools as you need to have 30 tools in stock!
-If you still have some in your ship's inventory, this seems like a good point to unload them.</source>
-        <target state="translated">Als voorbeeld: 
-Wanneer uw slot op 'kopen' staat en u 5 ton in voorraad hebt en u de schuifbalk op 9 ton heeft staan. Dat zorgt ervoor dat u maximaal 4 ton extra zal inkopen. Verkopen werkt ongeveer hetzelfde. Een 'verkoop' slot met 18 ton in voorraad en de schuifbalk op 13 zal maximaal 5 ton verkopen.
-
-Als de handelaar minder dan u hebt aangegeven wil kopen of verkopen, dan zult u gewoon moeten wachten tot tot hij terug is.
-
-UH werkt met slimme prijzen, dus de waarde van een eenheid kan verschillen. Dit kan NIET handmatig worden aangepast.
-
-U kunt uw handels balans nakijkenbij de tab 'Account', waar je de 'koop' en 'verkoop' waardes kan bekijken.
-
-OPDRACHT: Koop zoveel werktuigen als nodig om er 30 op voorraad te hebben!
-Als u er nog een aantal in de scheeps inventaris heeft, dan is dit een prima tijd om die ook nog uit te laden.</target>
+TASK: Buy as many tools as you need to have 30 tools in stock!</source>
+        <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Reach an island stock of at least 30 tools.">
         <source>Reach an island stock of at least 30 tools.</source>
