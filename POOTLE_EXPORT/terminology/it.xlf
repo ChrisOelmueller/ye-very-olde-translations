@@ -382,6 +382,9 @@
         <alt-trans xml:space="preserve" origin="nobody">
           <target>Abitante</target>
         </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>cittadino</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="merchant">
         <source>merchant</source>
@@ -389,10 +392,16 @@
         <alt-trans xml:space="preserve" origin="nobody">
           <target>Mercante</target>
         </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>mercante</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="aristocrat">
         <source>aristocrat</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>aristocratico</target>
+        </alt-trans>
         <alt-trans xml:space="preserve" origin="nobody">
           <target>Aristocratico</target>
         </alt-trans>
@@ -412,6 +421,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="slot">
         <source>slot</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>slot</target>
+        </alt-trans>
         <alt-trans xml:space="preserve" origin="nobody">
           <target>Slot</target>
         </alt-trans>
@@ -555,6 +567,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="hold">
         <source>hold</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>tenere</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="no" id="hunt">
         <source>hunt</source>
@@ -629,12 +644,18 @@
         <source>check</source>
         <target state="translated"></target>
         <alt-trans xml:space="preserve" origin="nobody">
+          <target>controllo</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
           <target>Controllo</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="connection">
         <source>connection</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>connessione</target>
+        </alt-trans>
         <alt-trans xml:space="preserve" origin="nobody">
           <target>Connessione</target>
         </alt-trans>
@@ -650,6 +671,9 @@
         <source>tax</source>
         <target state="translated"></target>
         <alt-trans xml:space="preserve" origin="nobody">
+          <target>tassa</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
           <target>Tasse</target>
         </alt-trans>
       </trans-unit>
@@ -660,6 +684,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="reached">
         <source>reached</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>raggiunto</target>
+        </alt-trans>
         <alt-trans xml:space="preserve" origin="nobody">
           <target>raggiungere</target>
         </alt-trans>
@@ -695,6 +722,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="dialogue">
         <source>dialogue</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>dialogo</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="issues">
         <source>issues</source>
@@ -711,6 +741,9 @@
         <source>playing</source>
         <target state="translated"></target>
         <alt-trans xml:space="preserve" origin="nobody">
+          <target>giocando</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
           <target>gioco</target>
         </alt-trans>
       </trans-unit>
@@ -718,10 +751,16 @@
         <source>ruin</source>
         <target state="needs-translation">correre</target>
         <note from="translator">75%</note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>rovina</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="seed">
         <source>seed</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>seme / seminare</target>
+        </alt-trans>
         <alt-trans xml:space="preserve" origin="nobody">
           <target>seme</target>
         </alt-trans>
@@ -736,6 +775,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="salt ponds">
         <source>salt ponds</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>laghi salati</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tobacco">
         <source>tobacco</source>
@@ -764,12 +806,18 @@
         <alt-trans xml:space="preserve" origin="nobody">
           <target>le erbe</target>
         </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>erbe</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="herbary">
         <source>herbary</source>
         <target state="translated"></target>
         <alt-trans xml:space="preserve" origin="nobody">
           <target>giardino</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>erbolario</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="butchery">
@@ -797,6 +845,9 @@
         <source>clay</source>
         <target state="needs-translation">giocare</target>
         <note from="translator">75%</note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>argilla</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="charcoal">
         <source>charcoal</source>
