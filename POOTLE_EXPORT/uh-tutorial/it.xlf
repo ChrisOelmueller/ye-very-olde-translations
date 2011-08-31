@@ -80,70 +80,12 @@ Fare clic dove si desidera posizionare il primo edificio.
 
 OBIETTIVO: Costruire una filiale presso la costa.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: UNLOAD YOUR GOODS">
-        <source>NEW TASK: UNLOAD YOUR GOODS</source>
-        <target state="translated">OBIETTIVO: SCARICA I TUOI BENI</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Now that you have built the Branch Office, you need to move some of your resources to its stock.&#10;&#10;To do so, select your ship and go into the tab with the wooden box icon called 'Ship Inventory'.&#10;&#10;Here you get an overview of what this ship's cargo looks like and have the button 'Load/Unload'.&#10;&#10;This button becomes active if your ship is in range of a possible trade partner like a branch office.&#10;&#10;Click on the button. If it is not active, move your ship towards the branch office and then try again.&#10;&#10;TASK: Open the trade dialogue.">
-        <source>Now that you have built the Branch Office, you need to move some of your resources to its stock.
-
-To do so, select your ship and go into the tab with the wooden box icon called 'Ship Inventory'.
-
-Here you get an overview of what this ship's cargo looks like and have the button 'Load/Unload'.
-
-This button becomes active if your ship is in range of a possible trade partner like a branch office.
-
-Click on the button. If it is not active, move your ship towards the branch office and then try again.
-
-TASK: Open the trade dialogue.</source>
-        <target state="translated">Ora che la Filiale è stata costruita, è necessario spostare una parte delle risorse nella sua scorta.
-
-Per farlo, seleziona la tua nave e vai nella scheda con l'icona della cassa di legno chiamata 'Inventario Nave'.
-
-Qui potete avere una panoramica di come appare questa nave e vedere il pulsante 'Carica/Scarica'.
-
-Questo pulsante si attiva se la vostra nave è nel raggio di possibili compagni commerciali come una filiale.
-
-Fare clic sul pulsante. Nel caso in cui non sia attivo, muovi la nave verso la filiale e riprova.
-
-OBIETTIVO: Aprire il menù commerciale.</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="The tab you will see is split into 'Ship' and 'Settlement' as trade partners.&#10;&#10;To move goods from one stock to the other, simply click on them.&#10;&#10;Try clicking on the boards currently on your ship first and then try moving them back.&#10;&#10;You can customize the quantity moved by using the self-explanatory radio buttons in the middle.&#10;&#10;Did you get used to the trade tab?&#10;You need some construction material in your settlement now!&#10;&#10;TASK: Unload at least 10 tons of each resource your ship sailed around with.">
-        <source>The tab you will see is split into 'Ship' and 'Settlement' as trade partners.
-
-To move goods from one stock to the other, simply click on them.
-
-Try clicking on the boards currently on your ship first and then try moving them back.
-
-You can customize the quantity moved by using the self-explanatory radio buttons in the middle.
-
-Did you get used to the trade tab?
-You need some construction material in your settlement now!
-
-TASK: Unload at least 10 tons of each resource your ship sailed around with.</source>
-        <target state="translated">La scheda che vedi è divisa in 'Nave' e 'Insediamento' come compagni commerciali.
-
-Per muovere beni da una scorta all'altra clicca su essi.
-
-Prova prima a cliccare sulle assi attualmente sulla tua nave e poi prova a riportale indietro.
-
-Puoi personalizzare le quantità spostate usando i bottoni nel centro.
-
-Hai familiarizzato con la scheda commerciale?
-Ora hai bisogno di materiale da costruzione nel tuo insediamento!
-
-OBIETTIVO: Scarica almeno 10 tonnellate di ogni risorsa che la tua nave trasporta.</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Unload at least 10 tons of each resource on your ship.">
-        <source>Unload at least 10 tons of each resource on your ship.</source>
-        <target state="translated">Scarica almeno 10 tonnellate di ogni risorsa sulla tua nave.</target>
-      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A LUMBERJACK">
         <source>NEW TASK: BUILD A LUMBERJACK</source>
         <target state="translated">OBIETTIVO: IL TAGLIABOSCHI</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="With your new construction material in the branch office, you can start to construct some basic buildings.&#10;&#10;We will start with building a lumberjack.&#10;&#10;This is essential because, at this stage, boards are the only poles your sailors can afford to hang their tents over.&#10;&#10;The fisherman needs some boards to build his vessel as well.&#10;&#10;In order to construct lumberjacks; open the build menu by either clicking the big icon below the mini map or pressing B key.&#10;&#10;The build menu is sorted by increments.&#10;You are currently in the first increment (the Sailors level) so are offered only the basic buildings.">
-        <source>With your new construction material in the branch office, you can start to construct some basic buildings.
+      <trans-unit xml:space="preserve" approved="yes" id="The construction material on your ship got unloaded automatically. You can now construct some basic buildings.&#10;&#10;We will start with building a lumberjack.&#10;&#10;This is essential because, at this stage, boards are the only poles your sailors can afford to hang their tents over.&#10;&#10;The fisherman needs some boards to build his vessel as well.&#10;&#10;In order to construct lumberjacks; open the build menu by either clicking the big icon below the mini map or pressing B key.&#10;&#10;The build menu is sorted by increments.&#10;You are currently in the first increment (the Sailors level) so are offered only the basic buildings.">
+        <source>The construction material on your ship got unloaded automatically. You can now construct some basic buildings.
 
 We will start with building a lumberjack.
 
@@ -155,18 +97,18 @@ In order to construct lumberjacks; open the build menu by either clicking the bi
 
 The build menu is sorted by increments.
 You are currently in the first increment (the Sailors level) so are offered only the basic buildings.</source>
-        <target state="translated">Con il nuovo materiale da costruzione nella filiale puoi cominciare a costruire alcuni edifici di base.
+        <target state="translated">Il materiale di costruzione sulla vostra nave ha scaricato automaticamente. Ora è possibile costruire alcuni edifici di base.
 
-Comincia con il tagliaboschi.
+Inizieremo con la costruzione di un boscaiolo.
 
-Questo è essenziale perché, a questo punto, le assi sono i soli pali a cui i tuoi marinai potranno agganciare le loro tende.
+Ciò è essenziale perché, in questa fase, le tavole sono i poli e solo i naviganti possono permettersi di appendere le tende oltre.
 
-Il pescatore necessita anch'esso di assi per costruire la sua imbarcazione.
+Il pescatore ha bisogno di tavole per costruire la nave.
 
-Per costruire il tagliaboschi apri il menù di costruzione cliccando sulla grossa icona sotto la mini-mappa o premendo il tasto B.
+Per costruire un boscaiolo, aprire il menu costruire facendo clic sull'icona del grande sotto la mini mappa o premendo il tasto B.
 
-Il menù di costruzione è ordinato in livelli.
-Al momento sei al primo livello (il livello Marinaio) quindi avrai solo gli edifici di base.</target>
+Il menu di costruire è ordinato per incrementi.
+Stai nel primo livello (il livello Marinai) in modo tale sono offerti solo gli edifici di base.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="As your civilization advances, you also gain more and more complex buildings.&#10;&#10;For now, select the lumberjack under 'Companies' and build it in an area with some trees around.&#10;&#10;You can also plant trees later - but that costs money. Use what nature provided you with!&#10;&#10;A company always needs a trail connection to a storage or branch office, otherwise goods will remain at the company and not be collected.&#10;&#10;This means that you have to build a trail connecting your branch office (or storage) and lumberjack.&#10;&#10;TASK: Build a lumberjack in a wooded area and connect it to a road.&#10;&#10;Watch how a collector will fetch your first self-produced boards.">
         <source>As your civilization advances, you also gain more and more complex buildings.
@@ -452,7 +394,7 @@ Spostando il selettore a destra di ogni spazio determina la 'quantità obiettivo
 Quando compri ne comprerai a sufficienza per tenere la 'quantità obiettivo' in magazzino.
 Quando vendi la 'quantità obiettivo' è il numero che mantieni in riserva da non vendere.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="For example: &#10;Having a 'Buy' slot and 5 tons in stock, a slider positioned at 9 tons will cause you to buy 4 additional tons at most.&#10;Selling works similarly. A 'Sell' slot with 18 tons in stock and the slider positioned at 13 will sell up to 5 tons.&#10;&#10;If the free trader however only wants to buy or sell less than your settings would allow him, you need to live with that and wait for him to return.&#10;&#10;Unknown Horizons features smart pricing, so the value of one unit can vary.&#10;It is NOT possible to change prices manually!&#10;&#10;You can see your trade balance in the 'Account' tab comparing the 'Sale' and 'Buy' values there.&#10;&#10;TASK: Buy as many tools as you need to have 30 tools in stock!&#10;If you still have some in your ship's inventory, this seems like a good point to unload them.">
+      <trans-unit xml:space="preserve" approved="yes" id="For example: &#10;Having a 'Buy' slot and 5 tons in stock, a slider positioned at 9 tons will cause you to buy 4 additional tons at most.&#10;Selling works similarly. A 'Sell' slot with 18 tons in stock and the slider positioned at 13 will sell up to 5 tons.&#10;&#10;If the free trader however only wants to buy or sell less than your settings would allow him, you need to live with that and wait for him to return.&#10;&#10;Unknown Horizons features smart pricing, so the value of one unit can vary.&#10;It is NOT possible to change prices manually!&#10;&#10;You can see your trade balance in the 'Account' tab comparing the 'Sale' and 'Buy' values there.&#10;&#10;TASK: Buy as many tools as you need to have 30 tools in stock!">
         <source>For example: 
 Having a 'Buy' slot and 5 tons in stock, a slider positioned at 9 tons will cause you to buy 4 additional tons at most.
 Selling works similarly. A 'Sell' slot with 18 tons in stock and the slider positioned at 13 will sell up to 5 tons.
@@ -464,21 +406,19 @@ It is NOT possible to change prices manually!
 
 You can see your trade balance in the 'Account' tab comparing the 'Sale' and 'Buy' values there.
 
-TASK: Buy as many tools as you need to have 30 tools in stock!
-If you still have some in your ship's inventory, this seems like a good point to unload them.</source>
-        <target state="translated">Per esempio:
-Avendo uno spazio 'Compra' e 5 tonnellate in magazzino, un selettore impostato a 9 tonnellate comporterà che comprerai al più 4 tonnellate aggiuntive.
-Vendendo funzionerà in modo analogo. Uno spazio 'Vendi' con 18 tonnellate in magazzino ed il selettore impostato a 13 venderà fino a 5 tonnellate.
+TASK: Buy as many tools as you need to have 30 tools in stock!</source>
+        <target state="translated">Ad esempio:
+Che presenta una fessura 'Buy' e 5 tonnellate in magazzino, uno slider posizionato a 9 tonnellate ti farà acquistare ulteriori 4 tonnellate al massimo.
+La vendita funziona in modo simile. Uno slot 'Vendi' con 18 tonnellate in magazzino e lo slider posizionato a 13 venderà fino a 5 tonnellate.
 
-Se il libero commerciante, comunque, vuole comprare o vendere meno di quanto tu hai impostato dovrai attendere il prossimo suo passaggio.
+Se l'operatore libero ma vuole solo acquistare o vendere a meno di impostazioni lo permettono, si deve vivere con quello e aspettare il suo ritorno.
 
-Il valore di un'unità può variare.
+Unknown Horizons ha caratteristiche determinazione intelligente del prezzo, in modo che il valore di una unità può variare.
 NON è possibile cambiare manualmente i prezzi!
 
-Puoi vedere il bilancio commerciale nella scheda 'Conto' e confrontare i valori 'Vendita' ed 'Acquisto'.
+Potete vedere il saldo commerciale nella scheda 'Account' a confronto la 'Vendi' e 'Compra' valori lì.
 
-OBIETTIVO: Compra tutti gli attrezzi di cui hai bisogno per avere 30 attrezzi in magazzino!
-Se ne hai ancora nelle stive della tua nave, questa è una buona occasione per scaricarli.</target>
+TASK: Buy  come strumenti di cui hai bisogno di avere 30 utensili in magazzino!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Reach an island stock of at least 30 tools.">
         <source>Reach an island stock of at least 30 tools.</source>
