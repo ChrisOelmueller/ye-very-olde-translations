@@ -5,6 +5,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="build">
         <source>build</source>
         <target state="translated">építés</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Just what the doctor odrered, thankity you!</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="game">
         <source>game</source>
@@ -122,6 +125,9 @@
         <source>trail</source>
         <target state="needs-translation">trall</target>
         <note from="translator">thrall = rabszolga.. what is "trall"?</note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Hot damn, looknig pretty useful buddy.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="boards">
         <source>boards</source>
