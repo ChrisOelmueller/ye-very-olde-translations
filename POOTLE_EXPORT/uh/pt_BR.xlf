@@ -229,9 +229,10 @@ Details: %s</source>
         <source>Network Error</source>
         <target state="translated">Erro de conexão</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Something went wrong with the network: ">
-        <source>Something went wrong with the network: </source>
-        <target state="translated">Existe algum problema na rede: </target>
+      <trans-unit xml:space="preserve" approved="no" id="Something went wrong with the network:">
+        <source>Something went wrong with the network:</source>
+        <target state="needs-translation">Existe algum problema na rede: </target>
+        <note from="translator">97%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Version differs!">
         <source>Version differs!</source>
@@ -1742,20 +1743,28 @@ Favor reporte isto ao autor.</target>
         <source>The savegame file is currently used by another program.</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Trade route: going to">
-        <source>Trade route: going to</source>
+      <trans-unit xml:space="preserve" approved="yes" id="Trade route: going to %s">
+        <source>Trade route: going to %s</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Trade route: waiting at">
-        <source>Trade route: waiting at</source>
+      <trans-unit xml:space="preserve" approved="yes" id="Trade route: waiting at %s">
+        <source>Trade route: waiting at %s</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Going to">
-        <source>Going to</source>
+      <trans-unit xml:space="preserve" approved="yes" id="Going to %s">
+        <source>Going to %s</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Idle at">
-        <source>Idle at</source>
+      <trans-unit xml:space="preserve" approved="yes" id="Going to %(x)d, %(y)d">
+        <source>Going to %(x)d, %(y)d</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Idle at %s">
+        <source>Idle at %s</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Idle at %(x)d, %(y)d">
+        <source>Idle at %(x)d, %(y)d</source>
         <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Trader">
