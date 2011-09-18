@@ -519,7 +519,7 @@
       <trans-unit xml:space="preserve" approved="yes" id="partner">
         <source>partner</source>
         <target state="translated">partner</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (2)
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (2)&#13;
 (poterminology) uh/unknownhorizons.pot (1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="sailor">
