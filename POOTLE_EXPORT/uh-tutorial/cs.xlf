@@ -20,7 +20,7 @@ Postav svojí první osadu a nauč se hrát!
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a branch office at the coast, so it is easy accessible for other ships like the Free Trader.">
         <source>Build a branch office at the coast, so it is easy accessible for other ships like the Free Trader.</source>
-        <target state="translated"></target>
+        <target state="translated">Postav na pobřeží pobočku, aby byla snadno dostupná ostatním lodím, jako třeba volný obchodník.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Welcome to Unknown Horizons!">
         <source>Welcome to Unknown Horizons!</source>
