@@ -4,25 +4,27 @@
     <body>
       <trans-unit xml:space="preserve" approved="yes" id="Tutorial">
         <source>Tutorial</source>
-        <target state="translated"></target>
+        <target state="translated">Roteiro</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The UH team">
         <source>The UH team</source>
-        <target state="translated"></target>
+        <target state="translated">A equipe UH</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The tutorial:&#10;Build your first settlement and learn how to play!&#10;">
         <source>The tutorial:
 Build your first settlement and learn how to play!
 </source>
-        <target state="translated"></target>
+        <target state="translated">Roteiro:
+Firma seu primeiro acordo e aprende como jogar!
+</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Build a branch office at the coast.">
-        <source>Build a branch office at the coast.</source>
+      <trans-unit xml:space="preserve" approved="yes" id="Build a branch office at the coast, so it is easy accessible for other ships like the Free Trader.">
+        <source>Build a branch office at the coast, so it is easy accessible for other ships like the Free Trader.</source>
         <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Welcome to Unknown Horizons!">
         <source>Welcome to Unknown Horizons!</source>
-        <target state="translated"></target>
+        <target state="translated">Bem-vindo para Horizontes Desconhecidos!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="This is your Captain's log where all important information is stored. A short notification of each task will be provided on the left of the screen.&#10;&#10;If you are interested in longer descriptions, your log will hopefully provide all the help you need.&#10;&#10;After you close this log, it can be re-opened with the 'Captain's Log' icon in the top-right corner (below the mini-map, with a sealed document and a feather).&#10;&#10;For any suggestions on better wording, topics you would like to have explained or even buggy conditions: Please tell us and we will try to improve the tutorial!&#10;&#10;Visit www.unknown-horizons.org for help on how to contact the team!&#10;&#10;And now, let's start the actual game.">
         <source>This is your Captain's log where all important information is stored. A short notification of each task will be provided on the left of the screen.
@@ -36,11 +38,21 @@ For any suggestions on better wording, topics you would like to have explained o
 Visit www.unknown-horizons.org for help on how to contact the team!
 
 And now, let's start the actual game.</source>
-        <target state="translated"></target>
+        <target state="translated">Este é seu diário de bordo onde as informações mais importantes serão armazenadas. Uma pequena notificação de cada tarefa será fornecida na canto esquerdo da tela.
+
+Se você estiver interessado em mais detalhes, seu diário de bordo fornecerá toda a ajuda que você precisa.
+
+Após você fechar o diário, ele pode ser reaberto através do ícone 'Diário de bordo do Capitão' localizado no canto superior direito (abaixo o mini-mapa, com um  documento fechado e uma pena).
+
+Sugestões de palavras, assuntos que você não entendeu ou tenha tido situações de conflito: Favor nos avisar e nós tentaremos melhorar o roteiro.
+
+Visite o site www.unknown-horizons.org para obter ajuda e como entrar em contato com a equipe!
+
+Agora, vamos começar o jogo.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: SETTLE ON AN ISLAND">
         <source>NEW TASK: SETTLE ON AN ISLAND</source>
-        <target state="translated"></target>
+        <target state="translated">NOVA TAREFA: Atracado em uma ilha</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="To move your ship, select it with a left click and right click on the location you want it to go to.&#10;&#10;Once you are near the coast, the anchor-like button you see in the overview tab will become active.&#10;&#10;This indicates that you are able to build a branch office there by pressing that button (called 'Build Settlement').&#10;&#10;Now a preview of your building is dragged around when you move the cursor.&#10;&#10;You can build on any spot where this preview is not shaded red.&#10;Click where you want to place your first building.&#10;&#10;TASK: Build a branch office at the coast.">
         <source>To move your ship, select it with a left click and right click on the location you want it to go to.
@@ -150,18 +162,16 @@ You should avoid placing tents too close to your lumberjacks for example because
 TASK: Build a main square.</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Now let's have a closer look at the main square.&#10;&#10;In the overview tab you can quickly adjust taxes.&#10;&#10;In the second tab 'Account' you get a balance sheet of this island, featuring all costs you pay and all taxes you earn.&#10;&#10;The items 'Sale' and 'Buy' refer to your trading balance and will be explained later on.&#10;&#10;If your balance is positive, you all-in-all make a profit.&#10;&#10;In the 'Settler' tab you can see how happy your inhabitants are and what resource most of them want to be supplied with.">
+      <trans-unit xml:space="preserve" approved="yes" id="Now let's have a closer look at the main square.&#10;&#10;In the 'Account' tab you get a balance sheet of this island, featuring all costs you pay and all taxes you earn.&#10;&#10;The items 'Sale' and 'Buy' refer to your trading balance and will be explained later on.&#10;&#10;If your balance is positive, you all-in-all make a profit.&#10;&#10;In the different increment overview tabs you can see statistics about your inhabitants. You also set the increment-specific global tax here and allow or deny inhabitants of this increment to upgrade to the next higher one.">
         <source>Now let's have a closer look at the main square.
 
-In the overview tab you can quickly adjust taxes.
-
-In the second tab 'Account' you get a balance sheet of this island, featuring all costs you pay and all taxes you earn.
+In the 'Account' tab you get a balance sheet of this island, featuring all costs you pay and all taxes you earn.
 
 The items 'Sale' and 'Buy' refer to your trading balance and will be explained later on.
 
 If your balance is positive, you all-in-all make a profit.
 
-In the 'Settler' tab you can see how happy your inhabitants are and what resource most of them want to be supplied with.</source>
+In the different increment overview tabs you can see statistics about your inhabitants. You also set the increment-specific global tax here and allow or deny inhabitants of this increment to upgrade to the next higher one.</source>
         <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a main square. Choose an area without many economy buildings.">
@@ -212,30 +222,29 @@ TIP: Holding down SHIFT eases constructing multiple buildings of the same kind.<
         <source>NEW TASK: BUILD SIGNAL FIRE</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Can you see the ship passing your island from time to time?&#10;&#10;This is the ship of the Free Trader, one of the first settlers in this archipelago.&#10;&#10;This trader will supply your settlement with necessary goods which you can't produce yet.&#10;&#10;You can also sell surpluses of your production, but in general consuming them (by building more tents) instead of selling to the Free Trader yields more profit.&#10;&#10;Normally the ships just sail around and look for deals, but small settlements like yours first need some promotion, otherwise you won't be found.&#10;&#10;For this purpose, you can build a signal fire at the coast near your branch office to show ships the way to your settlement.">
-        <source>Can you see the ship passing your island from time to time?
+      <trans-unit xml:space="preserve" approved="yes" id="Can you see the ship passing your island from time to time? That ship belongs to the Free Trader, one of the first settlers in this archipelago.&#10;&#10;The trader will supply your settlement with necessary goods which you can't produce yet.&#10;You can also sell surpluses of your production, but in general consuming them (by building more tents) instead of selling them yields more profit.&#10;&#10;Normally the trader ships just sail around and look for deals, but you can speed things up a bit.&#10;&#10;For this purpose, build a signal fire at the coast near your branch office. It will show ships the way to your settlement.&#10;&#10;The signal fire has to cover the area which the ships pass through to catch them.">
+        <source>Can you see the ship passing your island from time to time? That ship belongs to the Free Trader, one of the first settlers in this archipelago.
 
-This is the ship of the Free Trader, one of the first settlers in this archipelago.
+The trader will supply your settlement with necessary goods which you can't produce yet.
+You can also sell surpluses of your production, but in general consuming them (by building more tents) instead of selling them yields more profit.
 
-This trader will supply your settlement with necessary goods which you can't produce yet.
+Normally the trader ships just sail around and look for deals, but you can speed things up a bit.
 
-You can also sell surpluses of your production, but in general consuming them (by building more tents) instead of selling to the Free Trader yields more profit.
+For this purpose, build a signal fire at the coast near your branch office. It will show ships the way to your settlement.
 
-Normally the ships just sail around and look for deals, but small settlements like yours first need some promotion, otherwise you won't be found.
-
-For this purpose, you can build a signal fire at the coast near your branch office to show ships the way to your settlement.</source>
+The signal fire has to cover the area which the ships pass through to catch them.</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="After this little advertisment, the trader will stop by from time to time and look into your branch office.&#10;&#10;You can propose deals via the tab 'Buy/Sell'. (This feature is currently quite fiddly to use, but a re-design is in the pipeline. If you have found a nice way of doing it, please share your thoughts! We need your help here!)&#10;&#10;At the 'sailors' increment, you are equipped with three trading slots.&#10;&#10;Click on the small icon to change the slot mode from 'Buy' to 'Sell' and vice versa.&#10;&#10;If you click in the slot, you can choose the good you want to trade with. We will further explain this once you are ready to trade.&#10;&#10;TASK: Build a signal fire at the coast close to your branch office.">
-        <source>After this little advertisment, the trader will stop by from time to time and look into your branch office.
+      <trans-unit xml:space="preserve" approved="yes" id="After this little advertisment, the trader will also stop by and look into your branch office if it planned to sail past it.&#10;&#10;You can propose deals via the branch office tab 'Buy/Sell'. (This feature is currently quite fiddly to use. If you come up with a nice way of improving it, please share your thoughts! We need your help here!)&#10;&#10;At the 'sailors' increment, you are equipped with three trading slots.&#10;&#10;Click on the small icon to change the slot mode from 'Buy' to 'Sell' and vice versa.&#10;&#10;Click in the slot to choose the good you want to trade with. We will further explain this once you are ready to trade.&#10;&#10;TASK: Build a signal fire at the coast close to your branch office.">
+        <source>After this little advertisment, the trader will also stop by and look into your branch office if it planned to sail past it.
 
-You can propose deals via the tab 'Buy/Sell'. (This feature is currently quite fiddly to use, but a re-design is in the pipeline. If you have found a nice way of doing it, please share your thoughts! We need your help here!)
+You can propose deals via the branch office tab 'Buy/Sell'. (This feature is currently quite fiddly to use. If you come up with a nice way of improving it, please share your thoughts! We need your help here!)
 
 At the 'sailors' increment, you are equipped with three trading slots.
 
 Click on the small icon to change the slot mode from 'Buy' to 'Sell' and vice versa.
 
-If you click in the slot, you can choose the good you want to trade with. We will further explain this once you are ready to trade.
+Click in the slot to choose the good you want to trade with. We will further explain this once you are ready to trade.
 
 TASK: Build a signal fire at the coast close to your branch office.</source>
         <target state="translated"></target>
@@ -297,15 +306,15 @@ Service buildings like this also need to be connected to the tents with a trail,
 In later increments, upgraded versions of buildings may become available.</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="In that case the 'small' version is not needed anymore since the 'big' one will also provide what your inhabitants are looking for in early increments.&#10;&#10;Take care when planning your city because most of those advanced buildings are bigger than the basic ones.&#10;&#10;Note that faith is treated like a physical resource, so units need to refresh there after some time.&#10;&#10;Important:&#10;It is NOT enough that the building is merely within a certain range of the tents.&#10;&#10;TASK: Build a pavilion with a trail to the tents in order to fulfill your sailors' demand for faith.">
-        <source>In that case the 'small' version is not needed anymore since the 'big' one will also provide what your inhabitants are looking for in early increments.
+      <trans-unit xml:space="preserve" approved="yes" id="Note that faith is treated like a physical resource!&#10;&#10;This means that your inhabitants need a road connection to the producer (pavilion) to pick up faith there.&#10;After some time, they will have consumed it and then again look for a producer to collect more faith.&#10;&#10;Important:&#10;It is NOT enough that the building is merely within a certain range of the tents.&#10;The road connection is required as well.&#10;&#10;TASK: Build a pavilion with a trail to the tents in order to fulfill your sailors' demand for faith.">
+        <source>Note that faith is treated like a physical resource!
 
-Take care when planning your city because most of those advanced buildings are bigger than the basic ones.
-
-Note that faith is treated like a physical resource, so units need to refresh there after some time.
+This means that your inhabitants need a road connection to the producer (pavilion) to pick up faith there.
+After some time, they will have consumed it and then again look for a producer to collect more faith.
 
 Important:
 It is NOT enough that the building is merely within a certain range of the tents.
+The road connection is required as well.
 
 TASK: Build a pavilion with a trail to the tents in order to fulfill your sailors' demand for faith.</source>
         <target state="translated"></target>
