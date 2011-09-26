@@ -662,7 +662,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="seed">
         <source>seed</source>
-        <target state="translated">семя / сеять</target>
+        <target state="translated">семя / сеять / начальное значение (генератора случайных чисел)</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="temporarily">
         <source>temporarily</source>
