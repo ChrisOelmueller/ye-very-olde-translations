@@ -4,7 +4,7 @@
     <body>
       <trans-unit xml:space="preserve" approved="yes" id="Doctor">
         <source>Doctor</source>
-        <target state="translated"></target>
+        <target state="translated">Doctor</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Restart required">
         <source>Restart required</source>
@@ -414,14 +414,14 @@ Reporta esto al autor, por favor.</target>
         <source>Sailors</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Pioneers">
+      <trans-unit xml:space="preserve" approved="yes" id="Pioneers">
         <source>Pioneers</source>
-        <target state="needs-translation">pionero</target>
+        <target state="translated">Pioneros</target>
         <note from="translator">75%</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Settlers">
+      <trans-unit xml:space="preserve" approved="yes" id="Settlers">
         <source>Settlers</source>
-        <target state="needs-translation">colono</target>
+        <target state="translated">Colonos</target>
         <note from="translator">75%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Overview">
@@ -908,22 +908,22 @@ Reporta esto al autor, por favor.</target>
         <source>houses</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="1 resident">
+      <trans-unit xml:space="preserve" approved="yes" id="1 resident">
         <source>1 resident</source>
-        <target state="needs-translation">Residentes</target>
-        <note from="translator">88%
+        <target state="translated">1 habitante</target>
+        <note from="translator">88%&#13;
 81%</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="2 residents">
+      <trans-unit xml:space="preserve" approved="yes" id="2 residents">
         <source>2 residents</source>
-        <target state="needs-translation">Residentes</target>
-        <note from="translator">88%
+        <target state="translated">2 habitantes</target>
+        <note from="translator">88%&#13;
 81%</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="3 residents">
+      <trans-unit xml:space="preserve" approved="yes" id="3 residents">
         <source>3 residents</source>
-        <target state="needs-translation">Residentes</target>
-        <note from="translator">88%
+        <target state="translated">3 habitantes</target>
+        <note from="translator">88%&#13;
 81%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="no" id="residents">
