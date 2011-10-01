@@ -1521,7 +1521,7 @@ Details: %s</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Uninterrupted building:">
         <source>Uninterrupted building:</source>
-        <target state="translated"></target>
+        <target state="translated">Непрерывное строительство:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Used renderer:">
         <source>Used renderer:</source>
@@ -1755,27 +1755,27 @@ Details: %s</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Trade route: going to %s">
         <source>Trade route: going to %s</source>
-        <target state="translated"></target>
+        <target state="translated">Торговый маршрут: двигаться в %s</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Trade route: waiting at %s">
         <source>Trade route: waiting at %s</source>
-        <target state="translated"></target>
+        <target state="translated">Торговый маршрут: ждать в %s</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Going to %s">
         <source>Going to %s</source>
-        <target state="translated"></target>
+        <target state="translated">Двигаться в %s</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Going to %(x)d, %(y)d">
         <source>Going to %(x)d, %(y)d</source>
-        <target state="translated"></target>
+        <target state="translated">Двигаться в %(x)d, %(y)d</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Idle at %s">
         <source>Idle at %s</source>
-        <target state="translated"></target>
+        <target state="translated">Ждать в %s</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Idle at %(x)d, %(y)d">
         <source>Idle at %(x)d, %(y)d</source>
-        <target state="translated"></target>
+        <target state="translated">Ждать в %(x)d, %(y)d</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Trader">
         <source>Trader</source>
@@ -1783,7 +1783,7 @@ Details: %s</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Attacking ">
         <source>Attacking </source>
-        <target state="translated"></target>
+        <target state="translated">Атака </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enable debug output to stderr and a logfile.">
         <source>Enable debug output to stderr and a logfile.</source>
@@ -2107,7 +2107,7 @@ Details: %s</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="bordeaux">
         <source>bordeaux</source>
-        <target state="translated"></target>
+        <target state="translated">бордовый</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="cyan">
         <source>cyan</source>
@@ -2115,7 +2115,7 @@ Details: %s</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="gray">
         <source>gray</source>
-        <target state="translated"></target>
+        <target state="translated">серый</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="green">
         <source>green</source>
@@ -2123,11 +2123,11 @@ Details: %s</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="lemon">
         <source>lemon</source>
-        <target state="translated"></target>
+        <target state="translated">лимонный</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="orange">
         <source>orange</source>
-        <target state="translated"></target>
+        <target state="translated">оранжевый</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pink">
         <source>pink</source>
@@ -2135,7 +2135,7 @@ Details: %s</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="purple">
         <source>purple</source>
-        <target state="translated"></target>
+        <target state="translated">фиолетовый</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="red">
         <source>red</source>
@@ -2143,7 +2143,7 @@ Details: %s</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="teal">
         <source>teal</source>
-        <target state="translated"></target>
+        <target state="translated">бирюзовый</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="white">
         <source>white</source>
@@ -2390,11 +2390,11 @@ Details: %s</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Boar">
         <source>Boar</source>
-        <target state="translated"></target>
+        <target state="translated">Кабан</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Cattle">
+      <trans-unit xml:space="preserve" approved="yes" id="Cattle">
         <source>Cattle</source>
-        <target state="needs-translation">скот</target>
+        <target state="translated">Скот</target>
         <note from="translator">83%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Deer">
