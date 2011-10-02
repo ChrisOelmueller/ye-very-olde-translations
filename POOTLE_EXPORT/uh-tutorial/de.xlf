@@ -18,9 +18,9 @@ Build your first settlement and learn how to play!
 Errichtet Eure erste Siedlung und lernt das Spiel kennen!
 </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Build a branch office at the coast.">
-        <source>Build a branch office at the coast.</source>
-        <target state="translated">Errichtet ein Kontor an der Küste.</target>
+      <trans-unit xml:space="preserve" approved="yes" id="Build a branch office at the coast, so it is easy accessible for other ships like the Free Trader.">
+        <source>Build a branch office at the coast, so it is easy accessible for other ships like the Free Trader.</source>
+        <target state="translated">Errichtet ein Kontor an der Küste. Es sollte für Schiffe wie den Freien Händler einfach erreichbar sein.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Welcome to Unknown Horizons!">
         <source>Welcome to Unknown Horizons!</source>
@@ -225,29 +225,25 @@ Im Allgemeinen sollten Zelte beispielsweise nicht zu nah an die Holzfällerlager
 AUFGABE: Errichtet einen Marktplatz.</target>
         <note from="translator">FIXME: abgerissen &lt;-&gt; teared</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Now let's have a closer look at the main square.&#10;&#10;In the overview tab you can quickly adjust taxes.&#10;&#10;In the second tab 'Account' you get a balance sheet of this island, featuring all costs you pay and all taxes you earn.&#10;&#10;The items 'Sale' and 'Buy' refer to your trading balance and will be explained later on.&#10;&#10;If your balance is positive, you all-in-all make a profit.&#10;&#10;In the 'Settler' tab you can see how happy your inhabitants are and what resource most of them want to be supplied with.">
+      <trans-unit xml:space="preserve" approved="yes" id="Now let's have a closer look at the main square.&#10;&#10;In the 'Account' tab you get a balance sheet of this island, featuring all costs you pay and all taxes you earn.&#10;&#10;The items 'Sale' and 'Buy' refer to your trading balance and will be explained later on.&#10;&#10;If your balance is positive, you all-in-all make a profit.&#10;&#10;In the different increment overview tabs you can see statistics about your inhabitants. You also set the increment-specific global tax here and allow or deny inhabitants of this increment to upgrade to the next higher one.">
         <source>Now let's have a closer look at the main square.
 
-In the overview tab you can quickly adjust taxes.
-
-In the second tab 'Account' you get a balance sheet of this island, featuring all costs you pay and all taxes you earn.
+In the 'Account' tab you get a balance sheet of this island, featuring all costs you pay and all taxes you earn.
 
 The items 'Sale' and 'Buy' refer to your trading balance and will be explained later on.
 
 If your balance is positive, you all-in-all make a profit.
 
-In the 'Settler' tab you can see how happy your inhabitants are and what resource most of them want to be supplied with.</source>
+In the different increment overview tabs you can see statistics about your inhabitants. You also set the increment-specific global tax here and allow or deny inhabitants of this increment to upgrade to the next higher one.</source>
         <target state="translated">Lasst uns nun einen genaueren Blick auf den Marktplatz werfen.
 
-Im Tab 'Übersicht' können die Steuern schnell angepasst werden.
-
-Im zweiten Tab 'Finanzen' erhaltet Ihr eine Übersicht der Bilanz dieser Insel. Sie enthält alle Betriebskosten, die Ihr zahlt, und alle eingenommenen Steuern.
+Im Tab 'Finanzen' erhaltet Ihr eine Übersicht der Bilanz dieser Insel. Sie enthält alle Betriebskosten, die Ihr zahlt, und alle eingenommenen Steuern.
 
 Die Posten 'Verkaufen' und 'Einkaufen' beziehen sich auf Eure Handelsbilanz und werden später ausführlich erklärt.
 
 Fällt die Bilanz positiv aus, macht Ihr auf dieser Insel Gewinn.
 
-Im 'Siedler'-Tab seht Ihr die Zufriedenheit Eurer Einwohner und auch, nach welchen Waren die meisten von ihnen gerade verlangen.</target>
+Im 'Siedler'-Tab seht Ihr Statistiken bezüglich Eurer Einwohner. Der globale Steuersatz für diese Siedlerstufe kann eingestellt werden, ebenso könnt Ihr Euren Einwohnern erlauben oder verbieten, in die nächsthöhere Stufe auszusteigen.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a main square. Choose an area without many economy buildings.">
         <source>Build a main square. Choose an area without many economy buildings.</source>
@@ -320,50 +316,50 @@ TIPP: Mit gedrückter SHIFT-Taste wird das Bauen von mehreren Gebäuden des selb
         <source>NEW TASK: BUILD SIGNAL FIRE</source>
         <target state="translated">NEUE AUFGABE: LEUCHTFEUER BAUEN</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Can you see the ship passing your island from time to time?&#10;&#10;This is the ship of the Free Trader, one of the first settlers in this archipelago.&#10;&#10;This trader will supply your settlement with necessary goods which you can't produce yet.&#10;&#10;You can also sell surpluses of your production, but in general consuming them (by building more tents) instead of selling to the Free Trader yields more profit.&#10;&#10;Normally the ships just sail around and look for deals, but small settlements like yours first need some promotion, otherwise you won't be found.&#10;&#10;For this purpose, you can build a signal fire at the coast near your branch office to show ships the way to your settlement.">
-        <source>Can you see the ship passing your island from time to time?
+      <trans-unit xml:space="preserve" approved="yes" id="Can you see the ship passing your island from time to time? That ship belongs to the Free Trader, one of the first settlers in this archipelago.&#10;&#10;The trader will supply your settlement with necessary goods which you can't produce yet.&#10;You can also sell surpluses of your production, but in general consuming them (by building more tents) instead of selling them yields more profit.&#10;&#10;Normally the trader ships just sail around and look for deals, but you can speed things up a bit.&#10;&#10;For this purpose, build a signal fire at the coast near your branch office. It will show ships the way to your settlement.&#10;&#10;The signal fire has to cover the area which the ships pass through to catch them.">
+        <source>Can you see the ship passing your island from time to time? That ship belongs to the Free Trader, one of the first settlers in this archipelago.
 
-This is the ship of the Free Trader, one of the first settlers in this archipelago.
+The trader will supply your settlement with necessary goods which you can't produce yet.
+You can also sell surpluses of your production, but in general consuming them (by building more tents) instead of selling them yields more profit.
 
-This trader will supply your settlement with necessary goods which you can't produce yet.
+Normally the trader ships just sail around and look for deals, but you can speed things up a bit.
 
-You can also sell surpluses of your production, but in general consuming them (by building more tents) instead of selling to the Free Trader yields more profit.
+For this purpose, build a signal fire at the coast near your branch office. It will show ships the way to your settlement.
 
-Normally the ships just sail around and look for deals, but small settlements like yours first need some promotion, otherwise you won't be found.
+The signal fire has to cover the area which the ships pass through to catch them.</source>
+        <target state="translated">Habt Ihr das Schiff bemerkt, welches von Zeit zu Zeit Eure Insel ansteuert? Es gehört zum Freien Händler, einem der ersten Siedler in diesem Archipel.
 
-For this purpose, you can build a signal fire at the coast near your branch office to show ships the way to your settlement.</source>
-        <target state="translated">Habt Ihr das Schiff bemerkt, welches von Zeit zu Zeit Eure Insel ansteuert?
-
-Dieses Schiff ist ein Freier Händler, einer der ersten Siedler in diesem Archipel. Er beliefert Siedlungen mit Gütern, die Ihr momentan noch nicht produzieren könnt.
+Er beliefert Siedlungen mit Gütern, die Ihr momentan noch nicht produzieren könnt.
 
 Außerdem wird er Produktionsüberschüsse einkaufen, aber im Allgemeinen ist das Verbrauchen (mehr Zelte errichten) einträglicher als der Verkauf.
 
-In der Regel fahren die Schiffe umher und halten Ausschau nach möglichen Geschäften. Neu gegründete Siedlungen wie Eure benötigen jedoch erst etwas Werbung, sonst werden sie nicht gefunden.
+In der Regel fahren die Schiffe umher und halten Ausschau nach möglichen Geschäften. Diesen Prozess könnt Ihr aber ein wenig beschleunigen.
 
-Zu diesem Zweck könnt Ihr ein Leuchtfeuer an der Küste in der Nähe des Kontors errichten, um Schiffen den Weg zur Siedlung zu zeigen.</target>
+Zu diesem Zweck könnt Ihr ein Leuchtfeuer an der Küste in der Nähe des Kontors errichten. Es wird Schiffen den Weg zur Siedlung zu zeigen.
+
+Das Leuchtfeuer muss das Gebiet abdecken, durch welches die abzufangenden Schiffe navigieren.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="After this little advertisment, the trader will stop by from time to time and look into your branch office.&#10;&#10;You can propose deals via the tab 'Buy/Sell'. (This feature is currently quite fiddly to use, but a re-design is in the pipeline. If you have found a nice way of doing it, please share your thoughts! We need your help here!)&#10;&#10;At the 'sailors' increment, you are equipped with three trading slots.&#10;&#10;Click on the small icon to change the slot mode from 'Buy' to 'Sell' and vice versa.&#10;&#10;If you click in the slot, you can choose the good you want to trade with. We will further explain this once you are ready to trade.&#10;&#10;TASK: Build a signal fire at the coast close to your branch office.">
-        <source>After this little advertisment, the trader will stop by from time to time and look into your branch office.
+      <trans-unit xml:space="preserve" approved="yes" id="After this little advertisment, the trader will also stop by and look into your branch office if it planned to sail past it.&#10;&#10;You can propose deals via the branch office tab 'Buy/Sell'. (This feature is currently quite fiddly to use. If you come up with a nice way of improving it, please share your thoughts! We need your help here!)&#10;&#10;At the 'sailors' increment, you are equipped with three trading slots.&#10;&#10;Click on the small icon to change the slot mode from 'Buy' to 'Sell' and vice versa.&#10;&#10;Click in the slot to choose the good you want to trade with. We will further explain this once you are ready to trade.&#10;&#10;TASK: Build a signal fire at the coast close to your branch office.">
+        <source>After this little advertisment, the trader will also stop by and look into your branch office if it planned to sail past it.
 
-You can propose deals via the tab 'Buy/Sell'. (This feature is currently quite fiddly to use, but a re-design is in the pipeline. If you have found a nice way of doing it, please share your thoughts! We need your help here!)
+You can propose deals via the branch office tab 'Buy/Sell'. (This feature is currently quite fiddly to use. If you come up with a nice way of improving it, please share your thoughts! We need your help here!)
 
 At the 'sailors' increment, you are equipped with three trading slots.
 
 Click on the small icon to change the slot mode from 'Buy' to 'Sell' and vice versa.
 
-If you click in the slot, you can choose the good you want to trade with. We will further explain this once you are ready to trade.
+Click in the slot to choose the good you want to trade with. We will further explain this once you are ready to trade.
 
 TASK: Build a signal fire at the coast close to your branch office.</source>
         <target state="translated">Nach dieser kleinen Orientierungshilfe wird der Händler gern ab und an vorbeikommen und Euer Kontor inspizieren.
 
-Angebote werden über den Tab 'Ein-/Verkaufen' vorschlagen. Leider ist der momentan nahezu unbenutzbar, aber wir haben ein Ticket für die Umgestaltung geöffnet, um daran zu arbeiten. Wenn Ihr eine gute Idee habt, teilt sie uns bitte mit! Wir brauchen dabei jede erdenkliche Hilfe!
+Angebote werden über den Tab 'Ein-/Verkaufen' im Kontor vorschlagen. Leider ist der momentan nahezu unbenutzbar, Wenn Ihr eine gute Idee habt, ihn zu verbessern, teilt sie uns bitte mit! Wir brauchen dabei jede erdenkliche Hilfe!
 
 In der Stufe 'Seefahrer' stehen Euch drei Handelsslots zur Verfügung. Klickt auf das kleine Symbol im Slot, um vom Modus 'Verkaufen' auf 'Kaufen' und umgekehrt zu wechseln.
 
 Um das Handelsgut auszuwählen, klickt in einen Slot. Wir werden das Vorgehen weiter betrachten, wenn Ihr alle Voraussetzungen erfüllt, um Handel zu treiben.
 
 AUFGABE: Errichtet ein Leuchtfeuer an der Küste in der Nähe des Kontors.</target>
-        <note from="translator">FIXME: slots</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a signal fire at the coast close to your branch office.">
         <source>Build a signal fire at the coast close to your branch office.</source>
@@ -448,25 +444,24 @@ Dienstleistungsgebäude wie dieses brauchen einen Zugang zur Straße, ansonsten 
 In späteren Stufen stehen verbesserte Versionen dieser Gebäude zur Verfügung. In diesen Fall wird das 'kleinere' Gebäude nicht benötigt, da die 'große' Version auch die Bedürfnisse der Einwohner niedrigerer Stufen befriedigt.</target>
         <note from="translator">shelter from the sun -&gt; Sonnenschutz</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="In that case the 'small' version is not needed anymore since the 'big' one will also provide what your inhabitants are looking for in early increments.&#10;&#10;Take care when planning your city because most of those advanced buildings are bigger than the basic ones.&#10;&#10;Note that faith is treated like a physical resource, so units need to refresh there after some time.&#10;&#10;Important:&#10;It is NOT enough that the building is merely within a certain range of the tents.&#10;&#10;TASK: Build a pavilion with a trail to the tents in order to fulfill your sailors' demand for faith.">
-        <source>In that case the 'small' version is not needed anymore since the 'big' one will also provide what your inhabitants are looking for in early increments.
+      <trans-unit xml:space="preserve" approved="yes" id="Note that faith is treated like a physical resource!&#10;&#10;This means that your inhabitants need a road connection to the producer (pavilion) to pick up faith there.&#10;After some time, they will have consumed it and then again look for a producer to collect more faith.&#10;&#10;Important:&#10;It is NOT enough that the building is merely within a certain range of the tents.&#10;The road connection is required as well.&#10;&#10;TASK: Build a pavilion with a trail to the tents in order to fulfill your sailors' demand for faith.">
+        <source>Note that faith is treated like a physical resource!
 
-Take care when planning your city because most of those advanced buildings are bigger than the basic ones.
-
-Note that faith is treated like a physical resource, so units need to refresh there after some time.
+This means that your inhabitants need a road connection to the producer (pavilion) to pick up faith there.
+After some time, they will have consumed it and then again look for a producer to collect more faith.
 
 Important:
 It is NOT enough that the building is merely within a certain range of the tents.
+The road connection is required as well.
 
 TASK: Build a pavilion with a trail to the tents in order to fulfill your sailors' demand for faith.</source>
-        <target state="translated">Vorsicht bei der Stadtplanung! Die meisten dieser verbesserten Gebäude benötigen mehr Platz als die Grundversion.
+        <target state="translated">Beachtet, dass die Religion wie ein Konsumgut behandelt wird. Eure Einwohner müssen also regelmäßig ihren Vorrat davon auffüllen.
 
-Beachtet, dass die Religion wie ein Konsumgut behandelt wird. Eure Einwohner müssen also regelmäßig ihren Vorrat davon auffüllen.
+Dazu benötigen sie Zugang zu einem Gebäude, das Religion produziert (dem Pavillon) und werden dann regelmäßig Religion dort abholen und zuhause verbrauchen.
 
-Es ist insbesondere NICHT ausreichend, dass das Gebäude nur in einem gewissen Einzugsgebiet liegt. Auch ein Wege dorthin muss vom Zelt aus erreichbar sein.
+Es ist insbesondere NICHT ausreichend, dass das Gebäude nur in einem gewissen Einzugsgebiet liegt. Auch ein Weg dorthin muss vom Zelt aus erreichbar sein.
 
 AUFGABE: Baut einen Pavillon mit einer Verbindung zu den Zelten, um Euren Einwohnern den Zugang zum Glauben zu ermöglichen.</target>
-        <note from="translator">units meint hier einwohner</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a pavilion with connection to the tents.">
         <source>Build a pavilion with connection to the tents.</source>
@@ -759,11 +754,11 @@ www.unknown-horizons.org
 
 team@unknown-horizons.org
 
-Unsere Foren stehen dir ebenfalls offen!
+Unsere Foren stehen Euch ebenfalls offen!
 
 Die besten Ergebnisse wurden bis jetzt erreicht, wenn man unseren IRC Kanal betritt, das solltet Ihr also zuerst probieren (-;
 
-Genauso wie Ihr auch kein Gast in fremder Gesellschaft sein möchtet, der einer Unterhaltung mangels Sprachkenntnis nicht folgen kann, bitten wir dort um Englisch. In dringenden Fällen gibt es immer noch den deutschen Teil im Forum.</target>
+Genauso wie Ihr auch kein Gast in fremder Gesellschaft sein möchtet, der einer Unterhaltung mangels Sprachkenntnis nicht folgen kann, bitten wir dort um Englisch. In dringenden Fällen könnt Ihr auch in gebrochenem Englisch Hilfe suchen und erwähnen, dass Ihr Deutsch sprecht.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Thanks!">
         <source>Thanks!</source>
