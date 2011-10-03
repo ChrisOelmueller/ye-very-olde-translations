@@ -5,12 +5,6 @@
       <trans-unit xml:space="preserve" approved="yes" id="build">
         <source>build</source>
         <target state="translated">rakenna</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>The pruhcsaes I make are entirely based on these articles.</target>
-        </alt-trans>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Yeah that's what I'm tilakng about baby--nice work!</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="game">
         <source>game</source>
@@ -284,15 +278,6 @@
         <source>moved</source>
         <target state="needs-translation">liikuta</target>
         <note from="translator">80%</note>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>TcfBb8 , [url=http://jkxebgsmxoar.com/]jkxebgsmxoar[/url], [link=http://gikggwizdkqv.com/]gikggwizdkqv[/link], http://aksgdcfyvnqi.com/</target>
-        </alt-trans>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>6dpTzp  &lt;a href="http://ermwxvlpdyay.com/"&gt;ermwxvlpdyay&lt;/a&gt;</target>
-        </alt-trans>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Play informative for me, Mr. internet wtrier.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="produce">
         <source>produce</source>
