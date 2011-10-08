@@ -296,9 +296,6 @@
         <source>produced</source>
         <target state="translated">prodotto</target>
         <note from="translator">87%</note>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>prodotto</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pasture">
         <source>pasture</source>
@@ -382,9 +379,6 @@
         <alt-trans xml:space="preserve" origin="nobody">
           <target>Abitante</target>
         </alt-trans>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>cittadino</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="merchant">
         <source>merchant</source>
@@ -392,16 +386,10 @@
         <alt-trans xml:space="preserve" origin="nobody">
           <target>Mercante</target>
         </alt-trans>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>mercante</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="aristocrat">
         <source>aristocrat</source>
         <target state="translated">aristocratico</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>aristocratico</target>
-        </alt-trans>
         <alt-trans xml:space="preserve" origin="nobody">
           <target>Aristocratico</target>
         </alt-trans>
@@ -421,12 +409,6 @@
       <trans-unit xml:space="preserve" approved="yes" id="slot">
         <source>slot</source>
         <target state="translated">slot</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>slot</target>
-        </alt-trans>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Slot</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="stop">
         <source>stop</source>
@@ -567,9 +549,6 @@
       <trans-unit xml:space="preserve" approved="yes" id="hold">
         <source>hold</source>
         <target state="translated">tenere</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>tenere</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hunt">
         <source>hunt</source>
@@ -646,33 +625,18 @@
         <alt-trans xml:space="preserve" origin="nobody">
           <target>controllo</target>
         </alt-trans>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Controllo</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="connection">
         <source>connection</source>
         <target state="translated">connessione</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>connessione</target>
-        </alt-trans>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Connessione</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="no">
         <source>no</source>
         <target state="translated">no</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>no</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tax">
         <source>tax</source>
         <target state="translated">tassa</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>tassa</target>
-        </alt-trans>
         <alt-trans xml:space="preserve" origin="nobody">
           <target>Tasse</target>
         </alt-trans>
@@ -687,23 +651,14 @@
         <alt-trans xml:space="preserve" origin="nobody">
           <target>raggiunto</target>
         </alt-trans>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>raggiungere</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="slider">
         <source>slider</source>
         <target state="translated">cursore</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>cursore</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="condition">
         <source>condition</source>
         <target state="translated">condizione</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>condizione</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="consume">
         <source>consume</source>
@@ -716,23 +671,14 @@
       <trans-unit xml:space="preserve" approved="yes" id="contact">
         <source>contact</source>
         <target state="translated">contatto</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>contatto</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="dialogue">
         <source>dialogue</source>
         <target state="translated">dialogo</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>dialogo</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="issues">
         <source>issues</source>
         <target state="translated">problemi</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>problemi</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="minimap">
         <source>minimap</source>
@@ -742,9 +688,6 @@
         <source>playing</source>
         <target state="translated">giocando</target>
         <alt-trans xml:space="preserve" origin="nobody">
-          <target>giocando</target>
-        </alt-trans>
-        <alt-trans xml:space="preserve" origin="nobody">
           <target>gioco</target>
         </alt-trans>
       </trans-unit>
@@ -752,48 +695,27 @@
         <source>ruin</source>
         <target state="translated">rovina</target>
         <note from="translator">75%</note>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>rovina</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="seed">
         <source>seed</source>
-        <target state="translated">seme</target>
+        <target state="translated">seme / seminare</target>
         <note from="translator">In base alla frase.</note>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>seme / seminare</target>
-        </alt-trans>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>seme</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="temporarily">
         <source>temporarily</source>
         <target state="translated">temporaneamente</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>temporaneamente</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="salt ponds">
         <source>salt ponds</source>
         <target state="translated">laghi salati</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>laghi salati</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tobacco">
         <source>tobacco</source>
         <target state="translated">tabacco</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>tabacco</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="cattle">
         <source>cattle</source>
         <target state="translated">bestiame</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>bestiame</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pig">
         <source>pig</source>
@@ -804,9 +726,6 @@
         <target state="translated">erbe</target>
         <alt-trans xml:space="preserve" origin="nobody">
           <target>le erbe</target>
-        </alt-trans>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>erbe</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="herbary">
@@ -829,31 +748,18 @@
       <trans-unit xml:space="preserve" approved="yes" id="doctor">
         <source>doctor</source>
         <target state="translated">dottore</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>dottore</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="education">
         <source>education</source>
-        <target state="translated">educare</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>educazione</target>
-        </alt-trans>
+        <target state="translated">educazione</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="clay">
         <source>clay</source>
         <target state="translated">argilla</target>
-        <note from="translator">75%</note>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>argilla</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="charcoal">
         <source>charcoal</source>
         <target state="translated">carbone</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>carbone</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="iron">
         <source>iron</source>
