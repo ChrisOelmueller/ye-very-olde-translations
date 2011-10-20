@@ -4,7 +4,7 @@
     <body>
       <trans-unit xml:space="preserve" approved="yes" id="build">
         <source>build</source>
-        <target state="translated">Construire/Installer</target>
+        <target state="translated">Construire / Ériger / Édifier</target>
         <note from="translator">(poterminology) uh-tutorial/tutorial.pot (43)&#13;
 (poterminology) uh/unknownhorizons.pot (10)&#13;
 I added 'installer' cause in my opinion, you cannot build a weaver...french will understand that</note>
@@ -29,8 +29,8 @@ I added 'installer' cause in my opinion, you cannot build a weaver...french will
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="resource">
         <source>resource</source>
-        <target state="translated">resources</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (8)
+        <target state="translated">resource / matériel / bien / marchandise</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (8)&#13;
 (poterminology) uh/unknownhorizons.pot (14)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="branch office">
@@ -163,8 +163,8 @@ I think that tab is not the good word in some case, i had here some other words 
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="trade">
         <source>trade</source>
-        <target state="translated">commerce</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (8)
+        <target state="translated">commerce / commercer</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (8)&#13;
 (poterminology) uh/unknownhorizons.pot (4)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change">
@@ -217,8 +217,8 @@ I think that tab is not the good word in some case, i had here some other words 
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="free">
         <source>free</source>
-        <target state="translated">libre</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (4)
+        <target state="translated">libre / indépendent</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (4)&#13;
 (poterminology) uh/unknownhorizons.pot (4)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="log">
@@ -296,7 +296,7 @@ Woodcutter will be translated by bucheron. Lumberjack is difficult to translate 
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="signal fire">
         <source>signal fire</source>
-        <target state="translated">feu de signalisation</target>
+        <target state="translated">feu de signalisation / phare</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="stock">
         <source>stock</source>
@@ -336,8 +336,8 @@ Woodcutter will be translated by bucheron. Lumberjack is difficult to translate 
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="found">
         <source>found</source>
-        <target state="translated">trouvé</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (2)
+        <target state="translated">trouvé / fonder</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (2)&#13;
 (poterminology) uh/unknownhorizons.pot (4)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pavilion">
@@ -355,7 +355,7 @@ Woodcutter will be translated by bucheron. Lumberjack is difficult to translate 
       <trans-unit xml:space="preserve" approved="yes" id="range">
         <source>range</source>
         <target state="translated">rayon d'action</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (4)
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (4)&#13;
 (poterminology) uh/unknownhorizons.pot (1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="raw">
@@ -474,11 +474,11 @@ Woodcutter will be translated by bucheron. Lumberjack is difficult to translate 
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="built">
         <source>built</source>
-        <target state="translated">construit / érigé</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (3)
-(poterminology) uh/unknownhorizons.pot (1)
-(poterminology) uh-tutorial/tutorial.pot (43)
-(poterminology) uh/unknownhorizons.pot (10)
+        <target state="translated">construit / érigé / édifié</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (3)&#13;
+(poterminology) uh/unknownhorizons.pot (1)&#13;
+(poterminology) uh-tutorial/tutorial.pot (43)&#13;
+(poterminology) uh/unknownhorizons.pot (10)&#13;
 80%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="construction">
@@ -569,8 +569,8 @@ Why not "marchand indépendant" ?</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="residents">
         <source>residents</source>
-        <target state="translated">habitants</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (4)
+        <target state="translated">résidents / habitants</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (4)&#13;
 (poterminology) uh/unknownhorizons.pot (2)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="run">
@@ -618,8 +618,8 @@ Of course, here is all about context cause run can also be translated by 'courir
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="build settlement">
         <source>build settlement</source>
-        <target state="translated">ériger une colonie</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)
+        <target state="translated">ériger ~ / fonder une colonie</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)&#13;
 (poterminology) uh/unknownhorizons.pot (2)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Captain's log">
@@ -787,9 +787,9 @@ tisserand is really more beautifull than tisseur, isn't it ?</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="grow">
         <source>grow</source>
-        <target state="translated">croitre</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (2)
-(poterminology) uh/unknownhorizons.pot (1)
+        <target state="translated">croitre / grandir / pousser / prospérer</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (2)&#13;
+(poterminology) uh/unknownhorizons.pot (1)&#13;
 80%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hold">
@@ -833,8 +833,8 @@ see lamb. wool come from sheep, lambs give meat</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="load/unload">
         <source>load/unload</source>
-        <target state="translated">charger/décharger</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)
+        <target state="translated">charger / décharger</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)&#13;
 (poterminology) uh/unknownhorizons.pot (1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="return">
@@ -857,8 +857,8 @@ see lamb. wool come from sheep, lambs give meat</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="ship inventory">
         <source>ship inventory</source>
-        <target state="translated">inventaire/cargaison du navire</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)
+        <target state="translated">inventaire du navire / cargaison du navire</target>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (1)&#13;
 (poterminology) uh/unknownhorizons.pot (1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="starting">
@@ -899,7 +899,7 @@ see lamb. wool come from sheep, lambs give meat</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="check">
         <source>check</source>
-        <target state="translated">Vérifier</target>
+        <target state="translated">vérifier</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="connection">
         <source>connection</source>
@@ -975,7 +975,7 @@ Of course, here is all about context cause run can also be translated by 'courir
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="salt ponds">
         <source>salt ponds</source>
-        <target state="translated">marais salants</target>
+        <target state="translated">marais salants / salines</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tobacco">
         <source>tobacco</source>
@@ -1019,23 +1019,14 @@ Of course, here is all about context cause run can also be translated by 'courir
       <trans-unit xml:space="preserve" approved="yes" id="charcoal">
         <source>charcoal</source>
         <target state="translated">charbon de bois</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>charbon</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="iron">
         <source>iron</source>
         <target state="translated">fer</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>fer</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="ore">
         <source>ore</source>
         <target state="translated">minerai</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>minerai</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
