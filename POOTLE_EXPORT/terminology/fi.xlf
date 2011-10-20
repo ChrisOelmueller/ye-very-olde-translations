@@ -45,6 +45,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="ship">
         <source>ship</source>
         <target state="translated">alus</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>laiva</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="main">
         <source>main</source>
@@ -53,10 +56,16 @@
       <trans-unit xml:space="preserve" approved="yes" id="settlement">
         <source>settlement</source>
         <target state="translated">asutuskeskus</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>siirtokunta (israeli settlement)</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="start">
         <source>start</source>
         <target state="translated">aloita</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>alku</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="click">
         <source>click</source>
@@ -169,6 +178,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="trader">
         <source>trader</source>
         <target state="translated">kaupustelija</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>välittäjä</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="version">
         <source>version</source>
@@ -185,6 +197,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="left">
         <source>left</source>
         <target state="translated">jäljellä</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>vasen</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="reach">
         <source>reach</source>
@@ -213,6 +228,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="balance">
         <source>balance</source>
         <target state="translated">tasapaino</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>tase (bank balance)</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="choose">
         <source>choose</source>
@@ -229,6 +247,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="pavilion">
         <source>pavilion</source>
         <target state="translated">kokousteltta (tent for meetings) / tapahtumateltta (tent for happenings) / juhlateltta (tent for celebration)</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>paviljonki</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="potato">
         <source>potato</source>
@@ -253,6 +274,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="collector">
         <source>collector</source>
         <target state="translated">kerääjä</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>keräilijä</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="help">
         <source>help</source>
@@ -265,6 +289,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="inventory">
         <source>inventory</source>
         <target state="translated">tavaravalikko</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>inventaario</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="level">
         <source>level</source>
@@ -278,6 +305,9 @@
         <source>moved</source>
         <target state="needs-translation">liikuta</target>
         <note from="translator">80%</note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>liikutettiin</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="produce">
         <source>produce</source>
@@ -287,6 +317,9 @@
         <source>produced</source>
         <target state="needs-translation">tuottaa / valmistaa</target>
         <note from="translator">87%</note>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>tuottettiin / valmistettiin</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pasture">
         <source>pasture</source>
@@ -343,6 +376,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="leave">
         <source>leave</source>
         <target state="translated">jätä</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>poistu</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="market">
         <source>market</source>
@@ -355,10 +391,16 @@
       <trans-unit xml:space="preserve" approved="yes" id="sailor">
         <source>sailor</source>
         <target state="translated">merenkävijä</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>merimies</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pioneer">
         <source>pioneer</source>
         <target state="translated">pioneeri</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>pioneeri (military), uudisasukas (settler)</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="settler">
         <source>settler</source>
@@ -367,6 +409,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="citizen">
         <source>citizen</source>
         <target state="translated">kaupunkilainen</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>kansalainen (citizen of the united states)</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="merchant">
         <source>merchant</source>
@@ -375,6 +420,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="aristocrat">
         <source>aristocrat</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>aatelinen</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="refresh">
         <source>refresh</source>
@@ -540,6 +588,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="income">
         <source>income</source>
         <target state="translated">palkka (payment for working) / tienesti (earnings, but overly casual form), nettotuotto (net profit, but too scientific word despite widespreadness)</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>tulot</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="information">
         <source>information</source>
@@ -557,6 +608,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="load/unload">
         <source>load/unload</source>
         <target state="translated">ota kyytiin/pois</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>lastaa/pura</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="return">
         <source>return</source>
@@ -573,6 +627,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="ship inventory">
         <source>ship inventory</source>
         <target state="translated">laivan tavaranäkymä</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>laivan inventaario</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="starting">
         <source>starting</source>
@@ -621,6 +678,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="reached">
         <source>reached</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>saavutettu</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="slider">
         <source>slider</source>
@@ -636,18 +696,30 @@
       <trans-unit xml:space="preserve" approved="yes" id="consume">
         <source>consume</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>kuluttaa</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="contact">
         <source>contact</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>ota yhteyttä</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="dialogue">
         <source>dialogue</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>keskustelu</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="issues">
         <source>issues</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>ongelmia</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="minimap">
         <source>minimap</source>
@@ -656,6 +728,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="playing">
         <source>playing</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>pelaa</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="no" id="ruin">
         <source>ruin</source>
@@ -663,6 +738,9 @@
         <note from="translator">75%</note>
         <alt-trans xml:space="preserve" origin="nobody">
           <target>raunio</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>tuhota (you ruined it/sinä tuhosit sen))</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="seed">
@@ -691,6 +769,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="pig">
         <source>pig</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>sika</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="herbs">
         <source>herbs</source>
@@ -718,6 +799,9 @@
         <note from="translator">75%</note>
         <alt-trans xml:space="preserve" origin="nobody">
           <target>savea</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>savi</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="charcoal">
