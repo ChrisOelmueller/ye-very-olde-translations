@@ -10,9 +10,9 @@
         <source>game</source>
         <target state="translated">joc</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="building">
+      <trans-unit xml:space="preserve" approved="yes" id="building">
         <source>building</source>
-        <target state="needs-translation">construcció</target>
+        <target state="translated">construcció</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tent">
         <source>tent</source>
@@ -166,10 +166,9 @@
         <source>taxes</source>
         <target state="translated">impostos</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="trader">
+      <trans-unit xml:space="preserve" approved="yes" id="trader">
         <source>trader</source>
-        <target state="needs-translation">comerç</target>
-        <note from="translator">83%</note>
+        <target state="translated">comerciant</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="version">
         <source>version</source>
@@ -283,10 +282,9 @@
         <source>produce</source>
         <target state="translated">produir</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="produced">
+      <trans-unit xml:space="preserve" approved="yes" id="produced">
         <source>produced</source>
-        <target state="needs-translation">produir</target>
-        <note from="translator">87%</note>
+        <target state="translated">produït</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pasture">
         <source>pasture</source>
@@ -300,10 +298,9 @@
         <source>sugar</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="tree">
+      <trans-unit xml:space="preserve" approved="yes" id="tree">
         <source>tree</source>
-        <target state="needs-translation">lliure</target>
-        <note from="translator">75%</note>
+        <target state="translated">arbre</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="active">
         <source>active</source>
@@ -317,10 +314,9 @@
         <source>build menu</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="built">
+      <trans-unit xml:space="preserve" approved="yes" id="built">
         <source>built</source>
-        <target state="needs-translation">construir</target>
-        <note from="translator">80%</note>
+        <target state="translated">construït</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="construction">
         <source>construction</source>
@@ -360,31 +356,31 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pioneer">
         <source>pioneer</source>
-        <target state="translated"></target>
+        <target state="translated">pioner</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="settler">
+      <trans-unit xml:space="preserve" approved="yes" id="settler">
         <source>settler</source>
-        <target state="needs-translation">colon</target>
+        <target state="translated">colon</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="citizen">
         <source>citizen</source>
-        <target state="translated"></target>
+        <target state="translated">ciutadà</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="merchant">
         <source>merchant</source>
-        <target state="translated"></target>
+        <target state="translated">comerciant</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="aristocrat">
         <source>aristocrat</source>
-        <target state="translated"></target>
+        <target state="translated">aristòcrata</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="refresh">
         <source>refresh</source>
-        <target state="translated"></target>
+        <target state="translated">actualitzar</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="residents">
         <source>residents</source>
-        <target state="translated"></target>
+        <target state="translated">residents</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="run">
         <source>run</source>
