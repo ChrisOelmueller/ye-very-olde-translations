@@ -788,6 +788,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="doctor">
         <source>doctor</source>
         <target state="translated">tohtori</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>lääkäri</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="education">
         <source>education</source>
@@ -807,14 +810,26 @@
       <trans-unit xml:space="preserve" approved="yes" id="charcoal">
         <source>charcoal</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>hiili</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>puuhiili</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="iron">
         <source>iron</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>rauta</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="ore">
         <source>ore</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>malmi</target>
+        </alt-trans>
       </trans-unit>
     </body>
   </file>
