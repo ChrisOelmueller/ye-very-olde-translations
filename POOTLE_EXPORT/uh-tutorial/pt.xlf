@@ -5,26 +5,31 @@
       <trans-unit xml:space="preserve" approved="yes" id="Tutorial">
         <source>Tutorial</source>
         <target state="translated">Tutorial</target>
+        <note from="developer">scenario difficulty</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The UH team">
         <source>The UH team</source>
         <target state="translated">A equipa do UH</target>
+        <note from="developer">scenario author</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The tutorial:&#10;Build your first settlement and learn how to play!&#10;">
         <source>The tutorial:
 Build your first settlement and learn how to play!
 </source>
-        <target state="translated">O tutorial.
+        <target state="translated">O tutorial:
 Constrói a tua primeira povoação e aprende a jogar!
 </target>
+        <note from="developer">scenario description</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a branch office at the coast, so it is easy accessible for other ships like the Free Trader.">
         <source>Build a branch office at the coast, so it is easy accessible for other ships like the Free Trader.</source>
-        <target state="translated"></target>
+        <target state="translated">Constrói uma feitoria na costa, para que outros navios como o do Mercador Livre possam aceder facilmente.</target>
+        <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Welcome to Unknown Horizons!">
         <source>Welcome to Unknown Horizons!</source>
-        <target state="translated">Bemvindo a Unknown Horizons!</target>
+        <target state="translated">Bem-vindo a Unknown Horizons!</target>
+        <note from="developer">This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="This is your Captain's log where all important information is stored. A short notification of each task will be provided on the left of the screen.&#10;&#10;If you are interested in longer descriptions, your log will hopefully provide all the help you need.&#10;&#10;After you close this log, it can be re-opened with the 'Captain's Log' icon in the top-right corner (below the mini-map, with a sealed document and a feather).&#10;&#10;For any suggestions on better wording, topics you would like to have explained or even buggy conditions: Please tell us and we will try to improve the tutorial!&#10;&#10;Visit www.unknown-horizons.org for help on how to contact the team!&#10;&#10;And now, let's start the actual game.">
         <source>This is your Captain's log where all important information is stored. A short notification of each task will be provided on the left of the screen.
@@ -38,21 +43,22 @@ For any suggestions on better wording, topics you would like to have explained o
 Visit www.unknown-horizons.org for help on how to contact the team!
 
 And now, let's start the actual game.</source>
-        <target state="translated">Aqui é o Diário de Bordo on toda a informação importante é guardada. Uma pequena descrição de qualquer tarefa será apresentada no ecrã à esquerda.
+        <target state="translated">Este é o Diário de bordo onde toda a informação importante é guardada. Uma pequena notificação de cada tarefa será apresentada no ecrã à esquerda.
 
-Se estiver interessado em descrições mais completas, o diário irá oferecer toda a ajuda que necessita.
+Se estiveres interessado em descrições mais completas, o diário irá oferecer toda a ajuda que necessita.
 
-Após fechar este diário, poderá aceder ao mesmo através do icon 'Diário do Capitão' no canto superior direito (por baixo da miniatura do mapa, exibindo um documento e uma pena).
+Após fechar este diário, poderá aceder ao mesmo através do icon 'Diário de bordo' no canto superior direito (por baixo da miniatura do mapa, exibindo um documento e uma pena).
 
-Sugestões sobre vocabulário, tópicos ou mesmo falhas que gostaria de ver explicados: diga-nos e tentaremos melhorar o tutorial!
+Sugestões sobre vocabulário, tópicos ou mesmo falhas que gostarias de ver explicados: Por favor, diz-nos e tentaremos melhorar o tutorial!
 
-Para ajuda sobre contactar a equipa, visite, www.unknown-horizons.org!
+Para ajuda sobre como contactar a equipa, visita o enderço www.unknown-horizons.org!
 
 E agora, vamos iniciar o jgoo.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: SETTLE ON AN ISLAND">
         <source>NEW TASK: SETTLE ON AN ISLAND</source>
-        <target state="translated">ESTABELEÇA A SUA POVOAÇÂO NA ILHA</target>
+        <target state="translated">ESTABELECER UMA POVOAÇÃO</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="To move your ship, select it with a left click and right click on the location you want it to go to.&#10;&#10;Once you are near the coast, the anchor-like button you see in the overview tab will become active.&#10;&#10;This indicates that you are able to build a branch office there by pressing that button (called 'Build Settlement').&#10;&#10;Now a preview of your building is dragged around when you move the cursor.&#10;&#10;You can build on any spot where this preview is not shaded red.&#10;Click where you want to place your first building.&#10;&#10;TASK: Build a branch office at the coast.">
         <source>To move your ship, select it with a left click and right click on the location you want it to go to.
@@ -67,22 +73,23 @@ You can build on any spot where this preview is not shaded red.
 Click where you want to place your first building.
 
 TASK: Build a branch office at the coast.</source>
-        <target state="translated">Para movimentar o seu navio, selecione-o com um clique de botão esquerdo e clique com o botão direito do rato na posição para onde pretende ir.
+        <target state="translated">Para mover o teu navio, selecciona-o com o botão esquerdo do rato e clica com o botão direito do rato no local para onde queres que o navio vá.
 
-Uma vez perto da costa, o botão com a âncora irá ficar activo na guia de resumo.
+Uma vez perto da costa, o botão com a âncora que está no separador de relatório ficará activo.
 
-Isto indica que é possível criar uma filial na costa pressionando esse botão (chamado 'Construir povoação').
+Isto indica que podes criar uma feitoria na costa pressionando esse botão (chamado 'Construir povoação').
 
-Uma pré-visualização do edifício ficará disponível quando move o cursor.
+Uma pré-visualização do edifício ficará disponível quando moveres o cursor do rato.
 
-Poderá construir em qualquer local em que a pré-visualização não esteja sombreada de vermelho.
-Clique onde deseja edificar a construção.
+Poderás construir em qualquer local em que a pré-visualização não tenha a cor vermelha.
+Clica no local onde desejas iniciar a construção do teu primeiro edifício.
 
-TAREFA: Construir uma filial na costa.</target>
+TAREFA: Construir uma feitoria na costa.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A LUMBERJACK">
         <source>NEW TASK: BUILD A LUMBERJACK</source>
-        <target state="translated">CRIE UM LENHADOR</target>
+        <target state="translated">ADICIONAR UM LENHADOR</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The construction material on your ship got unloaded automatically. You can now construct some basic buildings.&#10;&#10;We will start with building a lumberjack.&#10;&#10;This is essential because, at this stage, boards are the only poles your sailors can afford to hang their tents over.&#10;&#10;The fisherman needs some boards to build his vessel as well.&#10;&#10;In order to construct lumberjacks; open the build menu by either clicking the big icon below the mini map or pressing B key.&#10;&#10;The build menu is sorted by increments.&#10;You are currently in the first increment (the Sailors level) so are offered only the basic buildings.">
         <source>The construction material on your ship got unloaded automatically. You can now construct some basic buildings.
@@ -97,7 +104,19 @@ In order to construct lumberjacks; open the build menu by either clicking the bi
 
 The build menu is sorted by increments.
 You are currently in the first increment (the Sailors level) so are offered only the basic buildings.</source>
-        <target state="translated"></target>
+        <target state="translated">O material de construção que estava no navio foi descarregado automaticamente. Podes agora iniciar a construção de alguns edifícios simples.
+
+Iremos começar por adicionar um lenhador.
+
+Este passo é fundamental uma vez que, nesta fase, pranchas de madeira são os únicos pilares que podem ser usados pelos marinheiros para suportar as tendas.
+
+Além disso, o pescador precisa de algumas pranchas de madeira para criar a sua embarcação.
+
+De modo a adicionar lenhadores abre o menu de construção clicando no ícone debaixo da miniatura do mapa ou pressionado a tecla B.
+
+O menu de construção é ordenado por níveis.
+Encontras-te no primeiro nível (o nível de Marinheiros) e por isso apenas estão disponíveis os edifícios mais simples.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="As your civilization advances, you also gain more and more complex buildings.&#10;&#10;For now, select the lumberjack under 'Companies' and build it in an area with some trees around.&#10;&#10;You can also plant trees later - but that costs money. Use what nature provided you with!&#10;&#10;A company always needs a trail connection to a storage or branch office, otherwise goods will remain at the company and not be collected.&#10;&#10;This means that you have to build a trail connecting your branch office (or storage) and lumberjack.&#10;&#10;TASK: Build a lumberjack in a wooded area and connect it to a road.&#10;&#10;Watch how a collector will fetch your first self-produced boards.">
         <source>As your civilization advances, you also gain more and more complex buildings.
@@ -113,23 +132,25 @@ This means that you have to build a trail connecting your branch office (or stor
 TASK: Build a lumberjack in a wooded area and connect it to a road.
 
 Watch how a collector will fetch your first self-produced boards.</source>
-        <target state="translated">Enquanto a sua civilização progride, ganhará acesso a novos edifícios mais complexos.
+        <target state="translated">À media que a tua civilização progride terás acesso a novos edifícios, cada vez mais complexos.
 
-Por enquanto, selecione o lenhador em 'Companhias' e construa o edificio numa àrea com àrvores à volta.
+Por enquanto, selecciona o lenhador em 'Empresas' e constrói o edificio numa àrea com àrvores à volta.
 
-Mais tarde poderá também plantar árvores - mas custa moedas. Utilize o natureza lhe fornece!
+Mais tarde poderás também plantar árvores - embora isso custe dinheiro. Utilize o que natureza te fornece!
 
-Uma companhia necessita sempre de um caminho de ligação para um armazém ou para uma filia, caso contrário as mercadorias irão ficar na companhia e não serão colecionadas.
+Uma empresa necessita sempre de um caminho de ligação para um armazém ou para uma feitoria, caso contrário as mercadorias irão ficar na empresa e não serão transportadas.
 
-Isto significa que deverá construir um caminho de ligação entre a filial e os lenhadores.
+Isto significa que deverá construir um caminho de ligação entre a feitoria (ou armazém) e o lenhador.
 
-TAREFA: Construa lenhadores numa àrea com madeira e ligue-a a um caminho.
+TAREFA: Adiciona um lenhador numa àrea rodeada de árvores e ligue-o a um caminho.
 
-Verifique como um colecionador irá produzir as suas primeiras tábuas.</target>
+Vê como um transportador irá buscar as primeiras tábuas que forem produzidas.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a lumberjack and connect it to the branch office using a trail.">
         <source>Build a lumberjack and connect it to the branch office using a trail.</source>
-        <target state="translated">Construa uma serração e ligue-a à filial utilizando um caminho.</target>
+        <target state="translated">Adiciona um lenhador e ligue-o à feitoria utilizando um caminho.</target>
+        <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: FOOD SUPPLY">
         <source>NEW TASK: FOOD SUPPLY</source>
@@ -147,17 +168,18 @@ Note that you can place your Hunter close to the lumberjack's forest.
 It can happen that the animals don't reproduce fast enough or simply hide well.
 
 Conclusion: the hunter is not too reliable if you need continuous supply.</source>
-        <target state="translated">Também irá necessitar de algumas unidades para produzir comida, isto porque a população em geral (e especialmente os marinheiros) andam sempre esfomeados.
+        <target state="translated">Vais também precisar de empresa para produzir comida, isto porque a população em geral (e especialmente os marinheiros) andam sempre esfomeados.
 
-As unidades disponíveis no primeiro nível são o caçador e o pescador.
+No primeiro nível, as unidades disponíveis que produzem comida são o caçador e o pescador.
 
-O caçador, surpreendemente, caça animais nas florestas, portanto necessita de árvores por perto.
+O caçador, surpreendentemente, caça animais nas florestas, portanto necessita de árvores por perto.
 
-Poderá inclusivé colocar os seus caçadores juntos à serração nas florestas.
+Poderás até colocar os seus caçadores junto das florestas dos lenhadores.
 
-Poderá acontecer que os animais não se reproduzam suficientemente rápido ou que simplesmente sejam bons a esconderem-se dos caçadores.
+Pode acontecer que os animais não se reproduzam suficientemente rápido ou que simplesmente sejam bons a esconderem-se dos caçadores.
 
-Conclusão: os caçadores poderão não ser muito fiáveis, sobretudo se necessitar de uma oferta contínua.</target>
+Conclusão: os caçadores não ser muito fiáveis, sobretudo se necessitares de uma oferta contínua de comida.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The Fisher needs a coastal building site like the branch office and a fish school in range.&#10;&#10;He will build a small rowing vessel and catch some fish.&#10;&#10;This is a very constant supply at the cost of a slightly longer production time per unit of food.&#10;&#10;A small settlement like yours can use both companies, and you can better balance pros and cons if you see the direct comparison.&#10;&#10;TASK: Build a hunter and a fisher.&#10;&#10;Don't forget to connect them to your branch office with trails!">
         <source>The Fisher needs a coastal building site like the branch office and a fish school in range.
@@ -171,25 +193,28 @@ A small settlement like yours can use both companies, and you can better balance
 TASK: Build a hunter and a fisher.
 
 Don't forget to connect them to your branch office with trails!</source>
-        <target state="translated">O pescador necessita de um edificio na costa (como a filial) e uma escola de pesca ao seu alcance.
+        <target state="translated">O pescador necessita de um edificio na costa como a feitoria e uma escola de pesca ao seu alcance.
 
 Ele irá construir uma pequena embarcação e apanhar algum peixe.
 
-Esta actividade (pesca) irá oferecer uma produção mais uniforme, no entanto exige um pouco mais de tempo por unidade produzida.
+Esta actividade irá oferecer uma produção mais uniforme, no entanto exige um pouco mais de tempo por unidade de comida que é produzida.
 
-Uma pequena povoação como a sua poderá utilizar as duas unidades, e poderá conhecer melhor os custos e beneficios através de uma comparação directa.
+Uma pequena povoação como a tua poderá utilizar as duas unidades de produção de comida, assim ficarás a conhecer melhor os custos e beneficios através de uma comparação directa.
 
-TAREFA: Crie um caçador e um pescador.
+TAREFA: Adiciona um caçador e um pescador.
 
-Não se esqueça de ligá-los à sua filial através de um caminho!</target>
+Não te esqueças de ligá-los à feitoria através de um caminho!</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a hunter and a fisher. Connect them to the branch office.">
         <source>Build a hunter and a fisher. Connect them to the branch office.</source>
-        <target state="translated">Crie um caçador e um pescador. Ligue-os à sua prefeitoria através de um caminho.</target>
+        <target state="translated">Adicionar um caçador e um pescador. Ligue-os à feitoria através de um caminho.</target>
+        <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: MAIN SQUARE">
         <source>NEW TASK: MAIN SQUARE</source>
-        <target state="translated">PRAÇA PRINCIPAL</target>
+        <target state="translated">NOVA TAREFA: PRAÇA PRINCIPAL</target>
+        <note from="developer">This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Your residents need a main square where they can fetch their goods from.&#10;&#10;This means that they need a trail connection from their home to the main square.&#10;&#10;All goods in your branch office are available at this 'market place', so your residents do not need to walk to the fisher or even to the branch office.&#10;&#10;You should consider founding your actual house settlement in an area where you can easily expand it and build some trails, too.&#10;&#10;You should avoid placing tents too close to your lumberjacks for example because building tents will clear away the trees that your lumberjack needs to produce boards.&#10;&#10;TASK: Build a main square.">
         <source>Your residents need a main square where they can fetch their goods from.
@@ -203,17 +228,18 @@ You should consider founding your actual house settlement in an area where you c
 You should avoid placing tents too close to your lumberjacks for example because building tents will clear away the trees that your lumberjack needs to produce boards.
 
 TASK: Build a main square.</source>
-        <target state="translated">Os seus residentes necessitam de uma Praça Principal onde poderão adquirir as suas mercadorias.
+        <target state="translated">Os residentes precisam de uma praça principal onde ir buscar mercadorias.
 
-Isto significa que eles irão necessitar de um caminho da sua casa para a Praça Principal.
+Isto significa que eles vão precisar de um caminho entre as suas casas e a praça principal.
 
-Todas as mercadorias na sua prefeitoria estão disponíveis neste 'mercado', portanto os seus residentes não necessitam de visitar os pescadores, ou até mesmo a prefeitoria.
+Todas as mercadorias da feitoria estão disponíveis neste 'mercado', assim os residentes não têm de visitar os pescadores, ou até mesmo a feitoria.
 
-Deverá considerar fundar a sua àrea habitacional numa àrea onde poderá expandi-la facilmente e construir caminhos.
+Pensa em fundar a àrea habitacional numa zona onde possa ser facilmente expandida e onde possas construir caminhos.
 
-Deverá evitar colocar tendas demasiado próximas dos seus lenhadores, por exemplo porque construir tendas irá remover árvores que os seus lenhadores precisam para produzir tábuas.
+Além disso, deves evitar colocar tendas demasiado próximas dos lenhadores uma vez que estas ocuparão os espaço das árvores que os lenhadores precisam para construir tábuas.
 
-TAREFA: Construir a Praça Principal.</target>
+TAREFA: Constrói a praça principal.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Now let's have a closer look at the main square.&#10;&#10;In the 'Account' tab you get a balance sheet of this island, featuring all costs you pay and all taxes you earn.&#10;&#10;The items 'Sale' and 'Buy' refer to your trading balance and will be explained later on.&#10;&#10;If your balance is positive, you all-in-all make a profit.&#10;&#10;In the different increment overview tabs you can see statistics about your inhabitants. You also set the increment-specific global tax here and allow or deny inhabitants of this increment to upgrade to the next higher one.">
         <source>Now let's have a closer look at the main square.
@@ -225,15 +251,26 @@ The items 'Sale' and 'Buy' refer to your trading balance and will be explained l
 If your balance is positive, you all-in-all make a profit.
 
 In the different increment overview tabs you can see statistics about your inhabitants. You also set the increment-specific global tax here and allow or deny inhabitants of this increment to upgrade to the next higher one.</source>
-        <target state="translated"></target>
+        <target state="translated">Vamos agora olhar para a praça principal com mais atenção.
+
+No separador 'Conta' é possível ver uma folha com o saldo desta ilha, mostrando todos os custos e todos os impostos recolhidos.
+
+Os ítems na secção 'Venda' e 'Compra' referem-se ao saldo das trocas comerciasi e serão explicados mais tarde.
+
+Se o saldo é positivo, no geral estás a ter lucro.
+
+Nos vários separadores de relatórios é possível ver estatísticas sobre os habitantes.
+É também o local onde se pode definir o valor dos impostos para determinado nível e permitir ou proibir o melhoramento dos habitantes para o nível seguinte.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a main square. Choose an area without many economy buildings.">
         <source>Build a main square. Choose an area without many economy buildings.</source>
-        <target state="translated">Construa uma Praça Principal. Escolha uma área sem muitos edificios ligados à economia.</target>
+        <target state="translated">Constrói uma praça principal. Escolhe uma área sem muitos edificios ligados à economia.</target>
+        <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: RESIDENTIAL BUILDINGS">
         <source>NEW TASK: RESIDENTIAL BUILDINGS</source>
-        <target state="translated">EDIFÍCIOS RESIDENCIAIS</target>
+        <target state="translated">NOVA TAREFA: EDIFÍCIOS RESIDENCIAIS</target>
+        <note from="developer">This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Settlers want to have a roof over their heads, else they won't even think of living in your city! You need to provide tents.&#10;&#10;Tents are the basic residential buildings. Your inhabitants will want to upgrade it when they reach higher increments.&#10;&#10;Settlers may not look very useful since they will try to consume all goods you produce - but they at least pay taxes, and that's the only way you can make money for now!&#10;&#10;TASK: Build a tent and connect it to the main square.">
         <source>Settlers want to have a roof over their heads, else they won't even think of living in your city! You need to provide tents.
@@ -243,17 +280,19 @@ Tents are the basic residential buildings. Your inhabitants will want to upgrade
 Settlers may not look very useful since they will try to consume all goods you produce - but they at least pay taxes, and that's the only way you can make money for now!
 
 TASK: Build a tent and connect it to the main square.</source>
-        <target state="translated">Os povoadores irão necessitar de um telhado sobre as suas cabeças, caso contrário não irão sequer considerar viver na sua povoação! Deverá fornecer estas tendas.
+        <target state="translated">Os povoadores querem um telhado sobre as suas cabeças, caso contrário não irão sequer considerar viver na tua cidade! Terás de providenciar tendas.
 
-As tendas são o edifício residencial mais básico. Os seus habitantes irão querer que faça melhoramentos quando chegar a níveis mais altos.
+As tendas são o edifício residencial mais básico. Os habitantes irão querer melhoramentos quando chegarem a níveis mais altos.
 
-Os povoadores podem não parecer muito importantes, uma vez que apenas consomem mercadorias e recursos - mas são eles que pagam os impostos, e é a única maneira que tem de produzir moeda por enquanto!
+Os povoadores podem não parecer muito importantes, uma vez que apenas consomem mercadorias e recursos - mas são eles que pagam os impostos, e os impostos são, para já, a única maneira que tens de ganhar dinheiro!
 
-TAREFA: Constrúa uma tenda e ligue-a à Praça Principal.</target>
+TAREFA: Constrói uma tenda e ligua-a à praça principal.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a tent and connect it to the main square.">
         <source>Build a tent and connect it to the main square.</source>
-        <target state="translated">Constrúa uma tenda e ligue-a à Praça Principal.</target>
+        <target state="translated">Constrói uma tenda e ligua-a à praça principal.</target>
+        <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Let's have a look at the tent overview tab.&#10;You can see&#10;* the happiness of these residents,&#10;* the taxes they pay and&#10;* the resources they demand.&#10;&#10;If their demands are fulfilled, happiness and thus your tax income increase.&#10;&#10;If not, happiness and income decrease. At some time your residents may get really sour and simply turn their back on your village, leaving behind a decaying ruin.&#10;&#10;Note that you can also change the global tax settings here, too.&#10;&#10;TASK: Build at least three additional tents.&#10;&#10;TIP: Holding down SHIFT eases constructing multiple buildings of the same kind.">
         <source>Let's have a look at the tent overview tab.
@@ -271,29 +310,29 @@ Note that you can also change the global tax settings here, too.
 TASK: Build at least three additional tents.
 
 TIP: Holding down SHIFT eases constructing multiple buildings of the same kind.</source>
-        <target state="translated">Vamos analizar a guia de resumo das tendas.
-Poderá ver:
-* O grau de felicidade dos seus habitantes;
-* Os impostos que pagam;
-* Os recursos que exigem.
+        <target state="translated">Vamos analizar o separador de relatório de tendas.
+Poderás ver:
+* o nível de felicidade dos teus habitantes;
+* os impostos que pagam estes pagam e;
+* os recursos que exigem.
 
-Se a sua procura for satisfeita, a felicidade e os seus impostos irão aumentar.
+Se as suas exigências estão a ser satisfeitas, a felicidade e consequentemente os impostos irão aumentar.
 
-Se a felicidade e a oferta diminuirem, passado algum tempo os seus residentes podem mesmo ficar desapontados e simplesmente abandonar a aldeia, deixando para trás um ruína como símbolo da decadência.
+Caso contrário, a felicidade e as receitas diminuem. Passado algum tempo os residentes podem ficar muito desapontados e simplesmente abandonar a aldeia deixando para trás um conjunto de ruínas em decadência.
+Nota que é também aqui que podes mudar as definições globais dos impostos.
 
-Tenha em atenção que poderá também alterar as definições de impostos globais aqui.
+TAREFA: Constrói, pelo menos, três tendas adicionais.
 
-TAREFA: Construa pelo menos três tendas adicionais.
-
-DICA: Mantendo pressionado SHIFT permite contruir vários edifícios do mesmo tipo de uma só vez.</target>
+DICA: Mantendo pressionada a tecla SHIFT permite construir vários edifícios do mesmo tipo de uma só vez.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build at least three additional tents and connect them to the main square.">
         <source>Build at least three additional tents and connect them to the main square.</source>
-        <target state="translated">Construa pelo menos três tendas adicionais e ligue-as à Praça Principal.</target>
+        <target state="translated">Constrói, pelo menos, três tendas adicionais e ligua-as à praça principal.</target>
+        <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD SIGNAL FIRE">
         <source>NEW TASK: BUILD SIGNAL FIRE</source>
-        <target state="translated">CONSTRUIR O SINAL DE FOGO</target>
+        <target state="translated">NOVA TAREFA: O SINAL DE FOGO</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Can you see the ship passing your island from time to time? That ship belongs to the Free Trader, one of the first settlers in this archipelago.&#10;&#10;The trader will supply your settlement with necessary goods which you can't produce yet.&#10;You can also sell surpluses of your production, but in general consuming them (by building more tents) instead of selling them yields more profit.&#10;&#10;Normally the trader ships just sail around and look for deals, but you can speed things up a bit.&#10;&#10;For this purpose, build a signal fire at the coast near your branch office. It will show ships the way to your settlement.&#10;&#10;The signal fire has to cover the area which the ships pass through to catch them.">
         <source>Can you see the ship passing your island from time to time? That ship belongs to the Free Trader, one of the first settlers in this archipelago.
@@ -306,7 +345,17 @@ Normally the trader ships just sail around and look for deals, but you can speed
 For this purpose, build a signal fire at the coast near your branch office. It will show ships the way to your settlement.
 
 The signal fire has to cover the area which the ships pass through to catch them.</source>
-        <target state="translated"></target>
+        <target state="translated">Vês o navio que passa pela tua ilha de tempos a tempos? Esse navio pertence ao Mercador Livre, um dos primeiros povoadores deste arquipélago.
+
+O mercador pode fornecer à tua povoação os bens que esta ainda não consegue produzir.
+Podes também vender o excesso da produção mas, regra geral, consumir esse excesso (criando novas tendas) em vez de o vender resulta num lucro maior.
+
+Normalmente os navios do mercador navegam pelo mar à procura de negócios, mas é possível acelerar as coisas um pouco.
+
+Para isso, constrói um sinal de fogo na costa perto da feitoria. O sinal de fogo irá indicar aos navios que passam onde fica a tua povoação.
+
+O sinal de fogo tem de cobrir a área em que os navios passam para ser eficaz.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="After this little advertisment, the trader will also stop by and look into your branch office if it planned to sail past it.&#10;&#10;You can propose deals via the branch office tab 'Buy/Sell'. (This feature is currently quite fiddly to use. If you come up with a nice way of improving it, please share your thoughts! We need your help here!)&#10;&#10;At the 'sailors' increment, you are equipped with three trading slots.&#10;&#10;Click on the small icon to change the slot mode from 'Buy' to 'Sell' and vice versa.&#10;&#10;Click in the slot to choose the good you want to trade with. We will further explain this once you are ready to trade.&#10;&#10;TASK: Build a signal fire at the coast close to your branch office.">
         <source>After this little advertisment, the trader will also stop by and look into your branch office if it planned to sail past it.
@@ -320,15 +369,27 @@ Click on the small icon to change the slot mode from 'Buy' to 'Sell' and vice ve
 Click in the slot to choose the good you want to trade with. We will further explain this once you are ready to trade.
 
 TASK: Build a signal fire at the coast close to your branch office.</source>
-        <target state="translated"></target>
+        <target state="translated">Depois deste pequeno anúncio, o mercador irá parar na feitoria mesmo que tenha inicialmente pensado em passar sem parar.
+
+Podes propor negócios através do separador 'Comprar/Vender' presente na feitoria. (Esta funcionalidade é, actualmente, pouco intuitiva, se tiveres sugestões para a melhorar, por favor, partilha as tuas ideias. Precisamos da tua ajuda!)
+
+No nível 'marinheiros' tens ao teu dispor três compartimentos para trocas comerciais.
+
+Clica no ícone para alternar entre o modo 'Comprar' e 'Vender'.
+
+Clica no compartimento para escolher a mercadoria que queres trocar. Estas opções serão explicadas mais tarde no tutorial, quando estiveres pronto para fazer trocas comerciais.
+
+TAREFA: Constrói um sinal de fogo na costa junto à feitoria.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a signal fire at the coast close to your branch office.">
         <source>Build a signal fire at the coast close to your branch office.</source>
-        <target state="translated">Construa uma Fogueira na costa próximo da sua prefeitoria.</target>
+        <target state="translated">Constrói um sinal de fogo na costa próximo da feitoria.</target>
+        <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: LEARN TO TRADE">
         <source>NEW TASK: LEARN TO TRADE</source>
-        <target state="translated">APRENDA A TROCAR</target>
+        <target state="translated">APRENDE A EFECTUAR TROCAS COMERCIAS</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Excellent! The Free Trader will now stop by at your branch office from time to time.&#10;&#10;Let's continue our tutorial on how to trade.&#10;&#10;After selecting a particular type of good, the green bar across the bottom of the slot (if visible) shows you how much you have in stock of this good.&#10;&#10;Dragging the slider on the right of each slot determines your 'target value' which has a different meaning on 'Buy' and 'Sell'. &#10;When buying, you will buy sufficient to hold your 'target value' in stock. &#10;When selling the 'target value' is the number which you hold in reserve to not sell">
         <source>Excellent! The Free Trader will now stop by at your branch office from time to time.
@@ -340,15 +401,16 @@ After selecting a particular type of good, the green bar across the bottom of th
 Dragging the slider on the right of each slot determines your 'target value' which has a different meaning on 'Buy' and 'Sell'. 
 When buying, you will buy sufficient to hold your 'target value' in stock. 
 When selling the 'target value' is the number which you hold in reserve to not sell</source>
-        <target state="translated">Excelente! o Mercador Livre irá agora parar na sua prefeitoria de tempo a tempo.
+        <target state="translated">Excelente! O Mercador Livre irá agora parar, periodicamente, na feitoria.
 
-Vamos continuar o tutorial sobre como trocar mercadorias.
+Vamos continuar o tutorial sobre como efectuar trocas comerciais.
 
-Após selecionar um tipo de mercadoria, a barra verde no fundo do escatel (se visível) mostra quanto tem disponível em armazém desta mercadoria.
+Após seleccionar um tipo de mercadoria, a barra verde no fundo do compartimento (se visível) mostra a quantidade disponível em armazém para o tipo de mercadoria escolhido.
 
-Arrastando a barra à direita de cada escatel determina o valor do alvo, que tem uma conotação diferente em 'Comprar' e 'Vender'.
-Quando comprar, será necessário ter o espaço necessário em armazém.
-Quando vender o 'valor alvo' é o número que manterá na sua reserva após a venda.</target>
+Arrastando a barra para a direita, em cada compartimento, estarás a definir um 'valor a atingir', valor este que tem significados diferentes consoante estejas a 'Comprar' ou a 'Vender'.
+Quando estás a comprar é preciso que tenhas espaço em armazém para o valor que pretendes atingir.
+Se estás a vender, o 'valor a atingir' corresponde à quantidade de mercadoria que ainda resta em armazém após a venda.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="For example: &#10;Having a 'Buy' slot and 5 tons in stock, a slider positioned at 9 tons will cause you to buy 4 additional tons at most.&#10;Selling works similarly. A 'Sell' slot with 18 tons in stock and the slider positioned at 13 will sell up to 5 tons.&#10;&#10;If the free trader however only wants to buy or sell less than your settings would allow him, you need to live with that and wait for him to return.&#10;&#10;Unknown Horizons features smart pricing, so the value of one unit can vary.&#10;It is NOT possible to change prices manually!&#10;&#10;You can see your trade balance in the 'Account' tab comparing the 'Sale' and 'Buy' values there.&#10;&#10;TASK: Buy as many tools as you need to have 30 tools in stock!">
         <source>For example: 
@@ -363,15 +425,25 @@ It is NOT possible to change prices manually!
 You can see your trade balance in the 'Account' tab comparing the 'Sale' and 'Buy' values there.
 
 TASK: Buy as many tools as you need to have 30 tools in stock!</source>
-        <target state="translated"></target>
+        <target state="translated">Por exemplo: 
+Tendo um compartimento de 'Comprar' e 5 toneladas em stock, se a barra for posicionada nas 9 toneladas, serão compradas 4 toneladas, no máximo, adicionais.
+As vendas funcionam de forma similar. Um compartimento 'Vender' com 18 toneladas em stock e a barra posicionada nas 13 toneladas implica a venda de, no máximo, 5 toneladas.
+
+No entanto, se o mercador livre apenas pretende comprar ou vender quantidades inferiores ao objectivo que definiste terás de esperar que ele volte novamente.
+
+O Unknown Horizons possui uma funcionalidade de ajude inteligente de preços, dessa forma o valor unitário de uma mercadoria pode variar.
+Não é possível definir o preço manualmente!
+Podes ver um saldo das tuas trocas comerciais no separador 'Conta' comparando os valores nas secções de 'Comprar' e 'Vender'.
+TAREFA: Compra quantas ferramentas forem necessárias para teres em stock 30 ferramentas!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Reach an island stock of at least 30 tools.">
         <source>Reach an island stock of at least 30 tools.</source>
-        <target state="translated">Atinja o limite de pelo menos 30 ferramentas no armazém da ilha.</target>
+        <target state="translated">Atinge o limite de, pelo menos, 30 ferramentas em stock na ilha.</target>
+        <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A PAVILION">
         <source>NEW TASK: BUILD A PAVILION</source>
-        <target state="translated">CONSTRUA UM PAVILHÃO</target>
+        <target state="translated">CONSTRÓI UM PAVILHÃO</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Those tools will be enough for the moment. Well done!&#10;&#10;You now provide housing, a main square and food to your inhabitants.&#10;&#10;Still there is one demand which we have not satisfied so far, you may check that in the marketplace or tent tab - your sailors want a basic building where they can pray.&#10;&#10;The solution is a pavilion which the village parson quickly puts up as shelter from the sun.&#10;&#10;Service buildings like this also need to be connected to the tents with a trail, else your inhabitants feel unable to reach them.&#10;&#10;In later increments, upgraded versions of buildings may become available.">
         <source>Those tools will be enough for the moment. Well done!
@@ -385,17 +457,18 @@ The solution is a pavilion which the village parson quickly puts up as shelter f
 Service buildings like this also need to be connected to the tents with a trail, else your inhabitants feel unable to reach them.
 
 In later increments, upgraded versions of buildings may become available.</source>
-        <target state="translated">Estas ferramentas serão o suficiente por agora. Bom trabalho!
+        <target state="translated">Estas ferramentas serão suficientes por agora. Bom trabalho!
 
-Agora fornece alojamento, uma Praça Principal e alimentação aos seus habitantes.
+Chegou o momento de fornecer alojamento, uma praça principal e alimentação aos teus habitantes.
 
-No entanto existe ainda outra exigência a cumprir, poderá verificar que no mercado ou na guia das tendas - os seus marinheiros querem um edifício basico onde possam praticar a oração.
+No entanto existe ainda outra exigência a cumprir, poderás verificar que no mercado ou no separador das tendas - os teus marinheiros querem um edifício básico onde possam orar.
 
-A solução é construir um Pavilhão.
+A solução é construir um pavilhão, que o sacerdote rapidamente ergue como para providenciar abrigo do sol.
 
-Os edificios de serviços como este, também necessitam de serem ligados às tendas com um caminho, caso contrário os seus habitantes não conseguem aceder ao mesmo.
+Os edifícios de serviços como este têm também de estar ligados às tendas através de um caminho, caso contrário os seus habitantes não conseguem aceder aos mesmos.
 
-Nos níveis superiores, versões melhoradas destes edifícios serão disponibilizadas.</target>
+Nos níveis superiores, versões melhoradas destes edifícios ficarão disponíveis.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Note that faith is treated like a physical resource!&#10;&#10;This means that your inhabitants need a road connection to the producer (pavilion) to pick up faith there.&#10;After some time, they will have consumed it and then again look for a producer to collect more faith.&#10;&#10;Important:&#10;It is NOT enough that the building is merely within a certain range of the tents.&#10;The road connection is required as well.&#10;&#10;TASK: Build a pavilion with a trail to the tents in order to fulfill your sailors' demand for faith.">
         <source>Note that faith is treated like a physical resource!
@@ -408,15 +481,27 @@ It is NOT enough that the building is merely within a certain range of the tents
 The road connection is required as well.
 
 TASK: Build a pavilion with a trail to the tents in order to fulfill your sailors' demand for faith.</source>
-        <target state="translated"></target>
+        <target state="translated">Repara que a fé é tratada do mesmo modo que os recursos físicos!
+
+Isto implica que os habitantes precisam de uma estrada que os ligue ao local onde a fé é produzida (pavilhão) para que a possam ir buscar.
+Depois de algum tempo terão consumido a fé e precisarão de ir buscar mais..
+
+Importante:
+Não basta que os edifícios estejam dentro do raio de acção das tendas.
+É necessário que sejam ligados por uma estrada.
+
+TAREFA: Constrói um pavilhão com um caminho a ligar às tendas para cumprir com as exigências de fé dos teus marinheiros.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a pavilion with connection to the tents.">
         <source>Build a pavilion with connection to the tents.</source>
-        <target state="translated">Construa um Pavilhão com ligação às tendas.</target>
+        <target state="translated">Constrói um pavilhão com ligação às tendas.</target>
+        <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: NEXT INCREMENT">
         <source>NEW TASK: NEXT INCREMENT</source>
-        <target state="translated">O PRÓXIMO INCREMENTO</target>
+        <target state="translated">NOVA TAREFA: O PRÓXIMO NÍVEL</target>
+        <note from="developer">This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="All demands are fulfilled now if your inhabitants can regularly visit the main square &amp; pavilion and your food supply is adequate.&#10;&#10;If the sailors are happy enough, they want to advance to the next increment called Pioneers.&#10;&#10;To make them happy, there is nothing else for you to do but setting taxes to a lower level since you have fulfilled all the demands of your inhabitants.&#10;&#10;You should try to not always run on low taxes since this will probably lead to bankruptcy sooner or later. For a period of time and if you know what you are doing, it is fine though.&#10;&#10;After some time, the first unit should walk to the main square and have a look for new construction material there to build a log house. This house will replace the old tent.">
         <source>All demands are fulfilled now if your inhabitants can regularly visit the main square &amp; pavilion and your food supply is adequate.
@@ -428,15 +513,16 @@ To make them happy, there is nothing else for you to do but setting taxes to a l
 You should try to not always run on low taxes since this will probably lead to bankruptcy sooner or later. For a period of time and if you know what you are doing, it is fine though.
 
 After some time, the first unit should walk to the main square and have a look for new construction material there to build a log house. This house will replace the old tent.</source>
-        <target state="translated">Todas as exigências estão cumpridas se os seus habitantes visitarem regularmente a Praça Principal e o Pavilhão e se o fornecimento de comida for adequado.
+        <target state="translated">Todas as exigências estão cumpridas se os teus habitantes visitarem regularmente a praça principal e o pavilhão, e se o fornecimento de comida for adequado.
 
 Se os marinheiros estiverem felizes, eles irão querer avançar para o próximo nível, chamado de Pioneiros.
 
-Para os manter felizes, a única coisa que terá que fazer é baixar um pouco os impostos, uma vez que satisfez todas as suas necessidades.
+uma vez que satisfeitas todas as suas necessidades, para manteres os teus habitantes felizes basta que baixes um pouco os impostos.
 
-Deverá tentar sempre recorrer a impostos baixos, no entanto deverá ter em atenção que tal poderá levar à bancarrota.
+Deverás tentar sempre recorrer a impostos baixos, no entanto deverás ter em atenção que tal poderá levar à bancarrota.
 
-Após algum tempo, a primeira unidade deverá entrar na Praça Principal e construir uma casa de madeira. Este edifício irá substituir as tenda prévia.</target>
+Após algum tempo, a primeira unidade deverá entrar na praça principal e construir uma casa de madeira. Este edifício irá substituir a velha tenda.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Such residential upgrades are the only ones which cost resources and can not be restricted by you.&#10;&#10;There are manual upgrades to some buildings where you use resources to construct a better version on the same spot, and there are upgrades without costs for example as you will see with the lumberjack (In this case, only the graphics change).&#10;&#10;Upgraded housing accomodates more inhabitants, and pioneers pay more taxes than sailors, too.&#10;&#10;As you may have figured out already, the downside is that pioneers demand additional goods which sailors do not need - so you will need to spend this extra money to make them happy as well.&#10;&#10;TASK: Set the tax level to Low (left end) and wait for sailors to upgrade.">
         <source>Such residential upgrades are the only ones which cost resources and can not be restricted by you.
@@ -448,23 +534,26 @@ Upgraded housing accomodates more inhabitants, and pioneers pay more taxes than 
 As you may have figured out already, the downside is that pioneers demand additional goods which sailors do not need - so you will need to spend this extra money to make them happy as well.
 
 TASK: Set the tax level to Low (left end) and wait for sailors to upgrade.</source>
-        <target state="translated">Tais remodelações residenciais custam recursos e não podem ser restrictas por si.
+        <target state="translated">Tais remodelações residenciais custam recursos e não podem ser limitadas por ti.
 
-Existem remodelações manuais para alguns edifícios onde utilizará recursos para constuir uma versão melhorada no mesmo lugar, e nesse caso as remodelações não terão custos, como por exemplo a Serração (neste caso só existe um troca de gráficos).
+Existem remodelações manuais para alguns edifícios onde utilizarás recursos para constuir uma versão melhorada no mesmo lugar, e nesse caso as remodelações não terão custos, como por exemplo o lenhador (neste caso só existe um troca de gráficos).
 
 Ao remodelar edifícios habitacionais, os mesmos irão alojar mais habitantes, e os pioneiros pagam mais impostos que os marinheiros.
 
-Tal como já percebeu, o único aspecto negativo dos pioneiros é que consomem recursos que os marinheiros não necessitam - portanto irá dispender mais recursos para os manter felizes.
+Como já percebeste, o único aspecto negativo dos pioneiros é que consomem recursos que os marinheiros não necessitam - portanto irás gastar mais recursos para os manter felizes.
 
-TAREFA: Baixe os impostos e espere que pela promoção dos marinheiros a pioneiros.</target>
+TAREFA: Baixa os impostos (lado esquerdo) e espera pela promoção dos marinheiros a pioneiros.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Set the tax level to Low (left end) and wait for your sailors to upgrade.">
         <source>Set the tax level to Low (left end) and wait for your sailors to upgrade.</source>
-        <target state="translated">Baixe os impostos e espere pela promoção dos marinheiros a pioneiros.</target>
+        <target state="translated">Baixa os impostos (lado esquerdo) e espera pela promoção dos marinheiros a pioneiros.</target>
+        <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A FARM">
         <source>NEW TASK: BUILD A FARM</source>
-        <target state="translated">CONSTRUA UMA QUINTA</target>
+        <target state="translated">NOVA TAREFA: CONSTRÓI UMA QUINTA</target>
+        <note from="developer">This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Congratulations! Some of your inhabitants have reached increment II!&#10;&#10;Now you have access to new buildings, take a look at the Build menu again.&#10;&#10;A shiny new tab appeared there.&#10;&#10;Pioneers will demand cloth, so you need to set up a production line for cloth starting with lambs wool (which is one of the goods produced at the farm).&#10;&#10;The farm is a very special production building since it can produce not only one, but very many (and different) goods if you choose.&#10;&#10;The output of farms depends on what kind of fields you build around it.">
         <source>Congratulations! Some of your inhabitants have reached increment II!
@@ -478,17 +567,17 @@ Pioneers will demand cloth, so you need to set up a production line for cloth st
 The farm is a very special production building since it can produce not only one, but very many (and different) goods if you choose.
 
 The output of farms depends on what kind of fields you build around it.</source>
-        <target state="translated">Parabéns! Alguns dos seus habitantes foram promovidos!
+        <target state="translated">Parabéns! Alguns dos teus habitantes chegaram ao nível II!
 
-Agora tem acesso a novos edifícios, veja novamente o Menu de construção.
+Agora tens acesso a novos edifícios, acede novamente ao Menu de construção.
 
-Uma nova guia apareceu!
+Apareceu um novo separador.
 
-Os pioneiros irão exigir tecido, portanto irá ser necessário produzir tecido. Isto é feito através da lã das ovelhas (que é um dos recursos produzidos nas quintas).
+Os pioneiros passarão exigir tecido, portanto irá ser necessário produzir tecido. Isto é feito através da lã das ovelhas (que é um dos recursos produzidos nas quintas).
 
-A Quinta é um edifício de produção especial, uma vez que não produz apenas um tipo de recurso, mas sim vários, se optar por isso.
+A quinta é um edifício de produção especial, uma vez que não produz apenas um tipo de recurso, mas sim vários (e de tipos diferentes), se optares por isso.
 
-Os recursos disponíveis nas Quintas dependem do tipo de campos à volta do local onde a constrói.</target>
+Os recursos disponíveis nas quintas dependem do tipo de campos à volta do local onde esta foi construída.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="We will have a closer look at this later.&#10;&#10;Farms, like all companies producing raw materials, do not necessarily need to be connected to storage or a Branch Office.&#10;&#10;As long as units of the final production company can reach the farm, and collectors from the branch office or storage tent can reach the final company everything's fine.&#10;&#10;If you, however, plan to do some processing on different parts of the island (which can make sense) or even on different islands, you will need a connection to collectors.&#10;&#10;Try to build the farm not too close to the coast or your existing buildings since it will need some space around it to work well.&#10;&#10;TASK: Build a farm.">
         <source>We will have a closer look at this later.
@@ -504,23 +593,26 @@ Try to build the farm not too close to the coast or your existing buildings sinc
 TASK: Build a farm.</source>
         <target state="translated">Iremos ver isto mais tarde.
 
-As quintas tal como todas as outras unidades que produzem materiais não necessitam forçosamente de estarem ligadas ao Armazém ou à Prefeitoria.
+As quintas tal como todas as outras unidades que produzem materiais não necessitam forçosamente de estarem ligadas ao armazém ou à feitoria.
 
-Desde que as unidades da Prefeitoria ou Armazém consigam chegar à quinta, está tudo bem, as mesmas irão recolher os recursos produzidos.
+Desde que as unidades da feitoria ou armazém consigam chegar à quinta, está tudo bem, as mesmas irão recolher os recursos produzidos.
 
-No entanto caso planeie processar recursos em locais distantes da ilha (o que poderá fazer algum sentido) ou até mesmo em ilhas diferentes, irá necessitar de um caminho de ligação.
+No entanto caso pretendas processar recursos em locais distantes da ilha (o que poderá fazer algum sentido) ou até mesmo em ilhas diferentes, irás necessitar de um caminho de ligação.
 
-Tente construir a Quinta não muito longe da costa ou dos seus edifícios existentes, tendo em consideração que irá precisar de algum espaço em volta dela também.
+Tenta construir a quinta não muito longe da costa ou dos seus edifícios existentes, tendo em consideração que irás precisar de algum espaço em volta dela também.
 
-TAREFA: Construa uma Quinta.</target>
+TAREFA: Constrói uma quinta.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a farm and keep some empty space around it.">
         <source>Build a farm and keep some empty space around it.</source>
-        <target state="translated">Crie uma quinta e deixe algum espaço livre em volta da mesma.</target>
+        <target state="translated">Constrói uma quinta e deixa algum espaço livre em volta da mesma.</target>
+        <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD FIELDS">
         <source>NEW TASK: BUILD FIELDS</source>
-        <target state="translated">CONSTRUA CAMPOS</target>
+        <target state="translated">NOVA TAREFA: CONSTRÓI PLANTAÇÕES</target>
+        <note from="developer">This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The farm itself is not going to produce anything without some fields.&#10;&#10;You currently have the choice between pastures, potato and sugar fields.&#10;&#10;Let's have a short overview:&#10;* Pasture: Sheep live here, producing lamb wool.&#10;* Potato field: Grows potatoes which are currently treated as food.&#10;* Sugar field: Grows sugar which is used to distill liquor and (later) produce confectionery.&#10;&#10;We now only need pastures, but in case your food supply chain is too small (maybe many residential buildings) you can also produce some potatoes.&#10;&#10;Note that for potatoes you will need a road connection to the farm (not to the field!) as it will be the only company to work on the goods.">
         <source>The farm itself is not going to produce anything without some fields.
@@ -535,18 +627,19 @@ Let's have a short overview:
 We now only need pastures, but in case your food supply chain is too small (maybe many residential buildings) you can also produce some potatoes.
 
 Note that for potatoes you will need a road connection to the farm (not to the field!) as it will be the only company to work on the goods.</source>
-        <target state="translated">A Quinta por si só não irá produzir nada sem campos.
+        <target state="translated">A quinta por si só não irá produzir nada sem plantações.
 
-Actualmente terá como opção criar pastagens, campos de batatas e platações de cana de açúcar.
+Actualmente terás como opção criar pastagens, plantações de batatas ou de cana de açúcar.
 
 Em mais detalhe:
-* Pastagems: onde as ovelhas pastam, produzindo lã.
-* Campo de Batatas: onde crescem batatas, utilizadas para a alimentação da população.
-* Plantações de Cana de Açúcar: Onde cresce cana de açúcar, utilizada pelas destilarias para produzir alcoól e mais tarde pastelaria.
+* Pastagems: Onde as ovelhas vivem, produzindo lã.
+* Plantação de batatas: Onde crescem batatas, utilizadas para a alimentação da população.
+* Plantações de cana de açúcar: Onde cresce cana de açúcar, utilizada pelas destilarias para produzir álcool e (mais tarde) pastelaria.
 
-Neste momento só necessitamos de pastagens, mas caso a procura por comida seja elevado (muitos edifícios habitacionais?) poderá também produzir algumas batatas.
+Neste momento só necessitamos de pastagens, mas caso a procura por comida seja elevada (muitos edifícios habitacionais) poderás também produzir algumas batatas.
 
-Tenha em atenção que para produzir batatas será necessário um caminho a ligar à Quinta (não o campo).</target>
+Toma tenção que, para produzir batatas será necessário um caminho a ligar à quinta (não à plantação) uma vez que será a única empresa a trabalhar com os produtos.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Make sure that all fields you build are in the area covered by the farm.&#10;&#10;You can have combined production - one pasture will not lead to 100 percent efficiency of the farm - but you need to check how many fields one farm can serve.&#10;&#10;Different classes of fields require the farm units to spend more or less time there (to seed, harvest, herd, etc…) and because of that, the farm may be unable to serve all of the fields you built for it in time.&#10;&#10;For now, you do not need to care about these issues a lot since you haven't built any fields. Let's change that!&#10;&#10;TASK: Build at least one pasture in the farm's range and add potato fields if you like.">
         <source>Make sure that all fields you build are in the area covered by the farm.
@@ -558,23 +651,24 @@ Different classes of fields require the farm units to spend more or less time th
 For now, you do not need to care about these issues a lot since you haven't built any fields. Let's change that!
 
 TASK: Build at least one pasture in the farm's range and add potato fields if you like.</source>
-        <target state="translated">Certifique-se que todos os campos são criados na área envolvente da Quinta.
+        <target state="translated">Certifica-te que todos os campos são criados na área envolvente da quinta.
 
-Poderá combinar a produção - uma pastagem não irá ocupar utilizar todas as capacidades da quinta - deverá verificar quantos campos uma Quinta poderá servir.
+Podes combinar a produção - uma pastagem não irá resultar numa eficiência da quinta a 100 porcento - deverás verificar quantas plantações podem ser servidas por uma quinta.
 
-As diferentes classes de campos requerem que as unidades da Quinta gastem mais ou menos tempo (para plantar, colher, etc...) e devido a isso, a Quinta poderá servir todos os campos que criou previamente.
+Os diferentes tipos de plantações requerem que as unidades da quinta gastem mais ou menos tempo (para plantar, colher, etc...) e devido a isso, a quinta poderá não suportar todas as plantações que criaste no tempo disponível.
 
-Por agora, não necessita de se preocupar, uma vez que não tem muitos campos. Vamos alterar isso!
+Por agora, não precisas preocupar-te com isso uma vez que não tens muitos campos. Vamos alterar isso!
 
-TAREFA: Crie pelo menos uma pastagem na àrea envolvente da Quinta e adicione um campo de batatas se preferir.</target>
+TAREFA: Cria, pelo menos, uma pastagem na àrea envolvente da quinta e adiciona uma plantação de batatas se quiseres.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build at least one pasture and add potato fields if you like.">
         <source>Build at least one pasture and add potato fields if you like.</source>
-        <target state="translated">Crie no mínimo um campo e adicione-lhe batatas se preferir.</target>
+        <target state="translated">Cria, no mínimo, uma pastagem e adicione-lhe uma plantação de batatas se quiseres.</target>
+        <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD STORAGE">
         <source>NEW TASK: BUILD STORAGE</source>
-        <target state="translated">CONSTRUA UM ARMAZÉM</target>
+        <target state="translated">NOVA TAREFA: UM ARMAZÉM</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Did you watch your lumberjack recently?&#10;&#10;Since your branch office does not have unlimited space to store goods, collectors will stop fetching goods from companies when stock is full.&#10;So if no sailor recently wanted to upgrade his tent, you probably have a lot of boards and in that case, the lumberjack may idle.&#10;We can improve this situation with two different approaches, and below we will have a look at both of them.&#10;&#10;All companies offer the possibility of doing no work at all.&#10;This may sound strange, but try to click on the gear wheel you see in, for example, a lumberjack's overview.&#10;&#10;If this 'break' mode is enabled (we call it 'Decommissioning'), the running costs you pay for the building will decrease. They won't be zero, but still lower than if you keep the company producing.">
         <source>Did you watch your lumberjack recently?
@@ -587,16 +681,17 @@ All companies offer the possibility of doing no work at all.
 This may sound strange, but try to click on the gear wheel you see in, for example, a lumberjack's overview.
 
 If this 'break' mode is enabled (we call it 'Decommissioning'), the running costs you pay for the building will decrease. They won't be zero, but still lower than if you keep the company producing.</source>
-        <target state="translated">Tem observado a lenhador recentemente?
+        <target state="translated">Tens observado a lenhador recentemente?
 
-Desde que a sua Prefeitoria não tem espaço ilimitado para armazenar mercadorias, os colecionadores irão parar de as recolher quando o armazém está cheio.
-Se nenhum marinheiro quis recentemente remodelar a sua tenda, possivelmente terá muitas tábuas, e nesse caso a serração poderá estar parada.
-Podemos rectificar esta situação de duas formas!
+Uma vez que a feitoria não tem espaço ilimitado para armazenar mercadorias, os transportadores param de as recolher quando o armazém está cheio.
+Se nenhum marinheiro quis recentemente remodelar a sua tenda, possivelmente terás muitas tábuas, e nesse caso o lenhador poderá estar parado.
+Podemos rectificar esta situação de duas formas que iremos ver de seguida.
 
-Todas as unidades oferecem a possibilidade de paragem.
-Isto pode parecer estranho, clique na roda dentada que vê, por exemplo, no resumo da serração.
+Todas as unidades oferecem a possibilidade de pararem a sua actividade.
+Isto pode parecer estranho mas clica na roda dentada que podes ver, por exemplo, no relatório do lenhador.
 
-Se este modo for ligado, a produção pára e pagará menos custos de manutenção. Não serão nulos, mas serão inferiores aos custos apresentados caso a unidade esteja a produzir.</target>
+Se este modo for ligado (chamamos-lhe 'Desactivado'), a produção pára e pagarás menos custos de manutenção. Não serão nulos, mas serão inferiores aos custos apresentados caso a unidade esteja a produzir.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="This means that you can save money when you temporarily do not need a company and do not want to tear it down, either.&#10;&#10;Another solution is to build the last increment-I building which has not been mentioned so far: the storage tent.&#10;&#10;This building has two purposes. It:&#10;* Offers more storage for your goods, and &#10;* sends its own collectors to fetch goods, just like the branch office does.&#10;&#10;Note that companies can also be connected to a storage in order to get their products collected, and if the branch office is overwhelmed with collector tasks, you can place a storage tent to help out there.&#10;&#10;TASK: Build a storage tent, preferably where you need collectors.">
         <source>This means that you can save money when you temporarily do not need a company and do not want to tear it down, either.
@@ -610,24 +705,28 @@ This building has two purposes. It:
 Note that companies can also be connected to a storage in order to get their products collected, and if the branch office is overwhelmed with collector tasks, you can place a storage tent to help out there.
 
 TASK: Build a storage tent, preferably where you need collectors.</source>
-        <target state="translated">Isto significa que poderá poupar moedas quando não necessitar que uma unidade produza recursos durante um periodo de tempo e não a queira destruir.
+        <target state="translated">Isto significa que podes poupar dinheiro quando não necessitas que uma unidade produza recursos durante um período de tempo mas não a queres demolir.
 
-Outra solução será construír outro edifício que não foi mencionado previamente: um Armazém.
+Outra solução será construír outro edifício que não foi mencionado previamente: uma tenda de armazenamento.
 
-Este edifício tem dois porpósitos. Ele:
-* oferece mais capacidade de armazenagem;* envia os seus próprios colecionadores para recolherem a mercadoria, tal como a Prefeitoria faz.
+Este edifício tem dois objectivos. Ele:
+* Oferece mais capacidade de armazenamento e;
+* envia os seus próprios transportadores para recolherem a mercadoria, tal como a feitoria faz.
 
-Note que as unidades podem também estar ligadas a um armazém para terem os seus recursos recolhidos, e se a Prefeitoria está sobrecarregada com tarefas de recolha, poderá utilizar um armazém para ajudar.
+Nota que as empresas podem também estar ligadas a um armazém para que os seus recursos sejam recolhidos, e se a feitoria está sobrecarregada com tarefas de recolha, podes utilizar um armazém para ajudar.
 
-TAREFA: Construa um Armazém, preferencialmente onde necessita de colecionadores.</target>
+TAREFA: Constrói uma tenda de armazenamento, preferencialmente onde fazem falta transportadores.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a storage tent (increment I tab) where it makes sense.">
         <source>Build a storage tent (increment I tab) where it makes sense.</source>
-        <target state="translated">Construa um Armazém onde necessitar.</target>
+        <target state="translated">Constrói uma tenda de armazenamento (separador de nível I) onde fizer mais sentido.</target>
+        <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A WEAVER">
         <source>NEW TASK: BUILD A WEAVER</source>
-        <target state="translated">CRIE UM TECELÃO</target>
+        <target state="translated">NOVA TAREFA: CRIA UM TECELÃO</target>
+        <note from="developer">This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Now the wool production is set up, you still need a weaver to produce cloth out of this wool.&#10;&#10;There are two spots where you can build it - either close to the farm or close to a Storage Tent (or the Branch Office).&#10;&#10;In both cases you should ensure the connection to a trail as well.&#10;&#10;You can place the weaver close to the farm and tear down any trail to the farm to see that it will still fetch the wool and produce.&#10;&#10;TASK: Build a weaver positioned so it can get wool.">
         <source>Now the wool production is set up, you still need a weaver to produce cloth out of this wool.
@@ -639,27 +738,31 @@ In both cases you should ensure the connection to a trail as well.
 You can place the weaver close to the farm and tear down any trail to the farm to see that it will still fetch the wool and produce.
 
 TASK: Build a weaver positioned so it can get wool.</source>
-        <target state="translated">Agora que a produção de lã está operacional, ainda precisa de um tecelão para produzir o tecido a partir da lã.
+        <target state="translated">Agora que a produção de lã está configurada, ainda precisas de um tecelão para produzir o tecido a partir da lã.
 
-Existem dois lugares onde poderá construí-lo - ou junto a uma quinta or junto a um Armazém (ou Prefeitoria).
+Existem dois lugares onde poderás adicioná-lo - ou junto a uma quinta ou junto a uma Tenda de Armazenamento (ou à Feitoria).
 
-Em ambos os casos deverá certificar-se que existem caminhos.
+Em ambos os casos deverás certificar-se que existem caminhos entre os edifícios.
 
-Poderá colocar o Tecelão junto à Quinta e utilizar qualquer caminho para a Quinta e verificar se se o colecionador recolhe também a lã.
+Poderás colocar o tecelão junto à quinta e utilizar qualquer caminho para a quinta para verificar se o transportador recolhe também a lã.
 
-TAREFA: Construa um Tecelão posicionado para recolher lã.</target>
+TAREFA: Adicionar um tecelão posicionado de modo a conseguir recolher a lã.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a weaver that can somehow reach the wool of your farm.">
         <source>Build a weaver that can somehow reach the wool of your farm.</source>
-        <target state="translated">Construa um Tecelão posicionado para recolher a lã da sua Quinta.</target>
+        <target state="translated">Adiciona um tecelão posicionado de modo a conseguir recolher a lã produzida na quinta.</target>
+        <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="House a total of 50 or more inhabitants in your city to complete the tutorial. You need a positive balance.">
         <source>House a total of 50 or more inhabitants in your city to complete the tutorial. You need a positive balance.</source>
-        <target state="translated">Aloje 50 ou mais habitantes na sua cidade para terminar este tutorial. Necessita de um balanço positivo.</target>
+        <target state="translated">Aloja 50, ou mais, habitantes na cidade para terminar este tutorial. Necessitas ter um saldo positivo.</target>
+        <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: COMPLETE TUTORIAL">
         <source>NEW TASK: COMPLETE TUTORIAL</source>
-        <target state="translated">TERMINE O TUTORIAL</target>
+        <target state="translated">NOVA TAREFA: TERMINA O TUTORIAL</target>
+        <note from="developer">This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Try to house a total of 50 or more inhabitants in your city by providing more residential buildings.&#10;&#10;Once you are able to keep an economy running which can satisfy this amount of consumers, you are ready to discover new Unknown Horizons!&#10;&#10;TASK: Reach a total number of 50 inhabitants and a positive balance to complete this tutorial.">
         <source>Try to house a total of 50 or more inhabitants in your city by providing more residential buildings.
@@ -667,15 +770,17 @@ TAREFA: Construa um Tecelão posicionado para recolher lã.</target>
 Once you are able to keep an economy running which can satisfy this amount of consumers, you are ready to discover new Unknown Horizons!
 
 TASK: Reach a total number of 50 inhabitants and a positive balance to complete this tutorial.</source>
-        <target state="translated">Tente alojar um total de 50 ou mais habitantes na sua povoção e forneça os edifícios residenciais necessários.
+        <target state="translated">Tenta alojar um total de 50, ou mais, habitantes na tua povoação e fornece os edifícios residenciais necessários.
 
-Uma vez que consiga uma economia que satizfaça este número de habitantes, está pronto para descobrir novos Horizontes Desconhecidos!
+Uma vez que consigas uma economia que satisfaça este número de habitantes, está pronto para descobrir novos Horizontes Desconhecidos!
 
-TAREFA: Atinja um número de 50 ou mais habitantes e balanço positivo para completar este tutorial.</target>
+TAREFA: Atinge um número de 50, ou mais, habitantes e saldo positivo para completar este tutorial.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NO TASKS LEFT">
         <source>NO TASKS LEFT</source>
         <target state="translated">NENHUMA TAREFA DISPONÍVEL</target>
+        <note from="developer">This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="There is nothing left to do now.&#10;&#10;If you have any suggestions on what we could or should improve, add or leave out:&#10;&#10;www.unknown-horizons.org&#10;&#10;#unknown-horizons @ irc.freenode.net&#10;&#10;team@unknown-horizons.org&#10;&#10;Our forums are open to you as well!&#10;&#10;The best results until now were achieved by joining our IRC channel, so you could try that out first (-;">
         <source>There is nothing left to do now.
@@ -691,9 +796,9 @@ team@unknown-horizons.org
 Our forums are open to you as well!
 
 The best results until now were achieved by joining our IRC channel, so you could try that out first (-;</source>
-        <target state="translated">Não existe nada fazer agora.
+        <target state="translated">Não resta nada fazer agora.
 
-Se tiver alguma sugestão em algo que possamos adicionar ou melhorar, contácte-nos:
+Se tiveres alguma sugestão em algo que possamos adicionar ou melhorar, contacta-nos:
 
 www.unknown-horizons.org
 
@@ -701,13 +806,15 @@ www.unknown-horizons.org
 
 team@unknown-horizons.org
 
-Temos fórums disponíveis se preferir!
+Temos fórums disponíveis se preferires!
 
 Os melhores resultados até agora foram obtidos através do nosso canal de IRC, recomendamos essa aproximação primeiro (-;</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Thanks!">
         <source>Thanks!</source>
         <target state="translated">Obrigado!</target>
+        <note from="developer">This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="&#10;&#10;&#10;&#10;&#10;&#10;&#10;Thanks for playing the tutorial!&#10;&#10;Your UH-Team">
         <source>
@@ -727,13 +834,15 @@ Your UH-Team</source>
 
 
 
-Obrigado por ter jogado o tutorial!
+Obrigado por teres jogado o tutorial!
 
 A Equipa do UH</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Congratulations! You have reached the end of this tutorial and are ready to meet new challenges!">
         <source>Congratulations! You have reached the end of this tutorial and are ready to meet new challenges!</source>
-        <target state="translated">Parabéns! Chegou ao final deste tutorial e está preparado para novos desafios!</target>
+        <target state="translated">Parabéns! Chegaste ao fim deste tutorial e estás preparado para novos desafios!</target>
+        <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
       </trans-unit>
     </body>
   </file>
