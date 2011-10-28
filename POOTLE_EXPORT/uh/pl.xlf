@@ -2,9 +2,675 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
   <file original="pl.po" source-language="en-US" datatype="plaintext" target-language="pl">
     <body>
+      <trans-unit xml:space="preserve" approved="no" id="${player1} and ${player2} are now ${status}">
+        <source>${player1} and ${player2} are now ${status}</source>
+        <target state="needs-translation">${player1} i ${player2} są teraz ${status}</target>
+        <note from="developer">This is a database entry: a messagewidget message (left part of the screen).</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="A new settlement has been created by ${player}.">
+        <source>A new settlement has been created by ${player}.</source>
+        <target state="translated">Nowa osada została założona przez gracza ${player}.</target>
+        <note from="developer">This is a database entry: a messagewidget message (left part of the screen).</note>
+        <note from="translator">Messages</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="A new world has been created.">
+        <source>A new world has been created.</source>
+        <target state="translated">Nowy świat został utworzony.</target>
+        <note from="developer">This is a database entry: a messagewidget message (left part of the screen).</note>
+        <note from="translator">Messages</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Boar">
+        <source>Boar</source>
+        <target state="translated">Dzik</target>
+        <note from="developer">This is a database entry: the name of a unit.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Boat Builder">
+        <source>Boat Builder</source>
+        <target state="translated">Stoczniowiec</target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Branch Office">
+        <source>Branch Office</source>
+        <target state="translated">Port</target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+        <note from="translator">Faktoria Handlowa?</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Brickyard">
+        <source>Brickyard</source>
+        <target state="translated"></target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Butchery">
+        <source>Butchery</source>
+        <target state="translated"></target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Cattle">
+        <source>Cattle</source>
+        <target state="translated"></target>
+        <note from="developer">This is a database entry: the name of a unit.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Cattle Run">
+        <source>Cattle Run</source>
+        <target state="translated"></target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Charcoal Burning">
+        <source>Charcoal Burning</source>
+        <target state="translated"></target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Clay Deposit">
+        <source>Clay Deposit</source>
+        <target state="translated">Złoże gliny</target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+        <note from="translator">Building</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Clay Pit">
+        <source>Clay Pit</source>
+        <target state="translated">Kopalnia gliny</target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Deer">
+        <source>Deer</source>
+        <target state="translated">Jeleń</target>
+        <note from="developer">This is a database entry: the name of a unit.</note>
+        <note from="translator">Unit</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Distillery">
+        <source>Distillery</source>
+        <target state="translated">Destylarnia</target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Doctor">
         <source>Doctor</source>
         <target state="translated">Lekarz</target>
+        <note from="developer">This is a database entry: the name of a building the name of a unit.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Farm">
+        <source>Farm</source>
+        <target state="translated">Farma</target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+        <note from="translator">Building</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fish Deposit">
+        <source>Fish Deposit</source>
+        <target state="translated">Ławica ryb</target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fisher">
+        <source>Fisher</source>
+        <target state="translated">Rybak</target>
+        <note from="developer">This is a database entry: the name of a unit.</note>
+        <note from="translator">Unit</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fisherman's Tent">
+        <source>Fisherman's Tent</source>
+        <target state="translated">Namiot rybaka</target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Frigate">
+        <source>Frigate</source>
+        <target state="translated">Fregata</target>
+        <note from="developer">(text of widget: headline_BB_war1_ship1)
+This is a database entry: the name of a unit.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Gravel Path">
+        <source>Gravel Path</source>
+        <target state="translated"></target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Herbary">
+        <source>Herbary</source>
+        <target state="translated"></target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Huker">
+        <source>Huker</source>
+        <target state="translated"></target>
+        <note from="developer">(text of widget: headline_BB_trade_ship1) The huker is a ship class mostly used for fishing. It is the starting ship of players in Unknown Horizons. If you are not sure how to translate, just leave the field empty and it will be called Huker.
+This is a database entry: the name of a unit.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Hunter's Tent">
+        <source>Hunter's Tent</source>
+        <target state="translated">Namiot myśliwego</target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Iron Mine">
+        <source>Iron Mine</source>
+        <target state="translated">Kopalnia żelaza</target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Log">
+        <source>Log</source>
+        <target state="translated">Dziennik</target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lookout">
+        <source>Lookout</source>
+        <target state="translated">Punkt obserwacyjny</target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+        <note from="translator">Building</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Lumberjack Camp">
+        <source>Lumberjack Camp</source>
+        <target state="translated">Obóz drwali</target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+        <note from="translator">Building</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Main Square">
+        <source>Main Square</source>
+        <target state="translated">Rynek główny</target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Mountain">
+        <source>Mountain</source>
+        <target state="translated">Góra</target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="One of your settler has no main square in it's range.">
+        <source>One of your settler has no main square in it's range.</source>
+        <target state="translated">Jeden z osadników nie ma dostępu do runku głównego.</target>
+        <note from="developer">This is a database entry: a messagewidget message (left part of the screen).</note>
+        <note from="translator">Messages
+85%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pasture">
+        <source>Pasture</source>
+        <target state="translated">Pastwisko</target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+        <note from="translator">Building</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pavilion">
+        <source>Pavilion</source>
+        <target state="translated">Kaplica</target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pigsty">
+        <source>Pigsty</source>
+        <target state="translated">Chlew</target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Pirate Ship">
+        <source>Pirate Ship</source>
+        <target state="translated">Statek piracki</target>
+        <note from="developer">This is a database entry: the name of a unit.</note>
+        <note from="translator">Unit</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Potato Field">
+        <source>Potato Field</source>
+        <target state="translated">Pole ziemniaczane</target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+        <note from="translator">Building</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Rampart">
+        <source>Rampart</source>
+        <target state="translated">Mur obronny</target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+        <note from="translator">Building</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Salt Ponds">
+        <source>Salt Ponds</source>
+        <target state="translated">Basen solny</target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Screenshot has been saved to ${file}.">
+        <source>Screenshot has been saved to ${file}.</source>
+        <target state="translated">Zrzut erkanu został zapisany w ${file}.</target>
+        <note from="developer">This is a database entry: a messagewidget message (left part of the screen).</note>
+        <note from="translator">Messages</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sheep">
+        <source>Sheep</source>
+        <target state="translated">Owca</target>
+        <note from="developer">This is a database entry: the name of a unit.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Signal Fire">
+        <source>Signal Fire</source>
+        <target state="translated">Ogień sygnalizacyjny</target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+        <note from="translator">Building</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Smeltery">
+        <source>Smeltery</source>
+        <target state="translated">Formiarnia</target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Some of your settlers just moved out.">
+        <source>Some of your settlers just moved out.</source>
+        <target state="translated">Część z osadników właśnie się wyprowadziła.</target>
+        <note from="developer">This is a database entry: a messagewidget message (left part of the screen).</note>
+        <note from="translator">Messages</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Storage Tent">
+        <source>Storage Tent</source>
+        <target state="translated">Namiot składowy</target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+        <note from="translator">Building</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sugar Field">
+        <source>Sugar Field</source>
+        <target state="translated">Pole buraków cukrowych</target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+        <note from="translator">Building</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tavern">
+        <source>Tavern</source>
+        <target state="translated">Tawerna</target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tent">
+        <source>Tent</source>
+        <target state="translated">Namiot</target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tent Ruin">
+        <source>Tent Ruin</source>
+        <target state="translated">Pozostałości po namiocie</target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+        <note from="translator">77%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tobacco Field">
+        <source>Tobacco Field</source>
+        <target state="translated">Pole tytoniu</target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tobacconist">
+        <source>Tobacconist</source>
+        <target state="translated"></target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Toolmaker">
+        <source>Toolmaker</source>
+        <target state="translated">Kowal</target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Trader">
+        <source>Trader</source>
+        <target state="translated">Handlarz</target>
+        <note from="developer">This is a database entry: the name of a unit.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Trail">
+        <source>Trail</source>
+        <target state="translated">Droga</target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Tree">
+        <source>Tree</source>
+        <target state="translated">Drzewo</target>
+        <note from="developer">(tooltip of widget: tree-1)
+This is a database entry: the name of a building.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Village school">
+        <source>Village school</source>
+        <target state="translated">Szkoła wiejska</target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+        <note from="translator">Building</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Weaver's Tent">
+        <source>Weaver's Tent</source>
+        <target state="translated">Namiot tkacki</target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Wooden Tower">
+        <source>Wooden Tower</source>
+        <target state="translated">Drewniana wieża</target>
+        <note from="developer">This is a database entry: the name of a building.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="You can also drag roads.">
+        <source>You can also drag roads.</source>
+        <target state="translated"></target>
+        <note from="developer">This is a database entry: a messagewidget message (left part of the screen).</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="You have reached the current maximum increment. Your inhabitants will not upgrade further.">
+        <source>You have reached the current maximum increment. Your inhabitants will not upgrade further.</source>
+        <target state="translated"></target>
+        <note from="developer">This is a database entry: a messagewidget message (left part of the screen).</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="You have won!">
+        <source>You have won!</source>
+        <target state="translated">Zwyciężyłeś!</target>
+        <note from="developer">This is a database entry: a messagewidget message (left part of the screen).</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="You need more ${resource} to build this building.">
+        <source>You need more ${resource} to build this building.</source>
+        <target state="translated">Potrzebujesz więcej ${resource}, aby zbudować ten budynek.</target>
+        <note from="developer">This is a database entry: a messagewidget message (left part of the screen).</note>
+        <note from="translator">Messages</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Your game has been quicksaved.">
+        <source>Your game has been quicksaved.</source>
+        <target state="translated">Gra została zapisana.</target>
+        <note from="developer">This is a database entry: a messagewidget message (left part of the screen).</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Your mine has run out of resources.">
+        <source>Your mine has run out of resources.</source>
+        <target state="translated">Twoja kopalnia wyczerpała zasoby.</target>
+        <note from="developer">This is a database entry: a messagewidget message (left part of the screen).</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Your settlers reached level ${level}.">
+        <source>Your settlers reached level ${level}.</source>
+        <target state="translated">Twoi osadnicy osiągnęli poziom ${level}.</target>
+        <note from="developer">This is a database entry: a messagewidget message (left part of the screen).</note>
+        <note from="translator">Messages</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="acorns">
+        <source>acorns</source>
+        <target state="translated"></target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="aristocrat">
+        <source>aristocrat</source>
+        <target state="translated">arystokrata</target>
+        <note from="developer">This is a database entry: the name of an inhabitant increment (tier / level).</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="black">
+        <source>black</source>
+        <target state="translated">czarny</target>
+        <note from="developer">This is a database entry: the name of a color.</note>
+        <note from="translator">Colors</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="blue">
+        <source>blue</source>
+        <target state="translated">niebieski</target>
+        <note from="developer">This is a database entry: the name of a color.</note>
+        <note from="translator">Colors</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="boards">
+        <source>boards</source>
+        <target state="translated">deski</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+        <note from="translator">Resources</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="bordeaux">
+        <source>bordeaux</source>
+        <target state="translated"></target>
+        <note from="developer">This is a database entry: the name of a color.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="bricks">
+        <source>bricks</source>
+        <target state="translated">cegły</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+        <note from="translator">Resources</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="cannon">
+        <source>cannon</source>
+        <target state="translated">działa</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="cattle">
+        <source>cattle</source>
+        <target state="translated"></target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="cattle for slaughter">
+        <source>cattle for slaughter</source>
+        <target state="translated"></target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="charcoal">
+        <source>charcoal</source>
+        <target state="translated">węgiel drzewny</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="citizen">
+        <source>citizen</source>
+        <target state="translated">obywatel</target>
+        <note from="developer">This is a database entry: the name of an inhabitant increment (tier / level).</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="clay">
+        <source>clay</source>
+        <target state="translated">glina</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="clay deposit">
+        <source>clay deposit</source>
+        <target state="translated">Złoże gliny</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+        <note from="translator">Building
+83%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="coins">
+        <source>coins</source>
+        <target state="translated">monety</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="community">
+        <source>community</source>
+        <target state="translated">społeczność</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="cyan">
+        <source>cyan</source>
+        <target state="translated">turkusowy</target>
+        <note from="developer">This is a database entry: the name of a color.</note>
+        <note from="translator">Colors</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="dagger">
+        <source>dagger</source>
+        <target state="translated">sztylet</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="deer food A">
+        <source>deer food A</source>
+        <target state="translated"></target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="deer meat">
+        <source>deer meat</source>
+        <target state="translated">mięso jelenia</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="education">
+        <source>education</source>
+        <target state="translated">edukacja</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="faith">
+        <source>faith</source>
+        <target state="translated">wiara</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+        <note from="translator">Resources</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="fish">
+        <source>fish</source>
+        <target state="translated">ryba</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="food">
+        <source>food</source>
+        <target state="translated">jedzenie</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="get-together">
+        <source>get-together</source>
+        <target state="translated"></target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="grass">
+        <source>grass</source>
+        <target state="translated">trawa</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+        <note from="translator">Resources</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="gray">
+        <source>gray</source>
+        <target state="translated">szary</target>
+        <note from="developer">This is a database entry: the name of a color.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="green">
+        <source>green</source>
+        <target state="translated">zielony</target>
+        <note from="developer">This is a database entry: the name of a color.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="happiness">
+        <source>happiness</source>
+        <target state="translated">zadowolenie</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="herbs">
+        <source>herbs</source>
+        <target state="translated">zioła</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="iron deposit">
+        <source>iron deposit</source>
+        <target state="translated">złoże żelaza</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="iron ingots">
+        <source>iron ingots</source>
+        <target state="translated">sztaby żelaza</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="iron ore">
+        <source>iron ore</source>
+        <target state="translated">rudy żelaza</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="lamb wool">
+        <source>lamb wool</source>
+        <target state="translated">wełna owcza</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="lemon">
+        <source>lemon</source>
+        <target state="translated">cytrynowy</target>
+        <note from="developer">This is a database entry: the name of a color.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="liquor">
+        <source>liquor</source>
+        <target state="translated">alkohol</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="medical herbs">
+        <source>medical herbs</source>
+        <target state="translated">zioła lecznicze</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="merchant">
+        <source>merchant</source>
+        <target state="translated">kupiec</target>
+        <note from="developer">This is a database entry: the name of an inhabitant increment (tier / level).</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="orange">
+        <source>orange</source>
+        <target state="translated">pomarańczowy</target>
+        <note from="developer">This is a database entry: the name of a color.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pigs">
+        <source>pigs</source>
+        <target state="translated">świnie</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pigs for slaughter">
+        <source>pigs for slaughter</source>
+        <target state="translated"></target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pink">
+        <source>pink</source>
+        <target state="translated">różowy</target>
+        <note from="developer">This is a database entry: the name of a color.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pioneer">
+        <source>pioneer</source>
+        <target state="translated">pionier</target>
+        <note from="developer">This is a database entry: the name of an inhabitant increment (tier / level).</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="potatoes">
+        <source>potatoes</source>
+        <target state="translated">ziemniaki</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+        <note from="translator">Resources</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="purple">
+        <source>purple</source>
+        <target state="translated">fioletowy</target>
+        <note from="developer">This is a database entry: the name of a color.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="red">
+        <source>red</source>
+        <target state="translated">czerwony</target>
+        <note from="developer">This is a database entry: the name of a color.</note>
+        <note from="translator">Colors</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sailor">
+        <source>sailor</source>
+        <target state="translated">marynarz</target>
+        <note from="developer">This is a database entry: the name of an inhabitant increment (tier / level).</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="salt">
+        <source>salt</source>
+        <target state="translated">sól</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="settler">
+        <source>settler</source>
+        <target state="translated">osadnik</target>
+        <note from="developer">This is a database entry: the name of an inhabitant increment (tier / level).</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sugar">
+        <source>sugar</source>
+        <target state="translated">cukier</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+        <note from="translator">Resources</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sugar cane">
+        <source>sugar cane</source>
+        <target state="translated">cukier trzcinowy</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="teal">
+        <source>teal</source>
+        <target state="translated"></target>
+        <note from="developer">This is a database entry: the name of a color.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="textile">
+        <source>textile</source>
+        <target state="translated">tekstylia</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="tobacco leaves">
+        <source>tobacco leaves</source>
+        <target state="translated">liście tytoniu</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="tobacco plants">
+        <source>tobacco plants</source>
+        <target state="translated">rośliny tytoniu</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="tobaccos">
+        <source>tobaccos</source>
+        <target state="translated">tytoń</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="tools">
+        <source>tools</source>
+        <target state="translated">narzędzia</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="white">
+        <source>white</source>
+        <target state="translated">biały</target>
+        <note from="developer">This is a database entry: the name of a color.</note>
+        <note from="translator">Colors</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="wood">
+        <source>wood</source>
+        <target state="translated">drewno</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="wool">
+        <source>wool</source>
+        <target state="translated">wełna</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="yellow">
+        <source>yellow</source>
+        <target state="translated">żółty</target>
+        <note from="developer">This is a database entry: the name of a color.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Restart required">
         <source>Restart required</source>
@@ -77,6 +743,7 @@ Używasz na własne ryzyko!</target>
       <trans-unit xml:space="preserve" approved="yes" id="Error">
         <source>Error</source>
         <target state="translated">Błąd</target>
+        <note from="developer">There was a problem during the 'save game' procedure.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Failed to save.">
         <source>Failed to save.</source>
@@ -110,10 +777,13 @@ Używasz na własne ryzyko!</target>
       <trans-unit xml:space="preserve" approved="yes" id="Load game">
         <source>Load game</source>
         <target state="translated">Wczytaj grę</target>
+        <note from="developer">(text of widget: loadgame)
+(text of widget: loadgame) Open a widget to select which game to load</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Save game">
         <source>Save game</source>
         <target state="translated">Zapisz grę</target>
+        <note from="developer">(text of widget: savegame)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="A savegame with the name &quot;%s&quot; already exists. &#10;Should i overwrite it?">
         <source>A savegame with the name "%s" already exists. 
@@ -138,23 +808,35 @@ Na pewno chcesz go nadpisać?</target>
       <trans-unit xml:space="preserve" approved="yes" id="Details:">
         <source>Details:</source>
         <target state="translated">Szczegóły:</target>
+        <note from="developer">(text of widget: scenario_details) More text describing the scenario
+(text of widget: headline_details_label) More text describing the savegame</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Error:">
         <source>Error:</source>
         <target state="translated">Błąd:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Unknown savedate&#10;">
-        <source>Unknown savedate
-</source>
-        <target state="translated">Nieznany zapis gry
+      <trans-unit xml:space="preserve" approved="no" id="Unknown savedate">
+        <source>Unknown savedate</source>
+        <target state="needs-translation">Nieznany zapis gry
 </target>
+        <note from="translator">94%</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Saved at %s&#10;">
-        <source>Saved at %s
-</source>
-        <target state="translated">Zapisano na %s
+      <trans-unit xml:space="preserve" approved="no" id="Saved at %s">
+        <source>Saved at %s</source>
+        <target state="needs-translation">Zapisano na %s
 </target>
+        <note from="translator">91%</note>
       </trans-unit>
+      <group restype="x-gettext-plurals" approved="yes" id="Saved %(amount)d time">
+        <trans-unit xml:space="preserve" id="Saved %(amount)d time[0]">
+          <source>Saved %(amount)d time</source>
+          <target></target>
+        </trans-unit>
+        <trans-unit xml:space="preserve" approved="yes" id="Saved %(amount)d time[1]">
+          <source>Saved %(amount)d times</source>
+          <target state="translated"></target>
+        </trans-unit>
+      </group>
       <trans-unit xml:space="preserve" approved="yes" id="Savegame ver. %d">
         <source>Savegame ver. %d</source>
         <target state="translated">Wersja gry zapisan %d</target>
@@ -228,6 +910,10 @@ Szczegóły: %s</target>
       <trans-unit xml:space="preserve" approved="yes" id="Network Error">
         <source>Network Error</source>
         <target state="translated">Błąd sieci</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Fatal Network Error">
+        <source>Fatal Network Error</source>
+        <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Something went wrong with the network:">
         <source>Something went wrong with the network:</source>
@@ -327,7 +1013,8 @@ Szczegóły: %s</target>
       <trans-unit xml:space="preserve" approved="yes" id="Build">
         <source>Build</source>
         <target state="translated">Zbuduj</target>
-        <note from="developer">set translated building name in gui</note>
+        <note from="developer">(text of widget: headline)
+set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Boat builder overview">
         <source>Boat builder overview</source>
@@ -346,10 +1033,12 @@ Szczegóły: %s</target>
       <trans-unit xml:space="preserve" approved="yes" id="Trade boats">
         <source>Trade boats</source>
         <target state="translated">Łodzie handlowe</target>
+        <note from="developer">(text of widget: headline)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="War boats">
         <source>War boats</source>
         <target state="translated">Statki wojenne</target>
+        <note from="developer">(text of widget: headline)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="War ships">
         <source>War ships</source>
@@ -370,10 +1059,12 @@ Szczegóły: %s</target>
       <trans-unit xml:space="preserve" approved="yes" id="Trade">
         <source>Trade</source>
         <target state="translated">Handel</target>
+        <note from="developer">(text of widget: headline)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Settlement inventory">
         <source>Settlement inventory</source>
         <target state="translated">Zapasy osady</target>
+        <note from="developer">(text of widget: headline)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Ship inventory">
         <source>Ship inventory</source>
@@ -382,10 +1073,19 @@ Szczegóły: %s</target>
       <trans-unit xml:space="preserve" approved="yes" id="Load/Unload:">
         <source>Load/Unload:</source>
         <target state="translated">Załaduj/Wyładuj:</target>
+        <note from="developer">(text of widget: load_unload_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Buy/Sell:">
         <source>Buy/Sell:</source>
         <target state="translated">Kup/Sprzedaj:</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Can't equip trade ship with weapons">
+        <source>Can't equip trade ship with weapons</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="It is not possible to equip a trade ship with weapons">
+        <source>It is not possible to equip a trade ship with weapons</source>
+        <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Equip weapon">
         <source>Equip weapon</source>
@@ -398,10 +1098,12 @@ Szczegóły: %s</target>
       <trans-unit xml:space="preserve" approved="yes" id="Account">
         <source>Account</source>
         <target state="translated">Finanse</target>
+        <note from="developer">(text of widget: headline)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Settler overview">
         <source>Settler overview</source>
         <target state="translated">Podgląd osadnika</target>
+        <note from="developer">(text of widget: headline)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Don't allow upgrades">
         <source>Don't allow upgrades</source>
@@ -414,20 +1116,25 @@ Szczegóły: %s</target>
       <trans-unit xml:space="preserve" approved="yes" id="Sailors">
         <source>Sailors</source>
         <target state="translated">Żeglarze</target>
+        <note from="developer">(text of widget: headline)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Pioneers">
         <source>Pioneers</source>
         <target state="translated">Pionierzy</target>
+        <note from="developer">(text of widget: headline)</note>
         <note from="translator">75%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Settlers">
         <source>Settlers</source>
         <target state="translated">Osadnicy</target>
+        <note from="developer">(text of widget: headline)
+(text of widget: settler_score)</note>
         <note from="translator">75%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Overview">
         <source>Overview</source>
         <target state="translated">Przegląd</target>
+        <note from="developer">(text of widget: headline)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Branch office overview">
         <source>Branch office overview</source>
@@ -441,6 +1148,19 @@ Szczegóły: %s</target>
       <trans-unit xml:space="preserve" approved="yes" id="Ship overview">
         <source>Ship overview</source>
         <target state="translated">Podgląd statku</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Trade ship">
+        <source>Trade ship</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Build settlement">
+        <source>Build settlement</source>
+        <target state="translated">Zbuduj osadę</target>
+        <note from="developer">(tooltip of widget: foundSettlement)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="The ship needs to be close to an island to found a settlement.">
+        <source>The ship needs to be close to an island to found a settlement.</source>
+        <target state="translated"></target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Unit overview">
         <source>Unit overview</source>
@@ -479,6 +1199,15 @@ Szczegóły: %s</target>
         <source>%(player)s's ships</source>
         <target state="translated"></target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="None">
+        <source>None</source>
+        <target state="translated"></target>
+        <note from="developer">i18n There are no weapons equipped at the moment.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="N/A">
+        <source>N/A</source>
+        <target state="translated"></target>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Production overview of %(settlement)s">
         <source>Production overview of %(settlement)s</source>
         <target state="translated"></target>
@@ -486,1136 +1215,1452 @@ Szczegóły: %s</target>
       <trans-unit xml:space="preserve" approved="yes" id="Start route">
         <source>Start route</source>
         <target state="translated">Ruszaj</target>
+        <note from="developer">(tooltip of widget: start_route) Trade route</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Stop route">
         <source>Stop route</source>
         <target state="translated">Zatrzymaj</target>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="none">
+        <source>none</source>
+        <target state="translated">brak</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="String Previewer Tool for Scenario files">
+        <source>String Previewer Tool for Scenario files</source>
+        <target state="translated"></target>
+        <note from="developer">(text of widget: headline)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="select a scenario and click on load/reload to update the messages in the captain's log">
+        <source>select a scenario and click on load/reload to update the messages in the captain's log</source>
+        <target state="translated"></target>
+        <note from="developer">(text of widget: hintlbl)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="load/reload">
+        <source>load/reload</source>
+        <target state="translated">załaduj/przeładuj</target>
+        <note from="developer">(text of widget: load)</note>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Companies">
         <source>Companies</source>
         <target state="translated">Przemysł i rolnictwo</target>
+        <note from="developer">(text of widget: companies_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="no" id="Sailor buildings">
         <source>Sailor buildings</source>
         <target state="needs-translation">Doki</target>
+        <note from="developer">(text of widget: headline)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Residents and infrastructure">
         <source>Residents and infrastructure</source>
         <target state="translated">Mieszkańcy i infrastruktura</target>
+        <note from="developer">(text of widget: residents_infra_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Services">
         <source>Services</source>
         <target state="translated">Usługi</target>
+        <note from="developer">(text of widget: services_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Pavilion: Fulfills religious needs of sailors.">
         <source>Pavilion: Fulfills religious needs of sailors.</source>
         <target state="translated">Kaplica: Wypełnia religijne potrzeby obywateli.</target>
+        <note from="developer">(tooltip of widget: church-1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Fisherman: Fishes the sea, produces food.">
         <source>Fisherman: Fishes the sea, produces food.</source>
         <target state="translated">Rybak: Łowi ryby, dostarcza jedzenie.</target>
+        <note from="developer">(tooltip of widget: fisher-1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Hunter: Hunts wild forest animals, produces food.">
         <source>Hunter: Hunts wild forest animals, produces food.</source>
         <target state="translated">Myśliwy: Poluje na zwierzęta, dostarcza jedzenie.</target>
+        <note from="developer">(tooltip of widget: hunter-1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Signal fire: Allows the player to trade with the free trader.">
         <source>Signal fire: Allows the player to trade with the free trader.</source>
         <target state="translated">Ogień sygnałowy: Pozwala osadzie na handel z wolnym handlarzem.</target>
+        <note from="developer">(tooltip of widget: lighthouse-1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Lumberjack: Chops down trees and turns them into boards.">
         <source>Lumberjack: Chops down trees and turns them into boards.</source>
         <target state="translated">Drwal: Ścina drzewa i wytwarza z nich deski.</target>
+        <note from="developer">(tooltip of widget: lumberjack-1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Main square: Supplies citizens with goods.">
         <source>Main square: Supplies citizens with goods.</source>
         <target state="translated">Rynek główny: Zapewnia obywatelom możliwość wymiany dóbr.</target>
+        <note from="developer">(tooltip of widget: main_square-1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tent: Houses your inhabitants.">
         <source>Tent: Houses your inhabitants.</source>
         <target state="translated">Namiot: Daje schronienie mieszkańcom.</target>
+        <note from="developer">(tooltip of widget: resident-1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Storage: Extends stock and provides collectors.">
         <source>Storage: Extends stock and provides collectors.</source>
         <target state="translated">Magazyn: Zwiększa możliwość przechowywania zapasów</target>
+        <note from="developer">(tooltip of widget: store-1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Trail: Needed for collecting goods.">
         <source>Trail: Needed for collecting goods.</source>
         <target state="translated">Droga: Wymagana do przewożenia dóbr.</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Tree">
-        <source>Tree</source>
-        <target state="translated">Drzewo</target>
+        <note from="developer">(tooltip of widget: street-1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Fields">
         <source>Fields</source>
         <target state="translated">Pola</target>
+        <note from="developer">(text of widget: fields_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="no" id="Pioneer buildings">
         <source>Pioneer buildings</source>
         <target state="needs-translation">Budynki pionierskie</target>
+        <note from="developer">(text of widget: headline)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Military">
         <source>Military</source>
         <target state="translated">Jednostki militarne</target>
+        <note from="developer">(text of widget: military_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Boat builder: Builds boats and small ships. Built on coast.">
         <source>Boat builder: Builds boats and small ships. Built on coast.</source>
         <target state="translated">Budowniczy łodzi: Buduje łodzie i małe łódki, musi być na brzegu.</target>
+        <note from="developer">(tooltip of widget: boat_builder-1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Brickyard: Turns clay into bricks.">
         <source>Brickyard: Turns clay into bricks.</source>
         <target state="translated">Cegielnia: Zmienia glinę w cegły.</target>
+        <note from="developer">(tooltip of widget: brickyard-1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Clay pit: Gets clay from deposit.">
         <source>Clay pit: Gets clay from deposit.</source>
         <target state="translated">Kopalnia gliny: Dostarcza gliny ze złóż.</target>
+        <note from="developer">(tooltip of widget: clay-pit-1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Distillery: Turns sugar into liquor.">
         <source>Distillery: Turns sugar into liquor.</source>
         <target state="translated">Gorzelnia: Zmienia cukier w alkohol.</target>
+        <note from="developer">(tooltip of widget: distillery-1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Farm: Grows field crops and raises livestock.">
         <source>Farm: Grows field crops and raises livestock.</source>
         <target state="translated">Farma: Pozwala na uprawę roślin i chów zwierząt.</target>
+        <note from="developer">(tooltip of widget: herder-1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Pasture: Raises sheep. Produces wool. Needs a farm.">
         <source>Pasture: Raises sheep. Produces wool. Needs a farm.</source>
         <target state="translated">Pastwisko: Używane do hodowli owiec. Dostarcza wełnę. Wymaga farmy.</target>
+        <note from="developer">(tooltip of widget: pasture-1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Potato field: Yields food. Needs a farm.">
         <source>Potato field: Yields food. Needs a farm.</source>
         <target state="translated">Pole ziemniaczane: Dostarcza jedzenie. Wymaga farmy.</target>
+        <note from="developer">(tooltip of widget: potatofield-1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sugarcane field: Used in liquor production. Needs a farm.">
         <source>Sugarcane field: Used in liquor production. Needs a farm.</source>
         <target state="translated">Pole trzciny cukrowej: Wykorzystywane do produkcji alkoholu. Wymaga farmy.</target>
+        <note from="developer">(tooltip of widget: sugarfield-1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Wooden tower: Defends your settlement.">
         <source>Wooden tower: Defends your settlement.</source>
         <target state="translated">Drewniana wieża obronna</target>
+        <note from="developer">(tooltip of widget: tower-1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Village school: Provides education.">
         <source>Village school: Provides education.</source>
         <target state="translated">Szkoła wiejska: Zapewnia edukację.</target>
+        <note from="developer">(tooltip of widget: villageschool-1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Weaver: Turns lamb wool into cloth.">
         <source>Weaver: Turns lamb wool into cloth.</source>
         <target state="translated">Tkacz: Wytwarza ubrania z wełny owczej.</target>
+        <note from="developer">(tooltip of widget: weaver-1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Mining">
         <source>Mining</source>
         <target state="translated"></target>
+        <note from="developer">(text of widget: companies_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="no" id="Settler buildings">
         <source>Settler buildings</source>
         <target state="needs-translation">Budynki osadnika</target>
+        <note from="developer">(text of widget: headline)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Butchery: Needs pigs or cattle. Produces food.">
         <source>Butchery: Needs pigs or cattle. Produces food.</source>
         <target state="translated">Rzeźnik: Wymaga świń lub budła. Produkuje jedzenie.</target>
+        <note from="developer">(tooltip of widget: butchery-1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Cattle run: Raises cattle. Needs a farm.">
         <source>Cattle run: Raises cattle. Needs a farm.</source>
         <target state="translated"></target>
+        <note from="developer">(tooltip of widget: cattlerun-1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="no" id="Charcoal burning: Burns a lot of boards to charcoal.">
         <source>Charcoal burning: Burns a lot of boards to charcoal.</source>
         <target state="needs-translation">Węglarz: Wypalanie drewna w mielarzach. Produkuje węgiel drzewny.</target>
+        <note from="developer">(tooltip of widget: charcoal-burning-1)</note>
         <note from="translator">76%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Mine: Gets ores from deposit.">
         <source>Mine: Gets ores from deposit.</source>
         <target state="translated"></target>
+        <note from="developer">(tooltip of widget: iron-mine-1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Pigsty: Raises pigs. Needs a farm.">
         <source>Pigsty: Raises pigs. Needs a farm.</source>
         <target state="translated">Chlew: Chodowla świń. Wymagana farma.</target>
+        <note from="developer">(tooltip of widget: pigsty-1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Salt ponds: Evaporates salt. Built on sea coast.">
         <source>Salt ponds: Evaporates salt. Built on sea coast.</source>
         <target state="translated"></target>
+        <note from="developer">(tooltip of widget: saltponds-1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Smeltery: Refines all kind of ores.">
         <source>Smeltery: Refines all kind of ores.</source>
         <target state="translated"></target>
+        <note from="developer">(tooltip of widget: smeltery-1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tavern: Provides get-together.">
         <source>Tavern: Provides get-together.</source>
         <target state="translated"></target>
+        <note from="developer">(tooltip of widget: tavern-1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tobacco field: Produces tobacco. Needs a farm.">
         <source>Tobacco field: Produces tobacco. Needs a farm.</source>
         <target state="translated">Tytoń: Produkcja tytoniu. Wymagana farma.</target>
+        <note from="developer">(tooltip of widget: tobaccofield-1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tobacconist: Produces tobaccos out of tobacco.">
         <source>Tobacconist: Produces tobaccos out of tobacco.</source>
         <target state="translated"></target>
+        <note from="developer">(tooltip of widget: tobacconist-1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Toolmaker: Produces tools out of iron.">
         <source>Toolmaker: Produces tools out of iron.</source>
         <target state="translated">Kuźnia: Wytwarza narzędzia z żelaza.</target>
+        <note from="developer">(tooltip of widget: toolmaker-1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Game start">
         <source>Game start</source>
         <target state="translated">Rozpocznij grę</target>
+        <note from="developer">(text of widget: headline)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You need to found a settlement before you can construct buildings!">
         <source>You need to found a settlement before you can construct buildings!</source>
         <target state="translated">Musisz założyć osadę zanim postawisz budynek!</target>
+        <note from="developer">(text of widget: howto_1_need_bo)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Select your ship and approach the coast via right-click.">
         <source>Select your ship and approach the coast via right-click.</source>
         <target state="translated">Wybierz swój okręt i podpłyń do wybrzeża, używająć prawego klawisza myszy.</target>
+        <note from="developer">(text of widget: howto_2_navigate_ship)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Afterwards, press the large button in the ship overview tab.">
         <source>Afterwards, press the large button in the ship overview tab.</source>
         <target state="translated"></target>
+        <note from="developer">(text of widget: howto_3_build_bo)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Running costs:">
         <source>Running costs:</source>
         <target state="translated">Koszty eksploatacji:</target>
+        <note from="developer">(text of widget: running_costs_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Inhabitants">
         <source>Inhabitants</source>
         <target state="translated">Mieszkańcy</target>
+        <note from="developer">(tooltip of widget: city_info_inhabitants)
+(text of widget: inhabitants)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Click to change the name of your settlement.">
         <source>Click to change the name of your settlement.</source>
         <target state="translated">Kliknij aby zmienić nazwę osady.</target>
+        <note from="developer">(tooltip of widget: city_name)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build menu">
         <source>Build menu</source>
         <target state="translated">Menu budowania</target>
+        <note from="developer">(tooltip of widget: build)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Destroy">
         <source>Destroy</source>
         <target state="translated">Zniszcz</target>
+        <note from="developer">(tooltip of widget: destroy_tool)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Diplomacy">
         <source>Diplomacy</source>
         <target state="translated">Dyplomacja</target>
+        <note from="developer">(tooltip of widget: diplomacyButton)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Game menu">
         <source>Game menu</source>
         <target state="translated">Menu gry</target>
+        <note from="developer">(tooltip of widget: gameMenuButton)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Captain's log">
         <source>Captain's log</source>
         <target state="translated">Dziennik pokładowy</target>
+        <note from="developer">(tooltip of widget: logbook)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Rotate map counterclockwise">
         <source>Rotate map counterclockwise</source>
         <target state="translated">Obróć mapę przeciwnie do ruchu wskazówek zegara</target>
+        <note from="developer">(tooltip of widget: rotateLeft)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Rotate map clockwise">
         <source>Rotate map clockwise</source>
         <target state="translated">Obróć mapę zgodnie z ruchem wskazówek zegara</target>
+        <note from="developer">(tooltip of widget: rotateRight)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Decrease game speed">
         <source>Decrease game speed</source>
         <target state="translated">Zmniejsz prędkość gry</target>
+        <note from="developer">(tooltip of widget: speedDown)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Increase game speed">
         <source>Increase game speed</source>
         <target state="translated">Zwiększ prędkość gry</target>
+        <note from="developer">(tooltip of widget: speedUp)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Zoom in">
         <source>Zoom in</source>
         <target state="translated">Przybliż</target>
+        <note from="developer">(tooltip of widget: zoomIn)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Zoom out">
         <source>Zoom out</source>
         <target state="translated">Oddal</target>
+        <note from="developer">(tooltip of widget: zoomOut)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Boards">
         <source>Boards</source>
         <target state="translated">Deski</target>
+        <note from="developer">(tooltip of widget: boards_icon)</note>
         <note from="translator">Resources</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Bricks">
         <source>Bricks</source>
         <target state="translated">Cegły</target>
+        <note from="developer">(tooltip of widget: bricks_icon)</note>
         <note from="translator">Resources</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Food">
         <source>Food</source>
         <target state="translated">Żywność</target>
+        <note from="developer">(tooltip of widget: food_icon)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Textiles">
         <source>Textiles</source>
         <target state="translated">Tekstylia</target>
+        <note from="developer">(tooltip of widget: textiles_icon)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tools">
         <source>Tools</source>
         <target state="translated">Narzędzia</target>
+        <note from="developer">(tooltip of widget: tools_icon)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Gold">
         <source>Gold</source>
         <target state="translated">Złoto</target>
+        <note from="developer">(tooltip of widget: gold_icon)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enter new name:">
         <source>Enter new name:</source>
         <target state="translated">Podaj nową nazwę:</target>
+        <note from="developer">(text of widget: enter_new_name_lbl)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Change name">
         <source>Change name</source>
         <target state="translated">Zmień nazwę</target>
+        <note from="developer">(text of widget: headline_change_name)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Apply the new name">
         <source>Apply the new name</source>
         <target state="translated">Zastosować nową nazwę</target>
+        <note from="developer">(tooltip of widget: okButton)
+(tooltip of widget: apply_new_nickname)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enter your message:">
         <source>Enter your message:</source>
         <target state="translated">Wpisz swoją wiadomość:</target>
+        <note from="developer">(text of widget: chat_lbl)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Chat">
         <source>Chat</source>
         <target state="translated">Czat</target>
+        <note from="developer">(text of widget: headline)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Cancel building:">
         <source>Cancel building:</source>
         <target state="translated">Przerwij budowanie:</target>
+        <note from="developer">(text of widget: BB_cancel_build_label) abort construction of a ship, lose invested resources</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="(lose all resources)">
         <source>(lose all resources)</source>
         <target state="translated">(stracisz wszystkie zasoby)</target>
+        <note from="developer">(text of widget: BB_cancel_warning_label) abort construction of a ship, lose invested resources</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Currently building:">
         <source>Currently building:</source>
         <target state="translated">Obecnie w budowie:</target>
+        <note from="developer">(text of widget: BB_current_order) Information about the ship currently under construction at the boat builder</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="To build a boat, click on one of the class tabs, select the desired ship and confirm the order.">
         <source>To build a boat, click on one of the class tabs, select the desired ship and confirm the order.</source>
         <target state="translated">By zbudować łódź, kliknij na zakładkę z odpowiednią klasą, wybierz okręt i potwierdź budowę.</target>
+        <note from="developer">(text of widget: BB_howto_build_lbl)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Construction progress:">
         <source>Construction progress:</source>
         <target state="translated">Postęp konstrukcji:</target>
+        <note from="developer">(text of widget: BB_progress_label) Refers to the resources still missing to complete the current boat builder task</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Building overview">
         <source>Building overview</source>
         <target state="translated">Podgląd budynku</target>
+        <note from="developer">(text of widget: headline)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Cancel all building progress">
         <source>Cancel all building progress</source>
         <target state="translated">Anuluj wszystkie postępu robót</target>
+        <note from="developer">(tooltip of widget: BB_cancel_button) abort construction of a ship, lose invested resources</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Pause">
         <source>Pause</source>
         <target state="translated">Pauza</target>
+        <note from="developer">(tooltip of widget: toggle_active_active) Pauses the current ship production, can be resumed later</note>
         <note from="translator">Building</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Resume">
         <source>Resume</source>
         <target state="translated">Wznów</target>
+        <note from="developer">(tooltip of widget: toggle_active_inactive) Resumes the currently paused ship production</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Running costs">
         <source>Running costs</source>
         <target state="translated">Koszty utrzymania</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Huker">
-        <source>Huker</source>
-        <target state="translated"></target>
+        <note from="developer">(tooltip of widget: running_costs_label)
+(text of widget: running_costs_label)
+(tooltip of widget: running_costs_label)
+(tooltip of widget: running_costs)
+(text of widget: running_costs)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build this ship!">
         <source>Build this ship!</source>
         <target state="translated">Zbuduj ten statek!</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Frigate">
-        <source>Frigate</source>
-        <target state="translated">Fregata</target>
+        <note from="developer">(tooltip of widget: BB_build_trade_1)
+(tooltip of widget: BB_build_war1_1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Buy resources">
         <source>Buy resources</source>
         <target state="translated">Kup zasoby</target>
+        <note from="developer">(text of widget: buy_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Click on slot icon to toggle mode:">
         <source>Click on slot icon to toggle mode:</source>
         <target state="translated"></target>
+        <note from="developer">(text of widget: buysell_help_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Buy or sell resources">
         <source>Buy or sell resources</source>
         <target state="translated">Kup lub sprzedaj zasoby</target>
+        <note from="developer">(text of widget: headline)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sell resources">
         <source>Sell resources</source>
         <target state="translated">Sprzedaj zasoby</target>
+        <note from="developer">(text of widget: sell_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Select resources:">
         <source>Select resources:</source>
         <target state="translated">Wybierz zasoby:</target>
+        <note from="developer">(text of widget: headline)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Buying">
         <source>Buying</source>
         <target state="translated">Kupno</target>
+        <note from="developer">(text of widget: buy_expenses_label)
+(text of widget: buying_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Balance:">
         <source>Balance:</source>
         <target state="translated">Saldo:</target>
+        <note from="developer">(text of widget: headline_balance_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Expenses:">
         <source>Expenses:</source>
         <target state="translated">Wydatki:</target>
+        <note from="developer">(text of widget: headline_expenses_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Income:">
         <source>Income:</source>
         <target state="translated">Wpływy:</target>
+        <note from="developer">(text of widget: headline_income_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sale">
         <source>Sale</source>
         <target state="translated">Sprzedaż</target>
+        <note from="developer">(text of widget: sell_income_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Taxes">
         <source>Taxes</source>
         <target state="translated">Podatki</target>
+        <note from="developer">(text of widget: taxes_label)
+(text of widget: taxes)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Show resources produced in this settlement">
         <source>Show resources produced in this settlement</source>
         <target state="translated">Pokaż dobra produkowane przez tą osadę</target>
+        <note from="developer">(tooltip of widget: show_production_overview)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="ally">
         <source>ally</source>
         <target state="translated"></target>
+        <note from="developer">(text of widget: ally_label) Diplomacy state of player</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="enemy">
         <source>enemy</source>
         <target state="translated">wróg</target>
+        <note from="developer">(text of widget: enemy_label) Diplomacy state of player</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="neutral">
         <source>neutral</source>
         <target state="translated">neutralny</target>
+        <note from="developer">(text of widget: neutral_label) Diplomacy state of player</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build fields">
         <source>Build fields</source>
         <target state="translated">Zbuduj pole</target>
+        <note from="developer">(text of widget: headline)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Average happiness:">
         <source>Average happiness:</source>
         <target state="translated">Ogólne zadowolenie:</target>
+        <note from="developer">(text of widget: avg_happiness_lbl)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Most needed resource:">
         <source>Most needed resource:</source>
         <target state="translated">Najbardziej potrzebne zasoby:</target>
+        <note from="developer">(text of widget: most_needed_res_lbl)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Residents per house">
         <source>Residents per house</source>
         <target state="translated">Mieszkańców na dom</target>
+        <note from="developer">(text of widget: headline_residents_per_house)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Summary">
         <source>Summary</source>
         <target state="translated">Podsumowanie</target>
+        <note from="developer">(text of widget: headline_residents_total)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="houses">
         <source>houses</source>
         <target state="translated">domy</target>
+        <note from="developer">(text of widget: houses)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="1 resident">
         <source>1 resident</source>
         <target state="translated">1 mieszkaniec</target>
-        <note from="translator">88%&#13;
+        <note from="developer">(text of widget: resident_1)</note>
+        <note from="translator">88%
 81%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="2 residents">
         <source>2 residents</source>
         <target state="translated">2 mieszkańców</target>
-        <note from="translator">88%&#13;
+        <note from="developer">(text of widget: resident_2)</note>
+        <note from="translator">88%
 81%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="3 residents">
         <source>3 residents</source>
         <target state="translated">3 mieszkańców</target>
-        <note from="translator">88%&#13;
+        <note from="developer">(text of widget: resident_3)</note>
+        <note from="translator">88%
 81%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="residents">
         <source>residents</source>
         <target state="translated">mieszkańcy</target>
+        <note from="developer">(text of widget: residents)</note>
         <note from="translator">88%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Taxes:">
         <source>Taxes:</source>
         <target state="translated">Podatki:</target>
+        <note from="developer">(text of widget: tax_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Upgrade permissions:">
         <source>Upgrade permissions:</source>
         <target state="translated"></target>
+        <note from="developer">(text of widget: upgrades_lbl)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Paid taxes">
         <source>Paid taxes</source>
         <target state="translated">Zapłacone podatki</target>
+        <note from="developer">(tooltip of widget: paid_taxes_icon)
+(tooltip of widget: taxes)
+(tooltip of widget: paid_taxes_icon)
+(tooltip of widget: taxes)
+(tooltip of widget: paid_taxes_icon)
+(tooltip of widget: taxes)
+(tooltip of widget: paid_taxes_label)
+(tooltip of widget: taxes)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tax rate">
         <source>Tax rate</source>
         <target state="translated">Wysokość podatku</target>
+        <note from="developer">(tooltip of widget: tax_rate_icon)
+(tooltip of widget: tax_val_label)
+(tooltip of widget: tax_rate_icon)
+(tooltip of widget: tax_val_label)
+(tooltip of widget: tax_rate_icon)
+(tooltip of widget: tax_val_label)
+(tooltip of widget: paid_taxes_label)
+(tooltip of widget: tax_val_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="4 residents">
         <source>4 residents</source>
         <target state="translated">4 mieszkańców</target>
-        <note from="translator">88%&#13;
+        <note from="developer">(text of widget: resident_4)</note>
+        <note from="translator">88%
 81%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="5 residents">
         <source>5 residents</source>
         <target state="translated">5 mieszkańców</target>
-        <note from="translator">88%&#13;
+        <note from="developer">(text of widget: resident_5)</note>
+        <note from="translator">88%
 81%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Upgrade not possible:">
         <source>Upgrade not possible:</source>
         <target state="translated"></target>
+        <note from="developer">(text of widget: upgrades_lbl)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="This is the current maximum increment!">
         <source>This is the current maximum increment!</source>
         <target state="translated">Osiągnąłęś najwyższy poziom rozwoju!</target>
+        <note from="developer">(tooltip of widget: allow_upgrades)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Collector utilisation:">
         <source>Collector utilisation:</source>
         <target state="translated"></target>
+        <note from="developer">(text of widget: collector_utilisation_label) Percentage describing how much time the collectors were idle (not collecting resources for this building's inventory)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Name:">
         <source>Name:</source>
         <target state="translated">Nazwa:</target>
+        <note from="developer">(text of widget: name_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Selling">
         <source>Selling</source>
         <target state="translated"></target>
+        <note from="developer">(text of widget: selling_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Weapons:">
         <source>Weapons:</source>
         <target state="translated">Broń:</target>
+        <note from="developer">(text of widget: lbl_weapon_storage)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="capacity utilization">
         <source>capacity utilization</source>
         <target state="translated"></target>
+        <note from="developer">(tooltip of widget: capacity_utilisation)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="no" id="Resource deposit">
         <source>Resource deposit</source>
         <target state="needs-translation">Złoże zasobu</target>
+        <note from="developer">(text of widget: headline)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="no" id="This is a resource deposit where you can build a mine to dig up resources.">
         <source>This is a resource deposit where you can build a mine to dig up resources.</source>
         <target state="needs-translation">To jest złoże zasobu. Możesz tu zbudować kopalnie, aby je eksploatować.</target>
+        <note from="developer">(text of widget: res_dep_description_lbl)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="It contains these resources:">
         <source>It contains these resources:</source>
         <target state="translated">Zawiera następujące zasoby:</target>
+        <note from="developer">(text of widget: res_dep_description_lbl2) It == The resource deposit</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Needed resources:">
         <source>Needed resources:</source>
         <target state="translated">Potrzebne zasoby:</target>
+        <note from="developer">(text of widget: needed_res_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Happiness">
         <source>Happiness</source>
         <target state="translated">Zadowolenie</target>
+        <note from="developer">(tooltip of widget: happiness_label)
+(tooltip of widget: happiness)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Residents">
         <source>Residents</source>
         <target state="translated">Mieszkańcy</target>
+        <note from="developer">(tooltip of widget: residents_label)
+(tooltip of widget: inhabitants)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build settlement:">
         <source>Build settlement:</source>
         <target state="translated">Zbuduj osadę:</target>
+        <note from="developer">(text of widget: foundSettlement_label)</note>
         <note from="translator">94%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Click to change the name of this ship.">
         <source>Click to change the name of this ship.</source>
         <target state="translated">Kliknij aby zmienić nazwę tego statku.</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Build settlement">
-        <source>Build settlement</source>
-        <target state="translated">Zbuduj osadę</target>
+        <note from="developer">(tooltip of widget: name)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The signal fire shows the free trader how to reach your settlement in case you want to buy or sell goods.">
         <source>The signal fire shows the free trader how to reach your settlement in case you want to buy or sell goods.</source>
         <target state="translated">Ogień sygnałowy informuje wolnego kupca, jak dopłynąć do twojej osady, gdybyś chciał kupić lub sprzedać towary.</target>
+        <note from="developer">(text of widget: signal_fire_description_lbl)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="This is the free trader's ship. It will visit you from time to time to buy or sell goods.">
         <source>This is the free trader's ship. It will visit you from time to time to buy or sell goods.</source>
         <target state="translated">To jest okręt wolnego kupca. Będzie cię odwiedzał od czasu do czasu, by sprzedać lub kupić dobra.</target>
+        <note from="developer">(text of widget: trader_description_lbl)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Exchange:">
         <source>Exchange:</source>
         <target state="translated">Wymiana:</target>
+        <note from="developer">(text of widget: exchange_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Ship:">
         <source>Ship:</source>
         <target state="translated">Statek:</target>
+        <note from="developer">(text of widget: ship_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Configure trading route:">
         <source>Configure trading route:</source>
         <target state="translated"></target>
+        <note from="developer">(text of widget: configure_route_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Inventory">
         <source>Inventory</source>
         <target state="translated">Zapasy</target>
+        <note from="developer">(text of widget: headline)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Pause production">
         <source>Pause production</source>
         <target state="translated">Wstrzymaj produkcję</target>
+        <note from="developer">(tooltip of widget: toggle_active_active)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Start production">
         <source>Start production</source>
         <target state="translated">Rozpocznij produkcję</target>
+        <note from="developer">(tooltip of widget: toggle_active_inactive)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Delete entry">
         <source>Delete entry</source>
         <target state="translated">Usuń wpis</target>
+        <note from="developer">(tooltip of widget: delete_bo) Trade route entry</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Move down">
         <source>Move down</source>
         <target state="translated">Przenieś w dół</target>
+        <note from="developer">(tooltip of widget: move_down) Trade route entry</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Move up">
         <source>Move up</source>
         <target state="translated">Przenieś w górę</target>
+        <note from="developer">(tooltip of widget: move_up) Trade route entry</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Leave Captain's log">
         <source>Leave Captain's log</source>
         <target state="translated">Zamknij Dziennik Pokładowy</target>
+        <note from="developer">(tooltip of widget: cancelButton) Captain's Log: logbook/diary used in scenarios</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Read prev. entries">
         <source>Read prev. entries</source>
         <target state="translated">Czytaj poprz. wpisy</target>
+        <note from="developer">(tooltip of widget: backwardButton) Entry of Captain's Log (logbook/diary used in scenarios)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Read next entries">
         <source>Read next entries</source>
         <target state="translated">Czytaj nast. wpisy</target>
+        <note from="developer">(tooltip of widget: forwardButton) Entry of Captain's Log (logbook/diary used in scenarios)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Available Scenarios">
         <source>Available Scenarios</source>
         <target state="translated">Dostępne scenariusze</target>
+        <note from="developer">(text of widget: head_left)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Scenario description">
         <source>Scenario description</source>
         <target state="translated">Opis scenariusza</target>
+        <note from="developer">(text of widget: head_right)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Continue playing">
         <source>Continue playing</source>
         <target state="translated">Kontynuuj grę</target>
+        <note from="developer">(tooltip of widget: cancelButton) Players either select the next scenario they want to play or press this button</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Choose this scenario">
         <source>Choose this scenario</source>
         <target state="translated">Wybierz ten scenariusz</target>
+        <note from="developer">(tooltip of widget: choose_scenario) Select which scenario to play</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Wait at load:">
         <source>Wait at load:</source>
         <target state="translated"></target>
+        <note from="developer">(text of widget: lbl_wait_at_load) Trade route setting: Whether to wait until all goods could be loaded.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Wait at unload:">
         <source>Wait at unload:</source>
         <target state="translated"></target>
+        <note from="developer">(text of widget: lbl_wait_at_unload) Trade route setting: Whether to wait until all goods could be unloaded.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Exit">
         <source>Exit</source>
         <target state="translated">Wyjdź</target>
+        <note from="developer">(tooltip of widget: cancelButton)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Add to list">
         <source>Add to list</source>
         <target state="translated">Dodaj do listy</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="100/100">
-        <source>100/100</source>
-        <target state="translated">100/100</target>
+        <note from="developer">(tooltip of widget: add_bo) List of harbors in trade route</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Close">
         <source>Close</source>
         <target state="translated">Zamknij</target>
+        <note from="developer">(tooltip of widget: cancelButton)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Buildings">
         <source>Buildings</source>
         <target state="translated">Budynki</target>
+        <note from="developer">(text of widget: building_score)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Player scores">
         <source>Player scores</source>
         <target state="translated">Punkty gracza</target>
+        <note from="developer">(text of widget: headline)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Land">
         <source>Land</source>
         <target state="translated">Ziemia</target>
+        <note from="developer">(text of widget: land_score)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Money">
         <source>Money</source>
         <target state="translated">Pieniądze</target>
+        <note from="developer">(text of widget: money_score)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Name">
         <source>Name</source>
         <target state="translated">Nazwa</target>
+        <note from="developer">(text of widget: player_name)
+(text of widget: settlement_name)
+(text of widget: ship_name)</note>
         <note from="translator">80%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Resources">
         <source>Resources</source>
         <target state="translated">Zasoby</target>
+        <note from="developer">(text of widget: resource_score)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Total">
         <source>Total</source>
         <target state="translated">W sumie</target>
+        <note from="developer">(text of widget: total_score)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Units">
         <source>Units</source>
         <target state="translated">Jednostki</target>
+        <note from="developer">(text of widget: unit_score)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Balance">
         <source>Balance</source>
         <target state="translated">Saldo</target>
+        <note from="developer">(text of widget: balance)</note>
         <note from="translator">87%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Health">
         <source>Health</source>
         <target state="translated">Zdrowie</target>
+        <note from="developer">(text of widget: health)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Type">
         <source>Type</source>
         <target state="translated">Typ</target>
+        <note from="developer">(text of widget: ship_type)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Status">
         <source>Status</source>
         <target state="translated">Status</target>
+        <note from="developer">(text of widget: status)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Weapons">
         <source>Weapons</source>
         <target state="translated">Broń</target>
+        <note from="developer">(text of widget: weapons)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Aggressive">
         <source>Aggressive</source>
         <target state="translated"></target>
+        <note from="developer">(tooltip of widget: aggressive) Description of combat stance (how units behave when fighting)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Flee">
         <source>Flee</source>
         <target state="translated"></target>
+        <note from="developer">(tooltip of widget: flee) Description of combat stance (how units behave when fighting)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Hold ground">
         <source>Hold ground</source>
         <target state="translated"></target>
+        <note from="developer">(tooltip of widget: hold_ground) Description of combat stance (how units behave when fighting)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Passive">
+        <source>Passive</source>
+        <target state="translated"></target>
+        <note from="developer">(tooltip of widget: none) Description of combat stance (how units behave when fighting)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Key bindings">
         <source>Key bindings</source>
         <target state="translated">Skróty klawiszowe</target>
+        <note from="developer">(text of widget: headline)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{B} = Show build menu">
         <source>{B} = Show build menu</source>
         <target state="translated">{B} = Pokaż menu budowania</target>
+        <note from="developer">(text of widget: lbl_b)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{C} = Chat">
         <source>{C} = Chat</source>
         <target state="translated">{C} = Chat</target>
+        <note from="developer">(text of widget: lbl_c)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{ , } = Rotate building left">
         <source>{ , } = Rotate building left</source>
         <target state="translated">{ , } = Obróć budynek w lewo</target>
+        <note from="developer">(text of widget: lbl_comma)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{DOWN} = Scroll down">
         <source>{DOWN} = Scroll down</source>
         <target state="translated">{DOWN} = Przesuń w dół</target>
+        <note from="developer">(text of widget: lbl_down)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{ESC} = Show pause menu">
         <source>{ESC} = Show pause menu</source>
         <target state="translated">{ESC} = Pokaż menu</target>
+        <note from="developer">(text of widget: lbl_escape)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{F1} = Display help">
         <source>{F1} = Display help</source>
         <target state="translated">{F1} = Wyświetl pomoc</target>
+        <note from="developer">(text of widget: lbl_f1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{F10} = Toggle console on/off">
         <source>{F10} = Toggle console on/off</source>
         <target state="translated">{F10} = Włącz/Wyłącz konsolę</target>
+        <note from="developer">(text of widget: lbl_f10)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{F2} = Show player scores">
         <source>{F2} = Show player scores</source>
         <target state="translated">{F2} = Pokaż punkty graczy</target>
+        <note from="developer">(text of widget: lbl_f2)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{F3} = Show settlement list">
         <source>{F3} = Show settlement list</source>
         <target state="translated">{F3} = Pokaż listę osad</target>
+        <note from="developer">(text of widget: lbl_f3)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{F4} = Show ship list">
         <source>{F4} = Show ship list</source>
         <target state="translated">{F4} = Pokaż listę statków</target>
+        <note from="developer">(text of widget: lbl_f4)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{F5} = Quicksave">
         <source>{F5} = Quicksave</source>
         <target state="translated">{F5} = Szybki zapis</target>
+        <note from="developer">(text of widget: lbl_f5)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{F9} = Quickload">
         <source>{F9} = Quickload</source>
         <target state="translated">{F9} = Szybkie wczytywanie</target>
+        <note from="developer">(text of widget: lbl_f9)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The FIFE and Unknown Horizons development teams">
         <source>The FIFE and Unknown Horizons development teams</source>
         <target state="translated">Zespół deweloperów FIFE i Unknown Horizons</target>
+        <note from="developer">(text of widget: lbl_fife_and_uh_team)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{G} = Toggle grid on/off">
         <source>{G} = Toggle grid on/off</source>
         <target state="translated">{G} = Włącz/Wyłącz siatkę</target>
+        <note from="developer">(text of widget: lbl_g)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{H} = Show coordinate values (Debug)">
         <source>{H} = Show coordinate values (Debug)</source>
         <target state="translated">{H} = Pokaż współrzędne (Debug)</target>
+        <note from="developer">(text of widget: lbl_h)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Have fun.">
         <source>Have fun.</source>
         <target state="translated">Baw się dobrze.</target>
+        <note from="developer">(text of widget: lbl_have_fun)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{L} = Toggle Captain's log">
         <source>{L} = Toggle Captain's log</source>
         <target state="translated">{L} = Włącz/Wyłącz Dziennik kapitański</target>
+        <note from="developer">(text of widget: lbl_l)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{LEFT} = Scroll left">
         <source>{LEFT} = Scroll left</source>
         <target state="translated">{LEFT} = Przesuń w lewo</target>
+        <note from="developer">(text of widget: lbl_left)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{ - } = Decrease game speed">
         <source>{ - } = Decrease game speed</source>
         <target state="translated">{ - } = Spowolnij grę</target>
+        <note from="developer">(text of widget: lbl_minus)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{P} = Pause game">
         <source>{P} = Pause game</source>
         <target state="translated">{P} = Zatrzymaj grę</target>
+        <note from="developer">(text of widget: lbl_p)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{ . } = Rotate building right">
         <source>{ . } = Rotate building right</source>
         <target state="translated">{ . } = Obróć budynek w prawo</target>
+        <note from="developer">(text of widget: lbl_period)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{ + } = Increase game speed">
         <source>{ + } = Increase game speed</source>
         <target state="translated">{ + } = Przyśpiesz grę</target>
+        <note from="developer">(text of widget: lbl_plus)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{RIGHT} = Scroll right">
         <source>{RIGHT} = Scroll right</source>
         <target state="translated">{RIGHT} = Przesuń w prawo</target>
+        <note from="developer">(text of widget: lbl_right)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{S} = Screenshot">
         <source>{S} = Screenshot</source>
         <target state="translated">{S} = Zrzut ekranu</target>
+        <note from="developer">(text of widget: lbl_s)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{SHIFT} = Hold to place multiple buildings">
         <source>{SHIFT} = Hold to place multiple buildings</source>
         <target state="translated">{SHIFT} = Trzymaj aby postawić kilka budynków</target>
+        <note from="developer">(text of widget: lbl_shift)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{T} = Toggle translucency of ambient buildings">
         <source>{T} = Toggle translucency of ambient buildings</source>
         <target state="translated">{T} = Włącz/Wyłącz przeźroczystość otoczenia budynków</target>
+        <note from="developer">(text of widget: lbl_t)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{UP} = Scroll up">
         <source>{UP} = Scroll up</source>
         <target state="translated">{UP} = Przesuń w górę</target>
+        <note from="developer">(text of widget: lbl_up)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{X} = Enable destruct mode">
         <source>{X} = Enable destruct mode</source>
         <target state="translated">{X} = Włącz tryb niszczenia</target>
+        <note from="developer">(text of widget: lbl_x)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Return">
         <source>Return</source>
         <target state="translated">Powrót</target>
+        <note from="developer">(tooltip of widget: okButton)
+(tooltip of widget: cancelButton)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Help">
         <source>Help</source>
         <target state="translated">Pomoc</target>
+        <note from="developer">(text of widget: help)
+(text of widget: help) Main / in-game menu entry</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Cancel game">
         <source>Cancel game</source>
         <target state="translated">Przerwij rozgrywkę</target>
+        <note from="developer">(text of widget: quit)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Settings">
         <source>Settings</source>
         <target state="translated">Ustawienia</target>
+        <note from="developer">(text of widget: settings)
+(text of widget: settings) Main / in-game menu entry
+(text of widget: headline)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Return to game">
         <source>Return to game</source>
         <target state="translated">Wróć do gry</target>
+        <note from="developer">(text of widget: start)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Loading ...">
         <source>Loading ...</source>
         <target state="translated">Ładowanie...</target>
+        <note from="developer">(text of widget: loading_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Attention please!">
         <source>Attention please!</source>
         <target state="translated">Proszę o uwagę!</target>
+        <note from="developer">(text of widget: chimebell)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Credits">
         <source>Credits</source>
         <target state="translated">Autorzy</target>
+        <note from="developer">(text of widget: credits)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Quit">
         <source>Quit</source>
         <target state="translated">Wyjdź</target>
+        <note from="developer">(text of widget: quit) Completely shut down UH</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Singleplayer">
         <source>Singleplayer</source>
         <target state="translated">Pojedynczy gracz</target>
+        <note from="developer">(text of widget: start) Opens widget to create singleplayer games (campaigns, scenarios, random maps, free play)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Multiplayer">
         <source>Multiplayer</source>
         <target state="translated">Wielu graczy</target>
+        <note from="developer">(text of widget: start_multi) Opens widget to join or create multiplayer games</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Create game:">
         <source>Create game:</source>
         <target state="translated">Stwórz grę:</target>
+        <note from="developer">(text of widget: create_game_lbl)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Back:">
         <source>Back:</source>
         <target state="translated">Powrót:</target>
+        <note from="developer">(text of widget: exit_to_mp_menu_lbl)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Choose a map:">
         <source>Choose a map:</source>
         <target state="translated">Wybierz kartkę:</target>
+        <note from="developer">(text of widget: headline)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Create game - Multiplayer">
         <source>Create game - Multiplayer</source>
         <target state="translated">Stwórz grę - Wielu graczy</target>
+        <note from="developer">(text of widget: headline)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Player limit:">
         <source>Player limit:</source>
         <target state="translated">Limit graczy:</target>
+        <note from="developer">(text of widget: mp_player_limit_lbl)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Create this new game">
         <source>Create this new game</source>
         <target state="translated">Stwórz nową grę</target>
+        <note from="developer">(tooltip of widget: create)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Exit to multiplayer menu">
         <source>Exit to multiplayer menu</source>
         <target state="translated">Wyjdź do menu sieciowego</target>
+        <note from="developer">(tooltip of widget: cancel)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Leave:">
         <source>Leave:</source>
         <target state="translated">Opuść:</target>
+        <note from="developer">(text of widget: exit_to_mp_menu_lbl)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The game will start as soon as enough players have joined.">
         <source>The game will start as soon as enough players have joined.</source>
         <target state="translated">Gra rozpocznie się, gdy dołączy wymagana liczba graczy.</target>
+        <note from="developer">(text of widget: game_start_notice)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Chat:">
         <source>Chat:</source>
         <target state="translated">Czat:</target>
+        <note from="developer">(text of widget: headline)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Gamelobby">
         <source>Gamelobby</source>
         <target state="translated">Pokój gry</target>
+        <note from="developer">(text of widget: headline)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Game details:">
         <source>Game details:</source>
         <target state="translated">Szczegóły gry:</target>
+        <note from="developer">(text of widget: startmessage)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Exit gamelobby">
         <source>Exit gamelobby</source>
         <target state="translated">Opuść pokój gry</target>
+        <note from="developer">(tooltip of widget: cancel)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Active games:">
         <source>Active games:</source>
         <target state="translated">Aktywne gry:</target>
+        <note from="developer">(text of widget: active_games_lbl)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Main menu:">
         <source>Main menu:</source>
         <target state="translated">Menu główne:</target>
+        <note from="developer">(text of widget: exit_to_main_menu_lbl)
+(text of widget: main_menu_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Show only games with the same version:">
         <source>Show only games with the same version:</source>
         <target state="translated">Pokaż tylko gry o tej samej wersji:</target>
+        <note from="developer">(text of widget: game_showonlyownversion)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="New game - Multiplayer">
         <source>New game - Multiplayer</source>
         <target state="translated">Nowa gra - Wielu graczy</target>
+        <note from="developer">(text of widget: headline_left)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Join game">
         <source>Join game</source>
         <target state="translated">Dołącz do gry</target>
+        <note from="developer">(text of widget: join_game_lbl)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Apply:">
         <source>Apply:</source>
         <target state="translated">Zastosuj:</target>
+        <note from="developer">(text of widget: name_lbl)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Refresh list:">
         <source>Refresh list:</source>
         <target state="translated">Odśwież listę:</target>
+        <note from="developer">(text of widget: refr_gamelist_lbl)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Create a new game">
         <source>Create a new game</source>
         <target state="translated">Stwórz nową grę</target>
+        <note from="developer">(tooltip of widget: create)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Join the selected game">
         <source>Join the selected game</source>
         <target state="translated">Dołącz do wybranej gry</target>
+        <note from="developer">(tooltip of widget: join)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Exit to main menu">
         <source>Exit to main menu</source>
         <target state="translated">Wyjdź do głównego menu</target>
+        <note from="developer">(tooltip of widget: cancel)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Refresh list of active games">
         <source>Refresh list of active games</source>
         <target state="translated">Odśwież listę aktywnych gier</target>
+        <note from="developer">(tooltip of widget: refresh)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Autosave interval in minutes:">
         <source>Autosave interval in minutes:</source>
         <target state="translated">Interwał automatycznego zapisu (w minutach):</target>
+        <note from="developer">(text of widget: autosave_interval_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Color depth:">
         <source>Color depth:</source>
         <target state="translated">Głębia koloru:</target>
+        <note from="developer">(text of widget: color_depth_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enable edge scrolling:">
         <source>Enable edge scrolling:</source>
         <target state="translated"></target>
+        <note from="developer">(text of widget: edge_scrolling_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Effects volume:">
         <source>Effects volume:</source>
         <target state="translated">Głośność efektów:</target>
+        <note from="developer">(text of widget: effect_volume_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Graphics">
         <source>Graphics</source>
         <target state="translated">Grafika</target>
+        <note from="developer">(text of widget: headline_graphics)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Language">
         <source>Language</source>
         <target state="translated">Język</target>
+        <note from="developer">(text of widget: headline_language)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Network">
         <source>Network</source>
         <target state="translated">Sieć</target>
+        <note from="developer">(text of widget: headline_network)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Saving">
         <source>Saving</source>
         <target state="translated">Zapisywanie</target>
+        <note from="developer">(text of widget: headline_saving)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sound">
         <source>Sound</source>
         <target state="translated">Dźwięk</target>
+        <note from="developer">(text of widget: headline_sound)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Select language:">
         <source>Select language:</source>
         <target state="translated">Wybierz język:</target>
+        <note from="developer">(text of widget: language_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enable minimap rotation:">
         <source>Enable minimap rotation:</source>
         <target state="translated">Zezwól na obrót minimapy:</target>
+        <note from="developer">(text of widget: minimap_rotation_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Music volume:">
         <source>Music volume:</source>
         <target state="translated">Głośność muzyki:</target>
+        <note from="developer">(text of widget: music_volume_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="(0 means default)">
         <source>(0 means default)</source>
         <target state="translated"></target>
+        <note from="developer">(text of widget: network_port_hint_lbl)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Network port:">
         <source>Network port:</source>
         <target state="translated">Port sieciowy:</target>
+        <note from="developer">(text of widget: network_port_lbl)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Number of autosaves:">
         <source>Number of autosaves:</source>
         <target state="translated">Liczba zapisów automatycznych:</target>
+        <note from="developer">(text of widget: number_of_autosaves_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Number of quicksaves:">
         <source>Number of quicksaves:</source>
         <target state="translated">Liczba szybkich zapisów:</target>
+        <note from="developer">(text of widget: number_of_quicksaves_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Full screen:">
         <source>Full screen:</source>
         <target state="translated">Pełny ekran:</target>
+        <note from="developer">(text of widget: screen_fullscreen_text)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Screen resolution:">
         <source>Screen resolution:</source>
         <target state="translated">Rozdzielczość:</target>
+        <note from="developer">(text of widget: screen_resolution_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enable sound:">
         <source>Enable sound:</source>
         <target state="translated">Włącz dźwięk:</target>
+        <note from="developer">(text of widget: sound_enable_opt_text)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Uninterrupted building:">
         <source>Uninterrupted building:</source>
         <target state="translated"></target>
+        <note from="developer">(text of widget: uninterrupted_building_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Used renderer:">
         <source>Used renderer:</source>
         <target state="translated">Silnik graficzny:</target>
+        <note from="developer">(text of widget: use_renderer_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Please make sure that you know what you do.">
         <source>Please make sure that you know what you do.</source>
         <target state="translated">Proszę upewnić się czy wiesz co robisz.</target>
+        <note from="developer">(text of widget: warning)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Apply">
         <source>Apply</source>
         <target state="translated">Zastosuj</target>
+        <note from="developer">(tooltip of widget: okButton)</note>
         <note from="translator">83%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Reset to default settings">
         <source>Reset to default settings</source>
         <target state="translated">Przywróć domyślne ustawienia</target>
+        <note from="developer">(tooltip of widget: defaultButton)</note>
         <note from="translator">84%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enter filename:">
         <source>Enter filename:</source>
         <target state="translated">Podaj nazwę pliku:</target>
+        <note from="developer">(text of widget: enter_filename_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Your saved games:">
         <source>Your saved games:</source>
         <target state="translated">Twoje zapisane gry:</target>
+        <note from="developer">(text of widget: headline_saved_games_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Start game">
         <source>Start game</source>
         <target state="translated">Rozpocznij grę</target>
+        <note from="developer">(tooltip of widget: okButton)
+(tooltip of widget: okay)</note>
         <note from="translator">90%
 100%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Cancel">
+        <source>Cancel</source>
+        <target state="translated"></target>
+        <note from="developer">(tooltip of widget: cancelButton)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Delete selected savegame">
         <source>Delete selected savegame</source>
         <target state="translated">Usuń zaznaczone zapisy gry</target>
+        <note from="developer">(tooltip of widget: deleteButton)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="New game - Singleplayer">
         <source>New game - Singleplayer</source>
         <target state="translated">Nowa gra - Pojedynczy gracz</target>
+        <note from="developer">(text of widget: headline)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Start game:">
         <source>Start game:</source>
         <target state="translated">Rozpocznij grę:</target>
+        <note from="developer">(text of widget: start_game_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Campaign">
         <source>Campaign</source>
         <target state="translated">Kampania</target>
+        <note from="developer">(text of widget: campaign)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Free play">
         <source>Free play</source>
         <target state="translated">Wolna rozgrywka</target>
+        <note from="developer">(text of widget: free_maps)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Random map">
         <source>Random map</source>
         <target state="translated">Losowa mapa</target>
+        <note from="developer">(text of widget: random)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Scenario">
         <source>Scenario</source>
         <target state="translated">Scenariusz</target>
+        <note from="developer">(text of widget: scenario)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Choose a map to play:">
         <source>Choose a map to play:</source>
         <target state="translated">Wybierz mapę:</target>
+        <note from="developer">(text of widget: choose_map_lbl)
+(text of widget: headline_choose_map_lbl)
+(text of widget: choose_map_lbl)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Map settings:">
         <source>Map settings:</source>
         <target state="translated">Ustawienia mapy:</target>
+        <note from="developer">(text of widget: headline_map_settings_lbl)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="AI players:">
         <source>AI players:</source>
         <target state="translated">Komputer:</target>
+        <note from="developer">(text of widget: ai_players_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Game settings:">
         <source>Game settings:</source>
         <target state="translated">Ustawienia gry:</target>
+        <note from="developer">(text of widget: headline_game_settings_lbl)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Free Trader">
         <source>Free Trader</source>
         <target state="translated">Wolny kupiec</target>
+        <note from="developer">(text of widget: lbl_free_trader) Whether to create this kind of player in the game.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Pirates">
         <source>Pirates</source>
         <target state="translated">Piraci</target>
+        <note from="developer">(text of widget: lbl_pirates) Whether to create this kind of player in the game.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Color:">
         <source>Color:</source>
         <target state="translated">Kolor:</target>
+        <note from="developer">(text of widget: color_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Player name:">
         <source>Player name:</source>
         <target state="translated">Nazwa gracza:</target>
+        <note from="developer">(text of widget: player_label)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Error: Invalid syntax in --mp-master commandline option. Port must be a number between 1 and 65535.">
         <source>Error: Invalid syntax in --mp-master commandline option. Port must be a number between 1 and 65535.</source>
@@ -1693,7 +2738,7 @@ Szczegóły: %s</target>
       <trans-unit xml:space="preserve" approved="yes" id="Error: Cannot find campaign with file &quot;%s&quot;.">
         <source>Error: Cannot find campaign with file "%s".</source>
         <target state="translated">Błąd: Nie można odnaleź kampani z plikiem "%s".</target>
-        <note from="translator">81%&#13;
+        <note from="translator">81%
 76%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Error: Cannot find scenario &quot;%s&quot;.">
@@ -1704,13 +2749,9 @@ Szczegóły: %s</target>
       <trans-unit xml:space="preserve" approved="yes" id="Error: Cannot find scenario with file &quot;%s&quot;.">
         <source>Error: Cannot find scenario with file "%s".</source>
         <target state="translated">Błąd: Nie można znaleźć scenariusza z plikiem "%s".</target>
-        <note from="translator">81%&#13;
-76%&#13;
+        <note from="translator">81%
+76%
 83%</note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="You have won!">
-        <source>You have won!</source>
-        <target state="translated">Zwyciężyłeś!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You have completed this scenario. ">
         <source>You have completed this scenario. </source>
@@ -1743,6 +2784,7 @@ Szczegóły: %s</target>
       <trans-unit xml:space="preserve" approved="yes" id="Failed to create savegame file">
         <source>Failed to create savegame file</source>
         <target state="translated">Błąd podczas tworzenia pliku z zapisem gry</target>
+        <note from="developer">usually invalid filename</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="There has been an error while creating your savegame file.">
         <source>There has been an error while creating your savegame file.</source>
@@ -1783,10 +2825,6 @@ Szczegóły: %s</target>
       <trans-unit xml:space="preserve" approved="yes" id="Idle at %(x)d, %(y)d">
         <source>Idle at %(x)d, %(y)d</source>
         <target state="translated"></target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Trader">
-        <source>Trader</source>
-        <target state="translated">Handlarz</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Attacking ">
         <source>Attacking </source>
@@ -1939,519 +2977,6 @@ Szczegóły: %s</target>
       <trans-unit xml:space="preserve" approved="yes" id="FIFE was not found.">
         <source>FIFE was not found.</source>
         <target state="translated">FIFE nie zostało znalezione.</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Boat Builder">
-        <source>Boat Builder</source>
-        <target state="translated">Stoczniowiec</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Branch Office">
-        <source>Branch Office</source>
-        <target state="translated">Port</target>
-        <note from="translator">Faktoria Handlowa?</note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Brickyard">
-        <source>Brickyard</source>
-        <target state="translated"></target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Butchery">
-        <source>Butchery</source>
-        <target state="translated"></target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Cattle Run">
-        <source>Cattle Run</source>
-        <target state="translated"></target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Charcoal Burning">
-        <source>Charcoal Burning</source>
-        <target state="translated"></target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Clay Deposit">
-        <source>Clay Deposit</source>
-        <target state="translated">Złoże gliny</target>
-        <note from="translator">Building</note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Clay Pit">
-        <source>Clay Pit</source>
-        <target state="translated">Kopalnia gliny</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Distillery">
-        <source>Distillery</source>
-        <target state="translated">Destylarnia</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Farm">
-        <source>Farm</source>
-        <target state="translated">Farma</target>
-        <note from="translator">Building</note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Fish Deposit">
-        <source>Fish Deposit</source>
-        <target state="translated">Ławica ryb</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Fisherman's Tent">
-        <source>Fisherman's Tent</source>
-        <target state="translated">Namiot rybaka</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Gravel Path">
-        <source>Gravel Path</source>
-        <target state="translated"></target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Herbary">
-        <source>Herbary</source>
-        <target state="translated"></target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Hunter's Tent">
-        <source>Hunter's Tent</source>
-        <target state="translated">Namiot myśliwego</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Iron Mine">
-        <source>Iron Mine</source>
-        <target state="translated">Kopalnia żelaza</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Log">
-        <source>Log</source>
-        <target state="translated">Dziennik</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Lookout">
-        <source>Lookout</source>
-        <target state="translated">Punkt obserwacyjny</target>
-        <note from="translator">Building</note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Lumberjack Camp">
-        <source>Lumberjack Camp</source>
-        <target state="translated">Obóz drwali</target>
-        <note from="translator">Building</note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Main Square">
-        <source>Main Square</source>
-        <target state="translated">Rynek główny</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Mountain">
-        <source>Mountain</source>
-        <target state="translated">Góra</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Pasture">
-        <source>Pasture</source>
-        <target state="translated">Pastwisko</target>
-        <note from="translator">Building</note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Pavilion">
-        <source>Pavilion</source>
-        <target state="translated">Kaplica</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Pigsty">
-        <source>Pigsty</source>
-        <target state="translated">Chlew</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Potato Field">
-        <source>Potato Field</source>
-        <target state="translated">Pole ziemniaczane</target>
-        <note from="translator">Building</note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Rampart">
-        <source>Rampart</source>
-        <target state="translated">Mur obronny</target>
-        <note from="translator">Building</note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Salt Ponds">
-        <source>Salt Ponds</source>
-        <target state="translated">Basen solny</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Signal Fire">
-        <source>Signal Fire</source>
-        <target state="translated">Ogień sygnalizacyjny</target>
-        <note from="translator">Building</note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Smeltery">
-        <source>Smeltery</source>
-        <target state="translated">Formiarnia</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Storage Tent">
-        <source>Storage Tent</source>
-        <target state="translated">Namiot składowy</target>
-        <note from="translator">Building</note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Sugar Field">
-        <source>Sugar Field</source>
-        <target state="translated">Pole buraków cukrowych</target>
-        <note from="translator">Building</note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Tavern">
-        <source>Tavern</source>
-        <target state="translated">Tawerna</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Tent">
-        <source>Tent</source>
-        <target state="translated">Namiot</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Tent Ruin">
-        <source>Tent Ruin</source>
-        <target state="translated">Pozostałości po namiocie</target>
-        <note from="translator">77%</note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Tobacco Field">
-        <source>Tobacco Field</source>
-        <target state="translated">Pole tytoniu</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Tobacconist">
-        <source>Tobacconist</source>
-        <target state="translated"></target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Toolmaker">
-        <source>Toolmaker</source>
-        <target state="translated">Kowal</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Trail">
-        <source>Trail</source>
-        <target state="translated">Droga</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Village school">
-        <source>Village school</source>
-        <target state="translated">Szkoła wiejska</target>
-        <note from="translator">Building</note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Weaver's Tent">
-        <source>Weaver's Tent</source>
-        <target state="translated">Namiot tkacki</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Wooden Tower">
-        <source>Wooden Tower</source>
-        <target state="translated">Drewniana wieża</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="black">
-        <source>black</source>
-        <target state="translated">czarny</target>
-        <note from="translator">Colors</note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="blue">
-        <source>blue</source>
-        <target state="translated">niebieski</target>
-        <note from="translator">Colors</note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="bordeaux">
-        <source>bordeaux</source>
-        <target state="translated"></target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="cyan">
-        <source>cyan</source>
-        <target state="translated">turkusowy</target>
-        <note from="translator">Colors</note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="gray">
-        <source>gray</source>
-        <target state="translated">szary</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="green">
-        <source>green</source>
-        <target state="translated">zielony</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="lemon">
-        <source>lemon</source>
-        <target state="translated">cytrynowy</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="orange">
-        <source>orange</source>
-        <target state="translated">pomarańczowy</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="pink">
-        <source>pink</source>
-        <target state="translated">różowy</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="purple">
-        <source>purple</source>
-        <target state="translated">fioletowy</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="red">
-        <source>red</source>
-        <target state="translated">czerwony</target>
-        <note from="translator">Colors</note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="teal">
-        <source>teal</source>
-        <target state="translated"></target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="white">
-        <source>white</source>
-        <target state="translated">biały</target>
-        <note from="translator">Colors</note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="yellow">
-        <source>yellow</source>
-        <target state="translated">żółty</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="${player1} and ${player2} are now ${status}">
-        <source>${player1} and ${player2} are now ${status}</source>
-        <target state="needs-translation">${player1} i ${player2} są teraz ${status}</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="A new settlement has been created by ${player}.">
-        <source>A new settlement has been created by ${player}.</source>
-        <target state="translated">Nowa osada została założona przez gracza ${player}.</target>
-        <note from="translator">Messages</note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="A new world has been created.">
-        <source>A new world has been created.</source>
-        <target state="translated">Nowy świat został utworzony.</target>
-        <note from="translator">Messages</note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="One of your settler has no main square in it's range.">
-        <source>One of your settler has no main square in it's range.</source>
-        <target state="translated">Jeden z osadników nie ma dostępu do runku głównego.</target>
-        <note from="translator">Messages&#13;
-85%</note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Screenshot has been saved to ${file}.">
-        <source>Screenshot has been saved to ${file}.</source>
-        <target state="translated">Zrzut erkanu został zapisany w ${file}.</target>
-        <note from="translator">Messages</note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Some of your settlers just moved out.">
-        <source>Some of your settlers just moved out.</source>
-        <target state="translated">Część z osadników właśnie się wyprowadziła.</target>
-        <note from="translator">Messages</note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="You can also drag roads.">
-        <source>You can also drag roads.</source>
-        <target state="translated"></target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="You need more ${resource} to build this building.">
-        <source>You need more ${resource} to build this building.</source>
-        <target state="translated">Potrzebujesz więcej ${resource}, aby zbudować ten budynek.</target>
-        <note from="translator">Messages</note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Your game has been quicksaved.">
-        <source>Your game has been quicksaved.</source>
-        <target state="translated">Gra została zapisana.</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Your mine has run out of resources.">
-        <source>Your mine has run out of resources.</source>
-        <target state="translated">Twoja kopalnia wyczerpała zasoby.</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Your settlers reached level ${level}.">
-        <source>Your settlers reached level ${level}.</source>
-        <target state="translated">Twoi osadnicy osiągnęli poziom ${level}.</target>
-        <note from="translator">Messages</note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="acorns">
-        <source>acorns</source>
-        <target state="translated"></target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="boards">
-        <source>boards</source>
-        <target state="translated">deski</target>
-        <note from="translator">Resources</note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="bricks">
-        <source>bricks</source>
-        <target state="translated">cegły</target>
-        <note from="translator">Resources</note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="cannon">
-        <source>cannon</source>
-        <target state="translated">działa</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="cattle">
-        <source>cattle</source>
-        <target state="translated"></target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="cattle for slaughter">
-        <source>cattle for slaughter</source>
-        <target state="translated"></target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="charcoal">
-        <source>charcoal</source>
-        <target state="translated">węgiel drzewny</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="clay">
-        <source>clay</source>
-        <target state="translated">glina</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="clay deposit">
-        <source>clay deposit</source>
-        <target state="translated">Złoże gliny</target>
-        <note from="translator">Building&#13;
-83%</note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="coins">
-        <source>coins</source>
-        <target state="translated">monety</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="community">
-        <source>community</source>
-        <target state="translated">społeczność</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="dagger">
-        <source>dagger</source>
-        <target state="translated">sztylet</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="deer food A">
-        <source>deer food A</source>
-        <target state="translated"></target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="deer meat">
-        <source>deer meat</source>
-        <target state="translated">mięso jelenia</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="education">
-        <source>education</source>
-        <target state="translated">edukacja</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="faith">
-        <source>faith</source>
-        <target state="translated">wiara</target>
-        <note from="translator">Resources</note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="fish">
-        <source>fish</source>
-        <target state="translated">ryba</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="food">
-        <source>food</source>
-        <target state="translated">jedzenie</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="get-together">
-        <source>get-together</source>
-        <target state="translated"></target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="grass">
-        <source>grass</source>
-        <target state="translated">trawa</target>
-        <note from="translator">Resources</note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="happiness">
-        <source>happiness</source>
-        <target state="translated">zadowolenie</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="herbs">
-        <source>herbs</source>
-        <target state="translated">zioła</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="iron deposit">
-        <source>iron deposit</source>
-        <target state="translated">złoże żelaza</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="iron ingots">
-        <source>iron ingots</source>
-        <target state="translated">sztaby żelaza</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="iron ore">
-        <source>iron ore</source>
-        <target state="translated">rudy żelaza</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="lamb wool">
-        <source>lamb wool</source>
-        <target state="translated">wełna owcza</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="liquor">
-        <source>liquor</source>
-        <target state="translated">alkohol</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="medical herbs">
-        <source>medical herbs</source>
-        <target state="translated">zioła lecznicze</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="pigs">
-        <source>pigs</source>
-        <target state="translated">świnie</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="pigs for slaughter">
-        <source>pigs for slaughter</source>
-        <target state="translated"></target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="potatoes">
-        <source>potatoes</source>
-        <target state="translated">ziemniaki</target>
-        <note from="translator">Resources</note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="salt">
-        <source>salt</source>
-        <target state="translated">sól</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="sugar">
-        <source>sugar</source>
-        <target state="translated">cukier</target>
-        <note from="translator">Resources</note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="sugar cane">
-        <source>sugar cane</source>
-        <target state="translated">cukier trzcinowy</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="textile">
-        <source>textile</source>
-        <target state="translated">tekstylia</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="tobacco leaves">
-        <source>tobacco leaves</source>
-        <target state="translated">liście tytoniu</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="tobacco plants">
-        <source>tobacco plants</source>
-        <target state="translated">rośliny tytoniu</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="tobaccos">
-        <source>tobaccos</source>
-        <target state="translated">tytoń</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="tools">
-        <source>tools</source>
-        <target state="translated">narzędzia</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="wood">
-        <source>wood</source>
-        <target state="translated">drewno</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="wool">
-        <source>wool</source>
-        <target state="translated">wełna</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="aristocrat">
-        <source>aristocrat</source>
-        <target state="translated">arystokrata</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="citizen">
-        <source>citizen</source>
-        <target state="translated">obywatel</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="merchant">
-        <source>merchant</source>
-        <target state="translated">kupiec</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="pioneer">
-        <source>pioneer</source>
-        <target state="translated">pionier</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="sailor">
-        <source>sailor</source>
-        <target state="translated">marynarz</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="settler">
-        <source>settler</source>
-        <target state="translated">osadnik</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Boar">
-        <source>Boar</source>
-        <target state="translated">Dzik</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Cattle">
-        <source>Cattle</source>
-        <target state="translated"></target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Deer">
-        <source>Deer</source>
-        <target state="translated">Jeleń</target>
-        <note from="translator">Unit</note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Fisher">
-        <source>Fisher</source>
-        <target state="translated">Rybak</target>
-        <note from="translator">Unit</note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Pirate Ship">
-        <source>Pirate Ship</source>
-        <target state="translated">Statek piracki</target>
-        <note from="translator">Unit</note>
-      </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Sheep">
-        <source>Sheep</source>
-        <target state="translated">Owca</target>
       </trans-unit>
     </body>
   </file>
