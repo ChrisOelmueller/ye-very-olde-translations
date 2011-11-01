@@ -270,11 +270,8 @@ This is a database entry: the name of a unit.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tobacconist">
         <source>Tobacconist</source>
-        <target state="translated">Marchand de tabac</target>
+        <target state="translated">Buraliste</target>
         <note from="developer">This is a database entry: the name of a building.</note>
-        <alt-trans xml:space="preserve" origin="Antagonym">
-          <target>Buraliste</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Toolmaker">
         <source>Toolmaker</source>
@@ -361,9 +358,6 @@ This is a database entry: the name of a building.</note>
         <source>aristocrat</source>
         <target state="translated">aristocrate</target>
         <note from="developer">This is a database entry: the name of an inhabitant increment (tier / level).</note>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>aristocrate</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="black">
         <source>black</source>
@@ -399,9 +393,6 @@ This is a database entry: the name of a building.</note>
         <source>cattle</source>
         <target state="translated">bétail</target>
         <note from="developer">This is a database entry: the name of a resource.</note>
-        <alt-trans xml:space="preserve" origin="LawNasK">
-          <target>bétail</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="cattle for slaughter">
         <source>cattle for slaughter</source>
@@ -423,9 +414,6 @@ This is a database entry: the name of a building.</note>
         <source>citizen</source>
         <target state="translated">citoyen</target>
         <note from="developer">This is a database entry: the name of an inhabitant increment (tier / level).</note>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>citoyen</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="clay">
         <source>clay</source>
@@ -565,9 +553,6 @@ This is a database entry: the name of a building.</note>
         <source>merchant</source>
         <target state="translated">marchand</target>
         <note from="developer">This is a database entry: the name of an inhabitant increment (tier / level).</note>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>marchand</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="orange">
         <source>orange</source>
@@ -583,9 +568,6 @@ This is a database entry: the name of a building.</note>
         <source>pigs for slaughter</source>
         <target state="translated">porcs d'élevage</target>
         <note from="developer">This is a database entry: the name of a resource.</note>
-        <alt-trans xml:space="preserve" origin="LawNasK">
-          <target>porcs d'élevage</target>
-        </alt-trans>
         <alt-trans xml:space="preserve" origin="deather">
           <target>porcs pour l'abattoir</target>
         </alt-trans>
@@ -710,10 +692,7 @@ Messages</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="This will delete all changes to the settings you made so far.">
         <source>This will delete all changes to the settings you made so far.</source>
-        <target state="translated">Ceci effacera tous les réglages effectués jusque là.</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Ceci effacera tous les changements de paramètre effectués jusque là.</target>
-        </alt-trans>
+        <target state="translated">Ceci effacera tous les changements de paramètre effectués jusque là.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Do you want to continue?">
         <source>Do you want to continue?</source>
@@ -1244,9 +1223,6 @@ Messages
       <trans-unit xml:space="preserve" approved="yes" id="Production overview of %(settlement)s">
         <source>Production overview of %(settlement)s</source>
         <target state="translated">Sommaire de production de %(settlement)s</target>
-        <alt-trans xml:space="preserve" origin="Antagonym">
-          <target>Sommaire de production de %(settlement)s</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Start route">
         <source>Start route</source>
@@ -1455,8 +1431,7 @@ Messages
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Salt ponds: Evaporates salt. Built on sea coast.">
         <source>Salt ponds: Evaporates salt. Built on sea coast.</source>
-        <target state="translated">Salines: Produit du sel. Construit en bord de mer.</target>
-        <note from="developer">(tooltip of widget: saltponds-1)</note>
+        <target state="translated">Salines : Produit du sel. Construire en bord de mer.</target>
         <alt-trans xml:space="preserve" origin="nobody">
           <target>Maré salant: Produit du sel. Construit sur la côte.</target>
         </alt-trans>
@@ -1482,11 +1457,7 @@ Messages
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tobacconist: Produces tobaccos out of tobacco.">
         <source>Tobacconist: Produces tobaccos out of tobacco.</source>
-        <target state="translated">Fabrique de cigares: Produit des cigares à partir de tabac.</target>
-        <note from="developer">(tooltip of widget: tobacconist-1)</note>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Marchant de tabac : Produit des cigares à partir de tabac.</target>
-        </alt-trans>
+        <target state="translated">Fabrique de cigares : Produit des cigares à partir de tabac.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Toolmaker: Produces tools out of iron.">
         <source>Toolmaker: Produces tools out of iron.</source>
@@ -1783,9 +1754,6 @@ Messages
         <source>Build fields</source>
         <target state="translated">Construire des champs</target>
         <note from="developer">(text of widget: headline)</note>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Construire des champs</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Average happiness:">
         <source>Average happiness:</source>
@@ -1863,20 +1831,8 @@ Messages
       <trans-unit xml:space="preserve" approved="yes" id="Tax rate">
         <source>Tax rate</source>
         <target state="translated">Taux d'imposition</target>
-        <note from="developer">(tooltip of widget: tax_rate_icon)
-(tooltip of widget: tax_val_label)
-(tooltip of widget: tax_rate_icon)
-(tooltip of widget: tax_val_label)
-(tooltip of widget: tax_rate_icon)
-(tooltip of widget: tax_val_label)
-(tooltip of widget: paid_taxes_label)
-(tooltip of widget: tax_val_label)</note>
-        <note from="translator">87%</note>
         <alt-trans xml:space="preserve" origin="nobody">
           <target>Taux d'impôts</target>
-        </alt-trans>
-        <alt-trans xml:space="preserve" origin="LawNasK">
-          <target>Taux d'imposition :</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="4 residents">
@@ -2061,9 +2017,6 @@ Messages
         <note from="developer">(tooltip of widget: cancelButton) Players either select the next scenario they want to play or press this button</note>
         <alt-trans xml:space="preserve" origin="nobody">
           <target>Continuer de jouer</target>
-        </alt-trans>
-        <alt-trans xml:space="preserve" origin="LawNasK">
-          <target>Continuer à jouer</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Choose this scenario">
@@ -2629,19 +2582,11 @@ Messages
       <trans-unit xml:space="preserve" approved="yes" id="Apply">
         <source>Apply</source>
         <target state="translated">Appliquer</target>
-        <note from="developer">(tooltip of widget: okButton)</note>
-        <note from="translator">83%</note>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Appliquer</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Reset to default settings">
         <source>Reset to default settings</source>
         <target state="translated">Restaurer les paramètres par défaut</target>
         <note from="developer">(tooltip of widget: defaultButton)</note>
-        <alt-trans xml:space="preserve" origin="LawNasK">
-          <target>Restaurer les paramètres par défaut</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enter filename:">
         <source>Enter filename:</source>

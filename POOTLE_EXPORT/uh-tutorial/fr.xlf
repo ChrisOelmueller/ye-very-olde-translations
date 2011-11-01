@@ -19,6 +19,7 @@ Build your first settlement and learn how to play!
         <target state="translated">Didacticiel:
 Établissez votre première colonie et apprenez à jouer !
 </target>
+        <note from="developer">scenario description</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a branch office at the coast, so it is easy accessible for other ships like the Free Trader.">
         <source>Build a branch office at the coast, so it is easy accessible for other ships like the Free Trader.</source>
@@ -266,6 +267,7 @@ Les points 'Vendre' et 'Acheter' font référence à votre balance commerciale e
 Si votre solde est positif, tout compte tenu vous faites un profit.
 
 Dans les différents onglets de sélection de niveaux vous pouvez voir des statistiques sur vos habitants. Vous pouvez également définir le niveau global de taxe spécifique et autoriser ou refuser aux habitants de ce niveau de passer au niveau suivant.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a main square. Choose an area without many economy buildings.">
         <source>Build a main square. Choose an area without many economy buildings.</source>
@@ -364,6 +366,7 @@ Normalement les navire marchands ne font que chercher des marchers à conclure, 
 À cette fin construisez un phare sur la côte près de votre comptoir. Il motrera aux navires le chemin vers votre colonie.
 
 Le phare doit couvrir le territoir à travers lequel les navires passent pour les guider.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="After this little advertisment, the trader will also stop by and look into your branch office if it planned to sail past it.&#10;&#10;You can propose deals via the branch office tab 'Buy/Sell'. (This feature is currently quite fiddly to use. If you come up with a nice way of improving it, please share your thoughts! We need your help here!)&#10;&#10;At the 'sailors' increment, you are equipped with three trading slots.&#10;&#10;Click on the small icon to change the slot mode from 'Buy' to 'Sell' and vice versa.&#10;&#10;Click in the slot to choose the good you want to trade with. We will further explain this once you are ready to trade.&#10;&#10;TASK: Build a signal fire at the coast close to your branch office.">
         <source>After this little advertisment, the trader will also stop by and look into your branch office if it planned to sail past it.
@@ -388,6 +391,7 @@ Cliquez sur le petit symbole pour changer le mode der "Achat" à "Vente" et vice
 Cliquez sur l'emplacement de commerce pour choisir la marchandise que vous voulez vendre ou acheter. Nous expliquerons ce procédé plus précisément lorsque vous serez prèt à faire affaire.
 
 MISSION: Érigez un phare sur la côte près de votre comptoir.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a signal fire at the coast close to your branch office.">
         <source>Build a signal fire at the coast close to your branch office.</source>
@@ -454,6 +458,11 @@ MISSION: Achetez autant d'outils que nécessaire pour en avoir 30 en stock!</tar
         <target state="translated">Atteignez un stock d'au moins 30 outils.</target>
         <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Note that this might take a while.">
+        <source>Note that this might take a while.</source>
+        <target state="translated"></target>
+        <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A PAVILION">
         <source>NEW TASK: BUILD A PAVILION</source>
         <target state="translated">MISSION: LE PAVILLON</target>
@@ -505,6 +514,7 @@ Il n'est PAS suffisant que le bâtiment soit simplement dans un certain rayon de
 La connexion routière est également requise.
 
 MISSION: Édifiez un pavillon avec un sentier vers les tentes pour qu'il puisse combler la demande en foi des marins.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a pavilion with connection to the tents.">
         <source>Build a pavilion with connection to the tents.</source>

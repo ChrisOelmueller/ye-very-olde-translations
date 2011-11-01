@@ -115,6 +115,7 @@ Um ein Holzfällerlager zu errichten, benötigt Ihr das Baumenü. Klickt dazu au
 
 Das Baumenü ist nach Siedlerstufen sortiert.
 Das bedeutet, dass in der Stufe Seefahrer (mit der Ihr startet) nur grundlegende Gebäude verfügbar sind.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="As your civilization advances, you also gain more and more complex buildings.&#10;&#10;For now, select the lumberjack under 'Companies' and build it in an area with some trees around.&#10;&#10;You can also plant trees later - but that costs money. Use what nature provided you with!&#10;&#10;A company always needs a trail connection to a storage or branch office, otherwise goods will remain at the company and not be collected.&#10;&#10;This means that you have to build a trail connecting your branch office (or storage) and lumberjack.&#10;&#10;TASK: Build a lumberjack in a wooded area and connect it to a road.&#10;&#10;Watch how a collector will fetch your first self-produced boards.">
         <source>As your civilization advances, you also gain more and more complex buildings.
@@ -153,6 +154,7 @@ Betrachtet, wie Eure ersten selbst produzierten Bretter abgeholt werden.</target
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: FOOD SUPPLY">
         <source>NEW TASK: FOOD SUPPLY</source>
         <target state="translated">NEUE AUFGABE: NAHRUNG</target>
+        <note from="developer">This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You will need to have some food-producing companies, too, because people in general (and especially sailors) are very hungry.&#10;&#10;Available companies in the first increment are the Hunter and Fisher.&#10;&#10;The Hunter, surprisingly, hunts animals in the forest, so he needs trees around.&#10;&#10;Note that you can place your Hunter close to the lumberjack's forest.&#10;&#10;It can happen that the animals don't reproduce fast enough or simply hide well.&#10;&#10;Conclusion: the hunter is not too reliable if you need continuous supply.">
         <source>You will need to have some food-producing companies, too, because people in general (and especially sailors) are very hungry.
@@ -325,6 +327,7 @@ Beachtet, dass Ihr auch in diesem Tab an der Steuerschraube drehen könnt.
 
 AUFGABE: Erbaut noch drei weitere Zelte.
 TIPP: Mit gedrückter SHIFT-Taste wird das Bauen von mehreren Gebäuden des selben Typs erleichtert.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build at least three additional tents and connect them to the main square.">
         <source>Build at least three additional tents and connect them to the main square.</source>
@@ -359,6 +362,18 @@ Zu diesem Zweck könnt Ihr ein Leuchtfeuer an der Küste in der Nähe des Kontor
 
 Das Leuchtfeuer muss das Gebiet abdecken, durch welches die abzufangenden Schiffe navigieren.</target>
         <note from="developer">This is the text body of a logbook page.</note>
+        <alt-trans xml:space="preserve" origin="Antagonym">
+          <target>Habt Ihr das Schiff bemerkt, welches von Zeit zu Zeit Eure Insel ansteuert? Es gehört zum Freien Händler, einem der ersten Siedler in diesem Archipel.
+
+Er beliefert Siedlungen mit Gütern, die Ihr momentan noch nicht produzieren könnt.
+Außerdem wird er Produktionsüberschüsse einkaufen, aber im Allgemeinen ist das Verbrauchen (mehr Zelte errichten) einträglicher als der Verkauf.
+
+In der Regel fahren die Schiffe umher und halten Ausschau nach möglichen Geschäften. Diesen Prozess könnt Ihr aber ein wenig beschleunigen.
+
+Zu diesem Zweck könnt Ihr ein Leuchtfeuer an der Küste in der Nähe des Kontors errichten. Es wird Schiffen den Weg zur Siedlung zu zeigen.
+
+Das Leuchtfeuer muss das Gebiet abdecken, durch welches die abzufangenden Schiffe navigieren.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="After this little advertisment, the trader will also stop by and look into your branch office if it planned to sail past it.&#10;&#10;You can propose deals via the branch office tab 'Buy/Sell'. (This feature is currently quite fiddly to use. If you come up with a nice way of improving it, please share your thoughts! We need your help here!)&#10;&#10;At the 'sailors' increment, you are equipped with three trading slots.&#10;&#10;Click on the small icon to change the slot mode from 'Buy' to 'Sell' and vice versa.&#10;&#10;Click in the slot to choose the good you want to trade with. We will further explain this once you are ready to trade.&#10;&#10;TASK: Build a signal fire at the coast close to your branch office.">
         <source>After this little advertisment, the trader will also stop by and look into your branch office if it planned to sail past it.
@@ -442,6 +457,10 @@ AUFGABE: Kauft so lange Werkzeuge ein, bis Ihr 30 Einheiten auf Lager habt.</tar
         <source>Reach an island stock of at least 30 tools.</source>
         <target state="translated">Erreicht einen Lagerbestand von 30 oder mehr Werkzeugen auf Eurer Insel.</target>
         <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Note that this might take a while.">
+        <source>Note that this might take a while.</source>
+        <target state="translated">Beachtet, dass dies eine Weile dauern kann.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A PAVILION">
         <source>NEW TASK: BUILD A PAVILION</source>
@@ -687,6 +706,9 @@ Diese Situation kann mit zwei Maßnahmen verbessern, die wir uns nun anschauen w
 
 Alle Betriebe bieten die Möglichkeit, gar nicht zu arbeiten. Das hört sich vielleicht merkwürdig an, aber klickt einmal auf das Zahnrad, welches sich zum Beispiel in der Übersicht des Holzfällerlagers findet.
 Wenn dieser 'Stillgelegt'-Modus aktiviert ist, werden die laufenden Kosten für dieses Gebäude sinken. Sie werden vielleicht nicht immer auf null sinken, aber sie sind dennoch geringer, als wenn der Betrieb weiterarbeitete.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
+        <note from="translator">Letzter Absatz teilweise abgeschnitten.
+zwei "\n" entfernt, letzter Absatz hoffentlich nicht mehr abgeschnitten.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="This means that you can save money when you temporarily do not need a company and do not want to tear it down, either.&#10;&#10;Another solution is to build the last increment-I building which has not been mentioned so far: the storage tent.&#10;&#10;This building has two purposes. It:&#10;* Offers more storage for your goods, and &#10;* sends its own collectors to fetch goods, just like the branch office does.&#10;&#10;Note that companies can also be connected to a storage in order to get their products collected, and if the branch office is overwhelmed with collector tasks, you can place a storage tent to help out there.&#10;&#10;TASK: Build a storage tent, preferably where you need collectors.">
         <source>This means that you can save money when you temporarily do not need a company and do not want to tear it down, either.
