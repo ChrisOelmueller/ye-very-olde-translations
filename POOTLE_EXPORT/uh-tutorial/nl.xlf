@@ -413,6 +413,11 @@ TASK: Buy as many tools as you need to have 30 tools in stock!</source>
         <target state="translated">Bereik een voorraad van tenminste 30 stuks gereedschap op het eiland.</target>
         <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Note that this might take a while.">
+        <source>Note that this might take a while.</source>
+        <target state="translated"></target>
+        <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A PAVILION">
         <source>NEW TASK: BUILD A PAVILION</source>
         <target state="translated">OPDRACHT: PLAATS EEN PAVILJOEN</target>

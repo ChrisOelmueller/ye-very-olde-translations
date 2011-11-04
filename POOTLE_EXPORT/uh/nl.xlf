@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Huker">
         <source>Huker</source>
-        <target state="translated"></target>
+        <target state="translated">Huker</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Hunter's Tent">
         <source>Hunter's Tent</source>
@@ -283,7 +283,7 @@ This is a database entry: the name of a building.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You can also drag roads.">
         <source>You can also drag roads.</source>
-        <target state="translated">Het is tevens mogelijk om wegen te slepen</target>
+        <target state="translated">Het is tevens mogelijk om wegen te slepen.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You have reached the current maximum increment. Your inhabitants will not upgrade further.">
         <source>You have reached the current maximum increment. Your inhabitants will not upgrade further.</source>
@@ -767,8 +767,8 @@ Wilt u dat ik deze overschrijf?</target>
       <trans-unit xml:space="preserve" approved="yes" id="WARNING: Incompatible ver. %(ver)d!&#10;Need ver. %(need)d!">
         <source>WARNING: Incompatible ver. %(ver)d!
 Need ver. %(need)d!</source>
-        <target state="translated">WAARSCHUWING: Versie %(ver) ongeschikt!
-Versie %(need) vereist!</target>
+        <target state="translated">WAARSCHUWING: Versie %(ver)d ongeschikt!
+Versie %(need)d vereist!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="INCOMPATIBLE VERSION&#10;">
         <source>INCOMPATIBLE VERSION
@@ -1082,7 +1082,6 @@ set translated building name in gui</note>
       <trans-unit xml:space="preserve" approved="no" id="Unit overview">
         <source>Unit overview</source>
         <target state="needs-translation">Schip overzicht</target>
-        <note from="translator">76%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Production overview">
         <source>Production overview</source>
@@ -1114,7 +1113,7 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="%(player)s's ships">
         <source>%(player)s's ships</source>
-        <target state="translated">%(plsyer)s's schepen</target>
+        <target state="translated">%(player)s's schepen</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="None">
         <source>None</source>
@@ -1305,8 +1304,7 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Cattle run: Raises cattle. Needs a farm.">
         <source>Cattle run: Raises cattle. Needs a farm.</source>
-        <target state="translated"></target>
-        <note from="developer">(tooltip of widget: cattlerun-1)</note>
+        <target state="translated">Vee weide: Brengt vee groot. Boerderij benodigd. </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Charcoal burning: Burns a lot of boards to charcoal.">
         <source>Charcoal burning: Burns a lot of boards to charcoal.</source>
@@ -1341,7 +1339,7 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Tobacconist: Produces tobaccos out of tobacco.">
         <source>Tobacconist: Produces tobaccos out of tobacco.</source>
-        <target state="translated"></target>
+        <target state="translated">Sigarenhandelaar: Produceert sigaren uit tabak.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Toolmaker: Produces tools out of iron.">
         <source>Toolmaker: Produces tools out of iron.</source>
@@ -1612,23 +1610,19 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="ally">
         <source>ally</source>
-        <target state="translated"></target>
-        <note from="developer">(text of widget: ally_label) Diplomacy state of player</note>
+        <target state="translated">bondgenoot</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="enemy">
         <source>enemy</source>
-        <target state="translated"></target>
-        <note from="developer">(text of widget: enemy_label) Diplomacy state of player</note>
+        <target state="translated">vijand</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="neutral">
         <source>neutral</source>
-        <target state="translated"></target>
-        <note from="developer">(text of widget: neutral_label) Diplomacy state of player</note>
+        <target state="translated">neutraal</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build fields">
         <source>Build fields</source>
-        <target state="translated"></target>
-        <note from="developer">(text of widget: headline)</note>
+        <target state="translated">Bouw velden</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Average happiness:">
         <source>Average happiness:</source>
@@ -1642,44 +1636,37 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Residents per house">
         <source>Residents per house</source>
-        <target state="translated"></target>
-        <note from="developer">(text of widget: headline_residents_per_house)</note>
+        <target state="translated">Bewoners per huis</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Summary">
         <source>Summary</source>
-        <target state="translated"></target>
-        <note from="developer">(text of widget: headline_residents_total)</note>
+        <target state="translated">Overzicht</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="houses">
         <source>houses</source>
-        <target state="translated"></target>
-        <note from="developer">(text of widget: houses)</note>
+        <target state="translated">huizen</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="1 resident">
+      <trans-unit xml:space="preserve" approved="yes" id="1 resident">
         <source>1 resident</source>
-        <target state="needs-translation">Inwoners</target>
-        <note from="developer">(text of widget: resident_1)</note>
-        <note from="translator">88%
+        <target state="translated">1 bewoner</target>
+        <note from="translator">88%&#13;
 81%</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="2 residents">
+      <trans-unit xml:space="preserve" approved="yes" id="2 residents">
         <source>2 residents</source>
-        <target state="needs-translation">Inwoners</target>
-        <note from="developer">(text of widget: resident_2)</note>
-        <note from="translator">88%
+        <target state="translated">2 bewoners</target>
+        <note from="translator">88%&#13;
 81%</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="3 residents">
+      <trans-unit xml:space="preserve" approved="yes" id="3 residents">
         <source>3 residents</source>
-        <target state="needs-translation">Inwoners</target>
-        <note from="developer">(text of widget: resident_3)</note>
-        <note from="translator">88%
+        <target state="translated">3 bewoners</target>
+        <note from="translator">88%&#13;
 81%</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="residents">
+      <trans-unit xml:space="preserve" approved="yes" id="residents">
         <source>residents</source>
-        <target state="needs-translation">Inwoners</target>
-        <note from="developer">(text of widget: residents)</note>
+        <target state="translated">inwoners</target>
         <note from="translator">88%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Taxes:">
@@ -1689,8 +1676,7 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Upgrade permissions:">
         <source>Upgrade permissions:</source>
-        <target state="translated"></target>
-        <note from="developer">(text of widget: upgrades_lbl)</note>
+        <target state="translated">Upgrade toestemmingen:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Paid taxes">
         <source>Paid taxes</source>
@@ -1704,47 +1690,34 @@ set translated building name in gui</note>
 (tooltip of widget: paid_taxes_label)
 (tooltip of widget: taxes)</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Tax rate">
+      <trans-unit xml:space="preserve" approved="yes" id="Tax rate">
         <source>Tax rate</source>
-        <target state="needs-translation">Belasting</target>
-        <note from="developer">(tooltip of widget: tax_rate_icon)
-(tooltip of widget: tax_val_label)
-(tooltip of widget: tax_rate_icon)
-(tooltip of widget: tax_val_label)
-(tooltip of widget: tax_rate_icon)
-(tooltip of widget: tax_val_label)
-(tooltip of widget: paid_taxes_label)
-(tooltip of widget: tax_val_label)</note>
+        <target state="translated">Belasting tarief</target>
         <note from="translator">87%</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="4 residents">
+      <trans-unit xml:space="preserve" approved="yes" id="4 residents">
         <source>4 residents</source>
-        <target state="needs-translation">Inwoners</target>
-        <note from="developer">(text of widget: resident_4)</note>
-        <note from="translator">88%
+        <target state="translated">4 bewoners</target>
+        <note from="translator">88%&#13;
 81%</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="5 residents">
+      <trans-unit xml:space="preserve" approved="yes" id="5 residents">
         <source>5 residents</source>
-        <target state="needs-translation">Inwoners</target>
-        <note from="developer">(text of widget: resident_5)</note>
-        <note from="translator">88%
+        <target state="translated">5 bewoners</target>
+        <note from="translator">88%&#13;
 81%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Upgrade not possible:">
         <source>Upgrade not possible:</source>
-        <target state="translated"></target>
-        <note from="developer">(text of widget: upgrades_lbl)</note>
+        <target state="translated">Upgrade niet mogelijk:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="This is the current maximum increment!">
         <source>This is the current maximum increment!</source>
-        <target state="translated"></target>
-        <note from="developer">(tooltip of widget: allow_upgrades)</note>
+        <target state="translated">Dit is het maximum aantal!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Collector utilisation:">
         <source>Collector utilisation:</source>
-        <target state="translated"></target>
-        <note from="developer">(text of widget: collector_utilisation_label) Percentage describing how much time the collectors were idle (not collecting resources for this building's inventory)</note>
+        <target state="translated">Verzamler benutting:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Name:">
         <source>Name:</source>
@@ -1753,13 +1726,11 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Selling">
         <source>Selling</source>
-        <target state="translated"></target>
-        <note from="developer">(text of widget: selling_label)</note>
+        <target state="translated">Verkopen</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Weapons:">
         <source>Weapons:</source>
-        <target state="translated"></target>
-        <note from="developer">(text of widget: lbl_weapon_storage)</note>
+        <target state="translated">Wapens:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="capacity utilization">
         <source>capacity utilization</source>
@@ -1881,13 +1852,11 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Available Scenarios">
         <source>Available Scenarios</source>
-        <target state="translated"></target>
-        <note from="developer">(text of widget: head_left)</note>
+        <target state="translated">Beschikbare Scenarios</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Scenario description">
         <source>Scenario description</source>
-        <target state="translated"></target>
-        <note from="developer">(text of widget: head_right)</note>
+        <target state="translated">Scenario beschrijving</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Continue playing">
         <source>Continue playing</source>
@@ -1944,13 +1913,9 @@ set translated building name in gui</note>
         <target state="translated"></target>
         <note from="developer">(text of widget: money_score)</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Name">
+      <trans-unit xml:space="preserve" approved="yes" id="Name">
         <source>Name</source>
-        <target state="needs-translation">Naam:</target>
-        <note from="developer">(text of widget: player_name)
-(text of widget: settlement_name)
-(text of widget: ship_name)</note>
-        <note from="translator">80%</note>
+        <target state="translated">Naam</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Resources">
         <source>Resources</source>
@@ -1966,11 +1931,9 @@ set translated building name in gui</note>
         <source>Units</source>
         <target state="translated">Eenheden</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Balance">
+      <trans-unit xml:space="preserve" approved="yes" id="Balance">
         <source>Balance</source>
-        <target state="needs-translation">Balans:</target>
-        <note from="developer">(text of widget: balance)</note>
-        <note from="translator">87%</note>
+        <target state="translated">Balans</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Health">
         <source>Health</source>
@@ -2521,11 +2484,11 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Map settings:">
         <source>Map settings:</source>
-        <target state="translated">Kaart instellingen</target>
+        <target state="translated">Kaart instellingen:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="AI players:">
         <source>AI players:</source>
-        <target state="translated">Computer (A.I.)  spelers</target>
+        <target state="translated">Computer spelers:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Game settings:">
         <source>Game settings:</source>

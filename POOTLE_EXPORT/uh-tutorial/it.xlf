@@ -263,6 +263,7 @@ gli elementi 'vendità' e 'Compra' consulta il saldo commerciale e sarà spiegat
 Se il saldo è positivo, è tutti-in-tutti di realizzare un profitto.
 
 In diverse schede  panoramica d'incremento è possibile visualizzare le statistiche sulla tua abitanti. È inoltre possibile impostare l'incremento di una specificha tassa globale e consentire o negare abitanti di questo incremento di passare a quella immediatamente superiore.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a main square. Choose an area without many economy buildings.">
         <source>Build a main square. Choose an area without many economy buildings.</source>
@@ -360,6 +361,7 @@ Normalmente le navi commerciante solo navigare intorno e cercare occasioni, ma �
 A tale scopo, creare un incendio segnale sulla costa vicino alla tua filiale. Mostrerà le navi la strada per il vostro insediamento.
 
 Il fuoco segnale deve coprire l'area che le navi passano per catturarli.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="After this little advertisment, the trader will also stop by and look into your branch office if it planned to sail past it.&#10;&#10;You can propose deals via the branch office tab 'Buy/Sell'. (This feature is currently quite fiddly to use. If you come up with a nice way of improving it, please share your thoughts! We need your help here!)&#10;&#10;At the 'sailors' increment, you are equipped with three trading slots.&#10;&#10;Click on the small icon to change the slot mode from 'Buy' to 'Sell' and vice versa.&#10;&#10;Click in the slot to choose the good you want to trade with. We will further explain this once you are ready to trade.&#10;&#10;TASK: Build a signal fire at the coast close to your branch office.">
         <source>After this little advertisment, the trader will also stop by and look into your branch office if it planned to sail past it.
@@ -384,6 +386,7 @@ Cliccare sulla piccola icona per cambiare la modalità di slot da 'Buy' a 'Sell'
 Clicca nello slot di scegliere il bene che vogliono commerciare con. Ci illustrerà più dettagliatamente questa volta si è pronti al commercio.
 
 TASK: Costruire un incendio segnale sulla costa vicino al vostro filiale.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a signal fire at the coast close to your branch office.">
         <source>Build a signal fire at the coast close to your branch office.</source>
@@ -441,10 +444,16 @@ NON è possibile cambiare manualmente i prezzi!
 Potete vedere il saldo commerciale nella scheda 'Account' a confronto la 'Vendi' e 'Compra' valori lì.
 
 TASK: Buy come strumenti di cui hai bisogno di avere 30 utensili in magazzino!</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Reach an island stock of at least 30 tools.">
         <source>Reach an island stock of at least 30 tools.</source>
         <target state="translated">Raggiungi una scorta per l'isola di almeno 30 attrezzi.</target>
+        <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Note that this might take a while.">
+        <source>Note that this might take a while.</source>
+        <target state="translated"></target>
         <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A PAVILION">

@@ -2733,7 +2733,7 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Error: don't know how to handle %(type)s condition type">
         <source>Error: don't know how to handle %(type)s condition type</source>
-        <target state="translated">Błąd: nie wiem jak obsłużyć warunek %(type)</target>
+        <target state="translated">Błąd: nie wiem jak obsłużyć warunek %(type)s</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Error: Cannot find campaign with file &quot;%s&quot;.">
         <source>Error: Cannot find campaign with file "%s".</source>
