@@ -143,6 +143,7 @@ Watch how a collector will fetch your first self-produced boards.</source>
 ЗАДАЧА: Построить лесопилку в лесу и соединить её дорогой.
 
 Смотрите, как сборщик будет носить первые произведённые вами доски.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a lumberjack and connect it to the branch office using a trail.">
         <source>Build a lumberjack and connect it to the branch office using a trail.</source>
@@ -320,6 +321,7 @@ TIP: Holding down SHIFT eases constructing multiple buildings of the same kind.<
 ЗАДАЧА: Постройте по крайней мере три дополнительных палатки.
 
 СОВЕТ: Удерживание клавиши SHIFT упрощает создание нескольких построек одного типа.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build at least three additional tents and connect them to the main square.">
         <source>Build at least three additional tents and connect them to the main square.</source>
@@ -375,6 +377,7 @@ TASK: Build a signal fire at the coast close to your branch office.</source>
 Кликните на слот, чтобы выбрать товар, которым вы хотите торговать. Мы продолжим объяснение, когда вы будете готовы торговать.
 
 ЗАДАЧА: Постройте сигнальный огонь на побережье, рядом с вашей конторой.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a signal fire at the coast close to your branch office.">
         <source>Build a signal fire at the coast close to your branch office.</source>
@@ -429,10 +432,16 @@ TASK: Buy as many tools as you need to have 30 tools in stock!</source>
 Вы можете видеть ваш торговый баланс на вкладе "Счёт", где сравниваются цены покупки и продажи.
 
 ЗАДАЧА: Купите необходимое количество инструментов, чтобы достичь 30 инструментов на складе.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Reach an island stock of at least 30 tools.">
         <source>Reach an island stock of at least 30 tools.</source>
         <target state="translated">Достигнуть запаса в 30 инструментов.</target>
+        <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Note that this might take a while.">
+        <source>Note that this might take a while.</source>
+        <target state="translated"></target>
         <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A PAVILION">
@@ -516,6 +525,7 @@ After some time, the first unit should walk to the main square and have a look f
 Вы должны стараться избегать низких налогов, посколько они приведут рано или поздно к банкротству. Но они могут помочь в определённый момент, если вы установите их на небольшой период времени.
 
 Через некоторое время, первый юнит должен прийти на главную площадь в поисках новых строительных материалов, чтобы построить бревенчатый дом. Этот дом заменит старую палатку.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Such residential upgrades are the only ones which cost resources and can not be restricted by you.&#10;&#10;There are manual upgrades to some buildings where you use resources to construct a better version on the same spot, and there are upgrades without costs for example as you will see with the lumberjack (In this case, only the graphics change).&#10;&#10;Upgraded housing accomodates more inhabitants, and pioneers pay more taxes than sailors, too.&#10;&#10;As you may have figured out already, the downside is that pioneers demand additional goods which sailors do not need - so you will need to spend this extra money to make them happy as well.&#10;&#10;TASK: Set the tax level to Low (left end) and wait for sailors to upgrade.">
         <source>Such residential upgrades are the only ones which cost resources and can not be restricted by you.
@@ -533,6 +543,7 @@ TASK: Set the tax level to Low (left end) and wait for sailors to upgrade.</sour
 Как вы уже могли заметить, обратная сторона в том, что поселенцы нуждаются в дополнительных товарах, которые не нужны морякам - поэтому вам прийдётся тратить дополнительные деньги, чтобы удовлетворить эти потребности.
 
 ЗАДАЧА: Установите низкий уровень налогов (крайнее левое положение) и ждите, пока моряки продвинутся на следующую ступень развития.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Set the tax level to Low (left end) and wait for your sailors to upgrade.">
         <source>Set the tax level to Low (left end) and wait for your sailors to upgrade.</source>
@@ -624,6 +635,7 @@ Note that for potatoes you will need a road connection to the farm (not to the f
 На данный момент нам нужны только пастбища, но если вы производите недостаточно пищи (например ввиду большого количества жилых зданий), вы можете также производить картофель.
 
 Обратите внимание, что для картофеля вам понабится дорога к ферме (не к полю!), т. к. только оно производит конечные товары.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Make sure that all fields you build are in the area covered by the farm.&#10;&#10;You can have combined production - one pasture will not lead to 100 percent efficiency of the farm - but you need to check how many fields one farm can serve.&#10;&#10;Different classes of fields require the farm units to spend more or less time there (to seed, harvest, herd, etc…) and because of that, the farm may be unable to serve all of the fields you built for it in time.&#10;&#10;For now, you do not need to care about these issues a lot since you haven't built any fields. Let's change that!&#10;&#10;TASK: Build at least one pasture in the farm's range and add potato fields if you like.">
         <source>Make sure that all fields you build are in the area covered by the farm.
@@ -700,6 +712,7 @@ TASK: Build a storage tent, preferably where you need collectors.</source>
 Обратите внимание, что предприятия могут быть также соединены с хранилищем, чтобы их товары были собраны, если сборщики конторы перегружены задачами.
 
 ЗАДАЧА: Постройте хранилище, предпочтительно там, где вам нужны сборщики.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a storage tent (increment I tab) where it makes sense.">
         <source>Build a storage tent (increment I tab) where it makes sense.</source>

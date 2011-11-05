@@ -59,6 +59,7 @@ E agora, vamos iniciar o jgoo.</target>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: SETTLE ON AN ISLAND">
         <source>NEW TASK: SETTLE ON AN ISLAND</source>
         <target state="translated">ESTABELECER UMA POVOAÇÃO</target>
+        <note from="developer">This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="To move your ship, select it with a left click and right click on the location you want it to go to.&#10;&#10;Once you are near the coast, the anchor-like button you see in the overview tab will become active.&#10;&#10;This indicates that you are able to build a branch office there by pressing that button (called 'Build Settlement').&#10;&#10;Now a preview of your building is dragged around when you move the cursor.&#10;&#10;You can build on any spot where this preview is not shaded red.&#10;Click where you want to place your first building.&#10;&#10;TASK: Build a branch office at the coast.">
         <source>To move your ship, select it with a left click and right click on the location you want it to go to.
@@ -90,6 +91,7 @@ TAREFA: Construir uma feitoria na costa.</target>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A LUMBERJACK">
         <source>NEW TASK: BUILD A LUMBERJACK</source>
         <target state="translated">ADICIONAR UM LENHADOR</target>
+        <note from="developer">This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The construction material on your ship got unloaded automatically. You can now construct some basic buildings.&#10;&#10;We will start with building a lumberjack.&#10;&#10;This is essential because, at this stage, boards are the only poles your sailors can afford to hang their tents over.&#10;&#10;The fisherman needs some boards to build his vessel as well.&#10;&#10;In order to construct lumberjacks; open the build menu by either clicking the big icon below the mini map or pressing B key.&#10;&#10;The build menu is sorted by increments.&#10;You are currently in the first increment (the Sailors level) so are offered only the basic buildings.">
         <source>The construction material on your ship got unloaded automatically. You can now construct some basic buildings.
@@ -155,6 +157,7 @@ Vê como um transportador irá buscar as primeiras tábuas que forem produzidas.
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: FOOD SUPPLY">
         <source>NEW TASK: FOOD SUPPLY</source>
         <target state="translated">FORNECIMENTO DE COMIDA</target>
+        <note from="developer">This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You will need to have some food-producing companies, too, because people in general (and especially sailors) are very hungry.&#10;&#10;Available companies in the first increment are the Hunter and Fisher.&#10;&#10;The Hunter, surprisingly, hunts animals in the forest, so he needs trees around.&#10;&#10;Note that you can place your Hunter close to the lumberjack's forest.&#10;&#10;It can happen that the animals don't reproduce fast enough or simply hide well.&#10;&#10;Conclusion: the hunter is not too reliable if you need continuous supply.">
         <source>You will need to have some food-producing companies, too, because people in general (and especially sailors) are very hungry.
@@ -261,6 +264,7 @@ Se o saldo é positivo, no geral estás a ter lucro.
 
 Nos vários separadores de relatórios é possível ver estatísticas sobre os habitantes.
 É também o local onde se pode definir o valor dos impostos para determinado nível e permitir ou proibir o melhoramento dos habitantes para o nível seguinte.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a main square. Choose an area without many economy buildings.">
         <source>Build a main square. Choose an area without many economy buildings.</source>
@@ -324,6 +328,7 @@ Nota que é também aqui que podes mudar as definições globais dos impostos.
 TAREFA: Constrói, pelo menos, três tendas adicionais.
 
 DICA: Mantendo pressionada a tecla SHIFT permite construir vários edifícios do mesmo tipo de uma só vez.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build at least three additional tents and connect them to the main square.">
         <source>Build at least three additional tents and connect them to the main square.</source>
@@ -333,6 +338,7 @@ DICA: Mantendo pressionada a tecla SHIFT permite construir vários edifícios do
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD SIGNAL FIRE">
         <source>NEW TASK: BUILD SIGNAL FIRE</source>
         <target state="translated">NOVA TAREFA: O SINAL DE FOGO</target>
+        <note from="developer">This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Can you see the ship passing your island from time to time? That ship belongs to the Free Trader, one of the first settlers in this archipelago.&#10;&#10;The trader will supply your settlement with necessary goods which you can't produce yet.&#10;You can also sell surpluses of your production, but in general consuming them (by building more tents) instead of selling them yields more profit.&#10;&#10;Normally the trader ships just sail around and look for deals, but you can speed things up a bit.&#10;&#10;For this purpose, build a signal fire at the coast near your branch office. It will show ships the way to your settlement.&#10;&#10;The signal fire has to cover the area which the ships pass through to catch them.">
         <source>Can you see the ship passing your island from time to time? That ship belongs to the Free Trader, one of the first settlers in this archipelago.
@@ -390,6 +396,7 @@ TAREFA: Constrói um sinal de fogo na costa junto à feitoria.</target>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: LEARN TO TRADE">
         <source>NEW TASK: LEARN TO TRADE</source>
         <target state="translated">APRENDE A EFECTUAR TROCAS COMERCIAS</target>
+        <note from="developer">This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Excellent! The Free Trader will now stop by at your branch office from time to time.&#10;&#10;Let's continue our tutorial on how to trade.&#10;&#10;After selecting a particular type of good, the green bar across the bottom of the slot (if visible) shows you how much you have in stock of this good.&#10;&#10;Dragging the slider on the right of each slot determines your 'target value' which has a different meaning on 'Buy' and 'Sell'. &#10;When buying, you will buy sufficient to hold your 'target value' in stock. &#10;When selling the 'target value' is the number which you hold in reserve to not sell">
         <source>Excellent! The Free Trader will now stop by at your branch office from time to time.
@@ -435,15 +442,22 @@ O Unknown Horizons possui uma funcionalidade de ajude inteligente de preços, de
 Não é possível definir o preço manualmente!
 Podes ver um saldo das tuas trocas comerciais no separador 'Conta' comparando os valores nas secções de 'Comprar' e 'Vender'.
 TAREFA: Compra quantas ferramentas forem necessárias para teres em stock 30 ferramentas!</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Reach an island stock of at least 30 tools.">
         <source>Reach an island stock of at least 30 tools.</source>
         <target state="translated">Atinge o limite de, pelo menos, 30 ferramentas em stock na ilha.</target>
         <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Note that this might take a while.">
+        <source>Note that this might take a while.</source>
+        <target state="translated"></target>
+        <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A PAVILION">
         <source>NEW TASK: BUILD A PAVILION</source>
         <target state="translated">CONSTRÓI UM PAVILHÃO</target>
+        <note from="developer">This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Those tools will be enough for the moment. Well done!&#10;&#10;You now provide housing, a main square and food to your inhabitants.&#10;&#10;Still there is one demand which we have not satisfied so far, you may check that in the marketplace or tent tab - your sailors want a basic building where they can pray.&#10;&#10;The solution is a pavilion which the village parson quickly puts up as shelter from the sun.&#10;&#10;Service buildings like this also need to be connected to the tents with a trail, else your inhabitants feel unable to reach them.&#10;&#10;In later increments, upgraded versions of buildings may become available.">
         <source>Those tools will be enough for the moment. Well done!
@@ -578,6 +592,7 @@ Os pioneiros passarão exigir tecido, portanto irá ser necessário produzir tec
 A quinta é um edifício de produção especial, uma vez que não produz apenas um tipo de recurso, mas sim vários (e de tipos diferentes), se optares por isso.
 
 Os recursos disponíveis nas quintas dependem do tipo de campos à volta do local onde esta foi construída.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="We will have a closer look at this later.&#10;&#10;Farms, like all companies producing raw materials, do not necessarily need to be connected to storage or a Branch Office.&#10;&#10;As long as units of the final production company can reach the farm, and collectors from the branch office or storage tent can reach the final company everything's fine.&#10;&#10;If you, however, plan to do some processing on different parts of the island (which can make sense) or even on different islands, you will need a connection to collectors.&#10;&#10;Try to build the farm not too close to the coast or your existing buildings since it will need some space around it to work well.&#10;&#10;TASK: Build a farm.">
         <source>We will have a closer look at this later.
@@ -660,6 +675,7 @@ Os diferentes tipos de plantações requerem que as unidades da quinta gastem ma
 Por agora, não precisas preocupar-te com isso uma vez que não tens muitos campos. Vamos alterar isso!
 
 TAREFA: Cria, pelo menos, uma pastagem na àrea envolvente da quinta e adiciona uma plantação de batatas se quiseres.</target>
+        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build at least one pasture and add potato fields if you like.">
         <source>Build at least one pasture and add potato fields if you like.</source>
@@ -669,6 +685,7 @@ TAREFA: Cria, pelo menos, uma pastagem na àrea envolvente da quinta e adiciona 
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD STORAGE">
         <source>NEW TASK: BUILD STORAGE</source>
         <target state="translated">NOVA TAREFA: UM ARMAZÉM</target>
+        <note from="developer">This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Did you watch your lumberjack recently?&#10;&#10;Since your branch office does not have unlimited space to store goods, collectors will stop fetching goods from companies when stock is full.&#10;So if no sailor recently wanted to upgrade his tent, you probably have a lot of boards and in that case, the lumberjack may idle.&#10;We can improve this situation with two different approaches, and below we will have a look at both of them.&#10;&#10;All companies offer the possibility of doing no work at all.&#10;This may sound strange, but try to click on the gear wheel you see in, for example, a lumberjack's overview.&#10;&#10;If this 'break' mode is enabled (we call it 'Decommissioning'), the running costs you pay for the building will decrease. They won't be zero, but still lower than if you keep the company producing.">
         <source>Did you watch your lumberjack recently?
