@@ -784,17 +784,13 @@ Should i overwrite it?</source>
         <target state="translated">Ошибка:</target>
         <note from="translator">83%</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Unknown savedate">
+      <trans-unit xml:space="preserve" approved="yes" id="Unknown savedate">
         <source>Unknown savedate</source>
-        <target state="needs-translation">Неизвестная дата сохранения
-</target>
-        <note from="translator">94%</note>
+        <target state="translated">Неизвестная дата сохранения</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Saved at %s">
+      <trans-unit xml:space="preserve" approved="yes" id="Saved at %s">
         <source>Saved at %s</source>
-        <target state="needs-translation">Сохранено в %s
-</target>
-        <note from="translator">91%</note>
+        <target state="translated">Сохранено в %s</target>
       </trans-unit>
       <group restype="x-gettext-plurals" approved="yes" id="Saved %(amount)d time">
         <trans-unit xml:space="preserve" id="Saved %(amount)d time[0]">
