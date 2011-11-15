@@ -22,10 +22,9 @@
         <target state="translated"></target>
         <note from="developer">This is a database entry: the name of a unit.</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Boat Builder">
+      <trans-unit xml:space="preserve" approved="yes" id="Boat Builder">
         <source>Boat Builder</source>
-        <target state="needs-translation">Constructor de Barcos</target>
-        <note from="developer">This is a database entry: the name of a building.</note>
+        <target state="translated">Constructor de Barcos</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Branch Office">
         <source>Branch Office</source>
@@ -150,10 +149,9 @@ This is a database entry: the name of a unit.</note>
         <target state="translated">Campament de llenyataires</target>
         <note from="developer">This is a database entry: the name of a building.</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Main Square">
+      <trans-unit xml:space="preserve" approved="yes" id="Main Square">
         <source>Main Square</source>
-        <target state="needs-translation">Praça Principal</target>
-        <note from="developer">This is a database entry: the name of a building.</note>
+        <target state="translated">Plaça Principal</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Mountain">
         <source>Mountain</source>
@@ -737,9 +735,9 @@ Use at own risk!</source>
         <source>Quit Session</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="No saved games">
+      <trans-unit xml:space="preserve" approved="yes" id="No saved games">
         <source>No saved games</source>
-        <target state="needs-translation">No vostres partides desades</target>
+        <target state="translated">No vostres partides desades</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="There are no saved games to load">
         <source>There are no saved games to load</source>
@@ -775,11 +773,9 @@ Should i overwrite it?</source>
         <target state="translated"></target>
         <note from="developer">ok button has been pressed, but no savegame was selected</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Details:">
+      <trans-unit xml:space="preserve" approved="yes" id="Details:">
         <source>Details:</source>
-        <target state="needs-translation">Detalhes:</target>
-        <note from="developer">(text of widget: scenario_details) More text describing the scenario
-(text of widget: headline_details_label) More text describing the savegame</note>
+        <target state="translated">Detalhes:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Error:">
         <source>Error:</source>
@@ -1203,9 +1199,6 @@ set translated building name in gui</note>
       <trans-unit xml:space="preserve" approved="no" id="Sailor buildings">
         <source>Sailor buildings</source>
         <target state="needs-translation">Configuració</target>
-        <note from="developer">(text of widget: headline)</note>
-        <note from="translator">76%
-100%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Residents and infrastructure">
         <source>Residents and infrastructure</source>
