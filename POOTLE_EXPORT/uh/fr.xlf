@@ -1432,11 +1432,11 @@ Messages
       <trans-unit xml:space="preserve" approved="yes" id="Salt ponds: Evaporates salt. Built on sea coast.">
         <source>Salt ponds: Evaporates salt. Built on sea coast.</source>
         <target state="translated">Salines : Produit du sel. Construire en bord de mer.</target>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>Maré salant: Produit du sel. Construit sur la côte.</target>
-        </alt-trans>
         <alt-trans xml:space="preserve" origin="LawNasK">
           <target>Salines : produit du sel. Construire en bord de mer.</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Maré salant: Produit du sel. Construit sur la côte.</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Smeltery: Refines all kind of ores.">
