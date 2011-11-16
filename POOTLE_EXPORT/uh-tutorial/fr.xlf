@@ -460,8 +460,7 @@ MISSION: Achetez autant d'outils que nécessaire pour en avoir 30 en stock!</tar
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Note that this might take a while.">
         <source>Note that this might take a while.</source>
-        <target state="translated"></target>
-        <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
+        <target state="translated">Notez que ceci peut durer un moment.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A PAVILION">
         <source>NEW TASK: BUILD A PAVILION</source>
