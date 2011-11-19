@@ -557,8 +557,10 @@ Bezeichnet *nur* die dritte Einwohner-Ausbaustufe. Generelle Einwohner = inhabit
       <trans-unit xml:space="preserve" approved="yes" id="residents">
         <source>residents</source>
         <target state="translated">Bewohner</target>
-        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (4)
-(poterminology) uh/unknownhorizons.pot (2)</note>
+        <note from="translator">(poterminology) uh-tutorial/tutorial.pot (4)&#13;
+(poterminology) uh/unknownhorizons.pot (2)&#13;
+&#13;
+Heißt auch "Einwohner"</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="run">
         <source>run</source>
