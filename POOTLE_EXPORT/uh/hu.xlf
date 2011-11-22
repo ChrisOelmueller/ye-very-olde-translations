@@ -2663,15 +2663,15 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Not possible">
         <source>Not possible</source>
-        <target state="translated"></target>
+        <target state="translated">Nem lehetséges</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You cannot change the speed of a multiplayer game">
         <source>You cannot change the speed of a multiplayer game</source>
-        <target state="translated"></target>
+        <target state="translated">Nem lehet változtatni a multiplayer játék sebességét.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Save/load for multiplayer games is not possible yet">
         <source>Save/load for multiplayer games is not possible yet</source>
-        <target state="translated"></target>
+        <target state="translated">Mentés/betöltés a multiplayer játéknál nem lehetséges.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Error: don't know how to handle %(type)s condition type">
         <source>Error: don't know how to handle %(type)s condition type</source>
@@ -2692,6 +2692,9 @@ set translated building name in gui</note>
       <trans-unit xml:space="preserve" approved="yes" id="You have completed this scenario. ">
         <source>You have completed this scenario. </source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="matyi">
+          <target>Elvégezte ezt a helyzetet.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="unknown">
         <source>unknown</source>
@@ -2704,7 +2707,7 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="An error happened during quicksave. Your game has not been saved.">
         <source>An error happened during quicksave. Your game has not been saved.</source>
-        <target state="translated"></target>
+        <target state="translated">Hiba történt a gyorsmentés közben. A játék nem lett elmentve.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="If this error happens again, please contact the development team:">
         <source>If this error happens again, please contact the development team:</source>
@@ -2712,28 +2715,27 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="No quicksaves found">
         <source>No quicksaves found</source>
-        <target state="translated"></target>
+        <target state="translated">Nem található gyorsmentés</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You need to quicksave before you can quickload.">
         <source>You need to quicksave before you can quickload.</source>
-        <target state="translated"></target>
+        <target state="translated">Gyorsmentés szükséges a gyorsbetöltéshez.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Failed to create savegame file">
         <source>Failed to create savegame file</source>
-        <target state="translated"></target>
-        <note from="developer">usually invalid filename</note>
+        <target state="translated">Nem sikerült létrehozni a mentést</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="There has been an error while creating your savegame file.">
         <source>There has been an error while creating your savegame file.</source>
-        <target state="translated"></target>
+        <target state="translated">Nem történt hiba a játék mentése közben.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="This usually means that the savegame name contains unsupported special characters.">
         <source>This usually means that the savegame name contains unsupported special characters.</source>
-        <target state="translated"></target>
+        <target state="translated">Ez általában azt jelenti, hogy a mentés neve nem támogatott karaktereket tartalmaz.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="File used by another process">
         <source>File used by another process</source>
-        <target state="translated"></target>
+        <target state="translated">Fájl által használt másik folyamat</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The savegame file is currently used by another program.">
         <source>The savegame file is currently used by another program.</source>
@@ -2765,7 +2767,7 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Attacking ">
         <source>Attacking </source>
-        <target state="translated"></target>
+        <target state="translated">Támadás</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enable debug output to stderr and a logfile.">
         <source>Enable debug output to stderr and a logfile.</source>
@@ -2789,7 +2791,7 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Starting Unknown Horizons">
         <source>Starting Unknown Horizons</source>
-        <target state="translated"></target>
+        <target state="translated">Unknown Horizons indítása</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Starts &lt;map&gt;. &lt;map&gt; is the mapname.">
         <source>Starts &lt;map&gt;. &lt;map&gt; is the mapname.</source>
@@ -2797,7 +2799,7 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Starts a random map.">
         <source>Starts a random map.</source>
-        <target state="translated"></target>
+        <target state="translated">Random térkép indítása.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Starts a random map with seed &lt;seed&gt;.">
         <source>Starts a random map with seed &lt;seed&gt;.</source>
@@ -2821,7 +2823,7 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Loads the last quicksave.">
         <source>Loads the last quicksave.</source>
-        <target state="translated"></target>
+        <target state="translated">Az utolsó gyorsmentés betöltése.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sets the seed used to generate trees, fish, and other natural resources.">
         <source>Sets the seed used to generate trees, fish, and other natural resources.</source>
@@ -2829,7 +2831,7 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="AI options">
         <source>AI options</source>
-        <target state="translated"></target>
+        <target state="translated">AI beállítások</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Uses &lt;ai_players&gt; AI players (excludes the possible human-AI hybrid; defaults to 1).">
         <source>Uses &lt;ai_players&gt; AI players (excludes the possible human-AI hybrid; defaults to 1).</source>
@@ -2845,7 +2847,7 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Development options">
         <source>Development options</source>
-        <target state="translated"></target>
+        <target state="translated">Fejlesztési lehetőségek</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Write debug output only to logfile, not to console. Implies -d.">
         <source>Write debug output only to logfile, not to console. Implies -d.</source>
@@ -2861,7 +2863,10 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="For internal use only.">
         <source>For internal use only.</source>
-        <target state="translated"></target>
+        <target state="translated">Csak belső használatra.</target>
+        <alt-trans xml:space="preserve" origin="matyi">
+          <target>Csak belső használatra.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enable profiling (for developing only).">
         <source>Enable profiling (for developing only).</source>
