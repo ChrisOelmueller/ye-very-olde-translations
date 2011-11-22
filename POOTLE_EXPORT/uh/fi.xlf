@@ -14,8 +14,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="A new world has been created.">
         <source>A new world has been created.</source>
-        <target state="translated">Luotiin uusi maailma.</target>
-        <note from="developer">This is a database entry: a messagewidget message (left part of the screen).</note>
+        <target state="translated">Uusi maailma luotu.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Boar">
         <source>Boar</source>
@@ -645,19 +644,19 @@ This is a database entry: the name of a building.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Some of your changes require a restart of Unknown Horizons.">
         <source>Some of your changes require a restart of Unknown Horizons.</source>
-        <target state="translated">Jotkin tekemistäsi muutoksista vaativat, että Unknown Horizons uudelleenkäynnistetään.</target>
+        <target state="translated">Jotkin tekemistäsi muutoksista edellyttävät pelin käynnistämistä uudelleen.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Restore default settings">
         <source>Restore default settings</source>
-        <target state="translated"></target>
+        <target state="translated">Palauta oletusasetukset</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="This will delete all changes to the settings you made so far.">
         <source>This will delete all changes to the settings you made so far.</source>
-        <target state="translated"></target>
+        <target state="translated">Kaikki tekemäsi muutokset poistetaan.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Do you want to continue?">
         <source>Do you want to continue?</source>
-        <target state="translated"></target>
+        <target state="translated">Haluatko jatkaa?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="System default">
         <source>System default</source>
@@ -677,15 +676,15 @@ Käyttö omalla vastuulla!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Configured language %(lang)s at %(place)s could not be loaded">
         <source>Configured language %(lang)s at %(place)s could not be loaded</source>
-        <target state="translated">Asetettu kieli, %(lang)s, kohdassa %(place)s ei onnistunut latautumaan</target>
+        <target state="translated">Asetettu kieltä %(lang)s, kohdassa %(place)s ei pystytä lataamaan.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Invalid network port">
         <source>Invalid network port</source>
-        <target state="translated"></target>
+        <target state="translated">Virheellinen verkkoportti</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The port you specified is not valid. It must be a number between 1 and 65535.">
         <source>The port you specified is not valid. It must be a number between 1 and 65535.</source>
-        <target state="translated">Määrittelemäsi portti on virheellinen. Sen tulisi olla numero väliltä 1 - 65535.</target>
+        <target state="translated">Määrittelemäsi portti on virheellinen. Portin on oltava numero väliltä 1 - 65535.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Please check the port you entered and make sure it's in the specified range.">
         <source>Please check the port you entered and make sure it's in the specified range.</source>
@@ -718,7 +717,7 @@ Käyttö omalla vastuulla!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Are you sure you want to quit Unknown Horizons?">
         <source>Are you sure you want to quit Unknown Horizons?</source>
-        <target state="translated">Oletko varma, että haluat poistua pelistä Unknown Horizons?</target>
+        <target state="translated">Haluatko varmasti lopettaa pelin?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Quit Game">
         <source>Quit Game</source>
@@ -761,10 +760,13 @@ Tallennetaanko sen päälle?</target>
       <trans-unit xml:space="preserve" approved="yes" id="Confirmation for overwriting">
         <source>Confirmation for overwriting</source>
         <target state="translated">Vahvistus ylikirjoittamiselle</target>
+        <alt-trans xml:space="preserve" origin="alluk.">
+          <target>Vahvista pelin poistaminen</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Please select a savegame or click on cancel.">
         <source>Please select a savegame or click on cancel.</source>
-        <target state="translated">Valitse tallennus tai paina 'peruuta'.</target>
+        <target state="translated">Valitse tallennus tai napsauta "Peruuta".</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Select a savegame">
         <source>Select a savegame</source>
@@ -792,11 +794,11 @@ Tallennetaanko sen päälle?</target>
       <group restype="x-gettext-plurals" approved="yes" id="Saved %(amount)d time">
         <trans-unit xml:space="preserve" id="Saved %(amount)d time[0]">
           <source>Saved %(amount)d time</source>
-          <target></target>
+          <target>Tallennettu %(amount)d kerran</target>
         </trans-unit>
         <trans-unit xml:space="preserve" approved="yes" id="Saved %(amount)d time[1]">
           <source>Saved %(amount)d times</source>
-          <target state="translated"></target>
+          <target state="translated">Tallennettu %(amount)d kertaa</target>
         </trans-unit>
       </group>
       <trans-unit xml:space="preserve" approved="yes" id="Savegame ver. %d">
@@ -806,13 +808,13 @@ Tallennetaanko sen päälle?</target>
       <trans-unit xml:space="preserve" approved="yes" id="WARNING: Incompatible ver. %(ver)d!&#10;Need ver. %(need)d!">
         <source>WARNING: Incompatible ver. %(ver)d!
 Need ver. %(need)d!</source>
-        <target state="translated">VAROITUS: Epäyhteensopiva versio %(ver)d!
-Tarvittu versio %(need)d!</target>
+        <target state="translated">VAROITUS: Yhteensopimaton versio %(ver)d!
+Vaaditaan versio %(need)d!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="INCOMPATIBLE VERSION&#10;">
         <source>INCOMPATIBLE VERSION
 </source>
-        <target state="translated">EPÄYHTEENSOPIVA VERSIO
+        <target state="translated">YHTEENSOPIMATON VERSIO
 </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="No file selected">
@@ -879,7 +881,7 @@ Yksityiskohdat: %s</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Something went wrong with the network:">
         <source>Something went wrong with the network:</source>
-        <target state="translated">Jotakin meni pieleen verkon kanssa:</target>
+        <target state="translated">Verkon kanssa ilmeni ongelma:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Version differs!">
         <source>Version differs!</source>
@@ -887,7 +889,7 @@ Yksityiskohdat: %s</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Map: ">
         <source>Map: </source>
-        <target state="translated">Kenttä: </target>
+        <target state="translated">Kartta: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Players: ">
         <source>Players: </source>
@@ -899,7 +901,7 @@ Yksityiskohdat: %s</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The game's version differs from your version. Every player in a multiplayer game must use the same version. This can be fixed by every player updating to the latest version. Game version: %(gameversion)s Your version: %(ownversion)s">
         <source>The game's version differs from your version. Every player in a multiplayer game must use the same version. This can be fixed by every player updating to the latest version. Game version: %(gameversion)s Your version: %(ownversion)s</source>
-        <target state="translated">Pelin versio eroaa sinun versiostasi. Moninpelissä jokaisella pitää olla sama versio. Tämä korjautuu jos jokainen pelaaja päivittää viimeisimpään versioon. Pelin versio: %(gameversion)s Sinun versiosi: %(ownversion)s</target>
+        <target state="translated">Pelin versio eroaa sinun versiostasi. Moninpelissä jokaisella pitää olla sama versio. Tämä korjautuu jos jokainen pelaaja päivittää viimeisimpään versioon. Pelin versio: %(gameversion)s Oma versiosi: %(ownversion)s</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Wrong version">
         <source>Wrong version</source>
@@ -927,23 +929,23 @@ Yksityiskohdat: %s</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You entered an invalid playername">
         <source>You entered an invalid playername</source>
-        <target state="translated">Annoit virheellisen pelaajanimen</target>
+        <target state="translated">Antamasi pelaajanimi on virheellinen</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Map size:">
         <source>Map size:</source>
-        <target state="translated"></target>
+        <target state="translated">Kartan koko:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Water:">
         <source>Water:</source>
-        <target state="translated"></target>
+        <target state="translated">Vesi:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Max island size:">
         <source>Max island size:</source>
-        <target state="translated"></target>
+        <target state="translated">Saaren enimmäiskoko:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Preferred island size:">
         <source>Preferred island size:</source>
-        <target state="translated"></target>
+        <target state="translated">Saaren suosituskoko:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Island size deviation:">
         <source>Island size deviation:</source>
@@ -964,7 +966,7 @@ Yksityiskohdat: %s</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Error message:">
         <source>Error message:</source>
-        <target state="translated"></target>
+        <target state="translated">Virheilmoitus:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Please report this to the author.">
         <source>Please report this to the author.</source>
@@ -1021,12 +1023,11 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Settlement inventory">
         <source>Settlement inventory</source>
-        <target state="translated"></target>
-        <note from="developer">(text of widget: headline)</note>
+        <target state="translated">Siirtokunnan tavaravalikko:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Ship inventory">
         <source>Ship inventory</source>
-        <target state="translated">Laivan tavaranäkymä</target>
+        <target state="translated">Laivan tavaravalikko:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Load/Unload:">
         <source>Load/Unload:</source>
@@ -1035,7 +1036,7 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Buy/Sell:">
         <source>Buy/Sell:</source>
-        <target state="translated"></target>
+        <target state="translated">Osta/Myy:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Can't equip trade ship with weapons">
         <source>Can't equip trade ship with weapons</source>
@@ -1065,11 +1066,11 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Don't allow upgrades">
         <source>Don't allow upgrades</source>
-        <target state="translated"></target>
+        <target state="translated">Älä salli päivityksiä</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Allow upgrades">
         <source>Allow upgrades</source>
-        <target state="translated"></target>
+        <target state="translated">Salli päivitykset</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sailors">
         <source>Sailors</source>
@@ -1428,8 +1429,7 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Click to change the name of your settlement.">
         <source>Click to change the name of your settlement.</source>
-        <target state="translated">Paina vaihtaaksesi asutuskeskuksesi nimeä.</target>
-        <note from="developer">(tooltip of widget: city_name)</note>
+        <target state="translated">Vaihda siirtokuntasi nimeä napsauttamalla tätä.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build menu">
         <source>Build menu</source>
@@ -1443,8 +1443,7 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Diplomacy">
         <source>Diplomacy</source>
-        <target state="translated"></target>
-        <note from="developer">(tooltip of widget: diplomacyButton)</note>
+        <target state="translated">Diplomatia</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Game menu">
         <source>Game menu</source>
@@ -1518,8 +1517,7 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enter new name:">
         <source>Enter new name:</source>
-        <target state="translated">Anna uusi nimi:</target>
-        <note from="developer">(text of widget: enter_new_name_lbl)</note>
+        <target state="translated">Kirjoita uusi nimi:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Change name">
         <source>Change name</source>
@@ -1696,8 +1694,7 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Residents per house">
         <source>Residents per house</source>
-        <target state="translated"></target>
-        <note from="developer">(text of widget: headline_residents_per_house)</note>
+        <target state="translated">Asukkaita per talo:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Summary">
         <source>Summary</source>
@@ -1706,24 +1703,23 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="houses">
         <source>houses</source>
-        <target state="translated"></target>
-        <note from="developer">(text of widget: houses)</note>
+        <target state="translated">taloa</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="1 resident">
         <source>1 resident</source>
-        <target state="translated">1 Asukkaat</target>
+        <target state="translated">1 asukas</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="2 residents">
         <source>2 residents</source>
-        <target state="translated">2 Asukkaat</target>
+        <target state="translated">2 asukasta</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="3 residents">
         <source>3 residents</source>
-        <target state="translated">3 Asukkaat</target>
+        <target state="translated">3 asukasta</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="residents">
         <source>residents</source>
-        <target state="translated">4 Asukkaat</target>
+        <target state="translated">asukasta</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Taxes:">
         <source>Taxes:</source>
@@ -1762,16 +1758,15 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="4 residents">
         <source>4 residents</source>
-        <target state="translated">4 Asukkaat</target>
+        <target state="translated">4 asukasta</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="5 residents">
         <source>5 residents</source>
-        <target state="translated">5 Asukkaat</target>
+        <target state="translated">5 asukasta</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Upgrade not possible:">
         <source>Upgrade not possible:</source>
-        <target state="translated"></target>
-        <note from="developer">(text of widget: upgrades_lbl)</note>
+        <target state="translated">Päivittäminen ei onnistu:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="This is the current maximum increment!">
         <source>This is the current maximum increment!</source>
@@ -1795,8 +1790,7 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Weapons:">
         <source>Weapons:</source>
-        <target state="translated"></target>
-        <note from="developer">(text of widget: lbl_weapon_storage)</note>
+        <target state="translated">Aseet:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="capacity utilization">
         <source>capacity utilization</source>
@@ -1867,8 +1861,7 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Configure trading route:">
         <source>Configure trading route:</source>
-        <target state="translated">Säädä kauppareittiä:</target>
-        <note from="developer">(text of widget: configure_route_label)</note>
+        <target state="translated">Muuta kauppareittiä:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Inventory">
         <source>Inventory</source>
@@ -1907,13 +1900,11 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Read prev. entries">
         <source>Read prev. entries</source>
-        <target state="translated">Lue edelliset merkinnät</target>
-        <note from="developer">(tooltip of widget: backwardButton) Entry of Captain's Log (logbook/diary used in scenarios)</note>
+        <target state="translated">Edellinen merkintä</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Read next entries">
         <source>Read next entries</source>
-        <target state="translated">Lue seuraavat merkinnät</target>
-        <note from="developer">(tooltip of widget: forwardButton) Entry of Captain's Log (logbook/diary used in scenarios)</note>
+        <target state="translated">Seuraava merkintä</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Available Scenarios">
         <source>Available Scenarios</source>
@@ -1957,18 +1948,15 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Close">
         <source>Close</source>
-        <target state="translated"></target>
-        <note from="developer">(tooltip of widget: cancelButton)</note>
+        <target state="translated">Sulje</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Buildings">
         <source>Buildings</source>
-        <target state="translated"></target>
-        <note from="developer">(text of widget: building_score)</note>
+        <target state="translated">Rakennukset</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Player scores">
         <source>Player scores</source>
-        <target state="translated"></target>
-        <note from="developer">(text of widget: headline)</note>
+        <target state="translated">Pelitulokset</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Land">
         <source>Land</source>
@@ -1991,8 +1979,7 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Total">
         <source>Total</source>
-        <target state="translated"></target>
-        <note from="developer">(text of widget: total_score)</note>
+        <target state="translated">Yhteensä</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Units">
         <source>Units</source>
@@ -2085,8 +2072,7 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{F2} = Show player scores">
         <source>{F2} = Show player scores</source>
-        <target state="translated"></target>
-        <note from="developer">(text of widget: lbl_f2)</note>
+        <target state="translated">{F2} = Näytä pelitulokset</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{F3} = Show settlement list">
         <source>{F3} = Show settlement list</source>
@@ -2095,8 +2081,7 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{F4} = Show ship list">
         <source>{F4} = Show ship list</source>
-        <target state="translated"></target>
-        <note from="developer">(text of widget: lbl_f4)</note>
+        <target state="translated">{F4} = Näytä lista aluksista</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{F5} = Quicksave">
         <source>{F5} = Quicksave</source>
@@ -2110,8 +2095,7 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The FIFE and Unknown Horizons development teams">
         <source>The FIFE and Unknown Horizons development teams</source>
-        <target state="translated">FIFE ja Unknown Horizons kehitysryhmät</target>
-        <note from="developer">(text of widget: lbl_fife_and_uh_team)</note>
+        <target state="translated">FIFE ja Unknown Horizons -kehitysryhmät</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{G} = Toggle grid on/off">
         <source>{G} = Toggle grid on/off</source>
@@ -2125,13 +2109,11 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Have fun.">
         <source>Have fun.</source>
-        <target state="translated">Pidä hauskaa.</target>
-        <note from="developer">(text of widget: lbl_have_fun)</note>
+        <target state="translated">Pidä hauskaa!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{L} = Toggle Captain's log">
         <source>{L} = Toggle Captain's log</source>
-        <target state="translated">{L} = Kapteenin lokikirja näkyviin/pois</target>
-        <note from="developer">(text of widget: lbl_l)</note>
+        <target state="translated">{L} = Avaa/sulje Kapteenin lokikirja</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{LEFT} = Scroll left">
         <source>{LEFT} = Scroll left</source>
@@ -2259,8 +2241,7 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Choose a map:">
         <source>Choose a map:</source>
-        <target state="translated">Valitse kenttä:</target>
-        <note from="developer">(text of widget: headline)</note>
+        <target state="translated">Valitse kartta:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Create game - Multiplayer">
         <source>Create game - Multiplayer</source>
@@ -2289,8 +2270,7 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The game will start as soon as enough players have joined.">
         <source>The game will start as soon as enough players have joined.</source>
-        <target state="translated">Peli alkaa, kun riittävän monta pelaajaa on liittynyt.</target>
-        <note from="developer">(text of widget: game_start_notice)</note>
+        <target state="translated">Peli alkaa, kun tarpeeksi monta pelaajaa on liittynyt siihen.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Chat:">
         <source>Chat:</source>
@@ -2405,8 +2385,7 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Saving">
         <source>Saving</source>
-        <target state="translated">Tallennetaan</target>
-        <note from="developer">(text of widget: headline_saving)</note>
+        <target state="translated">Tallentaminen</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sound">
         <source>Sound</source>
@@ -2455,8 +2434,7 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Screen resolution:">
         <source>Screen resolution:</source>
-        <target state="translated">Näytön koko:</target>
-        <note from="developer">(text of widget: screen_resolution_label)</note>
+        <target state="translated">Resoluutio:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enable sound:">
         <source>Enable sound:</source>
@@ -2470,13 +2448,11 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Used renderer:">
         <source>Used renderer:</source>
-        <target state="translated">Käytä näyttösovitinta:</target>
-        <note from="developer">(text of widget: use_renderer_label)</note>
+        <target state="translated">Valitse näyttösovitin:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Please make sure that you know what you do.">
         <source>Please make sure that you know what you do.</source>
-        <target state="translated">Varmista, että tiedät mitä teet.</target>
-        <note from="developer">(text of widget: warning)</note>
+        <target state="translated">Muokkaa asetuksia vain, jos tiedät mitä olet tekemässä.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Apply">
         <source>Apply</source>
@@ -2484,8 +2460,7 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Reset to default settings">
         <source>Reset to default settings</source>
-        <target state="translated"></target>
-        <note from="developer">(tooltip of widget: defaultButton)</note>
+        <target state="translated">Palauta oletusasetukset</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Enter filename:">
         <source>Enter filename:</source>
@@ -2505,13 +2480,11 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Cancel">
         <source>Cancel</source>
-        <target state="translated"></target>
-        <note from="developer">(tooltip of widget: cancelButton)</note>
+        <target state="translated">Peruuta</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Delete selected savegame">
         <source>Delete selected savegame</source>
-        <target state="translated"></target>
-        <note from="developer">(tooltip of widget: deleteButton)</note>
+        <target state="translated">Poista valitut pelitallennukset</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="New game - Singleplayer">
         <source>New game - Singleplayer</source>
@@ -2552,8 +2525,7 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Map settings:">
         <source>Map settings:</source>
-        <target state="translated"></target>
-        <note from="developer">(text of widget: headline_map_settings_lbl)</note>
+        <target state="translated">Kartan asetukset:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="AI players:">
         <source>AI players:</source>
@@ -2562,8 +2534,7 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Game settings:">
         <source>Game settings:</source>
-        <target state="translated"></target>
-        <note from="developer">(text of widget: headline_game_settings_lbl)</note>
+        <target state="translated">Pelin asetukset:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Free Trader">
         <source>Free Trader</source>
@@ -2572,8 +2543,7 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Pirates">
         <source>Pirates</source>
-        <target state="translated"></target>
-        <note from="developer">(text of widget: lbl_pirates) Whether to create this kind of player in the game.</note>
+        <target state="translated">Merirosvot</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Color:">
         <source>Color:</source>
@@ -2886,11 +2856,11 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Thank you for using Unknown Horizons!">
         <source>Thank you for using Unknown Horizons!</source>
-        <target state="translated">Kiitos, että käytitte peliä Unknown Horizons!</target>
+        <target state="translated">Kiitos, että pelasit Unknown Horizonsia!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="FIFE was not found.">
         <source>FIFE was not found.</source>
-        <target state="translated">FIFE: tä ei löytynyt.</target>
+        <target state="translated">FIFE:ä ei löytynyt.</target>
       </trans-unit>
     </body>
   </file>
