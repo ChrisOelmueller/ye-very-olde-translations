@@ -4,32 +4,27 @@
     <body>
       <trans-unit xml:space="preserve" approved="yes" id="Tutorial">
         <source>Tutorial</source>
-        <target state="translated">Tutoriaali</target>
-        <note from="developer">scenario difficulty</note>
+        <target state="translated">Harjoituspeli</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The UH team">
         <source>The UH team</source>
-        <target state="translated">UH-ryhmä</target>
-        <note from="developer">scenario author</note>
+        <target state="translated">Unknown Horizonsin kehittäjät</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The tutorial:&#10;Build your first settlement and learn how to play!&#10;">
         <source>The tutorial:
 Build your first settlement and learn how to play!
 </source>
-        <target state="translated">Tutoriaali:
-Rakenna ensimmäinen asutuskeskuksesi ja opi kuinka pelata!
+        <target state="translated">Harjoituspeli:
+Rakenna ensimmäinen siirtokuntasi ja opi, miten tätä peliä pelataan!
 </target>
-        <note from="developer">scenario description</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a branch office at the coast, so it is easy accessible for other ships like the Free Trader.">
         <source>Build a branch office at the coast, so it is easy accessible for other ships like the Free Trader.</source>
-        <target state="translated"></target>
-        <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
+        <target state="translated">Rakenna rannikolle sivutoimistosi, jossa se on hyvien kulkuyhteyksien päässä.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Welcome to Unknown Horizons!">
         <source>Welcome to Unknown Horizons!</source>
-        <target state="translated">Tervetuloa peliin Unknown Horizons!</target>
-        <note from="developer">This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).</note>
+        <target state="translated">Tervetuloa Unknown Horizonsiin!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="This is your Captain's log where all important information is stored. A short notification of each task will be provided on the left of the screen.&#10;&#10;If you are interested in longer descriptions, your log will hopefully provide all the help you need.&#10;&#10;After you close this log, it can be re-opened with the 'Captain's Log' icon in the top-right corner (below the mini-map, with a sealed document and a feather).&#10;&#10;For any suggestions on better wording, topics you would like to have explained or even buggy conditions: Please tell us and we will try to improve the tutorial!&#10;&#10;Visit www.unknown-horizons.org for help on how to contact the team!&#10;&#10;And now, let's start the actual game.">
         <source>This is your Captain's log where all important information is stored. A short notification of each task will be provided on the left of the screen.
@@ -43,23 +38,21 @@ For any suggestions on better wording, topics you would like to have explained o
 Visit www.unknown-horizons.org for help on how to contact the team!
 
 And now, let's start the actual game.</source>
-        <target state="translated">Tämä on kapteenin lokikirja, johon kaikki tärkeä tieto kirjataan. Lyhyt huomautus jokaisesta tehtävästä tarjotaan kuvaruudun vasempaan reunaan.
+        <target state="translated">Tämä on Kapteenin päiväkirja, johon kirjataan kaikki pelin kannalta olennaiset tiedot. Jokaisesta tehtävästä ilmoitetaan vasemmassa reunassa.
 
-Jos olet kiinnostunut tarkemmista kuvauksista, niin lokikirjastasi toivottavasti löytyy kaikki tarvitsemasi.
+Jos olet kiinnostunut tarkemmista kuvauksista, niin tästä päiväkirjasta pitäisi löytyä kaikki tarvitsemasi.
 
-Kun olet sulkenut tämän lokikirjan, voit avata sen uudelleen 'Kapteenin lokikirja'-kuvakkeesta oikeasta yläkulmasta (minimap:n alapuolelta, sinetöidyn dokumentin ja sulan kera).
+Kun olet sulkenut tämän päiväkirjan, voit avata sen uudelleen "Kapteenin päiväkirja" -kuvakkeesta oikeasta yläkulmasta (pikkukartan alapuolelta, kuvakkeessa on sinetöity kirje ja sulka).
 
-Jos keksit ehdotuksia paremmille sanamuodoille, aiheita, joista haluaisit kuulla tai törmäät vikatilanteeseen: Pyydämme kertomaan meille, niin me yritämme parantaa tutoriaalia!
+Jos keksit ehdotuksia paremmalle kieliopille, haluaisit kuulla jostain lisää tai törmäät vikatilanteeseen, kerrothan siitä meille, niin me yritämme parantaa tätä harjoituspeliä!
 
-Vieraile sivustolla www.unknown-horizons.org löytääksesi ohjeet, kuinka ottaa yhteyttä kehitysryhmään!
+Sivustoltamme osoitteessa www.unknown-horizons.org löydät kehitysryhmän yhteystiedot.
 
-Ja nyt, aloitetaanpas varsinainen peli.</target>
-        <note from="developer">This is the text body of a logbook page.</note>
+Ja nyt viimeinkin, aloitetaanpas itse peli!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: SETTLE ON AN ISLAND">
         <source>NEW TASK: SETTLE ON AN ISLAND</source>
         <target state="translated">ASETU SAARELLE</target>
-        <note from="developer">This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="To move your ship, select it with a left click and right click on the location you want it to go to.&#10;&#10;Once you are near the coast, the anchor-like button you see in the overview tab will become active.&#10;&#10;This indicates that you are able to build a branch office there by pressing that button (called 'Build Settlement').&#10;&#10;Now a preview of your building is dragged around when you move the cursor.&#10;&#10;You can build on any spot where this preview is not shaded red.&#10;Click where you want to place your first building.&#10;&#10;TASK: Build a branch office at the coast.">
         <source>To move your ship, select it with a left click and right click on the location you want it to go to.
@@ -74,24 +67,22 @@ You can build on any spot where this preview is not shaded red.
 Click where you want to place your first building.
 
 TASK: Build a branch office at the coast.</source>
-        <target state="translated">Liikuttaaksesi laivaasi, valitse se hiiren vasemmalla painonapilla ja oikealla sijainti, johon haluat sen menevän.
+        <target state="translated">Liikuta laivaasi valitsemalla se hiiren vasemmalla painikkeella ja oikealla sijainti, johon haluat sen menevän.
 
-Kun olet rannikon lähellä, ankkurimainen näppäin yleiskatsaus-välilehdellä tulee aktiiviseksi.
+Kun olet rannikon lähellä, ankkurimainen näppäin laivan Yleiskatsaus-välilehdellä muuttuu aktiiviseksi.
 
-Tämä kertoo, että voit rakentaa sivutoimiston siihen painamalla näppäintä (nimeltään 'Rakenna asutuskeskus').
+Tämä kertoo, että voit rakentaa sivutoimiston siihen painamalla näppäintä (nimeltään "Rakenna asutuskeskus").
 
-Nyt kuva tulevasta rakennuksestasi seuraa hiiresi osoitinta.
+Tämän jälkeen voit valita sivutoimistolle liikuttelemalla hiiresi osoitinta.
 
-Voit rakentaa mihin tahansa, missä kuvalla ei ole punertavaa värisävyä.
-Paina hiirellä mihin haluat rakentaa ensimmäisen rakennuksesi.
+Voit rakentaa sivutoimiston mihin tahansa, kunhan rakennuksen kuvalla ei ole punertavaa värisävyä. Sivutoimiston on oltava rannikolla.
+Kun olet löytänyt sopivan paikan, napsauta hiiren vasenta painiketta.
 
 TEHTÄVÄ: Rakenna sivutoimisto rannikolle.</target>
-        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A LUMBERJACK">
         <source>NEW TASK: BUILD A LUMBERJACK</source>
         <target state="translated">RAKENNA PUUNHAKKAAJA</target>
-        <note from="developer">This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The construction material on your ship got unloaded automatically. You can now construct some basic buildings.&#10;&#10;We will start with building a lumberjack.&#10;&#10;This is essential because, at this stage, boards are the only poles your sailors can afford to hang their tents over.&#10;&#10;The fisherman needs some boards to build his vessel as well.&#10;&#10;In order to construct lumberjacks; open the build menu by either clicking the big icon below the mini map or pressing B key.&#10;&#10;The build menu is sorted by increments.&#10;You are currently in the first increment (the Sailors level) so are offered only the basic buildings.">
         <source>The construction material on your ship got unloaded automatically. You can now construct some basic buildings.
@@ -106,8 +97,15 @@ In order to construct lumberjacks; open the build menu by either clicking the bi
 
 The build menu is sorted by increments.
 You are currently in the first increment (the Sailors level) so are offered only the basic buildings.</source>
-        <target state="translated"></target>
-        <note from="developer">This is the text body of a logbook page.</note>
+        <target state="translated">Laivasi lastina olleet tavarat puretaan siirtokuntaasi automaattisesti. Voit nyt rakentaa joitain perusrakennuksia.
+
+Aloittakaamme puunhakkaajalla.
+
+Puunhakkaaja on tärkeä, koska lautoja tarvitaan useimpiin rakennuksiin, mukaan lukien asukkaidesi telttoihin. Esimerkiksi kalastaja tarvitsee lautoja alustensa rakentamiseen.
+
+Rakenna puunhakkaajan näin: avaa ensin rakennusvalikko joko napsauttamalla pikkukartan alapuolella olevista napeista keskimmäistä tai painamalla pikanäppäintä B.
+
+Rakennusvalikko on jaettu siirtokunnan tason mukaan välilehtiin (vasen reuna). Tässä vaiheessa voit rakentaa vain ensimmäisen eli Merenkulkijat-tason rakennuksia.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="As your civilization advances, you also gain more and more complex buildings.&#10;&#10;For now, select the lumberjack under 'Companies' and build it in an area with some trees around.&#10;&#10;You can also plant trees later - but that costs money. Use what nature provided you with!&#10;&#10;A company always needs a trail connection to a storage or branch office, otherwise goods will remain at the company and not be collected.&#10;&#10;This means that you have to build a trail connecting your branch office (or storage) and lumberjack.&#10;&#10;TASK: Build a lumberjack in a wooded area and connect it to a road.&#10;&#10;Watch how a collector will fetch your first self-produced boards.">
         <source>As your civilization advances, you also gain more and more complex buildings.
@@ -123,25 +121,23 @@ This means that you have to build a trail connecting your branch office (or stor
 TASK: Build a lumberjack in a wooded area and connect it to a road.
 
 Watch how a collector will fetch your first self-produced boards.</source>
-        <target state="translated">Kun yhteiskuntasi kehittyy, saat käyttöösi yhä monimutkaisempia rakennuksia.
+        <target state="translated">Kun yhteiskuntasi kehittyy, saat käyttöösi monimutkaisempia rakennuksia.
 
-Nyt riittää, että valitset puunhakkaajan kohdasta 'Yritykset' ja rakennat sen alueelle, jolla on puita ympärillä.
+Nyt riittää, että valitset puunhakkaajan kohdasta "Yritykset" ja rakennat sen alueelle, jolla on riittävästi puita ympärillä.
 
-Voit myös istuttaa puita myöhemmin - mutta se maksaa rahaa. Käytä sitä mitä luonto on sinulle tarjonnut.
+Voit tarvittaessa istuttaa myöhemmin myös puita - mutta se maksaa rahaa. Käytä ensisijaisesti sitä, mitä luonto on sinulle tarjonnut.
 
 Yritys tarvitsee polkuyhteyden varastoon tai sivutoimistoon, muutoin tavarat jäävät yritykselle eikä niitä saada kerättyä.
 
-Tämä tarkoittaa, että sinun tulee rakentaa polku yhdistämään sivutoimistosi (tai varaston) puunhakkaajalle.
+Rakenna siis polku yhdistämään sivutoimistosi (tai varaston) puunhakkaajalle.
 
-TEHTÄVÄ: Rakenna puunhakkaaja metsittyneelle alueelle ja yhdistä se tiehen.
+TEHTÄVÄ: Rakenna puunhakkaaja metsittyneelle alueelle ja yhdistä se tiellä sivutoimistoon tai varastoon.
 
-Katsele kuinka kerääjä hakee ensimmäiset itsevalmistetut laudat.</target>
-        <note from="developer">This is the text body of a logbook page.</note>
+Katsele, kun kerääjä hakee ensimmäiset itsevalmistetut lautasi.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a lumberjack and connect it to the branch office using a trail.">
         <source>Build a lumberjack and connect it to the branch office using a trail.</source>
-        <target state="translated">Rakenna puunhakkaaja ja yhdistä se sivutoimistoon käyttämällä polkua.</target>
-        <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
+        <target state="translated">Rakenna puunhakkaaja ja yhdistä se sivutoimistoon polulla.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: FOOD SUPPLY">
         <source>NEW TASK: FOOD SUPPLY</source>
@@ -160,16 +156,15 @@ Note that you can place your Hunter close to the lumberjack's forest.
 It can happen that the animals don't reproduce fast enough or simply hide well.
 
 Conclusion: the hunter is not too reliable if you need continuous supply.</source>
-        <target state="translated">Tulet tarvitsemaan ruokaa tuottavia yrityksiä myös, sillä ihmiset yleensäkin (ja varsinkin merenkävijät) ovat nälkäisiä.
+        <target state="translated">Tulet tarvitsemaan myös ruokaa tuottavia yrityksiä, sillä asukkaasi tarvitsevat ruokaa.
 
-Saatavilla olevia yrityksiä ensimmäisellä tasolla ovat Metsästäjä ja Kalastaja.
+Ensimmäisellä tasolla voit rakentaa Metsästäjän ja Kalastajan.
 
-Huomaa, että voit sijoittaa Metsästäjäsi lähelle puunhakkaajan metsää.
+Metsästäjä metsästää eläimiä (yllätys yllätys) metsästä. Se kannattaa sijoittaa lähelle puunhakkaajan metsää.
 
-Voi käydä niin, että eläimet eivät lisäänny riittävän nopeasti tai osaavat vain piiloutua liian hyvin.
+Metsästäjän huonona puolena eläimet eivät välttämättä lisäänny riittävän nopeasti tai osaavat piiloutua liian hyvin.
 
 Johtopäätös: metsästäjä ei ole mahdottoman luotettava, jos tarvitset jatkuvaa tarjontaa.</target>
-        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The Fisher needs a coastal building site like the branch office and a fish school in range.&#10;&#10;He will build a small rowing vessel and catch some fish.&#10;&#10;This is a very constant supply at the cost of a slightly longer production time per unit of food.&#10;&#10;A small settlement like yours can use both companies, and you can better balance pros and cons if you see the direct comparison.&#10;&#10;TASK: Build a hunter and a fisher.&#10;&#10;Don't forget to connect them to your branch office with trails!">
         <source>The Fisher needs a coastal building site like the branch office and a fish school in range.
@@ -183,23 +178,21 @@ A small settlement like yours can use both companies, and you can better balance
 TASK: Build a hunter and a fisher.
 
 Don't forget to connect them to your branch office with trails!</source>
-        <target state="translated">Kalastaja tarvitsee rannikkorakennuspaikan kuten sivutoimiston ja kalastuskoulun kantamaansa.
+        <target state="translated">Kalastaja pitää rakentaa rannikolle kuten sivutoimistokin ja tarvitsee kalastuskoulun kantamaansa.
 
-Hän rakentaa pienen soutuveneen ja nappaa kaloja.
+Kalastaja rakentaa pienen soutuveneen ja alkaa pyydystämään kaloja.
 
-Tämä on todella pysyväinen ruoanlähde, mutta vie hieman pidemmän valmistusajan yksittäiselle ruokapalalle.
+Kalastus on todella pitkäikäinen ruoanlähde, mutta hitaampaa kuin metsästäminen.
 
-Pieni asutuskeskus kuten omasi voi käyttää molempia, ja pystyt paremmin tasapainottamaan hyvät ja huonot puolet, jos näet suoran vertailun.
+Pieni asutuskeskus kuten omasi voi käyttää molempia, jolloin pystyt paremmin tasapainottamaan hyvät ja huonot puolet.
 
 TEHTÄVÄ: Rakenna metsästäjä ja kalastaja.
 
 Älä unohda yhdistää niitä sivutoimistoosi poluilla!</target>
-        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a hunter and a fisher. Connect them to the branch office.">
         <source>Build a hunter and a fisher. Connect them to the branch office.</source>
-        <target state="translated">Rakenna metsästäjä ja kalastaja. Yhdistä ne sivutoimistoon.</target>
-        <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
+        <target state="translated">Rakenna metsästäjä ja kalastaja ja yhdistä ne sivutoimistoosi.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: MAIN SQUARE">
         <source>NEW TASK: MAIN SQUARE</source>
@@ -220,16 +213,15 @@ You should avoid placing tents too close to your lumberjacks for example because
 TASK: Build a main square.</source>
         <target state="translated">Asukkaasi tarvitsevat keskustorin, jolta he voivat hankkia elintarvikkeensa.
 
-Tämä tarkoittaa, että he tarvitsevat kulkuyhteyden kodeistaan keskustorille.
+Keskustorille pitää siis olla kulkuyhteys asukkaiden asunnoilta.
 
-Kaikki elintarvikkeet sivutoimistollasi ovat saatavilla tältä 'kauppapaikalta', joten asukkaidesi ei tarvitse kävellä kalastajalle tai jopa sivutoimistolle.
+Kaikki elintarvikkeet sivutoimistollasi ovat saatavilla tältä "kauppapaikalta", joten asukkaidesi ei tarvitse kävellä erikseen kalastajalle ja metsästäjälle saati sitten sivutoimistolle.
 
-Sinun tulisi harkita perustavasi varsinaisen taloasutuskeskuksesi alueelle, jolta voit helposti laajentaa sitä ja myös rakentaa polkuja.
+Tässä vaiheessa kannattaa myös suunnitella varsinaisen taloasutuskeskukseen paikkaa, jota voit helposti laajentaa ja yhdistää muihin palveluihin.
 
-Sinun tulee välttää sijoittamasta telttojasi esimerkiksi liian lähelle puunhakkaajiasi, koska telttojen rakentaminen raivaa puut, joita puunhakkaajasi tarvitsee rakentaakseen lautoja.
+Vältä esimerkiksi telttojen sijoittamista puunhakkaajan läheisyyteen, sillä teltan pystyttäminen raivaa paikalla olevat puut (ja et pääse sahaamaan niitä laudoiksi hyötykäyttöön).
 
 TEHTÄVÄ: Rakenna keskustori.</target>
-        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Now let's have a closer look at the main square.&#10;&#10;In the 'Account' tab you get a balance sheet of this island, featuring all costs you pay and all taxes you earn.&#10;&#10;The items 'Sale' and 'Buy' refer to your trading balance and will be explained later on.&#10;&#10;If your balance is positive, you all-in-all make a profit.&#10;&#10;In the different increment overview tabs you can see statistics about your inhabitants. You also set the increment-specific global tax here and allow or deny inhabitants of this increment to upgrade to the next higher one.">
         <source>Now let's have a closer look at the main square.
@@ -241,8 +233,15 @@ The items 'Sale' and 'Buy' refer to your trading balance and will be explained l
 If your balance is positive, you all-in-all make a profit.
 
 In the different increment overview tabs you can see statistics about your inhabitants. You also set the increment-specific global tax here and allow or deny inhabitants of this increment to upgrade to the next higher one.</source>
-        <target state="translated"></target>
-        <note from="developer">This is the text body of a logbook page.</note>
+        <target state="translated">Tutustutaan kuitenkin nyt tarkemmin keskustoriin.
+
+Budjetti-välilehdellä näet siirtokuntasi taloudellisen tilan, kuten ansaitsemasi verot ja rakennuksien ylläpitoon kuluvat juoksevat kulut.
+
+Osta- ja Myynti-kohtien perusteella määritellään siirtokuntasi taloudellinen tasapaino, josta puhumme myöhemmin lisää.
+
+Jos taloutesi on plussan puolella, siirtokuntasi tekee voittoa.
+
+Asukkaat-välilehdellä näet tietoja asukkaistasi. Voit määritellä myös veroprosenttisi ja sallia tai estää heitä päivittämästä asuntojaan korkeammalle tasolle.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a main square. Choose an area without many economy buildings.">
         <source>Build a main square. Choose an area without many economy buildings.</source>
@@ -262,14 +261,13 @@ Tents are the basic residential buildings. Your inhabitants will want to upgrade
 Settlers may not look very useful since they will try to consume all goods you produce - but they at least pay taxes, and that's the only way you can make money for now!
 
 TASK: Build a tent and connect it to the main square.</source>
-        <target state="translated">Uudisasukkaat haluavat katon päänsä päälle, muuten he eivät tulisi ajatelleeksikaan asuvansa kaupungissasi! Sinun tarvitsee tarjota telttoja.
+        <target state="translated">Uudisasukkaat haluavat katon päänsä päälle, muuten he eivät tule lähellekään siirtokuntaasi! Sinun pitää siis pystyttää telttoja.
 
-Teltat ovat perusasuinrakennuksia. Asukkaasi haluavat kehittää asumustaan, kun he saavuttavat korkeampia korotuksia.
+Teltat ovat perusasuinrakennuksia. Asukkaasi haluavat kehittää asumustaan, kun heillä on varaa ja taitoja siihen.
 
-Uudisasukkaat eivät välttämättä näytä hyödyllisiltä, sillä he yrittävät kuluttaa tuottamiasi elintarvikkeita, mutta he sentään maksavat veroja, ja se on tällä hetkellä ainoa tapa, jolla saat rahaa!
+Uudisasukkaat eivät välttämättä näytä hyödyllisiltä, sillä he kuluttavat tuottamiasi elintarvikkeita. He sentään kuitenkin maksavat veroja, ja se on tällä hetkellä ainoa tapa, jolla saat rahaa!
 
 TEHTÄVÄ: Rakenna teltta ja yhdistä se polulla keskustoriin.</target>
-        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a tent and connect it to the main square.">
         <source>Build a tent and connect it to the main square.</source>
@@ -293,21 +291,20 @@ TASK: Build at least three additional tents.
 
 TIP: Holding down SHIFT eases constructing multiple buildings of the same kind.</source>
         <target state="translated">Katsotaanpa telttayleiskatsauksen välilehteä.
-Näet
-* näiden asukkaiden onnellisuuden,
-* heidän maksamansa verot ja
-* heidän vaatimansa tarvikkeet.
+Näet teltan asukkaiden
+* onnellisuuden,
+* maksamat verot ja
+* vaatimat resurssit.
 
-Jos heidän vaatimuksensa täytetään, onnellisuus lisääntyy ja sitä kautta verotulosi.
+Jos täytät heidän vaatimuksensa, onnellisuus lisääntyy ja siten myös verotulosi.
 
-Jos ei täytetä, onnellisuus ja tulot laskevat. Asukkaat saattavat tulla hyvin happamiksi ja yksinkertaisesti kääntää selkänsä kylällesi jättäen taakseen murenevat rauniot.
+Jos et täytä, onnellisuus ja tulot laskevat. Asukkaat saattavat tulla hyvin happamiksi ja yksinkertaisesti kääntää selkänsä kylällesi jättäen taakseen murenevat rauniot.
 
-Huomaa, että voit muuttaa veroasetuksia myös täällä.
+Voit myös valita veroprosentin talouskohtaisesti telttayleiskatsauksessa.
 
 TEHTÄVÄ: Rakenna vähintään kolme telttaa lisää.
 
-VIHJE: VAIHTO-näppäimen pitäminen pohjassa helpottaa usean saman lajin rakennuksen rakentamista.</target>
-        <note from="developer">This is the text body of a logbook page.</note>
+VIHJE: VAIHTO-näppäimen pitäminen pohjassa helpottaa usean samanlaisen rakennuksen rakentamista.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build at least three additional tents and connect them to the main square.">
         <source>Build at least three additional tents and connect them to the main square.</source>
@@ -330,8 +327,16 @@ Normally the trader ships just sail around and look for deals, but you can speed
 For this purpose, build a signal fire at the coast near your branch office. It will show ships the way to your settlement.
 
 The signal fire has to cover the area which the ships pass through to catch them.</source>
-        <target state="translated"></target>
-        <note from="developer">This is the text body of a logbook page.</note>
+        <target state="translated">Oletko huomannut laivan ohittavan säännöllisesti siirtokuntasi? Alus on vapaakauppiaan, yksi saariston ensimmäisistä uudisasukkaista.
+
+Kauppiaalta voit ostaa hyödyllisiä tarvikkeita, joita et voi tuottaa vielä itse
+Tarvittaessa voit myydä myös ylijäämätuotantoasi, mutta tämä kannattaa ennemminkin korvata rakentamalla lisää telttoja (jolloin asukkaita tulee lisää ja resursseja kuluu enemmän).
+
+Normaalisti kauppa-alukset vain kiertelevät ympäriinsä etsien hyviä kauppapaikkoja, mutta voit nopeuttaa tätä prosessia.
+
+Tätä varten pitää rakentaa merkkituli rannikolle sivutoimistosi lähelle. Se osoittaa kauppalaivoille tien siirtokuntaasi.
+
+Siirtotulikaan ei näy loputtoman kauaksi, vaan sillä on tietty kantama-alue, jonka sisällä kulkevat laivat huomaavat sen.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="After this little advertisment, the trader will also stop by and look into your branch office if it planned to sail past it.&#10;&#10;You can propose deals via the branch office tab 'Buy/Sell'. (This feature is currently quite fiddly to use. If you come up with a nice way of improving it, please share your thoughts! We need your help here!)&#10;&#10;At the 'sailors' increment, you are equipped with three trading slots.&#10;&#10;Click on the small icon to change the slot mode from 'Buy' to 'Sell' and vice versa.&#10;&#10;Click in the slot to choose the good you want to trade with. We will further explain this once you are ready to trade.&#10;&#10;TASK: Build a signal fire at the coast close to your branch office.">
         <source>After this little advertisment, the trader will also stop by and look into your branch office if it planned to sail past it.
@@ -345,8 +350,17 @@ Click on the small icon to change the slot mode from 'Buy' to 'Sell' and vice ve
 Click in the slot to choose the good you want to trade with. We will further explain this once you are ready to trade.
 
 TASK: Build a signal fire at the coast close to your branch office.</source>
-        <target state="translated"></target>
-        <note from="developer">This is the text body of a logbook page.</note>
+        <target state="translated">Tämän pikku mainostuksen jälkeen kauppias alkaa etsiä sivutoimistoasi.
+
+Voit ehdottaa kauppiaalle kauppoja sivutoimistosi Kaupankäynti-välilehdellä. (Kaupankäynti on vielä vähän vaikeakäyttöistä. Jos keksit paremman tavan sen toteuttamiseen, jaa se kanssamme! Tarvitsemme apuasi tämän toteuttamisessa!)
+
+Merenkävijät-tasolla sinulla on kolme kauppapaikkaa, eli voit asettaa kolme tarjousta vapaakauppiaalle kerrallaan.
+
+Voit muuttaa myyntitarjouksen ostotarjoukseksi napsauttamalla kauppapaikan vasemman yläkulman pienestä kuvakkeesta.
+
+Voit valita kaupattavan tuotteen napsauttamalla kauppapaikkaa. Kerromme tästä ominaisuudesta myöhemmin, kun olet valmis kaupankäyntiin.
+
+TEHTÄVÄ: Rakenna merkkituli rannikolle sivutoimistosi lähelle.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a signal fire at the coast close to your branch office.">
         <source>Build a signal fire at the coast close to your branch office.</source>
@@ -368,16 +382,15 @@ After selecting a particular type of good, the green bar across the bottom of th
 Dragging the slider on the right of each slot determines your 'target value' which has a different meaning on 'Buy' and 'Sell'. 
 When buying, you will buy sufficient to hold your 'target value' in stock. 
 When selling the 'target value' is the number which you hold in reserve to not sell</source>
-        <target state="translated">Loistavaa! Vapaakauppias pysähtyy nyt sivutoimistollesi ajasta aikaan.
+        <target state="translated">Loistavaa! Vapaakauppias pysähtyy nyt säännöllisesti sivutoimistollasi.
 
-Jatketaanpas kaupankäyntitutoriaalia.
+Jatketaanpas kaupankäyntiin tutustumisella.
 
-Valittuasi tietyntyyppisen tavaran, vihreä palkki tavararuudun alaosassa (jos näkyvillä) näyttää kuinka paljon sinulla on tätä tavaraa varastossa.
+Kun olet valinnut kauppapaikkaan resurssin, oikeassa (ala)reunassa oleva vihreä palkki näyttää kuinka paljon tätä resurssia on varastossa. Jos resurssia ei ole yhtään, palkkia ei näy.
 
-Vetämällä vetimen kunkin tavararuudun oikealla puolella valitaan 'tavoiteltu arvo', jolla on eri merkitys 'Ostossa' ja 'Myynnissä'.
-Ostaessa, ostat riittävästi säilyttääksesi 'tavoitellun arvon' varastossasi.
-Myydessä 'tavoiteltu arvo' on lukumäärä, jonka haluat säilyttää myymättömänä.</target>
-        <note from="developer">This is the text body of a logbook page.</note>
+Liikuttamalla liukusäädintä tavararuudun (kauppapaikan) oikealla puolella valitaan kuinka paljon tavaraa korkeintaan myydään tai ostetaan.
+Ostaessa liukusäätimen luku on se määrä, jonka tavoittelet olevan varastoissasi.
+Myydessä taas luku ilmaisee määrää, jonka haluat pitää itselläsi (jota ei aseteta myyntiin).</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="For example: &#10;Having a 'Buy' slot and 5 tons in stock, a slider positioned at 9 tons will cause you to buy 4 additional tons at most.&#10;Selling works similarly. A 'Sell' slot with 18 tons in stock and the slider positioned at 13 will sell up to 5 tons.&#10;&#10;If the free trader however only wants to buy or sell less than your settings would allow him, you need to live with that and wait for him to return.&#10;&#10;Unknown Horizons features smart pricing, so the value of one unit can vary.&#10;It is NOT possible to change prices manually!&#10;&#10;You can see your trade balance in the 'Account' tab comparing the 'Sale' and 'Buy' values there.&#10;&#10;TASK: Buy as many tools as you need to have 30 tools in stock!">
         <source>For example: 
@@ -392,8 +405,18 @@ It is NOT possible to change prices manually!
 You can see your trade balance in the 'Account' tab comparing the 'Sale' and 'Buy' values there.
 
 TASK: Buy as many tools as you need to have 30 tools in stock!</source>
-        <target state="translated"></target>
-        <note from="developer">This is the text body of a logbook page.</note>
+        <target state="translated">Esimerkki:
+Tavararuutu on asetettu Osta-asentoon. Sinulla on 5 tonnia lautoja varastossa, ja olet asettanut liukusäätimen yhdeksään tonniin. Tällöin hankit korkeintaan 4 tonnia lautoja lisää.
+Myyminen toimii samalla tavalla. Kun Myy-asennossa oleva tavararuudun liukusäädin on 13 tonnissa ja varastossa on tavaraa 18 tonnia, tavaraa myydään korkeintaan 5 tonnia.
+
+Jos vapaakauppias ei kuitenkaan ole valmis myymään/ostamaan toivomaasi määrää, et voi sille mitään, vaan joudut odottamaan kauppiaan seuraavaa käyntiä.
+
+Unknown Horisonzsissa on älykäs hinnoittelujärjestelmä, joten hinnat voivat olla muuttuneet kauppiaan seuraavalla käyntikerralla.
+Hintoihin EI VOI vaikuttaa itse.
+
+Budjetti-välilehdellä näet kaupankäynnin tasapainon kohdista "Ostot" ja "Myynti".
+
+TEHTÄVÄ: Osta niin paljon työkaluja vapaakauppiaalta, että sinulla on 30 työkalua varastossa!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Reach an island stock of at least 30 tools.">
         <source>Reach an island stock of at least 30 tools.</source>
@@ -402,8 +425,7 @@ TASK: Buy as many tools as you need to have 30 tools in stock!</source>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Note that this might take a while.">
         <source>Note that this might take a while.</source>
-        <target state="translated"></target>
-        <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
+        <target state="translated">Huomioi, että tämä voi viedä jonkin aikaa.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A PAVILION">
         <source>NEW TASK: BUILD A PAVILION</source>
@@ -426,14 +448,13 @@ In later increments, upgraded versions of buildings may become available.</sourc
 
 Tarjoat nyt asutusta, keskustorin ja ruokaa asukkaillesi.
 
-Yhä on yksi vaatimus, jota ei olla vielä täytetty, voit tarkistaa sen toripaikasta tai teltan välilehdestä - merenkävijäsi haluavat yksinkertaisen rakennuksen, jossa voivat rukoilla.
+Yhä on yksi vaatimus, jota ei olla vielä täytetty, voit tarkistaa sen halutessasi toripaikasta tai teltan välilehdestä - merenkävijäsi haluavat yksinkertaisen rakennuksen, jossa voivat rukoilla.
 
-Ratkaisu on kokoontumisteltta, jonka kyläpappi nopeasti rakentaa auringonsuojaksi.
+Siksipä sinun pitää rakentaa kylääsi kokoontumisteltta, jonka kyläpappi nopeasti rakentaa auringonsuojaksi.
 
-Myös tämänkaltaiset palvelurakennukset tarvitsee yhdistää polulla telttoihin, tai asukkaasi kokevat mahdottomaksi päästä niihin.
+Myös tämänkaltaiset palvelurakennukset pitää yhdistää polulla telttoihin, tai asukkaasi kokevat mahdottomaksi päästä niihin.
 
-Myöhemmillä tasoilla, päivitettyjä versioita rakennuksista saattaa tulla tarjolle.</target>
-        <note from="developer">This is the text body of a logbook page.</note>
+Myöhemmillä tasoilla rakennuksista saattaa tulla tarjolle päivitettyjä versioita.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Note that faith is treated like a physical resource!&#10;&#10;This means that your inhabitants need a road connection to the producer (pavilion) to pick up faith there.&#10;After some time, they will have consumed it and then again look for a producer to collect more faith.&#10;&#10;Important:&#10;It is NOT enough that the building is merely within a certain range of the tents.&#10;The road connection is required as well.&#10;&#10;TASK: Build a pavilion with a trail to the tents in order to fulfill your sailors' demand for faith.">
         <source>Note that faith is treated like a physical resource!
@@ -446,8 +467,14 @@ It is NOT enough that the building is merely within a certain range of the tents
 The road connection is required as well.
 
 TASK: Build a pavilion with a trail to the tents in order to fulfill your sailors' demand for faith.</source>
-        <target state="translated"></target>
-        <note from="developer">This is the text body of a logbook page.</note>
+        <target state="translated">Huomioi, että uskoa on kohdeltava samoin kuin muitakin resursseja!
+
+Tämä tarkoittaa että sinun on tarjottava kaikille asukkaille polkuyhteys uskontoa tuottavan (kokoontumisteltan) luokse.
+He keräävät uskovarantonsa täyteen, mutta varannotkin kuitenkin tyhjentyvät joskus. Jonkun ajan kuluttua heidän on päästävä kokoontumisteltalle uudelleen täyttämään uskonnolliset tarpeensa uudelleen.
+
+Tärkeää:Ei riitä, että kokoontumisteltta on asuntojen lähellä, vaan sinne on oltava myös tieyhteys.
+
+TEHTÄVÄ: Rakenna kokoontumisteltta polkuyhteydellä asukkaidesi luokse.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a pavilion with connection to the tents.">
         <source>Build a pavilion with connection to the tents.</source>
@@ -469,16 +496,15 @@ To make them happy, there is nothing else for you to do but setting taxes to a l
 You should try to not always run on low taxes since this will probably lead to bankruptcy sooner or later. For a period of time and if you know what you are doing, it is fine though.
 
 After some time, the first unit should walk to the main square and have a look for new construction material there to build a log house. This house will replace the old tent.</source>
-        <target state="translated">Kaikki vaatimukset on täytetty nyt, jos asukkaasi voivat säännöllisesti vierailla keskustorilla ja kokoontumisteltassa ja ruokavarantosi on riittävä.
+        <target state="translated">Kaikki vaatimukset on nyt täytetty, kunhan asukkaasi voivat säännöllisesti vierailla keskustorilla ja kokoontumisteltassa ja ruokavarantosi on riittävä.
 
-Jos merenkävijäsi ovat riittävän onnellisia, he haluavat kehittyä seuraavalle tasolle, Pioneereiksi.
+Jos merenkävijäsi ovat riittävän onnellisia, he haluavat kehittyä seuraavalle tasolle, kansoittajiksi.
 
-Tehdäksesi heistä onnellisia, sinun ei tarvitse tehdä muuta kuin asettaa veroprosentin matalemmalle, sillä olet jo täyttänyt asukkaidesi kaikki vaatimukset.
+Voit tehdä asukkaasi onnellisemmiksi laskemalla veroprosenttiasi. Muuta sinun ei tarvitse tehdä, sillä olet jo täyttänyt asukkaidesi kaikki vaatimukset.
 
-Sinun ei kannata yrittää pitää koko aikaa alhaisia veroja, sillä tästä todennäköisesti aiheutuu vararikko ennemmin tai myöhemmin. Joksikin aikaa, ja jos tiedät mitä teet, se on hyvä.
+Veroprosenttia ei kannata kuitenkaan koko aikaa pitää alhaalla, sillä tästä todennäköisesti aiheutuu konkurssi ennemmin tai myöhemmin. Voit kuitenkin laskea prosenttia huoletta pieniksi ajoiksi.
 
-Jonkin ajan jälkeen, ensimmäisen yksikön pitäisi kävellä keskustorille ja etsiä sieltä uusia rakennustarvikkeita rakentaakseen hirsitalon. Tämä talo korvaa vanhan teltan.</target>
-        <note from="developer">This is the text body of a logbook page.</note>
+Jonkin ajan jälkeen ensimmäisen yksikön pitäisi kävellä keskustorille ja etsiä sieltä uusia rakennustarvikkeita rakentaakseen hirsitalon. Tämä talo korvaa vanhan teltan.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Such residential upgrades are the only ones which cost resources and can not be restricted by you.&#10;&#10;There are manual upgrades to some buildings where you use resources to construct a better version on the same spot, and there are upgrades without costs for example as you will see with the lumberjack (In this case, only the graphics change).&#10;&#10;Upgraded housing accomodates more inhabitants, and pioneers pay more taxes than sailors, too.&#10;&#10;As you may have figured out already, the downside is that pioneers demand additional goods which sailors do not need - so you will need to spend this extra money to make them happy as well.&#10;&#10;TASK: Set the tax level to Low (left end) and wait for sailors to upgrade.">
         <source>Such residential upgrades are the only ones which cost resources and can not be restricted by you.
@@ -503,8 +529,7 @@ TEHTÄVÄ: Aseta veroprosentti Matalaksi (vasemmassa päässä) ja odota merenk�
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Set the tax level to Low (left end) and wait for your sailors to upgrade.">
         <source>Set the tax level to Low (left end) and wait for your sailors to upgrade.</source>
-        <target state="translated">Laske verotasosi alas (vasempaan päähän) ja odota merenkävijöidesi päivittyvän.</target>
-        <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
+        <target state="translated">Laske verotasosi alas (palkin vasempaan päähän) ja odota merenkävijöidesi päivittyvän.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A FARM">
         <source>NEW TASK: BUILD A FARM</source>
@@ -523,18 +548,17 @@ Pioneers will demand cloth, so you need to set up a production line for cloth st
 The farm is a very special production building since it can produce not only one, but very many (and different) goods if you choose.
 
 The output of farms depends on what kind of fields you build around it.</source>
-        <target state="translated">Onneksi olkoon! Jotkin asukkaistasi ovat saavuttaneet tason II!
+        <target state="translated">Onneksi olkoon! Jotkut asukkaasi ovat saavuttaneet tason II!
 
 Nyt kun sinulla on pääsy uusiin rakennuksiin, katsopas Rakennus-valikkoa uudestaan.
 
 Sinne on ilmestynyt uusi uutukainen välilehti.
 
-Pioneerit tulevat vaatimaan vaatteita, joten sinun tarvitsee rakentaa tuotantolinja vaatteille aloittaen lampaanvillasta (joka on yksi maatilan tuottamista tarvikkeista).
+Kansoittajat tulevat vaatimaan vaatteita, joten sinun pitää rakentaa tuotantolinja vaatteille aloittaen lampaanvillasta (joka on yksi maatilan tuottamista tarvikkeista).
 
-Maatila on erittäin erityinen tuotantorakennus, sillä se voi tuottaa ei vain yhtä, vaan todella monia (ja erilaisia) tavaroita, jos niin päätät.
+Maatila on tärkeä tuotantorakennus, sillä se voi tuottaa todella monia (ja erilaisia) resursseja.
 
-Maatilojen tuotanto riippuu siitä, että millaisia peltoja olet sen ympärille rakentanut.</target>
-        <note from="developer">This is the text body of a logbook page.</note>
+Maatilojen tuotanto riippuu siitä, mitä peltoja olet rakentanut sen lähettyville.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="We will have a closer look at this later.&#10;&#10;Farms, like all companies producing raw materials, do not necessarily need to be connected to storage or a Branch Office.&#10;&#10;As long as units of the final production company can reach the farm, and collectors from the branch office or storage tent can reach the final company everything's fine.&#10;&#10;If you, however, plan to do some processing on different parts of the island (which can make sense) or even on different islands, you will need a connection to collectors.&#10;&#10;Try to build the farm not too close to the coast or your existing buildings since it will need some space around it to work well.&#10;&#10;TASK: Build a farm.">
         <source>We will have a closer look at this later.
@@ -550,21 +574,19 @@ Try to build the farm not too close to the coast or your existing buildings sinc
 TASK: Build a farm.</source>
         <target state="translated">Tarkastelemme tätä myöhemmin.
 
-Maatilat, kuten kaikki raaka-aineita valmistavat yritykset, eivät välttämättä tarvitse yhteyttä varastoon tai Sivutoimistoon.
+Raaka-aineita valmistavat yritykset eivät välttämättä tarvitse polkuyhteyttä varastoon tai sivutoimistoon. Maatila lukeutuu näihin yrityksiin.
 
-Niin kauan kun lopputuotannon yrityksen yksiköt tavoittavat maatilan, ja kerääjät sivutoimistolta tai varastolta saavuttavat lopullisen yrityksen, kaikki on hyvin.
+Kunhan lopputuotannon yritykset tavoittavat maatilan, ja kerääjät sivutoimistolta tai varastolta pääsevät lopputuottajalle, kaikki on hyvin.
 
-Jos kuitenkin suunnittelet tekeväsi asioita saaren eri osissa (missä saattaa olla järkeä) tai jopa eri saarilla, tulet tarvitsemaan yhteyden kerääjiin.
+Jos kuitenkin aiot valmistaa tuotteita eri saaren osissa (missä saattaa olla järkeä) tai jopa eri saarilla, tulet tarvitsemaan jonkinlaisen kulkuyhteyden sivutoimistoon tai johonkin varastoon.
 
-Yritä rakentaa maatila riittävän kauas rannikolta ja olemassa olevista rakennuksista, sillä se tulee tarvitsemaan tilaa ympärillensä toimiaksensa hyvin.
+Maatila kannattaa rakentaa kauaksi rannikosta ja asutuksesta, sillä se tulee tarvitsemaan tilaa toiminnalleen.
 
 TEHTÄVÄ: Rakenna maatila.</target>
-        <note from="developer">This is the text body of a logbook page.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a farm and keep some empty space around it.">
         <source>Build a farm and keep some empty space around it.</source>
-        <target state="translated">Rakenna maatila ja jätä hieman vapaata tilaa sen ympärille.</target>
-        <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
+        <target state="translated">Rakenna maatila ja jätä vapaata tilaa sen ympärille.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD FIELDS">
         <source>NEW TASK: BUILD FIELDS</source>
