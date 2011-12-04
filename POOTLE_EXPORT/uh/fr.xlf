@@ -17,6 +17,11 @@
         <target state="translated">Un nouveau monde a été créé.</target>
         <note from="developer">This is a database entry: a messagewidget message (left part of the screen).</note>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="AnimalCarriage">
+        <source>AnimalCarriage</source>
+        <target state="translated">AnimalCarriage</target>
+        <note from="developer">This is a database entry: the name of a unit.</note>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Boar">
         <source>Boar</source>
         <target state="translated">Sanglier</target>
@@ -36,6 +41,11 @@
         <source>Brickyard</source>
         <target state="translated">Briqueterie</target>
         <note from="developer">This is a database entry: the name of a building.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="BuildingCollector">
+        <source>BuildingCollector</source>
+        <target state="translated">BuildingCollector</target>
+        <note from="developer">This is a database entry: the name of a unit.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Butchery">
         <source>Butchery</source>
@@ -95,6 +105,16 @@
         <note from="developer">This is a database entry: the name of a building.</note>
         <note from="translator">Building</note>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FarmAnimalCollector">
+        <source>FarmAnimalCollector</source>
+        <target state="translated">FarmAnimalCollector</target>
+        <note from="developer">This is a database entry: the name of a unit.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FieldCollector">
+        <source>FieldCollector</source>
+        <target state="translated">FieldCollector</target>
+        <note from="developer">This is a database entry: the name of a unit.</note>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Fish Deposit">
         <source>Fish Deposit</source>
         <target state="translated">Banc de poisson</target>
@@ -138,6 +158,11 @@ This is a database entry: the name of a unit.</note>
         <target state="translated">Tente du chasseur</target>
         <note from="developer">This is a database entry: the name of a building.</note>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="HunterCollector">
+        <source>HunterCollector</source>
+        <target state="translated">HunterCollector</target>
+        <note from="developer">This is a database entry: the name of a unit.</note>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Iron Mine">
         <source>Iron Mine</source>
         <target state="translated">Mine de fer</target>
@@ -158,6 +183,11 @@ This is a database entry: the name of a unit.</note>
         <target state="translated">Camp de bûcherons</target>
         <note from="developer">This is a database entry: the name of a building.</note>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="LumberjackCollector">
+        <source>LumberjackCollector</source>
+        <target state="translated">LumberjackCollector</target>
+        <note from="developer">This is a database entry: the name of a unit.</note>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Main Square">
         <source>Main Square</source>
         <target state="translated">Place principale</target>
@@ -171,6 +201,7 @@ This is a database entry: the name of a unit.</note>
       <trans-unit xml:space="preserve" approved="yes" id="One of your settler has no main square in it's range.">
         <source>One of your settler has no main square in it's range.</source>
         <target state="translated">Un de vos colons n'a pas de place principale dans son périmètre.</target>
+        <note from="developer">This is a database entry: a messagewidget message (left part of the screen).</note>
         <note from="translator">85%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Pasture">
@@ -181,6 +212,7 @@ This is a database entry: the name of a unit.</note>
       <trans-unit xml:space="preserve" approved="yes" id="Pavilion">
         <source>Pavilion</source>
         <target state="translated">Pavillon</target>
+        <note from="developer">This is a database entry: the name of a building.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Pigsty">
         <source>Pigsty</source>
@@ -211,6 +243,12 @@ This is a database entry: the name of a unit.</note>
       <trans-unit xml:space="preserve" approved="yes" id="Screenshot has been saved to ${file}.">
         <source>Screenshot has been saved to ${file}.</source>
         <target state="translated">La capture de l'écran a été sauvegarée dans ${file}.</target>
+        <note from="developer">This is a database entry: a messagewidget message (left part of the screen).</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SettlerCollector">
+        <source>SettlerCollector</source>
+        <target state="translated">SettlerCollector</target>
+        <note from="developer">This is a database entry: the name of a unit.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sheep">
         <source>Sheep</source>
@@ -220,6 +258,7 @@ This is a database entry: the name of a unit.</note>
       <trans-unit xml:space="preserve" approved="yes" id="Signal Fire">
         <source>Signal Fire</source>
         <target state="translated">Phare</target>
+        <note from="developer">This is a database entry: the name of a building.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Smeltery">
         <source>Smeltery</source>
@@ -238,6 +277,11 @@ This is a database entry: the name of a unit.</note>
         <source>Storage Tent</source>
         <target state="translated">Tente de dépot</target>
         <note from="developer">This is a database entry: the name of a building.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="StorageCollector">
+        <source>StorageCollector</source>
+        <target state="translated">StorageCollector</target>
+        <note from="developer">This is a database entry: the name of a unit.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sugar Field">
         <source>Sugar Field</source>
@@ -321,6 +365,7 @@ This is a database entry: the name of a building.</note>
       <trans-unit xml:space="preserve" approved="yes" id="You have reached the current maximum increment. Your inhabitants will not upgrade further.">
         <source>You have reached the current maximum increment. Your inhabitants will not upgrade further.</source>
         <target state="translated">Vos habitants ont atteint le niveau maximum. Ils ne continueront donc pas à se développer.</target>
+        <note from="developer">This is a database entry: a messagewidget message (left part of the screen).</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You have won!">
         <source>You have won!</source>
@@ -799,6 +844,7 @@ Utilisation à vos propres risques !</target>
 Should i overwrite it?</source>
         <target state="translated">Une sauvegarde avec le nom «%s» existe déjà. 
 Voulez-vous la remplacer ?</target>
+        <note from="developer">savegamename already exists</note>
         <note from="translator">Can the computer speak ?</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Confirmation for overwriting">
@@ -830,10 +876,12 @@ Voulez-vous la remplacer ?</target>
         <target state="translated">Date de sauvegarde inconnue</target>
         <note from="translator">94%</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Saved at %s">
-        <source>Saved at %s</source>
-        <target state="translated">Sauvegardé le %s</target>
-        <note from="translator">91%</note>
+      <trans-unit xml:space="preserve" approved="yes" id="Saved at %(time)s">
+        <source>Saved at %(time)s</source>
+        <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Sauvegardé à %(time)s</target>
+        </alt-trans>
       </trans-unit>
       <group restype="x-gettext-plurals" approved="yes" id="Saved %(amount)d time">
         <trans-unit xml:space="preserve" id="Saved %(amount)d time[0]">
@@ -1066,6 +1114,7 @@ set translated building name in gui</note>
       <trans-unit xml:space="preserve" approved="yes" id="Trade">
         <source>Trade</source>
         <target state="translated">Commerce</target>
+        <note from="developer">(text of widget: headline)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Settlement inventory">
         <source>Settlement inventory</source>
@@ -1104,10 +1153,13 @@ set translated building name in gui</note>
       <trans-unit xml:space="preserve" approved="yes" id="Account">
         <source>Account</source>
         <target state="translated">Bilan</target>
+        <note from="developer">(text of widget: headline)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Settler overview">
         <source>Settler overview</source>
         <target state="translated">Sommaire des colons</target>
+        <note from="developer">(text of widget: headline)</note>
+        <note from="translator">An "apercu" is more a preview than an overview.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Don't allow upgrades">
         <source>Don't allow upgrades</source>
@@ -1227,6 +1279,7 @@ Messages
       <trans-unit xml:space="preserve" approved="yes" id="Start route">
         <source>Start route</source>
         <target state="translated">Débuter la route</target>
+        <note from="developer">(tooltip of widget: start_route) Trade route</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Stop route">
         <source>Stop route</source>
@@ -1289,6 +1342,7 @@ Messages
       <trans-unit xml:space="preserve" approved="yes" id="Signal fire: Allows the player to trade with the free trader.">
         <source>Signal fire: Allows the player to trade with the free trader.</source>
         <target state="translated">Phare : Permet au joueur de commercer avec le marchand indépendant.</target>
+        <note from="developer">(tooltip of widget: lighthouse-1)</note>
         <note from="translator">free-trader is hard to translate, i think "bateau-marchand" is more understandable in the context. In addition, i used it in the tutorial</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Lumberjack: Chops down trees and turns them into boards.">
@@ -1309,6 +1363,7 @@ Messages
       <trans-unit xml:space="preserve" approved="yes" id="Storage: Extends stock and provides collectors.">
         <source>Storage: Extends stock and provides collectors.</source>
         <target state="translated">Entrepôt : Agrandit la capacité de stockage et fournit des livreurs.</target>
+        <note from="developer">(tooltip of widget: store-1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Trail: Needed for collecting goods.">
         <source>Trail: Needed for collecting goods.</source>
@@ -1401,6 +1456,7 @@ Messages
       <trans-unit xml:space="preserve" approved="yes" id="Butchery: Needs pigs or cattle. Produces food.">
         <source>Butchery: Needs pigs or cattle. Produces food.</source>
         <target state="translated">Boucherie : Nécéssite des cochons ou des bovins. Produit de la nourriture.</target>
+        <note from="developer">(tooltip of widget: butchery-1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Cattle run: Raises cattle. Needs a farm.">
         <source>Cattle run: Raises cattle. Needs a farm.</source>
@@ -1432,6 +1488,7 @@ Messages
       <trans-unit xml:space="preserve" approved="yes" id="Salt ponds: Evaporates salt. Built on sea coast.">
         <source>Salt ponds: Evaporates salt. Built on sea coast.</source>
         <target state="translated">Salines : Produit du sel. Construire en bord de mer.</target>
+        <note from="developer">(tooltip of widget: saltponds-1)</note>
         <alt-trans xml:space="preserve" origin="nobody">
           <target>Maré salant: Produit du sel. Construit sur la côte.</target>
         </alt-trans>
@@ -1458,10 +1515,12 @@ Messages
       <trans-unit xml:space="preserve" approved="yes" id="Tobacconist: Produces tobaccos out of tobacco.">
         <source>Tobacconist: Produces tobaccos out of tobacco.</source>
         <target state="translated">Fabrique de cigares : Produit des cigares à partir de tabac.</target>
+        <note from="developer">(tooltip of widget: tobacconist-1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Toolmaker: Produces tools out of iron.">
         <source>Toolmaker: Produces tools out of iron.</source>
         <target state="translated">Forgeron : Forge des outils á partir de fer.</target>
+        <note from="developer">(tooltip of widget: toolmaker-1)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Game start">
         <source>Game start</source>
@@ -1481,6 +1540,7 @@ Messages
       <trans-unit xml:space="preserve" approved="yes" id="Afterwards, press the large button in the ship overview tab.">
         <source>Afterwards, press the large button in the ship overview tab.</source>
         <target state="translated">Ensuite, cliquez sur le grand bouton dans la fenêtre du navire.</target>
+        <note from="developer">(text of widget: howto_3_build_bo)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Running costs:">
         <source>Running costs:</source>
@@ -1831,6 +1891,15 @@ Messages
       <trans-unit xml:space="preserve" approved="yes" id="Tax rate">
         <source>Tax rate</source>
         <target state="translated">Taux d'imposition</target>
+        <note from="developer">(tooltip of widget: tax_rate_icon)
+(tooltip of widget: tax_val_label)
+(tooltip of widget: tax_rate_icon)
+(tooltip of widget: tax_val_label)
+(tooltip of widget: tax_rate_icon)
+(tooltip of widget: tax_val_label)
+(tooltip of widget: paid_taxes_label)
+(tooltip of widget: tax_val_label)</note>
+        <note from="translator">87%</note>
         <alt-trans xml:space="preserve" origin="nobody">
           <target>Taux d'impôts</target>
         </alt-trans>
@@ -2136,6 +2205,7 @@ Messages
       <trans-unit xml:space="preserve" approved="yes" id="Passive">
         <source>Passive</source>
         <target state="translated">Passif</target>
+        <note from="developer">(tooltip of widget: none) Description of combat stance (how units behave when fighting)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Key bindings">
         <source>Key bindings</source>
@@ -2582,6 +2652,8 @@ Messages
       <trans-unit xml:space="preserve" approved="yes" id="Apply">
         <source>Apply</source>
         <target state="translated">Appliquer</target>
+        <note from="developer">(tooltip of widget: okButton)</note>
+        <note from="translator">83%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Reset to default settings">
         <source>Reset to default settings</source>
@@ -2609,6 +2681,7 @@ Messages
       <trans-unit xml:space="preserve" approved="yes" id="Cancel">
         <source>Cancel</source>
         <target state="translated">Annuler</target>
+        <note from="developer">(tooltip of widget: cancelButton)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Delete selected savegame">
         <source>Delete selected savegame</source>
@@ -2737,6 +2810,7 @@ Messages
       <trans-unit xml:space="preserve" approved="yes" id="Error: Cannot find campaign &quot;%s&quot;.">
         <source>Error: Cannot find campaign "%s".</source>
         <target state="translated">Erreur: Impossible de trouver la campagne «%s».</target>
+        <note from="translator">81%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Error: Cannot find savegame &quot;%s&quot;.">
         <source>Error: Cannot find savegame "%s".</source>
@@ -2769,10 +2843,12 @@ Messages
       <trans-unit xml:space="preserve" approved="yes" id="Error: Cannot find scenario &quot;%s&quot;.">
         <source>Error: Cannot find scenario "%s".</source>
         <target state="translated">Erreur: Impossible de trouver la sauvegarde «%s».</target>
+        <note from="translator">81%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Error: Cannot find scenario with file &quot;%s&quot;.">
         <source>Error: Cannot find scenario with file "%s".</source>
         <target state="translated">Erreur: Impossible de trouver la campagne avec le fichier «%s».</target>
+        <note from="translator">83%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You have completed this scenario. ">
         <source>You have completed this scenario. </source>
