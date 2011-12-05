@@ -19,6 +19,12 @@
         <note from="developer">This is a database entry: a messagewidget message (left part of the screen).</note>
         <note from="translator">Messages</note>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="AnimalCarriage">
+        <source>AnimalCarriage</source>
+        <target state="translated">Wóz</target>
+        <note from="developer">This is a database entry: the name of a unit.</note>
+        <note from="translator">Unit</note>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Boar">
         <source>Boar</source>
         <target state="translated">Dzik</target>
@@ -39,6 +45,11 @@
         <source>Brickyard</source>
         <target state="translated"></target>
         <note from="developer">This is a database entry: the name of a building.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="BuildingCollector">
+        <source>BuildingCollector</source>
+        <target state="translated">Budowniczy</target>
+        <note from="developer">This is a database entry: the name of a unit.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Butchery">
         <source>Butchery</source>
@@ -93,6 +104,16 @@
         <note from="developer">This is a database entry: the name of a building.</note>
         <note from="translator">Building</note>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FarmAnimalCollector">
+        <source>FarmAnimalCollector</source>
+        <target state="translated">Hodowca</target>
+        <note from="developer">This is a database entry: the name of a unit.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FieldCollector">
+        <source>FieldCollector</source>
+        <target state="translated">Rolnik</target>
+        <note from="developer">This is a database entry: the name of a unit.</note>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Fish Deposit">
         <source>Fish Deposit</source>
         <target state="translated">Ławica ryb</target>
@@ -136,6 +157,11 @@ This is a database entry: the name of a unit.</note>
         <target state="translated">Namiot myśliwego</target>
         <note from="developer">This is a database entry: the name of a building.</note>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="HunterCollector">
+        <source>HunterCollector</source>
+        <target state="translated">Myśliwy</target>
+        <note from="developer">This is a database entry: the name of a unit.</note>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Iron Mine">
         <source>Iron Mine</source>
         <target state="translated">Kopalnia żelaza</target>
@@ -157,6 +183,12 @@ This is a database entry: the name of a unit.</note>
         <target state="translated">Obóz drwali</target>
         <note from="developer">This is a database entry: the name of a building.</note>
         <note from="translator">Building</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="LumberjackCollector">
+        <source>LumberjackCollector</source>
+        <target state="translated">Drwal</target>
+        <note from="developer">This is a database entry: the name of a unit.</note>
+        <note from="translator">Unit</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Main Square">
         <source>Main Square</source>
@@ -220,6 +252,11 @@ This is a database entry: the name of a unit.</note>
         <note from="developer">This is a database entry: a messagewidget message (left part of the screen).</note>
         <note from="translator">Messages</note>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SettlerCollector">
+        <source>SettlerCollector</source>
+        <target state="translated">Osadnik</target>
+        <note from="developer">This is a database entry: the name of a unit.</note>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sheep">
         <source>Sheep</source>
         <target state="translated">Owca</target>
@@ -247,6 +284,11 @@ This is a database entry: the name of a unit.</note>
         <target state="translated">Namiot składowy</target>
         <note from="developer">This is a database entry: the name of a building.</note>
         <note from="translator">Building</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="StorageCollector">
+        <source>StorageCollector</source>
+        <target state="translated">Magazynier</target>
+        <note from="developer">This is a database entry: the name of a unit.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sugar Field">
         <source>Sugar Field</source>
@@ -821,11 +863,9 @@ Na pewno chcesz go nadpisać?</target>
 </target>
         <note from="translator">94%</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="Saved at %s">
-        <source>Saved at %s</source>
-        <target state="needs-translation">Zapisano na %s
-</target>
-        <note from="translator">91%</note>
+      <trans-unit xml:space="preserve" approved="yes" id="Saved at %(time)s">
+        <source>Saved at %(time)s</source>
+        <target state="translated"></target>
       </trans-unit>
       <group restype="x-gettext-plurals" approved="yes" id="Saved %(amount)d time">
         <trans-unit xml:space="preserve" id="Saved %(amount)d time[0]">
@@ -1199,10 +1239,11 @@ set translated building name in gui</note>
         <source>%(player)s's ships</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="None">
+      <trans-unit xml:space="preserve" approved="no" id="None">
         <source>None</source>
-        <target state="translated"></target>
+        <target state="needs-translation">brak</target>
         <note from="developer">i18n There are no weapons equipped at the moment.</note>
+        <note from="translator">75%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="N/A">
         <source>N/A</source>
