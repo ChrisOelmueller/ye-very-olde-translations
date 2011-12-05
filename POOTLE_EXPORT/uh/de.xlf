@@ -17,6 +17,11 @@
         <target state="translated">Eine neue Welt wurde erschaffen.</target>
         <note from="developer">This is a database entry: a messagewidget message (left part of the screen).</note>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="AnimalCarriage">
+        <source>AnimalCarriage</source>
+        <target state="translated">AnimalCarriage</target>
+        <note from="developer">This is a database entry: the name of a unit.</note>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Boar">
         <source>Boar</source>
         <target state="translated">Wildschwein</target>
@@ -25,10 +30,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="Boat Builder">
         <source>Boat Builder</source>
         <target state="translated">Bootsbauer</target>
-        <note from="translator">Are there "boats" and "ships" or only boats (ships)?&#13;
-&#13;
-If there is only one notation/label, name it either ship or boat, not both.&#13;
-&#13;
+        <note from="developer">This is a database entry: the name of a building.</note>
+        <note from="translator">Are there "boats" and "ships" or only boats (ships)?
+If there is only one notation/label, name it either ship or boat, not both.
 Here: Bootsbauer =&gt; Schiffbauer</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Branch Office">
@@ -41,6 +45,11 @@ Here: Bootsbauer =&gt; Schiffbauer</note>
         <target state="translated">Ziegelei</target>
         <note from="developer">This is a database entry: the name of a building.</note>
         <note from="translator">Building</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="BuildingCollector">
+        <source>BuildingCollector</source>
+        <target state="translated">BuildingCollector</target>
+        <note from="developer">This is a database entry: the name of a unit.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Butchery">
         <source>Butchery</source>
@@ -95,6 +104,16 @@ Here: Bootsbauer =&gt; Schiffbauer</note>
         <target state="translated">Farm</target>
         <note from="developer">This is a database entry: the name of a building.</note>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FarmAnimalCollector">
+        <source>FarmAnimalCollector</source>
+        <target state="translated">FarmAnimalCollector</target>
+        <note from="developer">This is a database entry: the name of a unit.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="FieldCollector">
+        <source>FieldCollector</source>
+        <target state="translated">FieldCollector</target>
+        <note from="developer">This is a database entry: the name of a unit.</note>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Fish Deposit">
         <source>Fish Deposit</source>
         <target state="translated">Fischgrund</target>
@@ -137,6 +156,11 @@ This is a database entry: the name of a unit.</note>
         <target state="translated">Jäger</target>
         <note from="developer">This is a database entry: the name of a building.</note>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="HunterCollector">
+        <source>HunterCollector</source>
+        <target state="translated">HunterCollector</target>
+        <note from="developer">This is a database entry: the name of a unit.</note>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Iron Mine">
         <source>Iron Mine</source>
         <target state="translated">Eisenerzbergwerk</target>
@@ -156,6 +180,11 @@ This is a database entry: the name of a unit.</note>
         <source>Lumberjack Camp</source>
         <target state="translated">Holzfällerlager</target>
         <note from="developer">This is a database entry: the name of a building.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="LumberjackCollector">
+        <source>LumberjackCollector</source>
+        <target state="translated">LumberjackCollector</target>
+        <note from="developer">This is a database entry: the name of a unit.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Main Square">
         <source>Main Square</source>
@@ -214,6 +243,11 @@ This is a database entry: the name of a unit.</note>
         <target state="translated">Bildschirmfoto wurde unter ${file} gespeichert.</target>
         <note from="developer">This is a database entry: a messagewidget message (left part of the screen).</note>
       </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SettlerCollector">
+        <source>SettlerCollector</source>
+        <target state="translated">SettlerCollector</target>
+        <note from="developer">This is a database entry: the name of a unit.</note>
+      </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sheep">
         <source>Sheep</source>
         <target state="translated">Schaf</target>
@@ -238,6 +272,11 @@ This is a database entry: the name of a unit.</note>
         <source>Storage Tent</source>
         <target state="translated">Lagerzelt</target>
         <note from="developer">This is a database entry: the name of a building.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="StorageCollector">
+        <source>StorageCollector</source>
+        <target state="translated">StorageCollector</target>
+        <note from="developer">This is a database entry: the name of a unit.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sugar Field">
         <source>Sugar Field</source>
@@ -309,6 +348,7 @@ This is a database entry: the name of a building.</note>
       <trans-unit xml:space="preserve" approved="yes" id="You can also drag roads.">
         <source>You can also drag roads.</source>
         <target state="translated">Ihr könnt Straßen auch bei gedrückter Maustaste aufziehen.</target>
+        <note from="developer">This is a database entry: a messagewidget message (left part of the screen).</note>
         <note from="translator">"aufziehen" ersetzen</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="You have reached the current maximum increment. Your inhabitants will not upgrade further.">
@@ -324,6 +364,7 @@ This is a database entry: the name of a building.</note>
       <trans-unit xml:space="preserve" approved="yes" id="You need more ${resource} to build this building.">
         <source>You need more ${resource} to build this building.</source>
         <target state="translated">Ihr benötigt mehr ${resource}, um dieses Gebäude errichten zu können.</target>
+        <note from="developer">This is a database entry: a messagewidget message (left part of the screen).</note>
         <note from="translator">In German $resource would be "Münzen" which means "Coins". In the game there is only GOLD I guess, so no coins, money or other notations</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Your game has been quicksaved.">
@@ -380,6 +421,7 @@ This is a database entry: the name of a building.</note>
       <trans-unit xml:space="preserve" approved="yes" id="cannon">
         <source>cannon</source>
         <target state="translated">Kanonen</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
         <note from="translator">"Kanonen" is plural form, singular is "Kanone"</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="cattle">
@@ -416,6 +458,7 @@ This is a database entry: the name of a building.</note>
       <trans-unit xml:space="preserve" approved="yes" id="coins">
         <source>coins</source>
         <target state="translated">Münzen</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
         <note from="translator">In UH only GOLD is necessary, right? No coins or money</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="community">
@@ -426,11 +469,13 @@ This is a database entry: the name of a building.</note>
       <trans-unit xml:space="preserve" approved="yes" id="cyan">
         <source>cyan</source>
         <target state="translated">cyan</target>
+        <note from="developer">This is a database entry: the name of a color.</note>
         <note from="translator">cyan is blaugrün</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="dagger">
         <source>dagger</source>
         <target state="translated">Dolch</target>
+        <note from="developer">This is a database entry: the name of a resource.</note>
         <note from="translator">Is "dagger" a weapon? If not, it's more llikely "cross" which would then be "Kreuz" in German</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="deer food A">
@@ -517,10 +562,10 @@ This is a database entry: the name of a building.</note>
       <trans-unit xml:space="preserve" approved="yes" id="lemon">
         <source>lemon</source>
         <target state="translated">limone</target>
-        <note from="translator">- lemon heißt Zitrone&#13;
-- lime ist Limone&#13;
-- außderm wenn mit großem "L"&#13;
-</note>
+        <note from="developer">This is a database entry: the name of a color.</note>
+        <note from="translator">- lemon heißt Zitrone
+- lime ist Limone
+- außderm wenn mit großem "L"</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="liquor">
         <source>liquor</source>
@@ -606,6 +651,7 @@ This is a database entry: the name of a building.</note>
       <trans-unit xml:space="preserve" approved="yes" id="teal">
         <source>teal</source>
         <target state="translated">türkis</target>
+        <note from="developer">This is a database entry: the name of a color.</note>
         <note from="translator">teal ist auch blaugrün, wie "cyan", kann auch seegrün oder grünblau heißen</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="textile">
@@ -799,10 +845,11 @@ Soll dieser überschrieben werden?</target>
       <trans-unit xml:space="preserve" approved="yes" id="Unknown savedate">
         <source>Unknown savedate</source>
         <target state="translated">Unbekanntes Speicherdatum</target>
+        <note from="translator">94%</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="Saved at %s">
-        <source>Saved at %s</source>
-        <target state="translated">Gespeichert am %s</target>
+      <trans-unit xml:space="preserve" approved="yes" id="Saved at %(time)s">
+        <source>Saved at %(time)s</source>
+        <target state="translated"></target>
       </trans-unit>
       <group restype="x-gettext-plurals" approved="yes" id="Saved %(amount)d time">
         <trans-unit xml:space="preserve" id="Saved %(amount)d time[0]">
@@ -1172,6 +1219,7 @@ set translated building name in gui</note>
       <trans-unit xml:space="preserve" approved="yes" id="None">
         <source>None</source>
         <target state="translated">Fehlanzeige</target>
+        <note from="developer">i18n There are no weapons equipped at the moment.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="N/A">
         <source>N/A</source>
@@ -1430,11 +1478,8 @@ set translated building name in gui</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Afterwards, press the large button in the ship overview tab.">
         <source>Afterwards, press the large button in the ship overview tab.</source>
-        <target state="translated">Danach klickt auf den großen Knopf im Übersichtstab des Schiffes.</target>
+        <target state="translated">Danach klickt auf den großen Knopf im Übersichts-Tab des Schiffes.</target>
         <note from="developer">(text of widget: howto_3_build_bo)</note>
-        <alt-trans xml:space="preserve" origin="JakoD">
-          <target>Danach klickt auf den großen Knopf im Übersichts-Tab des Schiffes.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Running costs:">
         <source>Running costs:</source>
@@ -1699,6 +1744,7 @@ set translated building name in gui</note>
       <trans-unit xml:space="preserve" approved="yes" id="neutral">
         <source>neutral</source>
         <target state="translated">Neutral</target>
+        <note from="developer">(text of widget: neutral_label) Diplomacy state of player</note>
         <note from="translator">"neutral" klein normalerweise ... ich weiß nicht, wo es zur Verwendung kommt</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build fields">
@@ -2008,6 +2054,7 @@ set translated building name in gui</note>
       <trans-unit xml:space="preserve" approved="yes" id="Money">
         <source>Money</source>
         <target state="translated">Geld</target>
+        <note from="developer">(text of widget: money_score)</note>
         <note from="translator">General Question: Is it money or gold that is used in UH?</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Name">
@@ -2076,6 +2123,7 @@ set translated building name in gui</note>
       <trans-unit xml:space="preserve" approved="yes" id="Passive">
         <source>Passive</source>
         <target state="translated">Passiv</target>
+        <note from="developer">(tooltip of widget: none) Description of combat stance (how units behave when fighting)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Key bindings">
         <source>Key bindings</source>
@@ -2211,8 +2259,8 @@ set translated building name in gui</note>
       <trans-unit xml:space="preserve" approved="yes" id="{T} = Toggle translucency of ambient buildings">
         <source>{T} = Toggle translucency of ambient buildings</source>
         <target state="translated">{T} = Transparenz atmosphärischer Elemente an-/ausschalten</target>
-        <note from="translator">This sentence goes beyond the page border on the right. There needs to be an automatically inserte break.&#13;
-&#13;
+        <note from="developer">(text of widget: lbl_t)</note>
+        <note from="translator">This sentence goes beyond the page border on the right. There needs to be an automatically inserte break.
 {SHIFT} breaks automatically, so why does {T} not break?</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="{UP} = Scroll up">
@@ -2428,6 +2476,7 @@ set translated building name in gui</note>
       <trans-unit xml:space="preserve" approved="yes" id="Graphics">
         <source>Graphics</source>
         <target state="translated">Graphik</target>
+        <note from="developer">(text of widget: headline_graphics)</note>
         <note from="translator">Ist nicht falsch, aber im PC-/Internetumfeld schreibt man eigentlich immer "Grafik".</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Language">
@@ -2547,6 +2596,7 @@ set translated building name in gui</note>
       <trans-unit xml:space="preserve" approved="yes" id="Cancel">
         <source>Cancel</source>
         <target state="translated">Abbrechen</target>
+        <note from="developer">(tooltip of widget: cancelButton)</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Delete selected savegame">
         <source>Delete selected savegame</source>
