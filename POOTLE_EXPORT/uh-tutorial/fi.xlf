@@ -529,7 +529,7 @@ TEHTÄVÄ: Aseta veroprosentti Matalaksi (vasemmassa päässä) ja odota merenk�
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Set the tax level to Low (left end) and wait for your sailors to upgrade.">
         <source>Set the tax level to Low (left end) and wait for your sailors to upgrade.</source>
-        <target state="translated">Laske verotasosi alas (palkin vasempaan päähän) ja odota merenkävijöidesi päivittyvän.</target>
+        <target state="translated">Laske verotasosi alas (palkin vasempaan päähän) ja odota merenkävijöidesi päivittyvän seuraavalle tasolle.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A FARM">
         <source>NEW TASK: BUILD A FARM</source>
@@ -606,19 +606,18 @@ Let's have a short overview:
 We now only need pastures, but in case your food supply chain is too small (maybe many residential buildings) you can also produce some potatoes.
 
 Note that for potatoes you will need a road connection to the farm (not to the field!) as it will be the only company to work on the goods.</source>
-        <target state="translated">Maatila ei itse tule tuottamaan mitään ilman peltoja.
+        <target state="translated">Maatila ei itse itsessään tuota mitään ilman peltoja.
 
-Sinulla tällä hetkellä valittavissasi laitumet, peruna- ja sokeripellot.
+Tällä hetkellä valittavissasi on laitumet sekä peruna- ja sokeripellot.
 
-Pidetään lyhyt katsaus:
+Näiden ominaisuuksia:
 * Laidun: Lampaat elelevät siellä tuottaen villaa.
-* Perunamaa: Kasvattaa perunoita, joita tällä hetkellä pidetään ruokana.
-* Sokeripelto: Kasvattaa sokeria, jota käytetään alkoholijuomien tislaamisessa ja (myöhemmin) tuottamaan makeisherkkuja.
+* Perunamaa: Kasvattaa perunoita, jotka ovat mainiota ruokaa kansallesi.
+* Sokeripelto: Kasvattaa sokeria, jota käytetään alkoholijuomien tislaamisessa ja (myöhemmin) tuottamaan makeisia.
 
-Tarvitsemme nyt laitumia, mutta jos ruoantuotantoketjusi on liian lyhyt, (mahdollisesti paljon asuinrakennuksia,) voit myös tuottaa vähän perunoita.
+Tarvitsemme nyt vain laitumia, mutta jos tarvitset lisää ruokaa (esimerkiksi jos sinulla on paljon asukkaita), voit rakentaa myös perunapellon.
 
-Huomaa, että perunoita varten tarvitset tieyhteyden maatilaan (et peltoon!), sillä se tulee olemaan ainoa yritys työstämään kyseisiä tavaroita.</target>
-        <note from="developer">This is the text body of a logbook page.</note>
+Huomaa, että perunoiden tuottamista varten tarvitset tieyhteyden varastolta tai sivutoimistolta maatilalle (ei siis peltoon!).</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Make sure that all fields you build are in the area covered by the farm.&#10;&#10;You can have combined production - one pasture will not lead to 100 percent efficiency of the farm - but you need to check how many fields one farm can serve.&#10;&#10;Different classes of fields require the farm units to spend more or less time there (to seed, harvest, herd, etc…) and because of that, the farm may be unable to serve all of the fields you built for it in time.&#10;&#10;For now, you do not need to care about these issues a lot since you haven't built any fields. Let's change that!&#10;&#10;TASK: Build at least one pasture in the farm's range and add potato fields if you like.">
         <source>Make sure that all fields you build are in the area covered by the farm.
@@ -632,19 +631,17 @@ For now, you do not need to care about these issues a lot since you haven't buil
 TASK: Build at least one pasture in the farm's range and add potato fields if you like.</source>
         <target state="translated">Varmista, että kaikki rakentamasi pellot ovat maatilan alueella.
 
-Voit harrastaa sekatuotantoa - yksi laidun ei johda 100 prosentin tehokkuuteen, mutta sinun täytyy tarkistaa, montako peltoa yksi maatila voi hoitaa.
+Voit harrastaa sekatuotantoa - yksi laidun ei johda 100 prosentin tehokkuuteen - mutta muista kuitenkin tarkistaa, kuinka montako peltoa yksi maatila kykenee hoitamaan.
 
-Eri tyyppiset pellot tarvitsevat maatilayksiköiltä enemmän tai vähemmän aikaa (kylvämiseen, korjuuseen, paimennukseen, jne.) ja sen vuoksi maatila ei välttämättä pysty huolehtimaan kaikista rakentamistasi pelloista ajoissa.
+Eri tyyppiset pellot tarvitsevat maatilayksiköiltä enemmän tai vähemmän aikaa (kylvämiseen, korjuuseen, paimennukseen, jne.) ja sen vuoksi maatila ei välttämättä pysty huolehtimaan kaikista rakentamistasi pelloista.
 
-Mutta nyt sinun ei tarvitse huolehtia paljoa, sillä et ole vielä rakentanut yhtäkään peltoa. Tehdään siis asialle jotakin!
+Vielä sinun ei kutenkaan tarvitse huolehtia, sillä et ole vielä rakentanut yhtäkään peltoa. Tehdään siis asialle jotakin!
 
-TEHTÄVÄ: Rakenna vähintään yksi laidun maatilan ulottuville ja lisää perunamaita, jos tykkäät.</target>
-        <note from="developer">This is the text body of a logbook page.</note>
+TEHTÄVÄ: Rakenna vähintään yksi laidun maatilan ulottuville ja lisää halutessasi perunapeltoja.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build at least one pasture and add potato fields if you like.">
         <source>Build at least one pasture and add potato fields if you like.</source>
-        <target state="translated">Rakenna vähintään yksi laidun maatilan ulottuville ja lisää perunamaita, jos tykkäät.</target>
-        <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
+        <target state="translated">Rakenna vähintään yksi laidun maatilan ulottuville ja halutessasi myös perunapeltoja.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD STORAGE">
         <source>NEW TASK: BUILD STORAGE</source>
@@ -662,17 +659,16 @@ All companies offer the possibility of doing no work at all.
 This may sound strange, but try to click on the gear wheel you see in, for example, a lumberjack's overview.
 
 If this 'break' mode is enabled (we call it 'Decommissioning'), the running costs you pay for the building will decrease. They won't be zero, but still lower than if you keep the company producing.</source>
-        <target state="translated">Olet katsonut puunhakkaajaasi lähiaikoina?
+        <target state="translated">Olet vilkaissut puunhakkaajaasi lähiaikoina?
 
-Koska sivutoimistollasi ei ole loputtomasti tilaa tavaroiden varastoimiseen, kerääjät lakkaavat keräämästä tavaroita yrityksiltä, kun varasto on täynnä.
-Joten jos yksikään merenkävijä ei ole lähiaikoina halunnut päivittää telttaansa, sinulla todennäköisesti paljon lautoja, ja siinä tapauksessa puunhakkaajasi saattaa olla toimettomana.
+Sivutoimistollasi ei ole loputtomasti tilaa tavaroiden varastoimiseen. Kerääjät lakkaavat keräämästä tavaroita yrityksiltä, kun varasto on täynnä.
+Joten jos asukkaasi eivät viime aikoina ole olleet kiinnostuneita päivittelemään asuntojaan ja sinulla on paljon lautoja, puunhakkaajasi saattaa olla toimettomana.
 Voimme parantaa tilannetta kahdella erilaisella lähestymistavalla, ja alla tutustumme molempiin.
 
-Kaikilla yritykset tarjoavat mahdollisuuden olla tekemättä lainkaan työtä.
-Tämä saattaa kuulostaa oudolta, mutta yritäpä painaa hammaspyörää, jonka näet esimerkiksi puunhakkaajan yleiskatsauksessa.
+Kaikkien yritysten toiminta voidaan väliaikaisesti keskeyttää.
+Tämä saattaa kuulostaa oudolta, mutta kokeilepa napsauttaa puunhakkaajan yleiskatsauksessa olevaa hammaspyörää.
 
-Jos tämä 'tauko'-tila on käytössä, rakennuksesta maksamasi juoksevat kustannukset vähenevät. Ne eivät mene nollaan, mutta silti alemmas kuin yrityksen ollessa käytössä.</target>
-        <note from="developer">This is the text body of a logbook page.</note>
+Kun tämä "taukotila" on käytössä, rakennuksesta maksamasi juoksevat kustannukset vähenevät. Ne eivät laske nollaan, mutta kuitenkin alemmaksi kuin yrityksen ollessa käytössä.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="This means that you can save money when you temporarily do not need a company and do not want to tear it down, either.&#10;&#10;Another solution is to build the last increment-I building which has not been mentioned so far: the storage tent.&#10;&#10;This building has two purposes. It:&#10;* Offers more storage for your goods, and &#10;* sends its own collectors to fetch goods, just like the branch office does.&#10;&#10;Note that companies can also be connected to a storage in order to get their products collected, and if the branch office is overwhelmed with collector tasks, you can place a storage tent to help out there.&#10;&#10;TASK: Build a storage tent, preferably where you need collectors.">
         <source>This means that you can save money when you temporarily do not need a company and do not want to tear it down, either.
@@ -686,28 +682,25 @@ This building has two purposes. It:
 Note that companies can also be connected to a storage in order to get their products collected, and if the branch office is overwhelmed with collector tasks, you can place a storage tent to help out there.
 
 TASK: Build a storage tent, preferably where you need collectors.</source>
-        <target state="translated">Tämä tarkoittaa, että voit säästää rahaa, kun hetkellisesti et tarvitse yritystä ja et myöskään halua repiä sitä maantasalle.
+        <target state="translated">Tämä tarkoittaa siis sitä, että voit säästää rahaa kun et väliaikaisesti tarvitse yritystä ja et myöskään halua tuhota sitä maan tasalle.
 
 Toinen ratkaisu on rakentaa viimeinen tason I rakennus, jota ei ole vielä mainittu: varastoteltta.
 
-Tällä rakennuksella on kaksi tarkoitusta. Se:
-* Tarjoaa lisää varastotilaa tavaroillesi, ja
-* lähettää omat kerääjänsä hakemaan tavaroita, aivan niin kuin sivutoimistokin tekee.
+Tällä rakennuksella on kaksi tarkoitusta. Se...
+* tarjoaa lisää varastotilaa tavaroillesi
+* lähettää omat kerääjänsä hakemaan tavaroita, samalla tavalla kuin sivutoimistokin
 
-Huomaa, että yritykset voidaan myös yhdistää varastoon, jotta niiden tuotteet kerättäisiin, ja jos sivutoimistolla on kädet täynnä töitä keräämisessä, voit rakentaa varastoteltan auttamaan sitä.
+Yritykset voidaan siis yhdistää sivutoimiston sijasta varastoon, jolloin niiden tuotteet tulevat myös kerätyiksi. Varasto on hyödyllinen myös silloin kun sivutoimistolla on paljon hommia keräystöissä.
 
-TEHTÄVÄ: Rakenna varastoteltta, mieluiten paikkaan, jossa tarvitset kerääjiä.</target>
-        <note from="developer">This is the text body of a logbook page.</note>
+TEHTÄVÄ: Rakenna varastoteltta mieluiten sellaiseen paikkaan, jossa tarvitset kerääjiä.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a storage tent (increment I tab) where it makes sense.">
         <source>Build a storage tent (increment I tab) where it makes sense.</source>
-        <target state="translated">Rakenna varastoteltta (tason I välilehdellä) mihin tuntuu järkevältä.</target>
-        <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
+        <target state="translated">Rakenna varastoteltta (tason I-välilehdellä) järkevään paikkaan.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A WEAVER">
         <source>NEW TASK: BUILD A WEAVER</source>
-        <target state="translated">RAKENNA VAATTURI</target>
-        <note from="developer">This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).</note>
+        <target state="translated">RAKENNA KUTOMO</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Now the wool production is set up, you still need a weaver to produce cloth out of this wool.&#10;&#10;There are two spots where you can build it - either close to the farm or close to a Storage Tent (or the Branch Office).&#10;&#10;In both cases you should ensure the connection to a trail as well.&#10;&#10;You can place the weaver close to the farm and tear down any trail to the farm to see that it will still fetch the wool and produce.&#10;&#10;TASK: Build a weaver positioned so it can get wool.">
         <source>Now the wool production is set up, you still need a weaver to produce cloth out of this wool.
@@ -719,31 +712,27 @@ In both cases you should ensure the connection to a trail as well.
 You can place the weaver close to the farm and tear down any trail to the farm to see that it will still fetch the wool and produce.
 
 TASK: Build a weaver positioned so it can get wool.</source>
-        <target state="translated">Nyt kun villan tuotanto on toiminnassa, tarvitset vielä vaatturin tuottamaan vaatteita tästä villasta.
+        <target state="translated">Nyt kun villan tuotanto on käynnissä, tarvitset vielä kutomon tuottamaan villasta vaatteita.
 
-On kaksi paikkaa, joihin voit rakentaa sen - joko lähelle maatilaa tai lähelle Varastotelttaa (tai Sivutoimistoa).
+Kutomo voidaan rakentaa kolmeen paikkaan - joko maatilan, varaston tai sivutoimiston lähelle.
 
-Molemmissa tapauksissa sinun tulee myös varmistaa tieyhteys.
+Kaikissa tapauksissa sinun pitää luonnollisesti varmistaa polkuyhteys..
 
-Voit sijoittaa vaatturin lähelle maatilaa ja hävittää kaikki polut maatilalle nähdäksesi, että se silti saa villaa haettua ja tuotantoa.
+Voit testimielessä sijoittaa kutomon maatilan lähettyville ja tuhota kaikki polut maatilalle johtavat polut. Näin voit havaita, että kutomo saa silti noudettua villaa ja tuotettua vaatteita.
 
-TEHTÄVÄ: Rakenna vaatturi sijaintiin, jossa se saa villaa.</target>
-        <note from="developer">This is the text body of a logbook page.</note>
+TEHTÄVÄ: Rakenna kutomo paikkaan, josta se saa villaa.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a weaver that can somehow reach the wool of your farm.">
         <source>Build a weaver that can somehow reach the wool of your farm.</source>
-        <target state="translated">Rakenna vaatturi, joka jotenkin saavuttaa maatilasi villan.</target>
-        <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
+        <target state="translated">Rakenna kutomo, joka saa jollain tavalla villaa.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="House a total of 50 or more inhabitants in your city to complete the tutorial. You need a positive balance.">
         <source>House a total of 50 or more inhabitants in your city to complete the tutorial. You need a positive balance.</source>
-        <target state="translated">Asuta kaupungissasi vähintään 50 asukasta tai enemmän läpäistäksesi tämän tutoriaalin. Tarvitset kokonaisuutena voittoa tuottavan talouden.</target>
-        <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
+        <target state="translated">Asuta siirtokuntaasi vähintään 50 asukasta ja läpäise tämä harjoituspeli. Tarvitset myös voittoa tuottavan talouden.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: COMPLETE TUTORIAL">
         <source>NEW TASK: COMPLETE TUTORIAL</source>
-        <target state="translated">LÄPÄISE TUTORIAALI</target>
-        <note from="developer">This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).</note>
+        <target state="translated">LÄPÄISE HARJOITUSPELI</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Try to house a total of 50 or more inhabitants in your city by providing more residential buildings.&#10;&#10;Once you are able to keep an economy running which can satisfy this amount of consumers, you are ready to discover new Unknown Horizons!&#10;&#10;TASK: Reach a total number of 50 inhabitants and a positive balance to complete this tutorial.">
         <source>Try to house a total of 50 or more inhabitants in your city by providing more residential buildings.
@@ -751,12 +740,11 @@ TEHTÄVÄ: Rakenna vaatturi sijaintiin, jossa se saa villaa.</target>
 Once you are able to keep an economy running which can satisfy this amount of consumers, you are ready to discover new Unknown Horizons!
 
 TASK: Reach a total number of 50 inhabitants and a positive balance to complete this tutorial.</source>
-        <target state="translated">Yritä asuttaa kaupungissasi kokonaiset 50 asukasta tai enemmän luomalla asuinrakennustarjontaa.
+        <target state="translated">Yritä saada siirtokuntaasi vähintään 50 asukasta rakentamalla lisää asuinrakennuksia.
 
-Kun olet saanut pidetty taloutta, joka voi elättää tälläisen määrän kuluttajia, olet valmis lähtemään kohti Tuntemattomia Taivaanrantoja!
+Jos pystyt luomaan tällaisen taloisuuden, joka kestää tällaista asukkaiden määrää, olet valmis lähtemään kohti Tuntematonta Horisonttia!
 
-TEHTÄVÄ: Kerää vähintään 50 asukasta ja rakenna kannattava talous, jotta läpäisisit tämän tutoriaalin.</target>
-        <note from="developer">This is the text body of a logbook page.</note>
+TEHTÄVÄ: Hanki vähintään 50 asukasta, varmista että taloutesi on tasapainossa ja läpäise tämä harjoituspeli.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NO TASKS LEFT">
         <source>NO TASKS LEFT</source>
@@ -777,9 +765,9 @@ team@unknown-horizons.org
 Our forums are open to you as well!
 
 The best results until now were achieved by joining our IRC channel, so you could try that out first (-;</source>
-        <target state="translated">There is nothing left to do now.
+        <target state="translated">Mitään tehtäviä ei ole enää jäljellä.
 
-Jos sinulla on ehdotuksia, mitä me voisimme tai mitä pitäisi kehittää, lisätä tai jättää pois:
+Jos sinulle jäi tästä harjoituspelistä jotain sanottavaa, kuten parannettavaa, moitittavaa, poistettavaa tai kehuttavaa, kerro se meille:
 
 www.unknown-horizons.org
 
@@ -787,15 +775,13 @@ www.unknown-horizons.org
 
 team@unknown-horizons.org
 
-Keskustelupalstamme ovat avoinna myös sinulle!
+Myös keskustelualueemme ovat aina avoinna sinulle!
 
-Parhaita tuloksia tähän mennessä on saatu aikaan liittymällä IRC-kanavallemme, joten voit yrittää sitä ensimmäisenä (-;</target>
-        <note from="developer">This is the text body of a logbook page.</note>
+Parhaat tulokset ovat tulleet IRC-kanaviltamme, joten kokeile niitä ensimmäisenä (-;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Thanks!">
         <source>Thanks!</source>
-        <target state="translated">Kiitoksia!</target>
-        <note from="developer">This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).</note>
+        <target state="translated">Suuret kiitokset!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="&#10;&#10;&#10;&#10;&#10;&#10;&#10;Thanks for playing the tutorial!&#10;&#10;Your UH-Team">
         <source>
@@ -815,15 +801,14 @@ Your UH-Team</source>
 
 
 
-Kiitos, että pelasitte tätä tutoriaalia!
+Kiitos, että pelasit tätä harjoituspeliä!
 
-Allekirjoittajana UH-Team</target>
-        <note from="developer">This is the text body of a logbook page.</note>
+Terveisin,
+Unknown Horizonsin kehittäjät</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Congratulations! You have reached the end of this tutorial and are ready to meet new challenges!">
         <source>Congratulations! You have reached the end of this tutorial and are ready to meet new challenges!</source>
-        <target state="translated">Onneksi olkoon! Olet saavuttanut tämän tutoriaalin lopun ja olet valmis kohtaamaan uusia haasteita!</target>
-        <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
+        <target state="translated">Onneksi olkoon! Olet pelannut tämän harjoituspelin läpi ja olet valmis kohtaamaan uusia haasteita!</target>
       </trans-unit>
     </body>
   </file>
