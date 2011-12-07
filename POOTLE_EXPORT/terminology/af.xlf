@@ -5,6 +5,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="build">
         <source>build</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Well done article that. I'll make sure to use it wilsey.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="game">
         <source>game</source>
