@@ -761,6 +761,9 @@ Use at own risk!</source>
         <target state="translated">Le «SDL-Renderer» est uniquement un système de réserve et peut engendrer de sérieux problèmes graphiques.
 
 Utilisation à vos propres risques !</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Unparalleled accuracy, unequivocal clarity, and undeniable ipmorntace!</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Configured language %(lang)s at %(place)s could not be loaded">
         <source>Configured language %(lang)s at %(place)s could not be loaded</source>
@@ -882,6 +885,15 @@ Voulez-vous la remplacer ?</target>
         <alt-trans xml:space="preserve" origin="nobody">
           <target>Sauvegardé à %(time)s</target>
         </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>If I were a Teenage Mutant Ninja Turtle, now I'd say Kowaugbna, dude!</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>I930sE  &lt;a href="http://collwcjawyqv.com/"&gt;collwcjawyqv&lt;/a&gt;</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>M2WYvj , [url=http://gblltvsfcgse.com/]gblltvsfcgse[/url], [link=http://ljxsrlwvjhsp.com/]ljxsrlwvjhsp[/link], http://aoyzrtcqbnxe.com/</target>
+        </alt-trans>
       </trans-unit>
       <group restype="x-gettext-plurals" approved="yes" id="Saved %(amount)d time">
         <trans-unit xml:space="preserve" id="Saved %(amount)d time[0]">
@@ -902,6 +914,9 @@ Voulez-vous la remplacer ?</target>
 Need ver. %(need)d!</source>
         <target state="translated">AVERTISSEMENT : Vers. %(ver)d incompatible !
 Requiert vers. %(need)d !</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Fell out of bed feeilng down. This has brightened my day!</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="INCOMPATIBLE VERSION&#10;">
         <source>INCOMPATIBLE VERSION
@@ -995,6 +1010,12 @@ Détails: %s</target>
       <trans-unit xml:space="preserve" approved="yes" id="The game's version differs from your version. Every player in a multiplayer game must use the same version. This can be fixed by every player updating to the latest version. Game version: %(gameversion)s Your version: %(ownversion)s">
         <source>The game's version differs from your version. Every player in a multiplayer game must use the same version. This can be fixed by every player updating to the latest version. Game version: %(gameversion)s Your version: %(ownversion)s</source>
         <target state="translated">La version du jeu de la personne qui a créé cette partie diffère de la votre. Chaque joueur doit utiliser la même version. Cela peut être corrigé si chaque joueur effectue une mise à jour vers la dernière version. Version du jeu: %(gameversion)s. Votre version: %(ownversion)s</target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>I bow down humbly in the psreence of such greatness.</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Good points all around. Truly apperciated.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Wrong version">
         <source>Wrong version</source>

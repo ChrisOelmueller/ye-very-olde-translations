@@ -849,7 +849,7 @@ Soll dieser überschrieben werden?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Saved at %(time)s">
         <source>Saved at %(time)s</source>
-        <target state="translated"></target>
+        <target state="translated">Gespeichert um %(time)</target>
       </trans-unit>
       <group restype="x-gettext-plurals" approved="yes" id="Saved %(amount)d time">
         <trans-unit xml:space="preserve" id="Saved %(amount)d time[0]">
