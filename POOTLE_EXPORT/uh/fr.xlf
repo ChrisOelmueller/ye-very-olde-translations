@@ -764,6 +764,9 @@ Utilisation à vos propres risques !</target>
         <alt-trans xml:space="preserve" origin="nobody">
           <target>Unparalleled accuracy, unequivocal clarity, and undeniable ipmorntace!</target>
         </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Holy Toledo, so glad I clicekd on this site first!</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Configured language %(lang)s at %(place)s could not be loaded">
         <source>Configured language %(lang)s at %(place)s could not be loaded</source>
@@ -1011,10 +1014,16 @@ Détails: %s</target>
         <source>The game's version differs from your version. Every player in a multiplayer game must use the same version. This can be fixed by every player updating to the latest version. Game version: %(gameversion)s Your version: %(ownversion)s</source>
         <target state="translated">La version du jeu de la personne qui a créé cette partie diffère de la votre. Chaque joueur doit utiliser la même version. Cela peut être corrigé si chaque joueur effectue une mise à jour vers la dernière version. Version du jeu: %(gameversion)s. Votre version: %(ownversion)s</target>
         <alt-trans xml:space="preserve" origin="nobody">
+          <target>Good points all around. Truly apperciated.</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
           <target>I bow down humbly in the psreence of such greatness.</target>
         </alt-trans>
         <alt-trans xml:space="preserve" origin="nobody">
-          <target>Good points all around. Truly apperciated.</target>
+          <target>And to think I was going to talk to smooene in person about this.</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>I think you hit a bulleyse there fellas!</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Wrong version">
