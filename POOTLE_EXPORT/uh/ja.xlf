@@ -14,8 +14,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="A new world has been created.">
         <source>A new world has been created.</source>
-        <target state="translated"></target>
-        <note from="developer">This is a database entry: a messagewidget message (left part of the screen).</note>
+        <target state="translated">新しい世界が作成されました。</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="AnimalCarriage">
         <source>AnimalCarriage</source>
@@ -29,8 +28,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Boat Builder">
         <source>Boat Builder</source>
-        <target state="translated"></target>
-        <note from="developer">This is a database entry: the name of a building.</note>
+        <target state="translated">ボート ビルダー</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Branch Office">
         <source>Branch Office</source>
