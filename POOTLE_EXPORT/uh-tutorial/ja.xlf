@@ -4,12 +4,12 @@
     <body>
       <trans-unit xml:space="preserve" approved="yes" id="Tutorial">
         <source>Tutorial</source>
-        <target state="translated"></target>
+        <target state="translated">チュートリアル</target>
         <note from="developer">scenario difficulty</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The UH team">
         <source>The UH team</source>
-        <target state="translated"></target>
+        <target state="translated">UH チーム</target>
         <note from="developer">scenario author</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The tutorial:&#10;Build your first settlement and learn how to play!&#10;">
@@ -26,7 +26,7 @@ Build your first settlement and learn how to play!
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Welcome to Unknown Horizons!">
         <source>Welcome to Unknown Horizons!</source>
-        <target state="translated"></target>
+        <target state="translated">Unknown Horizons にようこそ!</target>
         <note from="developer">This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="This is your Captain's log where all important information is stored. A short notification of each task will be provided on the left of the screen.&#10;&#10;If you are interested in longer descriptions, your log will hopefully provide all the help you need.&#10;&#10;After you close this log, it can be re-opened with the 'Captain's Log' icon in the top-right corner (below the mini-map, with a sealed document and a feather).&#10;&#10;For any suggestions on better wording, topics you would like to have explained or even buggy conditions: Please tell us and we will try to improve the tutorial!&#10;&#10;Visit www.unknown-horizons.org for help on how to contact the team!&#10;&#10;And now, let's start the actual game.">
@@ -551,8 +551,7 @@ TASK: Reach a total number of 50 inhabitants and a positive balance to complete 
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NO TASKS LEFT">
         <source>NO TASKS LEFT</source>
-        <target state="translated"></target>
-        <note from="developer">This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).</note>
+        <target state="translated">残りタスクなし</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="There is nothing left to do now.&#10;&#10;If you have any suggestions on what we could or should improve, add or leave out:&#10;&#10;www.unknown-horizons.org&#10;&#10;#unknown-horizons @ irc.freenode.net&#10;&#10;team@unknown-horizons.org&#10;&#10;Our forums are open to you as well!&#10;&#10;The best results until now were achieved by joining our IRC channel, so you could try that out first (-;">
         <source>There is nothing left to do now.
@@ -573,7 +572,7 @@ The best results until now were achieved by joining our IRC channel, so you coul
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Thanks!">
         <source>Thanks!</source>
-        <target state="translated"></target>
+        <target state="translated">ありがとう!</target>
         <note from="developer">This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="&#10;&#10;&#10;&#10;&#10;&#10;&#10;Thanks for playing the tutorial!&#10;&#10;Your UH-Team">
