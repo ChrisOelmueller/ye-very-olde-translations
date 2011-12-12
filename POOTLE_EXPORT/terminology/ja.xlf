@@ -4,211 +4,208 @@
     <body>
       <trans-unit xml:space="preserve" approved="yes" id="build">
         <source>build</source>
-        <target state="translated"></target>
+        <target state="translated">ビルド</target>
         <alt-trans xml:space="preserve" origin="nobody">
-          <target>You got to push it-this esestnial info that is!</target>
+          <target>uqTqWm , [url=http://tuphwvjrenhq.com/]tuphwvjrenhq[/url], [link=http://wklmgxnmqoia.com/]wklmgxnmqoia[/link], http://coxygirhfeyy.com/</target>
         </alt-trans>
         <alt-trans xml:space="preserve" origin="nobody">
-          <target>That's the best aenwsr of all time! JMHO</target>
-        </alt-trans>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>More posts of this quality. Not the usual c***, pelase</target>
-        </alt-trans>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>GZoMdM  &lt;a href="http://hlwtjqvvaese.com/"&gt;hlwtjqvvaese&lt;/a&gt;</target>
-        </alt-trans>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>AXCNWn  &lt;a href="http://bnanpmgogcfd.com/"&gt;bnanpmgogcfd&lt;/a&gt;</target>
-        </alt-trans>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>QkGc3X  &lt;a href="http://vvhbnfniepum.com/"&gt;vvhbnfniepum&lt;/a&gt;</target>
-        </alt-trans>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>HaJugX , [url=http://pcontxqozagp.com/]pcontxqozagp[/url], [link=http://vbyalfqprltt.com/]vbyalfqprltt[/link], http://atuudvzdcdxk.com/</target>
-        </alt-trans>
-        <alt-trans xml:space="preserve" origin="nobody">
-          <target>PMsQYX , [url=http://esopxurfhusf.com/]esopxurfhusf[/url], [link=http://bynbnheahbnd.com/]bynbnheahbnd[/link], http://xjbsqpqzyrhf.com/</target>
+          <target>zXKyxj  &lt;a href="http://scmupotyvppm.com/"&gt;scmupotyvppm&lt;/a&gt;</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="game">
         <source>game</source>
-        <target state="translated"></target>
+        <target state="translated">ゲーム</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="building">
         <source>building</source>
-        <target state="translated"></target>
+        <target state="translated">ビルド中/ビル</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tent">
         <source>tent</source>
-        <target state="translated"></target>
+        <target state="translated">テント</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="resource">
         <source>resource</source>
-        <target state="translated"></target>
+        <target state="translated">資源</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="branch office">
         <source>branch office</source>
-        <target state="translated"></target>
+        <target state="translated">支店</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="your">
         <source>your</source>
-        <target state="translated"></target>
+        <target state="translated">あなたの</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="farm">
         <source>farm</source>
-        <target state="translated"></target>
+        <target state="translated">農場</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="field">
         <source>field</source>
-        <target state="translated"></target>
+        <target state="translated">フィールド</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="overview">
         <source>overview</source>
-        <target state="translated"></target>
+        <target state="translated">概要</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="ship">
         <source>ship</source>
-        <target state="translated"></target>
+        <target state="translated">船</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="main">
         <source>main</source>
-        <target state="translated"></target>
+        <target state="translated">メイン</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="settlement">
         <source>settlement</source>
-        <target state="translated"></target>
+        <target state="translated">決済</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="start">
         <source>start</source>
-        <target state="translated"></target>
+        <target state="translated">開始</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="click">
         <source>click</source>
-        <target state="translated"></target>
+        <target state="translated">クリック</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="inhabitants">
         <source>inhabitants</source>
-        <target state="translated"></target>
+        <target state="translated">住民</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="map">
         <source>map</source>
-        <target state="translated"></target>
+        <target state="translated">地図</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="menu">
         <source>menu</source>
-        <target state="translated"></target>
+        <target state="translated">メニュー</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="production">
         <source>production</source>
-        <target state="translated"></target>
+        <target state="translated">生産</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tab">
         <source>tab</source>
-        <target state="translated"></target>
+        <target state="translated">タブ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="unknown">
         <source>unknown</source>
-        <target state="translated"></target>
+        <target state="translated">不明</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="food">
         <source>food</source>
-        <target state="translated"></target>
+        <target state="translated">食料</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="increment">
         <source>increment</source>
-        <target state="translated"></target>
+        <target state="translated">増分</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="select">
         <source>select</source>
-        <target state="translated"></target>
+        <target state="translated">選択</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="setting">
         <source>setting</source>
-        <target state="translated"></target>
+        <target state="translated">設定</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="time">
         <source>time</source>
-        <target state="translated"></target>
+        <target state="translated">時刻</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="trade">
         <source>trade</source>
-        <target state="translated"></target>
+        <target state="translated">交易</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change">
         <source>change</source>
-        <target state="translated"></target>
+        <target state="translated">変更</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="main square">
         <source>main square</source>
-        <target state="translated"></target>
+        <target state="translated">メイン広場</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="trail">
         <source>trail</source>
-        <target state="translated"></target>
+        <target state="translated">歩道</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="boards">
         <source>boards</source>
-        <target state="translated"></target>
+        <target state="translated">ボード</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="buy">
         <source>buy</source>
-        <target state="translated"></target>
+        <target state="translated">購入</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="coast">
         <source>coast</source>
-        <target state="translated"></target>
+        <target state="translated">海岸</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="connect">
         <source>connect</source>
-        <target state="translated"></target>
+        <target state="translated">接続</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="cost">
         <source>cost</source>
-        <target state="translated"></target>
+        <target state="translated">費用</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="free">
         <source>free</source>
-        <target state="translated"></target>
+        <target state="translated">無料</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="log">
         <source>log</source>
-        <target state="translated"></target>
+        <target state="translated">ログ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="lumberjack">
         <source>lumberjack</source>
-        <target state="translated"></target>
+        <target state="translated">木こり</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="sell">
         <source>sell</source>
-        <target state="translated"></target>
+        <target state="translated">販売</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="storage">
         <source>storage</source>
-        <target state="translated"></target>
+        <target state="translated">ストレージ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="taxes">
         <source>taxes</source>
-        <target state="translated"></target>
+        <target state="translated">税金</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="trader">
         <source>trader</source>
-        <target state="translated"></target>
+        <target state="translated">交易者</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="version">
         <source>version</source>
-        <target state="translated"></target>
+        <target state="translated">バージョン</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="companies">
         <source>companies</source>
-        <target state="translated"></target>
+        <target state="translated">企業</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="fire">
         <source>fire</source>
-        <target state="translated"></target>
+        <target state="translated">火</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="left">
         <source>left</source>
         <target state="translated"></target>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>Y4Fw6I , [url=http://rpwhdrpsxbzh.com/]rpwhdrpsxbzh[/url], [link=http://zfxlyacxtrze.com/]zfxlyacxtrze[/link], http://tnhxetusujav.com/</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>7hs1F6  &lt;a href="http://ihrkpjiebiut.com/"&gt;ihrkpjiebiut&lt;/a&gt;</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>49b0c6  &lt;a href="http://uwsabwwzafku.com/"&gt;uwsabwwzafku&lt;/a&gt;</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>oqAsIY , [url=http://icrhwgdrsnqa.com/]icrhwgdrsnqa[/url], [link=http://icdtdrowizzd.com/]icdtdrowizzd[/link], http://siebqxugekqu.com/</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="nobody">
+          <target>xVdu2W , [url=http://peszrwymoojb.com/]peszrwymoojb[/url], [link=http://jazjmktludot.com/]jazjmktludot[/link], http://zhpnimawqied.com/</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="reach">
         <source>reach</source>
