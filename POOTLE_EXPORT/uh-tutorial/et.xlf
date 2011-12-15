@@ -4,30 +4,27 @@
     <body>
       <trans-unit xml:space="preserve" approved="yes" id="Tutorial">
         <source>Tutorial</source>
-        <target state="translated"></target>
-        <note from="developer">scenario difficulty</note>
+        <target state="translated">Õpetus</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The UH team">
         <source>The UH team</source>
-        <target state="translated"></target>
-        <note from="developer">scenario author</note>
+        <target state="translated">UH meeskond</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The tutorial:&#10;Build your first settlement and learn how to play!&#10;">
         <source>The tutorial:
 Build your first settlement and learn how to play!
 </source>
-        <target state="translated"></target>
-        <note from="developer">scenario description</note>
+        <target state="translated">Õpetus:
+Ehita oma esimene koloonia ja õpi kuidas mängida!
+</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Build a branch office at the coast, so it is easy accessible for other ships like the Free Trader.">
         <source>Build a branch office at the coast, so it is easy accessible for other ships like the Free Trader.</source>
-        <target state="translated"></target>
-        <note from="developer">This message is displayed in the widget on the left screen part. Please keep it short enough to fit there!</note>
+        <target state="translated">Ehita rannikule harukontor nii et see oleks lihtsalt ligipääsetav teistele laevadele ja vaba kauplejale.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Welcome to Unknown Horizons!">
         <source>Welcome to Unknown Horizons!</source>
-        <target state="translated"></target>
-        <note from="developer">This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).</note>
+        <target state="translated">Tere tulemast mängima Unknown Horizons!</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="This is your Captain's log where all important information is stored. A short notification of each task will be provided on the left of the screen.&#10;&#10;If you are interested in longer descriptions, your log will hopefully provide all the help you need.&#10;&#10;After you close this log, it can be re-opened with the 'Captain's Log' icon in the top-right corner (below the mini-map, with a sealed document and a feather).&#10;&#10;For any suggestions on better wording, topics you would like to have explained or even buggy conditions: Please tell us and we will try to improve the tutorial!&#10;&#10;Visit www.unknown-horizons.org for help on how to contact the team!&#10;&#10;And now, let's start the actual game.">
         <source>This is your Captain's log where all important information is stored. A short notification of each task will be provided on the left of the screen.
@@ -41,13 +38,21 @@ For any suggestions on better wording, topics you would like to have explained o
 Visit www.unknown-horizons.org for help on how to contact the team!
 
 And now, let's start the actual game.</source>
-        <target state="translated"></target>
-        <note from="developer">This is the text body of a logbook page.</note>
+        <target state="translated">See siin on sinu Kapteni logiraamat kuhu kõik vajalik info salvestatakse.Vasakule ekraani serva kuvatakse lühiteade iga tegevuse kohta.
+
+Kui sind huvitab pikem kirjeldus tegevusest siis loodetavasti su logiraamat seda ka kuvab.
+
+Logiraamatu sulgemise puhul on võimalik seda taasavada vajutades Kapteni logiraamat nuppu üleval paremal nurgas (mini kaardist allpool,suletud dokument ja sulg)
+
+Ettepanekud,parem õigekirj ja teemad mis vajavad täpsemat seletust või isegi vead mis ilmnevad: Palun anna nendest meile teada ja me proovime täiendada õpetust.
+
+Külasta lehekülge www.unknown-horizons.org abi saamiseks kuidas mängu loojatega ühendust saada!
+
+Ja nüüd alustame mängimisega.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: SETTLE ON AN ISLAND">
         <source>NEW TASK: SETTLE ON AN ISLAND</source>
-        <target state="translated"></target>
-        <note from="developer">This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).</note>
+        <target state="translated">ÜLESANNE: KOLONISEERI SAAR</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="To move your ship, select it with a left click and right click on the location you want it to go to.&#10;&#10;Once you are near the coast, the anchor-like button you see in the overview tab will become active.&#10;&#10;This indicates that you are able to build a branch office there by pressing that button (called 'Build Settlement').&#10;&#10;Now a preview of your building is dragged around when you move the cursor.&#10;&#10;You can build on any spot where this preview is not shaded red.&#10;Click where you want to place your first building.&#10;&#10;TASK: Build a branch office at the coast.">
         <source>To move your ship, select it with a left click and right click on the location you want it to go to.
@@ -62,13 +67,22 @@ You can build on any spot where this preview is not shaded red.
 Click where you want to place your first building.
 
 TASK: Build a branch office at the coast.</source>
-        <target state="translated"></target>
-        <note from="developer">This is the text body of a logbook page.</note>
+        <target state="translated">Laeva liigutamiseks vali laev vasakpoolse nupuga ja seejärel vali parempoolse nupuga uus asukoht.
+
+Rannikule piisaval lähedale jõudes aktiveerub ankru kujutisega nupp.
+
+Nupule vajutades saad rannikule ehitada harukontori (nupu nimi Ehita Koloonia)
+
+Vajutus järgselt saad ehitist liigutada kasutades hiire kursorit.
+
+Ehitada saab igale kohale mis ei ole märgitud punasega.
+Ehitamiseks vajuta hiire nuppu.
+
+ÜLESANNE: ehita harukontor rannikule.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="NEW TASK: BUILD A LUMBERJACK">
         <source>NEW TASK: BUILD A LUMBERJACK</source>
-        <target state="translated"></target>
-        <note from="developer">This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).</note>
+        <target state="translated">ÜLESANNE: EHITA PUURAIDUR</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="The construction material on your ship got unloaded automatically. You can now construct some basic buildings.&#10;&#10;We will start with building a lumberjack.&#10;&#10;This is essential because, at this stage, boards are the only poles your sailors can afford to hang their tents over.&#10;&#10;The fisherman needs some boards to build his vessel as well.&#10;&#10;In order to construct lumberjacks; open the build menu by either clicking the big icon below the mini map or pressing B key.&#10;&#10;The build menu is sorted by increments.&#10;You are currently in the first increment (the Sailors level) so are offered only the basic buildings.">
         <source>The construction material on your ship got unloaded automatically. You can now construct some basic buildings.
@@ -83,8 +97,18 @@ In order to construct lumberjacks; open the build menu by either clicking the bi
 
 The build menu is sorted by increments.
 You are currently in the first increment (the Sailors level) so are offered only the basic buildings.</source>
-        <target state="translated"></target>
-        <note from="developer">This is the text body of a logbook page.</note>
+        <target state="translated">Sinu laeval olevad materjalid laaditakse maha automaatselt. Nüüd saad ehitada mõned algelised ehitised.
+
+Alustame puuraidurist.
+
+See on vajalik kuna puidust lauad on ainsad vahendid momendil mida saab kasutada telkide püstitamiseks.
+
+Lisaks vajab ka kalamees oma laeva ehitamiseks laudu.
+
+Et ehitada puuraidur ava ehitiste menüü vajutades suurele ikoonile mini kaardi all või vajutades nuppu B.
+
+Ehitiste menüü on jagatud gruppideks.
+Sinu kasutada on momendil ainult esimene grupp (Meremehe tase) seega saad ehitada ainult  algelisi ehitisi.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="As your civilization advances, you also gain more and more complex buildings.&#10;&#10;For now, select the lumberjack under 'Companies' and build it in an area with some trees around.&#10;&#10;You can also plant trees later - but that costs money. Use what nature provided you with!&#10;&#10;A company always needs a trail connection to a storage or branch office, otherwise goods will remain at the company and not be collected.&#10;&#10;This means that you have to build a trail connecting your branch office (or storage) and lumberjack.&#10;&#10;TASK: Build a lumberjack in a wooded area and connect it to a road.&#10;&#10;Watch how a collector will fetch your first self-produced boards.">
         <source>As your civilization advances, you also gain more and more complex buildings.
