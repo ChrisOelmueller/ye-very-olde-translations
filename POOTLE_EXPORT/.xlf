@@ -1,0 +1,541 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="pootle-terminology.po" source-language="en-US" datatype="plaintext" target-language="de">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="averguard">
+        <source>averguard</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (1)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="goblin">
+        <source>goblin</source>
+        <target state="translated">goblin</target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (9)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="clothes">
+        <source>clothes</source>
+        <target state="translated">kleider</target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (23)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mental">
+        <source>mental</source>
+        <target state="translated">mental</target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.engine.po (13)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="antlion">
+        <source>antlion</source>
+        <target state="translated">antlion</target>
+        <note from="translator">(poterminology) /de/test-leg/living_bones.data.po (2)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="destruction">
+        <source>destruction</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/living_bones.data.po (2)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="key">
+        <source>key</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/living_bones.data.po (6)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pass">
+        <source>pass</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/living_bones.data.po (6)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="victory">
+        <source>victory</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (18)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="warlord">
+        <source>warlord</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (18)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="buckler">
+        <source>buckler</source>
+        <target state="translated">buckler</target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (26)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="living">
+        <source>living</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/living_bones.data.po (3)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="necromancer">
+        <source>necromancer</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/living_bones.data.po (3)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="leather">
+        <source>leather</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (24)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="lightning">
+        <source>lightning</source>
+        <target state="translated">blitz</target>
+        <note from="translator">(poterminology) /de/test-leg/living_bones.data.po (1)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="steel">
+        <source>steel</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (24)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="leather armor">
+        <source>leather armor</source>
+        <target state="translated">lederrüstung</target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (23)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="steel armor">
+        <source>steel armor</source>
+        <target state="translated">stahlrüstung</target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (23)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="level">
+        <source>level</source>
+        <target state="translated">level</target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.engine.po (11)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="switch">
+        <source>switch</source>
+        <target state="translated">schalter</target>
+        <note from="translator">(poterminology) /de/test-leg/living_bones.data.po (9)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="guardian">
+        <source>guardian</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/living_bones.data.po (9)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="melee">
+        <source>melee</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.engine.po (5)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="statue">
+        <source>statue</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/living_bones.data.po (9)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="weapon">
+        <source>weapon</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.engine.po (8)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="wind">
+        <source>wind</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/living_bones.data.po (9)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="boots">
+        <source>boots</source>
+        <target state="translated">stiefel</target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (9)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="chest">
+        <source>chest</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/living_bones.data.po (8)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="defense">
+        <source>defense</source>
+        <target state="translated">verteidigung</target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.engine.po (8)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="gold">
+        <source>gold</source>
+        <target state="translated">gold</target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.engine.po (7)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="lair">
+        <source>lair</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/living_bones.data.po (5)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="archmage">
+        <source>archmage</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (18)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="dwarven">
+        <source>dwarven</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (18)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="elven">
+        <source>elven</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (18)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="meditation">
+        <source>meditation</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (18)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="restoration">
+        <source>restoration</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (18)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="skeletal">
+        <source>skeletal</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/living_bones.data.po (2)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="wizardry">
+        <source>wizardry</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (18)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="academy">
+        <source>academy</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/living_bones.data.po (1)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ancient">
+        <source>ancient</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (17)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="fiery">
+        <source>fiery</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (17)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="frozen">
+        <source>frozen</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (17)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="precision">
+        <source>precision</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (17)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ranged">
+        <source>ranged</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.engine.po (5)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ring">
+        <source>ring</source>
+        <target state="translated">ring</target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (6)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="river">
+        <source>river</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/averguard.data.po (2)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="search">
+        <source>search</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/living_bones.data.po (3)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="slaying">
+        <source>slaying</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (17)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="summer">
+        <source>summer</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (17)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="winter">
+        <source>winter</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (17)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="book">
+        <source>book</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/living_bones.data.po (1)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="cursed">
+        <source>cursed</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (16)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="grants">
+        <source>grants</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.engine.po (16)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="pillar">
+        <source>pillar</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/living_bones.data.po (4)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="absorb">
+        <source>absorb</source>
+        <target state="translated">absorbieren</target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.engine.po (3)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="atrium">
+        <source>atrium</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/living_bones.data.po (1)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="bones">
+        <source>bones</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/living_bones.data.po (3)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="cave">
+        <source>cave</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/living_bones.data.po (4)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="defeat">
+        <source>defeat</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/averguard.data.po (4)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="found">
+        <source>found</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/living_bones.data.po (1)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="reward">
+        <source>reward</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/averguard.data.po (3)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="time">
+        <source>time</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (2)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="blade">
+        <source>blade</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/living_bones.data.po (1)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="day">
+        <source>day</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/living_bones.data.po (3)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="glow">
+        <source>glow</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (1)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Maddox's">
+        <source>Maddox's</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (1)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="no">
+        <source>no</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/living_bones.data.po (3)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="return">
+        <source>return</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/averguard.data.po (2)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="speed">
+        <source>speed</source>
+        <target state="translated">geschwindigkeit</target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (5)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sword">
+        <source>sword</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/living_bones.data.po (1)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="antlion burster">
+        <source>antlion burster</source>
+        <target state="translated">antlion-berstling</target>
+        <note from="translator">(poterminology) /de/test-leg/living_bones.data.po (2)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="blast">
+        <source>blast</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/living_bones.data.po (1)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="burster">
+        <source>burster</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/living_bones.data.po (2)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="channel">
+        <source>channel</source>
+        <target state="translated">kanalisieren</target>
+        <note from="translator">(poterminology) /de/test-leg/living_bones.data.po (1)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mental weapon">
+        <source>mental weapon</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.engine.po (2)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="mine">
+        <source>mine</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/averguard.data.po (2)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="power">
+        <source>power</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.engine.po (2)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="run">
+        <source>run</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/living_bones.data.po (1)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="teleport">
+        <source>teleport</source>
+        <target state="translated">teleport</target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (2)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="tonight">
+        <source>tonight</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/living_bones.data.po (2)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="tower">
+        <source>tower</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (2)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="true">
+        <source>true</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (1)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="wall">
+        <source>wall</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (1)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ago">
+        <source>ago</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/averguard.data.po (1)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ancelot">
+        <source>ancelot</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/averguard.data.po (1)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="apprentice">
+        <source>apprentice</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/living_bones.data.po (1)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="back">
+        <source>back</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/averguard.data.po (1)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="block">
+        <source>block</source>
+        <target state="translated">blocken</target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (1)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="bloodthirsty">
+        <source>bloodthirsty</source>
+        <target state="translated"></target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (1)
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="chaos">
+        <source>chaos</source>
+        <target state="translated">chaos</target>
+        <note from="translator">(poterminology) /de/test-leg/fantasycore.data.po (1)
+</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
