@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: translate-uh@lists.unknown-horizons.org\n"
 "POT-Creation-Date: 2012-04-06 21:55+0100\n"
-"PO-Revision-Date: 2012-04-08 21:55+0200\n"
+"PO-Revision-Date: 2012-04-08 21:56+0200\n"
 "Last-Translator: Sergio <juarrox@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
@@ -74,7 +74,7 @@ msgid ""
 "Find land and build a port."
 msgstr ""
 "Tarea:\n"
-"Encuentra la tierra y construye un puerto."
+"Encuentra la costa y construye un puerto."
 
 #. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
 #: po/The_Unknown.py:16
