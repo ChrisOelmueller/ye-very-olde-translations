@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: translate-uh@lists.unknown-horizons.org\n"
 "POT-Creation-Date: 2012-04-06 21:55+0100\n"
-"PO-Revision-Date: 2012-04-07 13:16+0200\n"
-"Last-Translator: Christopher Oelmueller <chris.oelmueller+uh@gmail.com>\n"
+"PO-Revision-Date: 2012-04-09 12:32+0200\n"
+"Last-Translator: Raymond <raymondv@gmx.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -25,7 +25,7 @@ msgstr "leicht"
 #. scenario author
 #: po/The_Unknown.py:4
 msgid "Kikody, UH-Team"
-msgstr ""
+msgstr "Kikody, UH-Team"
 
 #. scenario description
 #: po/The_Unknown.py:6
@@ -41,7 +41,7 @@ msgstr ""
 #. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
 #: po/The_Unknown.py:8
 msgid "20th November 1740"
-msgstr "20ter November 1740"
+msgstr "20. November 1740"
 
 #. This is the text body of a logbook page.
 #: po/The_Unknown.py:10
@@ -79,7 +79,7 @@ msgstr ""
 #. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
 #: po/The_Unknown.py:16
 msgid "22nd November 1740"
-msgstr "22ter November 1740"
+msgstr "22. November 1740"
 
 #. This is the text body of a logbook page.
 #: po/The_Unknown.py:18
@@ -121,7 +121,7 @@ msgstr ""
 #. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
 #: po/The_Unknown.py:24
 msgid "25th November 1740"
-msgstr "25ter November 1740"
+msgstr "25. November 1740"
 
 #. This is the text body of a logbook page.
 #: po/The_Unknown.py:26
@@ -156,7 +156,7 @@ msgstr ""
 #. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
 #: po/The_Unknown.py:32
 msgid "1st December 1740"
-msgstr "1ter Dezember 1740"
+msgstr "1. Dezember 1740"
 
 #. This is the text body of a logbook page.
 #: po/The_Unknown.py:34
@@ -197,7 +197,7 @@ msgstr ""
 #. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
 #: po/The_Unknown.py:40
 msgid "27th August 1745"
-msgstr "27ter August 1745"
+msgstr "27. August 1745"
 
 #. This is the text body of a logbook page.
 #: po/The_Unknown.py:42
@@ -219,7 +219,7 @@ msgid ""
 "suffice to return here."
 msgstr ""
 "Wir sollten ein Schiff beladen und uns auf die Suche nach einer größeren "
-"Insel mit mehr Platz und Ressourcen für meine Leute begeben. I habe mir "
+"Insel mit mehr Platz und Ressourcen für meine Leute begeben. Ich habe mir "
 "anhand der Sterne, die ich in der Nacht sehe, wieder eine einfache Seekarte "
 "erstellt. Sie ist nicht perfekt, aber ich hoffe sie reicht um hier her "
 "zurück zu finden."
